@@ -1,0 +1,108 @@
+{
+  "academic": [
+    {
+      "name": "arXiv cs.AI",
+      "type": "arxiv",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    },
+    {
+      "name": "arXiv cs.CL",
+      "type": "arxiv",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CL&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    },
+    {
+      "name": "arXiv cs.CV",
+      "type": "arxiv",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.CV&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    },
+    {
+      "name": "arXiv cs.LG",
+      "type": "arxiv",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.LG&sortBy=submittedDate&sortOrder=descending&max_results=20"
+    }
+  ],
+  "industry": [
+    {
+      "name": "OpenAI News",
+      "type": "rss",
+      "tier": 1,
+      "category": "工业界",
+      "url": "https://openai.com/news/rss.xml"
+    },
+    {
+      "name": "Google DeepMind Blog",
+      "type": "web",
+      "tier": 1,
+      "category": "工业界",
+      "url": "https://deepmind.google/blog/"
+    },
+    {
+      "name": "Anthropic News",
+      "type": "web",
+      "tier": 1,
+      "category": "工业界",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "name": "NVIDIA Technical Blog AI",
+      "type": "rss",
+      "tier": 1,
+      "category": "工业界",
+      "url": "https://developer.nvidia.com/blog/category/artificial-intelligence/feed/"
+    }
+  ],
+  "curated": [
+    {
+      "name": "The Batch",
+      "type": "web",
+      "tier": 2,
+      "category": "学术新闻",
+      "url": "https://www.deeplearning.ai/the-batch/"
+    },
+    {
+      "name": "MIT Technology Review AI",
+      "type": "rss",
+      "tier": 2,
+      "category": "学术新闻",
+      "url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "name": "Papers with Code",
+      "type": "web",
+      "tier": 2,
+      "category": "学术论文",
+      "url": "https://paperswithcode.com/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "OpenAI Help Skills",
+      "type": "manual",
+      "tier": 1,
+      "category": "工业界",
+      "url": "https://help.openai.com/en/articles/20001066-skills-in-chatgpt"
+    },
+    {
+      "name": "Claude Skills",
+      "type": "web",
+      "tier": 1,
+      "category": "工业界",
+      "url": "https://claude.com/blog/skills"
+    },
+    {
+      "name": "LangChain Skills",
+      "type": "web",
+      "tier": 2,
+      "category": "学术新闻",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills"
+    }
+  ]
+}

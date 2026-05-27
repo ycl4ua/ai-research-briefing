@@ -1,0 +1,56 @@
+{
+  "daily_limits": {
+    "top": 10,
+    "more": 20
+  },
+  "primary_topics": [
+    "LLM",
+    "VLM",
+    "AI Agent",
+    "Agent Skills / MCP / Tool Use",
+    "RL",
+    "AI for Health",
+    "Medical AI",
+    "Graph Neural Network",
+    "Self-Supervised Learning"
+  ],
+  "topic_aliases": {
+    "LLM": ["large language model", "language models", "LLM", "RAG", "alignment", "RLHF", "reasoning"],
+    "VLM": ["vision-language", "multimodal", "VLM", "image-text", "visual reasoning"],
+    "AI Agent": ["agent", "agentic", "multi-agent", "tool use", "planning", "workflow"],
+    "Agent Skills / MCP / Tool Use": ["skill", "skills", "MCP", "model context protocol", "tool calling", "tool-use", "Codex", "Claude Code", "LangGraph"],
+    "RL": ["reinforcement learning", "RL", "policy optimization", "reward model", "bandit"],
+    "AI for Health": ["health", "healthcare", "clinical", "biomedical", "medical"],
+    "Medical AI": ["radiology", "pathology", "EHR", "clinical trial", "diagnosis", "medical imaging"],
+    "Graph Neural Network": ["GNN", "graph neural", "graph learning", "graph representation", "geometric deep learning", "knowledge graph"],
+    "Self-Supervised Learning": ["self-supervised", "SSL", "contrastive learning", "masked modeling", "pretraining", "representation learning"]
+  },
+  "boost_keywords": [
+    "benchmark",
+    "dataset",
+    "open source",
+    "state-of-the-art",
+    "evaluation",
+    "agentic workflow",
+    "medical image analysis",
+    "clinical LLM",
+    "multimodal reasoning",
+    "graph representation learning"
+  ],
+  "downrank_keywords": [
+    "funding",
+    "rumor",
+    "crypto",
+    "sponsored",
+    "opinion",
+    "hot take"
+  ],
+  "ranking_weights": {
+    "topic_relevance": 0.35,
+    "source_credibility": 0.25,
+    "novelty": 0.2,
+    "hotness": 0.1,
+    "citations": 0.1
+  }
+}
+

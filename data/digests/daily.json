@@ -1,0 +1,943 @@
+{
+  "title": "2026-05-26 AI Research Briefing",
+  "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
+  "generated_at": "2026-05-26T18:40:45",
+  "top_10": [
+    {
+      "id": "5fcf55b3d1f8a95e",
+      "title": "InstructSAM: Segment Any Instance with Any Instructions",
+      "url": "https://arxiv.org/abs/2605.26102v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "In this paper, we introduce InstructSAM, a unified and streamlined framework designed for multi-instance segmentation under arbitrary instructions. We formulates instruction-driven instance segmentation as a set-structured query prediction problem and propose an explicit reasoning-to-instance query interface that elegantly bridges a vision-language model (VLM) and SAM3. Specifically, a bank of learnable instance queries is injected into the VLM and contextualized with instruction and visual information, enabling each query to serve as an instance-aware slot. A hybrid-attention mechanism further promotes interaction among these queries, visual tokens, and instruction tokens, improving instance enumeration and reducing duplicate predictions. The resulting LLM-conditioned queries are projected into SAM3's detector query space to drive accurate multi-instance segmentation in a single forward pass. This design equips SAM3 with high-level instruction understanding, compositional reasoning, and instance-level set prediction without modifying its core architecture. To support training and evaluation, we further construct Inst2Seg, a high-quality and large-scale instruction-based instance segmentation dataset and benchmark that couples free-form instructions with instance-level masks. Extensive experiments show that only 2B-scale InstructSAM achieves strong results across complex instruction-driven and phrase-level referring segmentation benchmarks, outperforming prior end-to-end methods and SAM3's agentic pipeline while enabling efficient single-pass multi-instance prediction.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "InstructSAM: Segment Any Instance with Any Instructions",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、VLM，核心对象是 InstructSAM: Segment Any Instance with Any Instructions。",
+        "方法：摘要线索包括 LLM-conditioned、VLM、SAM3、InstructSAM、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.89
+    },
+    {
+      "id": "e3eb550d51eea552",
+      "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "url": "https://arxiv.org/abs/2605.26112v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a foundation model as a first-class object of design, evaluation, and optimization. Although recent large language models enable agents to use tools, retrieve information, maintain memory, and execute long-horizon workflows, evaluation remains largely model-centric, often reducing agents to final-task success while treating memory, retrieval, tool use, orchestration, verification, and governance as secondary implementation details. This framing is increasingly inadequate because agent performance emerges from the interaction among the foundation model, memory substrate, context constructor, skill-routing layer, orchestration loop, and verification-and-governance layer. Together, these components form the agent harness, which translates model capability into long-horizon agent behavior. We study scaling the harness through three core bottlenecks: context governance, trustworthy memory, and dynamic skill routing, together with the orchestration and governance mechanisms that coordinate and constrain them. We further outline a research agenda for harness-level benchmarks that go beyond one-shot task success to measure trajectory quality, memory hygiene, context efficiency, communication fidelity, verification cost, and safe evolution over time. To make the discussion concrete, we develop CheetahClaws: https://github.com/SafeRL-Lab/cheetahclaws, a Python-native reference harness, and compare it with Claude Code and OpenClaw. Our main claim is that future progress in agentic AI will depend as much on system design as on stronger foundation models.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "From Model Scaling to System Scaling: Scaling the Harness in 智能体ic AI",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM、RL，核心对象是 From Model Scaling to System Scaling: Scaling the Harness in Agentic AI。",
+        "方法：摘要线索包括 SafeRL-Lab、Python-native、AI、CheetahClaws、OpenClaw、tool use；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.86
+    },
+    {
+      "id": "624a44f788ae8ff4",
+      "title": "Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World",
+      "url": "https://arxiv.org/abs/2605.26086v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Large language model agents are increasingly envisioned as always-on personal assistants with access to anything relevant in the user's digital world. Yet current systems operate over only narrow slices of that world, limiting context-sensitive reasoning and effective assistance. Existing benchmarks similarly provide only partial user state and therefore fail to capture performance in such a broad, always-on setting. To address this gap, we introduce Claw-Anything, a benchmark that expands agent context along three dimensions: long-horizon activity histories, interdependent backend services, and integrated GUI and CLI interaction across multiple devices. To instantiate this setting, we simulate months of user activity through multi-round event injection, producing complex world states and realistic noise, including irrelevant events and conflicting signals. Agents must reason over rich contextual environments while remaining robust to such noise. This expanded scope also enables the evaluation of proactive assistance, requiring agents to anticipate user needs and deliver timely recommendations. Experiments show that GPT-5.5 achieves only 34.5% pass@1, substantially below prior benchmarks, underscoring a gap between current agent capabilities and the demands of always-on personal assistance. Alongside the benchmark, we release an automated data-generation pipeline that yields 2,000 training environments and improves the base model by 23.7%, demonstrating its utility of scalable data infrastructure.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Claw-Anything: 基准ing Always-On Personal Assistants with Broader Access to User's Digital World",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital Worl。",
+        "方法：摘要线索包括 Claw-Anything、Always-On、GPT-5、GUI、CLI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.86
+    },
+    {
+      "id": "0e0a337667787c6e",
+      "title": "L2IR: Revealing Latent Intent in Graph Fraud Detection",
+      "url": "https://arxiv.org/abs/2605.26040v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Graph fraud detection has long depended on Graph Neural Networks (GNNs) to propagate and aggregate information across relational data. A critical obstacle in practice, however, is that fraudsters frequently disguise themselves by forging numerous connections with benign users, causing fraud signals to be progressively diluted during neighborhood aggregation and undermining detection reliability. While recent efforts have used Large Language Models (LLMs) to provide rich semantic cues for fraud detection, the underlying intent behind suspicious connections remains insufficiently explored. Compounding this issue, the scarcity of annotated fraud samples makes it difficult to train detectors that remain robust under heavy camouflage. To address these gaps, we propose L2IR, an LLM-driven Latent Intent Revealing framework for graph fraud detection. By uncovering latent intent from both user behaviors and suspicious connections, L2IR extracts intent-aware representations from raw behavioral traces and reasons about the true purpose behind individual connections, effectively distinguishing supportive links from misleading ones. It further incorporates adaptive self-training to enhance robustness under limited supervision. Evaluations on two real-world datasets characterized by pervasive camouflage demonstrate that L2IR surpasses strong baselines and can function as a plug-in enhancement for a range of GNN-based detectors, improving AUPRC by up to 8.27%.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Graph Neural Network",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "L2IR: Revealing Latent Intent in Graph Fraud Detection",
+      "summary_zh": [
+        "问题：这条内容聚焦 Graph Neural Network、LLM、RL，核心对象是 L2IR: Revealing Latent Intent in Graph Fraud Detection。",
+        "方法：摘要线索包括 LLM-driven、GNN-based、GNNs、LLMs、AUPRC、graph neural network；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
+      ],
+      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.86
+    },
+    {
+      "id": "72f852f9cca87ab0",
+      "title": "MAGIC: Multimodal Alignment & Grounding-aware Instruction Coreset for Vision-Language Models",
+      "url": "https://arxiv.org/abs/2605.26004v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Instruction tuning of large vision-language models (LVLMs) increasingly depends on massive multimodal corpora, yet these datasets contain samples with substantial redundancy, low visual dependency, and highly imbalanced coverage of multimodal reasoning behaviors. As a result, uniform subsampling or naive score-based selection often yields suboptimal training subsets. We introduce MAGIC, a training-free, forward-only coreset selection method designed to construct compact yet behaviorally faithful subsets for multimodal instruction tuning. MAGIC is built on three intrinsic signals extracted from a pretrained VLM: Multimodal Gain, which measures the likelihood improvement obtained from visual input; Bridging Relevance, which captures the sharpness of answer-token grounding over visual tokens; and Skill-Neuron Signatures, which characterize the functional computation elicited by each sample via top-activated feed-forward neurons. MAGIC combines these signals in a three-stage pipeline: filtering low-gain examples, ranking candidates by a normalized quality objective, and performing bucket-wise budget allocation over discrete neuron signatures to preserve latent multimodal skill coverage. This formulation avoids backpropagation, auxiliary selector training, and expensive clustering in continuous activation spaces, while remaining efficient and easily deployable in existing VLMs. Across LLaVA-665K and Vision-Flan datasets, and transfer settings to large target models, LLaVA-1.5-7B and -13B, MAGIC consistently improves over strong baselines under matched 20% budgets: it achieves 100.3% relative performance to full finetuning on LLaVA-665K and 101.6% relative performance on Vision-Flan-186K, while yielding a 73.7% reduction in wall-clock run time.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "MAGIC: Multimodal Alignment & Grounding-aware Instruction Coreset for Vision-语言模型",
+      "summary_zh": [
+        "问题：这条内容聚焦 Agent Skills / MCP / Tool Use、LLM、VLM，核心对象是 MAGIC: Multimodal Alignment & Grounding-aware Instruction Coreset for Vision-Language Models。",
+        "方法：摘要线索包括 Grounding-aware、Vision-Language、Skill-Neuron、LLaVA-665K、Vision-Flan、LLaVA-1；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.86
+    },
+    {
+      "id": "42fa36f093a2145f",
+      "title": "DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking",
+      "url": "https://arxiv.org/abs/2605.26087v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Frontier LLMs now perform strongly across a wide range of physics evaluations, but it is hard to disentangle genuine reasoning from recall of established science. We introduce DiscoverPhysics, an interactive benchmark that asks a LLM agent to discover the laws of motion of a simulated world whose physics deliberately deviates from our own. We construct 22 worlds governed by, among others, screened and fractional-power gravity, multi-species couplings, hidden dark-matter-like particles, non-coordinate-free physics, and time-varying interactions. Each world is generated on demand by an N-body simulator, for which the agent proposes several rounds of experiments, observes raw trajectory data, and ultimately submits both a natural-language explanation of the world's physics and a Python implementation of the inferred law. Because solving a world requires the agent to design informative experiments and revise its hypotheses, the benchmark probes long-horizon reasoning over an experimental history. We evaluate submissions along two complementary axes: trajectory MSE on held-out particles and an LLM-judged explanation score following an expert-written rubric assessing conceptual understanding of each world. Across eleven frontier models, we find that the strongest agents pass only half of the worlds and consistently fail on those where latent structure must be uncovered. Open-source models lag substantially behind commercial models, both in their ability to design informative experiments and in extracting conclusions from the data. We further find that good predictive accuracy does not guarantee high explanation quality and that conceptual understanding depends on hypothesis refinement through well-chosen experiments.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "DiscoverPhysics: 基准ing LLMs for Out-of-the-Box Scientific Thinking",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking。",
+        "方法：摘要线索包括 Out-of-the-Box、LLM-judged、Open-source、LLMs、LLM、MSE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.86
+    },
+    {
+      "id": "762076f20b085d1c",
+      "title": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models",
+      "url": "https://arxiv.org/abs/2605.26038v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Lightweight vision-language models perform competitively on standard benchmarks yet fail systematically in dense-scene reasoning, where multiple objects, attributes, and relations must be jointly grounded and resolved through multi-step inference. Such capability is critical for real-world applications where models must reliably interpret cluttered environments. Yet existing training signals provide no explicit grounding between reasoning steps and the underlying visual entities and relations, leaving lightweight models free to generate fluent but visually unanchored reasoning chains. To address this gap, we first introduce DRBench, a benchmark of 14,573 questions across 2,943 images, organized into five task categories spanning three progressive reasoning layers. Building on DRBench, we propose DRScaffold, a supervised fine-tuning framework that decomposes the supervision target into four causally ordered stages, enforcing grounded reasoning without architectural modification. Experiments on three lightweight VLMs demonstrate substantial gains on DRBench while preserving or improving performance on general-purpose benchmarks. Notably, Qwen2.5-VL-3B trained with DRScaffold surpasses the frozen Qwen2.5-VL-32B on DRBench, demonstrating that structured supervision can substitute for a significant portion of model scale in dense-scene reasoning. Our code and models are available at https://github.com/irene-shi/DRScaffold .",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision 语言模型",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL、VLM，核心对象是 DRScaffold: Boosting Dense-Scene Reasoning in Lightweight Vision Language Models。",
+        "方法：摘要线索包括 Dense-Scene、VL-3B、VL-32B、DRScaffold、DRBench、VLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.83
+    },
+    {
+      "id": "6a7cadf8c271a522",
+      "title": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
+      "url": "https://arxiv.org/abs/2605.26029v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "We introduce CausaLab, a scalable environment for evaluating interactive causal discovery by LLM agents. Unlike prior evaluations, CausaLab evaluates both whether an agent can solve a problem using causal evidence and whether its answer is supported by a correct hypothesis about the underlying causal mechanism. Each episode places an agent in a synthetic laboratory: it receives prior measurement records, intervenes on a manipulator crystal, and predicts the resonance frequency of a held-out reactor crystal governed by the same mechanism. The hidden data-generating process is a randomly sampled structural causal model (SCM), so success requires recovering both a causal graph and structural equations rather than recalling prior knowledge. CausaLab also includes a domain-specific language that records the agent's evolving SCM hypothesis, making trajectories inspectable and comparable with ground truth. Experiments show a persistent gap between prediction and mechanism recovery: in the purely observational 6-node setting, GPT-5.2-high reaches 92% task accuracy but only 0.471 all-edge $F_1$. This observation further motivates our exploration of different interaction strategies: Mixed observation--intervention strategies improve structural fidelity: in the mixed 6-node setting, GPT-5.2-high achieves 80% on both task accuracy and all-edge $F_1$. Yet even strong agents struggle to design informative interventions, as pure intervention strategies perform poorly on both task accuracy and all-edge $F_1$. We identify premature stopping as a major weakness of agents, and show that asking the model to verify the consistency between its hypothesis and past data can help mitigate this issue. CausaLab therefore separates predictive success from causal understanding and exposes current LLM agents' limits as experimental causal reasoners.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists。",
+        "方法：摘要线索包括 GPT-5、AI、LLM、SCM、CausaLab；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.83
+    },
+    {
+      "id": "8cb3146fd2d2cc0a",
+      "title": "What Makes a Medical Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Guided RAG for Biomedical QA",
+      "url": "https://arxiv.org/abs/2605.25988v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Medical RAG needs evidence-grounded claims, so plugging a claim-level NLI checker into retrieval-augmented RL is intuitive. \\textbf{We find that the checker's \\emph{output distribution} during training, not its held-out accuracy, decides whether it provides trainable gradient.} We compare four NLI checker back-ends as process rewards inside a GRPO-trained medical RAG agent (Qwen2.5-7B, replicated on Qwen3-4B and Llama-3.1-8B) across four held-out medical QA benchmarks. Three diagnostic findings emerge. \\textbf{(i)} Signal collapse is log-prob-specific: LLM log-probability scoring labels over 97\\% of claims neutral -- collapsing the RL gradient to zero -- while a calibrated MedNLI classifier scores the same pairs non-degenerately. \\textbf{(ii)} Moderate signal beats strong signal on answer quality: a strong proprietary checker triggers a three-step reward-hacking cascade -- ultra-short answers, search avoidance, language collapse -- so a moderate-signal local classifier trains a higher-quality model (\\textbf{+12\\% BERTScore over zero-shot, no GPT dependency}). \\textbf{(iii)} Signal strength is policy-dependent: the same checker registers as moderate on one policy but strong on another without triggering the cascade end-state. We frame these as boundary conditions for verifier-as-reward systems.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "AI for Health",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "What Makes a 医学 Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Guided RAG for Bio医学 QA",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、AI for Health、LLM、RL，核心对象是 What Makes a Medical Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Gui。",
+        "方法：摘要线索包括 Checker-Guided、GRPO-trained、Qwen3-4B、Llama-3、RAG、QA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.83
+    },
+    {
+      "id": "65b686db0163997b",
+      "title": "A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring",
+      "url": "https://arxiv.org/abs/2605.26026v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Light sheet fluorescence microscopy (LSM) enables high-resolution, three-dimensional (3D) imaging of biological specimens, providing rich volumetric data for studying cellular organization, pathology, and vascular networks. However, the size, dimensionality, and annotation burden of LSM data make supervised deep learning approaches costly and difficult to scale. Additionally, despite the abundance of unannotated LSM volumes, foundation models for this modality remain underexplored due to computational challenges and the complexity of volumetric representation learning. In this work, we introduce a 3D foundation model for LSM data, pretrained on a large curated collection of 3D images spanning multiple organisms, stains, and imaging protocols. We learn transferable volumetric representations by jointly optimizing for masked reconstruction and image-text alignment. The pretrained backbone drastically reduces the annotation burden, enabling efficient, few-shot adaptation for varied downstream tasks. We evaluate this approach on downstream segmentation, classification, and deblurring. Our results demonstrate consistent improvements over baselines, (1) when measured using standard evaluation metrics and (2) when rigorously assessed by domain experts. This highlights the potential of foundation model pretraining to reduce annotation requirements while improving performance across diverse LSM analysis tasks. Pretrained model weights and code for pretraining and finetuning are publicly available: https://github.com/AdinaScheinfeld/lsm_fm_public_repo.git.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "Medical AI",
+        "Self-Supervised Learning",
+        "VLM"
+      ],
+      "title_zh": "A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、Medical AI、Self-Supervised Learning、VLM，核心对象是 A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentati。",
+        "方法：摘要线索包括 Few-Shot、LSM、AdinaScheinfeld；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.83
+    }
+  ],
+  "more_20": [
+    {
+      "id": "ac3cd0d058ac607a",
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "title_zh": "Enterprises power 智能体ic workflows in Cloudflare 智能体 Cloud with OpenAI",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、RL，核心对象是 Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI。",
+        "方法：摘要线索包括 GPT-5、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.83
+    },
+    {
+      "id": "98bef3cd378bbb3c",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "Introducing GPT-5.4 mini and nano",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、VLM，核心对象是 Introducing GPT-5.4 mini and nano。",
+        "方法：摘要线索包括 GPT-5、API、tool use、multimodal reasoning；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.83
+    },
+    {
+      "id": "3b14e2e32ff8c317",
+      "title": "Introducing gpt-oss",
+      "url": "https://openai.com/index/introducing-gpt-oss",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "We’re releasing gpt-oss-120b and gpt-oss-20b—two state-of-the-art open-weight language models that deliver strong real-world performance at low cost. Available under the flexible Apache 2.0 license, these models outperform similarly sized open models on reasoning tasks, demonstrate strong tool use capabilities, and are optimized for efficient deployment on consumer hardware.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Introducing gpt-oss",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 Introducing gpt-oss。",
+        "方法：摘要线索包括 tool use；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.83
+    },
+    {
+      "id": "7731a26106d1496f",
+      "title": "Procgen Benchmark",
+      "url": "https://openai.com/index/procgen-benchmark",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "We’re releasing Procgen Benchmark, 16 simple-to-use procedurally-generated environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "title_zh": "Procgen 基准",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、RL，核心对象是 Procgen Benchmark。",
+        "方法：摘要线索包括 Procgen Benchmark；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.83
+    },
+    {
+      "id": "83eb4e1e9acad960",
+      "title": "Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+      "url": "https://arxiv.org/abs/2605.26111v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference images separately. This limits cross-modal reasoning abilities and causes copy-paste artifacts. Recent frameworks that connect multimodal models and diffusion models improve instruction following, but largely overlook identity preservation. To address these limitations, we condition diffusion models on Multimodal Large Language Models (MLLMs) that jointly encode text and reference images, and augment it with VAE-based identity conditioning. A novel Dual Layer Aggregation (DLA) module is designed to aggregate multi-level MLLM features for optimal conditioning, and a multi-stage denoising strategy is applied to progressively balance the semantic information from MLLM and fine-detail identity from VAE during inference. Extensive experiments demonstrate that our approach harmonizes multimodal understanding with identity preservation, mitigates copy-paste issues, and achieves superior performance regarding human preference on subject-driven image generation. Our project website is available at https://zsh2000.github.io/squeeze-mllm-subject-gen/.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "Squeezing Capacity from Multimodal 大语言模型 for Subject-driven Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL、VLM，核心对象是 Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation。",
+        "方法：摘要线索包括 Subject-driven、VAE-based、MLLMs、DLA、MLLM、VAE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.8
+    },
+    {
+      "id": "db79f86fb3b9f29a",
+      "title": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+      "url": "https://arxiv.org/abs/2605.26110v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requires continuous adaptation to emerging tasks, motivating Multimodal Continual Instruction Tuning (MCIT). Despite its growing importance, current MCIT research is hindered by severe engineering bottlenecks. Existing methods are typically implemented by directly modifying the base MLLM codebase, which imposes substantial implementation overhead and yields method-specific architectures that severely limit code reuse and fair comparison. To address this, we introduce Prism, a plug-in reproducible codebase specifically designed for scalable MCIT research. It separates algorithmic development from the backbone implementation via a lightweight plugin registration mechanism, enabling new strategies to be integrated as independent plugins without modifying the underlying MLLM codebase, thereby eliminating structural fragmentation and accelerating method development. Prism natively supports widely used large-scale training pipeline, thereby enabling reproducible and scalable MCIT experimentation. Code is available at https://github.com/LAMDA-CL/Prism.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL、VLM，核心对象是 Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning。",
+        "方法：摘要线索包括 Plug-in、LAMDA-CL、MLLMs、MCIT、MLLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.8
+    },
+    {
+      "id": "968ea79be4fe7c71",
+      "title": "Peak-Then-Collapse and the Four Interface Channels of Knowledge-Graph Tool Use",
+      "url": "https://arxiv.org/abs/2605.26037v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "We test the standard RLVR tool-use recipe -- GRPO on Qwen2.5-7B-Instruct -- on a deliberately minimal knowledge-graph tool API: four Freebase navigation verbs over Complex WebQuestions. Under a self-verifiable retrieval reward, the policy's tool-grounded answer rate climbs from $3.8\\%$ to $9.6\\%$ over 250 steps, then collapses to $0\\%$ within a single 50-step window -- a \\emph{peak-then-collapse} pattern replicated across four seeds. Across seven reward designs, we find four recurring failure modes: adding denser or more targeted proxy rewards shifts the failure mode rather than eliminating it. We argue that a key difference from Python interpreters, web search, and JSON APIs is interface feedback: their failures often leak natural-language signal the model saw in pretraining. A Python traceback names the failing line; an empty Freebase result \\texttt{[]} does not. Stripping away that surface exposes a degradation regime that same-family reward redesigns do not fix. A direct oracle ablation rules out relation selection: injecting gold relations at every retrieval call lifts exact-match accuracy by only $+0.20$~pp, and $95.4\\%$ of retrieval-dependent errors are retrieval-composition failures rather than answer-extraction failures. As a mitigation, one-iteration self-distillation reaches $40.0\\%$ EM at 7B and is capacity-invariant: doubling capacity to 14B improves EM by only $0.25$~pp, and initialization barely matters -- the ceiling appears interface-bound within the 7B--14B range tested.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "RL",
+        "Self-Supervised Learning"
+      ],
+      "title_zh": "Peak-Then-Collapse and the Four Interface Channels of Knowledge-Graph Tool Use",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、RL、Self-Supervised Learning，核心对象是 Peak-Then-Collapse and the Four Interface Channels of Knowledge-Graph Tool Use。",
+        "方法：摘要线索包括 Peak-Then-Collapse、Knowledge-Graph、RLVR、GRPO、API、JSON；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "8545cf47c501b5f1",
+      "title": "STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-Language Models",
+      "url": "https://arxiv.org/abs/2605.26014v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Many video reasoning tasks require tracking motion, temporal order, and evolving visual states across frames. Existing methods built on large vision-language models (LVLMs) often address this challenge by externalizing reasoning through textual chain-of-thought (CoT), keyframe selection, repeated frame reinsertion, or external tool use. While effective, such pipelines increase inference-time latency and engineering complexity, and they force temporal-visual evidence to be serialized into text or repeatedly re-encoded from frames. Inspired by the intuition that visual reasoning can occur implicitly before verbalization, we propose STORMS (Spatial-Temporal reasOning via inteRnalized Modeling), a two-stage framework that teaches LVLMs to reason through bounded continuous latent trajectories instead of explicit textual CoT. In Stage I, STORMS aligns latent tokens with thought-video representations derived from generated videos, grounding the latent states in dynamic visual evidence. In Stage II, the model is further trained with answer-only supervision, encouraging the reasoning process to be internalized without step-by-step annotations. Generated thought videos are used only during training; at inference, STORMS performs a bounded latent rollout without regenerating videos, reinserting frames, or invoking external visual tools. Experiments on VideoMME, MVBench, TempCompass, and MMVU show that STORMS improves video reasoning accuracy while substantially reducing inference overhead compared with tool or video-generation-based reasoning pipelines.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-语言模型",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、VLM，核心对象是 STORM: Internalized Modeling for Spatial-Temporal Reasoning in Video-Language Models。",
+        "方法：摘要线索包括 Spatial-Temporal、Video-Language、STORM、LVLMs、STORMS、II；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.8
+    },
+    {
+      "id": "5af5a0347b00c2c6",
+      "title": "SafeCtrl-RL: Inference-Time Adaptive Behaviour Control for LLM Dialogue via RL-Driven Prompt Optimisation",
+      "url": "https://arxiv.org/abs/2605.25984v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Ensuring safe and contextually appropriate behaviour in Large Language Models (LLMs) remains a critical challenge for real-world deployment. We present \\textbf{SafeCtrl-RL}, an inference-time behavioural control framework that enables adaptive safety regulation without model retraining or parameter modification. The method formulates dialogue generation as a sequential decision process, where a reinforcement learning agent dynamically selects prompt adjustment strategies based on contextual feedback. This allows unsafe behaviours to be suppressed through iterative refinement, which we conceptualise as inference-time behavioural unlearning. Evaluated across multiple LLMs and unsafe dialogue scenarios, SafeCtrl-RL consistently improves safety and response quality, outperforms existing prompt-based optimisation methods, and achieves favourable performance--efficiency trade-offs. **Warning: This paper may contain examples of harmful language, and reader discretion is recommended.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "SafeCtrl-RL: Inference-Time Adaptive Behaviour Control for LLM Dialogue via RL-Driven Prompt Optimisation",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 SafeCtrl-RL: Inference-Time Adaptive Behaviour Control for LLM Dialogue via RL-Driven Prompt Optimis。",
+        "方法：摘要线索包括 SafeCtrl-RL、Inference-Time、RL-Driven、RL、LLM、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.8
+    },
+    {
+      "id": "bf8b12598c51bbfd",
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Parloa builds service 智能体 customers want to talk to",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 Parloa builds service agents customers want to talk to。",
+        "方法：摘要线索包括 AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.8
+    },
+    {
+      "id": "d712a25b6a685f00",
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM"
+      ],
+      "title_zh": "Cyber智能体 moves faster with ChatGPT Enterprise and Codex",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM，核心对象是 CyberAgent moves faster with ChatGPT Enterprise and Codex。",
+        "方法：摘要线索包括 AI、CyberAgent、ChatGPT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "622eb3db7fd00a43",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "How we monitor internal coding 智能体 for misalignment",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 How we monitor internal coding agents for misalignment。",
+        "方法：摘要线索包括 AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.8
+    },
+    {
+      "id": "76be99310c59fe55",
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "By Ryan Lopopolo, Member of the Technical Staff",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Harness engineering: leveraging Codex in an 智能体-first world",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM、RL，核心对象是 Harness engineering: leveraging Codex in an agent-first world。",
+        "方法：摘要线索包括 Harness engineering: leveraging Codex in an agent-first world；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "6db332856b40c004",
+      "title": "Introducing GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Introducing GPT-5.3-Codex",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM、RL，核心对象是 Introducing GPT-5.3-Codex。",
+        "方法：摘要线索包括 GPT-5、Codex-native；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "a8dcebfe5f3bcaf4",
+      "title": "GPT-5.3-Codex System Card",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM"
+      ],
+      "title_zh": "GPT-5.3-Codex System Card",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM，核心对象是 GPT-5.3-Codex System Card。",
+        "方法：摘要线索包括 GPT-5、GPT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "94c5e5346046a4fa",
+      "title": "Building more with GPT-5.1-Codex-Max",
+      "url": "https://openai.com/index/gpt-5-1-codex-max",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM"
+      ],
+      "title_zh": "Building more with GPT-5.1-Codex-Max",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM，核心对象是 Building more with GPT-5.1-Codex-Max。",
+        "方法：摘要线索包括 GPT-5、Codex-Max；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "403ccace03757ea4",
+      "title": "Addendum to o3 and o4-mini system card: Codex",
+      "url": "https://openai.com/index/o3-o4-mini-codex-system-card-addendum",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "Codex is a cloud-based coding agent. Codex is powered by codex-1, a version of OpenAI o3 optimized for software engineering. codex-1 was trained using reinforcement learning on real-world coding tasks in a variety of environments to generate code that closely mirrors human style and PR preferences, adheres precisely to instructions, and iteratively runs tests until passing results are achieved.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "title_zh": "Addendum to o3 and o4-mini system card: Codex",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、RL，核心对象是 Addendum to o3 and o4-mini system card: Codex。",
+        "方法：摘要线索包括 PR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.8
+    },
+    {
+      "id": "e54d15c8881e9237",
+      "title": "Reinforcement learning with prediction-based rewards",
+      "url": "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "published": "2026-05-26",
+      "abstract": "We’ve developed Random Network Distillation (RND), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on Montezuma’s Revenge.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Reinforcement learning with prediction-based rewards",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 Reinforcement learning with prediction-based rewards。",
+        "方法：摘要线索包括 RND；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.8
+    },
+    {
+      "id": "9a9ff9cf9043e5f3",
+      "title": "CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities",
+      "url": "https://arxiv.org/abs/2605.26036v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Urban representation learning encodes complex urban environments into general-purpose embeddings for diverse downstream tasks and emerging urban foundation models. However, current evaluations are limited, typically focusing on one or two cities and tasks and relying on random splits that introduce spatial leakage, leading to inflated performance and weak support for cross-location generalization and fair comparison. To address this, we propose CityRep, a unified benchmark that evaluates urban representations across data modalities, cities, and tasks using spatially structured splits. CityRep consists of three key components: (1) a spatial unit-agnostic evaluation framework that supports heterogeneous urban representations through a standardized alignment module; (2) a unified evaluation protocol using block-based spatial splits to mitigate spatial leakage and enable rigorous model comparison; and (3) an extensible multi-city, multi-task benchmark suite spanning 8 cities and 8 tasks across regression, classification, and distribution prediction. We evaluate 11 representative urban representation models. Results show that performance is highly sensitive to the split protocol, with random splits inflating scores and altering model rankings. We also observe substantial variability across cities and tasks, underscoring the need for generalization-aware evaluation. CityRep is released as a reproducible benchmark with datasets, evaluation pipelines, and diagnostic tools to facilitate fair comparison and support future research in urban representation learning towards urban foundation models.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "Self-Supervised Learning"
+      ],
+      "title_zh": "CITYREP: A Unified 基准 for Urban Representations Across Cities, Tasks, and Modalities",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、Self-Supervised Learning，核心对象是 CITYREP: A Unified Benchmark for Urban Representations Across Cities, Tasks, and Modalities。",
+        "方法：摘要线索包括 CITYREP、CityRep；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
+      ],
+      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.7733
+    },
+    {
+      "id": "55311fed75759386",
+      "title": "Forgotten Words: Benchmarking NeoBERT for Dementia Detection in Low-Resource Conversational Filipino and English Speech",
+      "url": "https://arxiv.org/abs/2605.26007v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "published": "2026-05-25",
+      "abstract": "Dementia detection from spontaneous speech offers a scalable approach to cognitive screening, yet NLP systems remain predominantly English-centric. This limitation is especially acute in the Philippines, where Filipino-English code-switching is pervasive and no prior work has addressed NLP-based dementia detection. We present the first systematic evaluation of transformer-based dementia detection in Filipino speech and the first assessment of NeoBERT in a clinical NLP setting. To separate language from domain effects, we construct a parallel bilingual dataset of 4,000 DementiaBank-derived transcripts, with Filipino translations produced manually to preserve discourse-level markers of cognitive decline. We evaluate five model families, TF-IDF + LogReg, BERT, NeoBERT, XLM-R, and RoBERTa-Tagalog, under monolingual, zero-shot cross-lingual, and bilingual fine-tuning settings. We find that in-domain performance does not transfer across languages, with English-trained BERT dropping to Macro-F1 = 0.455 on Filipino, and that architectural modernization alone does not improve robustness. Bilingual fine-tuning, however, eliminates cross-lingual degradation across all transformer models, converging to Macro-F1 = 0.969-0.973. These results suggest that multilingual clinical NLP performance is driven primarily by linguistic coverage during training rather than model scale or architecture.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI for Health",
+        "LLM"
+      ],
+      "title_zh": "Forgotten Words: 基准ing NeoBERT for Dementia Detection in Low-Resource Conversational Filipino and English Speech",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI for Health、LLM，核心对象是 Forgotten Words: Benchmarking NeoBERT for Dementia Detection in Low-Resource Conversational Filipino。",
+        "方法：摘要线索包括 Low-Resource、English-centric、Filipino-English、NLP-based、DementiaBank-derived、TF-IDF；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.7733
+    }
+  ]
+}

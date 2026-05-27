@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#111827" />
+    <title>AI Briefing</title>
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <aside class="sidebar" aria-label="Topic filters">
+        <div class="brand">
+          <span class="brand-mark">AI</span>
+          <div>
+            <strong>Research Briefing</strong>
+            <small>Personal PhD radar</small>
+          </div>
+        </div>
+        <nav id="topicNav" class="topic-nav"></nav>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">今日 AI 研究早报</p>
+            <h1 id="digestTitle">Daily Briefing</h1>
+          </div>
+          <label class="search">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Search title, source, topic..." />
+          </label>
+        </header>
+
+        <section class="hero-strip" aria-label="Digest summary">
+          <div>
+            <span class="metric-label">Must Read</span>
+            <strong id="topCount">0</strong>
+          </div>
+          <div>
+            <span class="metric-label">Scan List</span>
+            <strong id="moreCount">0</strong>
+          </div>
+          <div>
+            <span class="metric-label">Primary Source</span>
+            <strong id="sourceCount">0</strong>
+          </div>
+          <div>
+            <span class="metric-label">Updated</span>
+            <strong id="updatedAt">--</strong>
+          </div>
+        </section>
+
+        <section class="section-block">
+          <div class="section-heading">
+            <h2>Top 10 必读</h2>
+            <p>每条都包含行动建议，帮你快速决定是否继续读。</p>
+          </div>
+          <div id="topList" class="feed"></div>
+        </section>
+
+        <section class="section-block">
+          <div class="section-heading">
+            <h2>More 20 可扫</h2>
+            <p>按同一套画像过滤，适合快速浏览和收藏。</p>
+          </div>
+          <div id="moreList" class="feed compact"></div>
+        </section>
+      </main>
+    </div>
+
+    <nav class="bottom-nav" aria-label="Reading modes">
+      <button class="active" data-mode="today">今日</button>
+      <button data-mode="latest">最新</button>
+      <button data-mode="hot">热门</button>
+      <button data-mode="papers">论文</button>
+      <button data-mode="mine">我的</button>
+    </nav>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
