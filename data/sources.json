@@ -1,6 +1,30 @@
 {
   "academic": [
     {
+      "name": "ICLR 2025 Accepted",
+      "type": "openreview",
+      "tier": 1,
+      "category": "学术论文",
+      "venue_id": "ICLR.cc/2025/Conference",
+      "max_results": 30
+    },
+    {
+      "name": "ICML 2025 Accepted",
+      "type": "openreview",
+      "tier": 1,
+      "category": "学术论文",
+      "venue_id": "ICML.cc/2025/Conference",
+      "max_results": 30
+    },
+    {
+      "name": "NeurIPS 2025 Accepted",
+      "type": "openreview",
+      "tier": 1,
+      "category": "学术论文",
+      "venue_id": "NeurIPS.cc/2025/Conference",
+      "max_results": 30
+    },
+    {
       "name": "arXiv cs.AI",
       "type": "arxiv",
       "tier": 1,

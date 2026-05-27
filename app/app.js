@@ -79,11 +79,42 @@ function itemMatches(item) {
 
 function filtered(items) {
   let result = items.filter(itemMatches);
-  if (state.mode === "papers") result = result.filter((item) => item.category === "学术论文");
+  if (state.mode === "papers") result = result.filter((item) => item.source_kind === "conference" || item.source_kind === "arxiv");
   if (state.mode === "hot") result = result.slice().sort((a, b) => (b.signals?.hotness || 0) - (a.signals?.hotness || 0));
   if (state.mode === "latest") result = result.slice().sort((a, b) => (b.published || "").localeCompare(a.published || ""));
   if (state.mode === "mine") result = result.filter((item) => state.feedback[item.id]?.saved || state.feedback[item.id]?.read);
   return result;
+}
+
+function modeLists() {
+  if (state.mode === "latest") {
+    return {
+      top: state.digest.latest_items || [],
+      more: [],
+      primaryHeading: "最新",
+      primaryHint: "arXiv 和新发布条目按日期排序，适合快速扫新。",
+      secondaryHeading: "",
+      secondaryHint: ""
+    };
+  }
+  if (state.mode === "papers") {
+    return {
+      top: state.digest.paper_items || [...(state.digest.top_10 || []), ...(state.digest.more_20 || [])],
+      more: [],
+      primaryHeading: "论文",
+      primaryHint: "顶会 accepted papers 优先，arXiv 作为最新补充。",
+      secondaryHeading: "",
+      secondaryHint: ""
+    };
+  }
+  return {
+    top: state.digest.top_10 || [],
+    more: state.digest.more_20 || [],
+    primaryHeading: "Top 10 必读",
+    primaryHint: "顶会已接收论文和一手源更新优先进入今日。",
+    secondaryHeading: "More 20 可扫",
+    secondaryHint: "更多相关更新，arXiv 主要沉到最新列表。"
+  };
 }
 
 function renderItem(item, index) {
@@ -100,8 +131,7 @@ function renderItem(item, index) {
         <span class="rank">#${index + 1}</span>
         <span class="source">${item.source || "Unknown"} · ${item.published || "--"} · S2 ${citations.semantic_scholar ?? "?"} · OA ${citations.openalex ?? "?"}</span>
       </div>
-      <h3>${item.title}</h3>
-      <div class="zh-title">${item.title_zh || item.title}</div>
+      <h3><a class="title-link" href="${sourceUrl}" target="_blank" rel="noreferrer">${item.title}</a></h3>
       <ul class="summary">${summary}</ul>
       <div class="chips">${tags}</div>
       <p class="why"><strong>为什么值得看：</strong>${item.why_it_matters || "与当前 AI 研究前沿相关。"}</p>
@@ -135,11 +165,17 @@ function render() {
   if (!state.digest) return;
   renderTopics();
 
-  const topItems = filtered(state.digest.top_10 || []).filter((item) => !state.feedback[item.id]?.hidden);
-  const moreItems = filtered(state.digest.more_20 || []).filter((item) => !state.feedback[item.id]?.hidden);
+  const lists = modeLists();
+  const topItems = filtered(lists.top).filter((item) => !state.feedback[item.id]?.hidden);
+  const moreItems = filtered(lists.more).filter((item) => !state.feedback[item.id]?.hidden);
   const allItems = [...(state.digest.top_10 || []), ...(state.digest.more_20 || [])];
   const primarySources = new Set(allItems.filter((item) => item.source_tier === 1).map((item) => item.source));
 
+  document.getElementById("primaryHeading").textContent = lists.primaryHeading;
+  document.getElementById("primaryHint").textContent = lists.primaryHint;
+  document.getElementById("secondaryHeading").textContent = lists.secondaryHeading;
+  document.getElementById("secondaryHint").textContent = lists.secondaryHint;
+  document.getElementById("moreSection").style.display = moreItems.length ? "" : "none";
   document.getElementById("digestTitle").textContent = state.digest.title || "Daily Briefing";
   document.getElementById("topCount").textContent = topItems.length;
   document.getElementById("moreCount").textContent = moreItems.length;

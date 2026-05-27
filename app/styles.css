@@ -244,10 +244,14 @@ h1 {
   line-height: 1.35;
 }
 
-.zh-title {
-  margin-bottom: 12px;
-  color: #344054;
-  font-weight: 700;
+.title-link {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.title-link:hover {
+  color: var(--accent);
+  text-decoration: underline;
 }
 
 .summary {
@@ -391,4 +395,3 @@ h1 {
     bottom: 10px;
   }
 }
-

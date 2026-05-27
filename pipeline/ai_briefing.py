@@ -77,6 +77,7 @@ def parse_arxiv(source: dict, body: str) -> list[dict]:
                 "source": source["name"],
                 "source_tier": source.get("tier", 2),
                 "category": source.get("category", "学术论文"),
+                "source_kind": "arxiv",
                 "published": published,
                 "abstract": abstract,
                 "citations": {"semantic_scholar": None, "openalex": None},
@@ -122,6 +123,7 @@ def feed_item(source: dict, title: str, abstract: str, published: str, url: str)
         "source": source["name"],
         "source_tier": source.get("tier", 2),
         "category": source.get("category", "学术新闻"),
+        "source_kind": source.get("type", "web"),
         "published": published,
         "abstract": abstract,
         "citations": {"semantic_scholar": None, "openalex": None},
@@ -146,9 +148,12 @@ def collect_items(sources: dict, include_network: bool = True) -> list[dict]:
     if include_network:
         for group in sources.values():
             for source in group:
-                if source.get("type") not in {"arxiv", "rss", "web"}:
+                if source.get("type") not in {"arxiv", "rss", "web", "openreview"}:
                     continue
                 try:
+                    if source["type"] == "openreview":
+                        items.extend(fetch_openreview(source))
+                        continue
                     body = fetch_text(source["url"])
                     if source["type"] == "arxiv":
                         items.extend(parse_arxiv(source, body))
@@ -161,6 +166,60 @@ def collect_items(sources: dict, include_network: bool = True) -> list[dict]:
 
     if not items:
         items = read_json(DATA / "sample_items.json")
+    return items
+
+
+def content_value(content: dict, field: str, default=""):
+    value = content.get(field, default)
+    if isinstance(value, dict) and "value" in value:
+        return value["value"]
+    return value
+
+
+def date_from_ms(value) -> str:
+    try:
+        return dt.datetime.fromtimestamp(int(value) / 1000, tz=dt.timezone.utc).date().isoformat()
+    except (TypeError, ValueError, OSError):
+        return dt.date.today().isoformat()
+
+
+def fetch_openreview(source: dict) -> list[dict]:
+    params = urllib.parse.urlencode(
+        {
+            "content.venueid": source["venue_id"],
+            "limit": source.get("max_results", 20),
+        }
+    )
+    payload = json.loads(fetch_text(f"https://api2.openreview.net/notes?{params}"))
+    items: list[dict] = []
+    for note in payload.get("notes", []):
+        content = note.get("content", {})
+        title = clean_text(content_value(content, "title"))
+        abstract = clean_text(content_value(content, "abstract"))
+        keywords = content_value(content, "keywords", [])
+        venue = clean_text(content_value(content, "venue", source["name"]))
+        if isinstance(keywords, list):
+            abstract = f"{abstract} Keywords: {', '.join(keywords)}"
+        if not title:
+            continue
+        url = f"https://openreview.net/forum?id={note.get('id')}"
+        items.append(
+            {
+                "id": stable_id(source["name"], title, url),
+                "title": title,
+                "url": url,
+                "source": source["name"],
+                "source_tier": source.get("tier", 1),
+                "category": source.get("category", "学术论文"),
+                "source_kind": "conference",
+                "accepted": True,
+                "venue": venue,
+                "published": date_from_ms(note.get("pdate") or note.get("mdate") or note.get("cdate")),
+                "abstract": abstract,
+                "citations": {"semantic_scholar": None, "openalex": None},
+                "signals": {"hotness": 0.75},
+            }
+        )
     return items
 
 
@@ -260,6 +319,9 @@ def extract_key_terms(item: dict) -> list[str]:
 
 def why_it_matters(item: dict) -> str:
     topics = item.get("topics") or []
+    if item.get("accepted"):
+        venue = item.get("venue") or item.get("source")
+        return f"它已经被 {venue} 接收，比普通 arXiv 预印本更值得优先检查。"
     if "Agent Skills / MCP / Tool Use" in topics:
         return "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
     if "Medical AI" in topics or "AI for Health" in topics:
@@ -275,6 +337,8 @@ def why_it_matters(item: dict) -> str:
 
 def action_for(item: dict) -> str:
     topics = item.get("topics") or []
+    if item.get("accepted"):
+        return "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论"
     if "Agent Skills / MCP / Tool Use" in topics:
         return "看官方文档或 repo，判断是否能装进你的 Codex 工作流"
     if item.get("category") == "学术论文" and item.get("source_tier") == 1:
@@ -297,6 +361,10 @@ def score_item(item: dict, profile: dict) -> float:
     citation_score = min(1.0, math.log1p(citation_value) / 7)
     boost = sum(0.03 for keyword in profile["boost_keywords"] if keyword.lower() in text)
     penalty = sum(0.08 for keyword in profile["downrank_keywords"] if keyword.lower() in text)
+    if item.get("accepted"):
+        boost += 0.75
+    if item.get("source_kind") == "arxiv":
+        penalty += 0.18
     return (
         weights["topic_relevance"] * topic_relevance
         + weights["source_credibility"] * source_credibility
@@ -351,14 +419,28 @@ def build_digest(include_network: bool = True) -> dict:
         item["score"] = round(score_item(item, profile), 4)
 
     ranked = sorted(items, key=lambda item: item["score"], reverse=True)
+    accepted_ranked = [item for item in ranked if item.get("accepted")]
+    non_arxiv_ranked = [item for item in ranked if item.get("source_kind") != "arxiv" and not item.get("accepted")]
+    arxiv_ranked = [item for item in ranked if item.get("source_kind") == "arxiv"]
+    today_ranked = dedupe(accepted_ranked + non_arxiv_ranked + arxiv_ranked)
+    latest_arxiv = sorted(arxiv_ranked, key=lambda item: (item.get("published") or "", item.get("score", 0)), reverse=True)
+    latest_other = sorted(
+        [item for item in items if item.get("source_kind") != "arxiv" and not item.get("accepted")],
+        key=lambda item: (item.get("published") or "", item.get("score", 0)),
+        reverse=True,
+    )
+    latest_ranked = dedupe(latest_arxiv + latest_other)
+    paper_ranked = [item for item in today_ranked if item.get("source_kind") in {"conference", "arxiv"}]
     limits = profile["daily_limits"]
     now = dt.datetime.now().replace(microsecond=0).isoformat()
     return {
         "title": f"{dt.date.today().isoformat()} AI Research Briefing",
         "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
         "generated_at": now,
-        "top_10": ranked[: limits["top"]],
-        "more_20": ranked[limits["top"] : limits["top"] + limits["more"]],
+        "top_10": today_ranked[: limits["top"]],
+        "more_20": today_ranked[limits["top"] : limits["top"] + limits["more"]],
+        "latest_items": latest_ranked[: limits["top"] + limits["more"]],
+        "paper_items": paper_ranked[: limits["top"] + limits["more"]],
     }
 
 
