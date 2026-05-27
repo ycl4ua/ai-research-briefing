@@ -60,6 +60,7 @@ function renderTopics() {
 
 function itemMatches(item) {
   const tags = (item.topics || []).map(normalizeTopic);
+  const category = item.category || "";
   const haystack = [
     item.title,
     item.title_zh,
@@ -71,6 +72,15 @@ function itemMatches(item) {
 
   if (state.topic === "Saved") {
     return state.feedback[item.id]?.saved;
+  }
+  if (state.topic === "工业界") {
+    return category === "工业界" && (!state.query || haystack.includes(state.query.toLowerCase()));
+  }
+  if (state.topic === "学术新闻") {
+    return category === "学术新闻" && (!state.query || haystack.includes(state.query.toLowerCase()));
+  }
+  if (state.topic === "学术论文") {
+    return category === "学术论文" && (!state.query || haystack.includes(state.query.toLowerCase()));
   }
   if (state.topic === "Computer Vision" && item.source_kind === "conference") {
     return !state.query || haystack.includes(state.query.toLowerCase());
@@ -91,6 +101,36 @@ function filtered(items) {
 }
 
 function modeLists() {
+  if (state.topic === "工业界") {
+    return {
+      top: state.digest.industry_items || state.digest.all_items || [],
+      more: [],
+      primaryHeading: "工业界",
+      primaryHint: "来自 OpenAI、DeepMind、Anthropic、NVIDIA 等官方和一手来源。",
+      secondaryHeading: "",
+      secondaryHint: ""
+    };
+  }
+  if (state.topic === "学术新闻") {
+    return {
+      top: state.digest.academic_news_items || state.digest.all_items || [],
+      more: [],
+      primaryHeading: "学术新闻",
+      primaryHint: "来自精选学术媒体、技术评论和研究社区新闻源。",
+      secondaryHeading: "",
+      secondaryHint: ""
+    };
+  }
+  if (state.topic === "学术论文") {
+    return {
+      top: state.digest.paper_items || state.digest.all_items || [],
+      more: [],
+      primaryHeading: "学术论文",
+      primaryHint: "顶会 accepted papers 优先，arXiv 作为最新补充。",
+      secondaryHeading: "",
+      secondaryHint: ""
+    };
+  }
   if (state.topic !== "全部" && state.topic !== "Saved") {
     return {
       top: state.digest.all_items || [...(state.digest.top_10 || []), ...(state.digest.more_20 || [])],

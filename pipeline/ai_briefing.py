@@ -558,6 +558,7 @@ def build_digest(include_network: bool = True) -> dict:
     latest_ranked = dedupe(latest_arxiv + latest_other)
     paper_ranked = [item for item in today_ranked if item.get("source_kind") in {"conference", "arxiv"}]
     academic_news_ranked = [item for item in ranked if item.get("category") == "学术新闻"]
+    industry_ranked = [item for item in ranked if item.get("category") == "工业界"]
     limits = profile["daily_limits"]
     now = dt.datetime.now().replace(microsecond=0).isoformat()
     return {
@@ -569,6 +570,7 @@ def build_digest(include_network: bool = True) -> dict:
         "latest_items": latest_ranked[: limits["top"] + limits["more"]],
         "paper_items": paper_ranked[: limits["top"] + limits["more"]],
         "academic_news_items": academic_news_ranked[: limits["top"] + limits["more"]],
+        "industry_items": industry_ranked[: limits["top"] + limits["more"]],
         "all_items": ranked,
     }
 
