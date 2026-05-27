@@ -397,6 +397,8 @@ def title_zh(item: dict) -> str:
 
 
 def summarize_zh(item: dict) -> list[str]:
+    if item.get("category") in {"工业界", "学术新闻"}:
+        return summarize_news_zh(item)
     topics = "、".join(item.get("topics") or ["AI"])
     terms = extract_key_terms(item)
     term_text = "、".join(terms[:6]) if terms else item.get("title", "")[:80]
@@ -405,6 +407,21 @@ def summarize_zh(item: dict) -> list[str]:
         f"方法：摘要线索包括 {term_text}；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         f"影响：{why_it_matters(item)}",
     ]
+
+
+def summarize_news_zh(item: dict) -> list[str]:
+    title = item.get("title", "")
+    source = item.get("source", "该来源")
+    topics = "、".join(item.get("topics") or ["AI"])
+    terms = extract_key_terms(item)
+    term_text = "、".join(terms[:5])
+    first = f"{source} 发布/报道了：{title}。"
+    if item.get("category") == "工业界":
+        second = f"这条新闻主要关联 {topics}，适合用来跟踪产业产品、公司路线和工程落地变化。"
+    else:
+        second = f"这条新闻主要关联 {topics}，适合用来跟踪研究社区、学术讨论和前沿趋势变化。"
+    third = f"关键线索：{term_text}。" if term_text else "建议点开原文确认具体产品、机构、时间和技术细节。"
+    return [first, second, third]
 
 
 def split_sentences(text: str) -> list[str]:
