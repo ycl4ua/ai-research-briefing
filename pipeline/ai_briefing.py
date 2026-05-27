@@ -412,16 +412,55 @@ def summarize_zh(item: dict) -> list[str]:
 def summarize_news_zh(item: dict) -> list[str]:
     title = item.get("title", "")
     source = item.get("source", "该来源")
-    topics = "、".join(item.get("topics") or ["AI"])
-    terms = extract_key_terms(item)
-    term_text = "、".join(terms[:5])
-    first = f"{source} 发布/报道了：{title}。"
-    if item.get("category") == "工业界":
-        second = f"这条新闻主要关联 {topics}，适合用来跟踪产业产品、公司路线和工程落地变化。"
-    else:
-        second = f"这条新闻主要关联 {topics}，适合用来跟踪研究社区、学术讨论和前沿趋势变化。"
-    third = f"关键线索：{term_text}。" if term_text else "建议点开原文确认具体产品、机构、时间和技术细节。"
+    abstract = clean_text(item.get("abstract", ""))
+    sentences = split_sentences(abstract)
+    if not sentences or sentences[0].lower() == title.lower():
+        sentences = split_sentences(title)
+
+    event = title.rstrip(".")
+    first = f"{source} 的这条更新聚焦：{event}。"
+    second = summarize_news_content(sentences[:2], item)
+    third = summarize_news_evidence(sentences, item)
     return [first, second, third]
+
+
+def summarize_news_content(sentences: list[str], item: dict) -> str:
+    text = " ".join(sentences).strip()
+    if not text:
+        return news_context_line(item)
+    if len(text) > 260:
+        text = text[:257].rstrip() + "..."
+    if item.get("category") == "工业界":
+        return f"内容要点：{text}"
+    return f"内容要点：{text}"
+
+
+def summarize_news_evidence(sentences: list[str], item: dict) -> str:
+    text = " ".join(sentences)
+    metrics = re.findall(r"\b\d+(?:\.\d+)?%|\b\d+(?:,\d{3})+\b|\bzero\s+[A-Z0-9]+|\bnear-total\b", text, flags=re.IGNORECASE)
+    terms = extract_key_terms(item)
+    bits = []
+    if metrics:
+        bits.append(f"指标/证据：{', '.join(dict.fromkeys(metrics[:4]))}")
+    if terms:
+        bits.append(f"关键词：{'、'.join(terms[:5])}")
+    if bits:
+        return "；".join(bits) + "。"
+    return news_followup_line(item)
+
+
+def news_context_line(item: dict) -> str:
+    topics = "、".join(item.get("topics") or ["AI"])
+    if item.get("category") == "工业界":
+        return f"这条更新和 {topics} 相关，重点看产品落地、客户案例、工程指标或公司策略。"
+    return f"这条更新和 {topics} 相关，重点看它反映的研究讨论、趋势变化或社区关注点。"
+
+
+def news_followup_line(item: dict) -> str:
+    terms = extract_key_terms(item)
+    if terms:
+        return f"可继续关注的关键词：{'、'.join(terms[:5])}。"
+    return "建议点开原文确认具体时间、机构、证据和上下文。"
 
 
 def split_sentences(text: str) -> list[str]:
