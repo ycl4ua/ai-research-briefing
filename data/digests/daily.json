@@ -1,7 +1,7 @@
 {
   "title": "2026-05-27 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-05-27T00:53:42",
+  "generated_at": "2026-05-27T17:56:30",
   "top_10": [
     {
       "id": "0f943da22c3412d1",
@@ -1039,6 +1039,38 @@
   ],
   "latest_items": [
     {
+      "id": "e1b56d31d9c6ca25",
+      "title": "MATCHA: Matching Text via Contrastive Semantic Alignment",
+      "url": "https://arxiv.org/abs/2605.27345v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Reliable evaluation is essential for understanding large language model (LLM) performance, yet today's go-to metrics, namely token-overlap scores (e.g., ROUGE) and embedding-based measures (e.g., BERTScore), often misjudge semantic similarity of documents. Our study shows that both token-overlap metrics and embedding-based metrics routinely assign nearly identical scores to texts that directly contradict each other, thereby potentially masking fundamental errors. We introduce MATCHA, an automatic metric that jointly rewards semantic agreement with a reference and penalizes contradictions. MATCHA employs a dual-view perspective that measures (i) proximity to the gold text and (ii) distance from an adversarially generated counterfactual contradiction. In eight public benchmarks, MATCHA outperforms popular metrics, compared with human annotations on question-answering, image caption generation, natural language inference, summarization, and semantic textual similarity tasks. On the TruthfulQA dataset (i.e., a dataset without a training set, where no embedding-based metrics could locally train on), this improvement in terms of matching texts with a reference reaches 18.38% over ROUGE-L and 20.82% over BERTScore. Both quantitative comparison and qualitative human assessments confirm the efficacy and validity of MATCHA and uncover fundamental weaknesses in pre-existing metrics. Compared with 23 embedding models, including top state-of-the-art ones, used as a metric similar to BERTScore, MATCHA remains the most accurate in distinguishing correct from incorrect statements solely based on a reference. Our code and metric are publicly available (https://github.com/Siran-Li/MATCHA).",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "MATCHA: Matching Text via Contrastive Semantic Alignment",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 MATCHA: Matching Text via Contrastive Semantic Alignment。",
+        "方法：摘要线索包括 ROUGE-L、Siran-Li、MATCHA、LLM、ROUGE、BERTScore；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.74
+    },
+    {
       "id": "e98915a8c94c0f53",
       "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
       "url": "https://arxiv.org/abs/2605.27365v1",
@@ -1169,10 +1201,10 @@
       "score": 0.68
     },
     {
-      "id": "ffac603372b6e0d3",
+      "id": "328f9654408a50f3",
       "title": "Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models",
       "url": "https://arxiv.org/abs/2605.27311v1",
-      "source": "arXiv cs.CV",
+      "source": "arXiv cs.CL",
       "source_tier": 1,
       "category": "学术论文",
       "source_kind": "arxiv",
@@ -1334,6 +1366,71 @@
       "score": 0.65
     },
     {
+      "id": "62ffbc68b01c5ab8",
+      "title": "Self-Ensembling Vision-Language Models for Chart Data Extraction",
+      "url": "https://arxiv.org/abs/2605.27298v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Charts effectively convey quantitative information, but the underlying data are often locked in image form, hindering reuse and analysis. Manually digitizing charts is time-consuming and error-prone, motivating automatic chart-to-table extraction. Recent approaches use specialized vision-language models (VLMs), yet performance still lags on charts with many datapoints or substantial stylistic variation. We propose a VLM self-ensembling method that repeatedly samples multiple tabular outputs from the same VLM for a fixed chart image and aggregates them at the level of individual table cells. We align candidate tables and take per-cell medians over numerical values to produce a more accurate consensus table. Our method also includes convergence detection to stop sampling once the aggregated table stabilizes, and uncertainty estimation based on dispersion across samples to help users assess extraction reliability. Because existing chart extraction benchmarks contain relatively simple plots with limited room for improvement, we introduce WB-ChartExtract, a new benchmark built from World Bank data with more complex and stylistically diverse charts; on average, its charts contain 7 times more datapoints than those in the ChartQA benchmark. Across both ChartQA and WB-ChartExtract, our approach improves extraction accuracy over single-pass VLM outputs, yielding up to 23% relative improvement on WB-ChartExtract after ensembling. More broadly, our method helps unlock tabular data previously siloed in chart images, enabling downstream analysis and reuse.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "Self-Ensembling Vision-语言模型 for Chart Data Extraction",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL、VLM，核心对象是 Self-Ensembling Vision-Language Models for Chart Data Extraction。",
+        "方法：摘要线索包括 Self-Ensembling、Vision-Language、WB-ChartExtract、VLMs、VLM、ChartExtract；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.65
+    },
+    {
+      "id": "6ef40fd577505dfd",
+      "title": "ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents",
+      "url": "https://arxiv.org/abs/2605.27240v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Memory-augmented language agents are increasingly deployed in affective applications such as emotional support, where understanding and responding to users' latent emotional needs is critical. However, existing research often treats memory as a tool for factual retrieval, overlooking its role in shaping users' emotional experiences. In this work, we introduce ENPMR-Bench, a benchmark for evaluating Emotional Need-aware Proactive Memory Retrieval (ENPMR), a core capability that enables agents to infer users' latent emotional needs and proactively retrieve appropriate memories to support empathetic interaction. Grounded in Maslow's hierarchy of needs, ENPMR-Bench includes over 1,800 memory-augmented dialogues and defines structured mappings between emotional needs and supportive memory types. Experimental results demonstrate that current retrieval paradigms, including both embedding-based and LLM-driven approaches, exhibit substantial deficiencies, with empathy scores significantly lagging behind golden memory conditions. While chain-of-thought prompting improves the alignment between inferred emotional needs and retrieved memories to some extent, a notable performance gap remains. Together, these findings reveal critical limitations in current agents and outline directions for advancing personalized emotional support through need-sensitive memory retrieval.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "ENPMR-Bench: 基准ing Proactive Memory Retrieval for Emotional Support 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents。",
+        "方法：摘要线索包括 ENPMR-Bench、Memory-augmented、Need-aware、LLM-driven、ENPMR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.65
+    },
+    {
       "id": "2e9f75970f7fe430",
       "title": "How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning",
       "url": "https://arxiv.org/abs/2605.27310v1",
@@ -1466,6 +1563,102 @@
       "score": 0.62
     },
     {
+      "id": "e85feefd3f2cd928",
+      "title": "FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents",
+      "url": "https://arxiv.org/abs/2605.27333v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Finance LLM agents must simultaneously block prompt-induced unauthorized actions and approve legitimate multi-step business workflows. However, boundary filters often miss irreversible mid-trajectory tool calls, while post-hoc LLM judges perform auditing only after termination -- too late for intervention and at a computational cost that scales linearly with trace length. We present FinHarness, an inline safety harness that wraps a finance agent end-to-end with three components: a Query Monitor that fuses single-turn intent with cross-turn drift, a Tool Monitor that evaluates each prospective tool call, and a Cascade module that integrates per-step risk and adaptively routes verification between a lightweight and an advanced-tier LLM judge. Fired risk factors are re-injected into the agent input as ex-ante evidence, enabling the agent to refuse, re-plan, or approve on its own. On FinVault, routed FinHarness cuts ASR from 38.3% to 15.0% while largely preserving benign approval ($41.1\\% \\to 39.3\\%$), and uses $4.7\\times$ fewer advanced-judge calls than an always-advanced ablation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "FinHarness: An Inline Lifecycle Safety Harness for Finance LLM 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents。",
+        "方法：摘要线索包括 LLM、ASR、FinHarness、FinVault；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.62
+    },
+    {
+      "id": "7f7b9f13feb5bbbe",
+      "title": "Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery",
+      "url": "https://arxiv.org/abs/2605.27315v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Visual inputs are often assumed to improve language understanding in multimodal models. We examine this assumption by asking whether vision-language models (VLMs) can distinguish useful visual evidence from incidental image context in lexical judgments. We use human concreteness and imagery ratings because they span words with varying expected visual relevance, from abstract and low-imagery words to concrete and high-imagery words. We find that real-image contexts do not yield consistent gains and often hurt alignment with human ratings, most sharply when visual evidence is least relevant. Through probing and canonical correlation analysis, complemented by an attribution case study, we find that real-image contexts are associated with representational shifts and greater sensitivity to spurious visual cues, coinciding with weaker recoverability of the targeted lexical properties. We further show that instructing models to focus solely on textual content at inference time can reduce this degradation, with the clearest gains on these vulnerable subsets. Our findings suggest that current instruction-tuned VLMs need better calibration of when visual context should inform lexical judgments.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "Real Images, Worse Judgments: Evaluating Vision-语言模型 on Concreteness and Imagery",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery。",
+        "方法：摘要线索包括 Vision-Language、VLMs、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.62
+    },
+    {
+      "id": "134b3128af819db3",
+      "title": "When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech Detection",
+      "url": "https://arxiv.org/abs/2605.27313v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Demographic information is often used to model annotator perspectives in subjective tasks such as hate speech detection, but its benefit is inconsistent: it improves performance in some settings and behaves as noise in others. This paper asks when demographic features help. We analyze demographic gain as a function of both data split properties and modeling frameworks. For data splits, we measure annotator disagreement, namely how often annotators assign different labels to the same example, along with training size and train-test demographic coverage. We find that demographic gains concentrate in regimes with low training disagreement, high test disagreement, fine-grained ambiguity measurement, sufficient training data, and greater demographic overlap. Motivated by these regimes, we introduce a gated demographic residual model that treats demographics as a selective adjustment to text-only predictions. Experiments on MHS and POPQUORN show that this design is effective, especially on high disagreement or low confidence examples. Overall, our results suggest that demographics should not be assumed useful by default; their value depends jointly on the data regime and the modeling framework.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech Detection",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech 。",
+        "方法：摘要线索包括 Perspective-Aware、MHS、POPQUORN；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.62
+    },
+    {
       "id": "e418f70e9a174247",
       "title": "G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing",
       "url": "https://arxiv.org/abs/2605.27372v1",
@@ -1561,6 +1754,37 @@
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.5933
+    },
+    {
+      "id": "2fa2a915471d419e",
+      "title": "Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics",
+      "url": "https://arxiv.org/abs/2605.27296v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Large Language Models (LLMs) are increasingly deployed in diverse cultural contexts, yet their ability to master aesthetic stylistics, i.e., the strategic use of language to evoke cultural resonance, remains underexplored. We curate C4STYLI, a benchmark of highly stylized translated movie titles and advertising slogans from Hong Kong and the Chinese Mainland, to evaluate LLMs via the lens of behavioral recognition and productive competence. Extensive evaluations show that LLMs differ from humans in stylistic recognition, and this recognition ability varies across text domains. In addition, stylistic recognition and generation performance in LLMs are not consistently aligned. To further examine whether LLMs genuinely capture stylistic information in stylistic recognition, we conduct structural ablation with logistic regression probes. We find that, in the Hong Kong setting, stylistic recognition in LLMs relies primarily on surface-level linguistic information rather than stylistic structure. This suggests limited sensitivity to Hong Kong-specific stylistic structure.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics。",
+        "方法：摘要线索包括 Cross-Culture、Kong-specific、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5633
     },
     {
       "id": "431a81f0050f27a5",
@@ -1778,223 +2002,6 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.5333
-    },
-    {
-      "id": "b3e3c12f6601fa4c",
-      "title": "PlayClass: Automated Play Behaviour Classification in Poultry",
-      "url": "https://arxiv.org/abs/2605.27304v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Automated monitoring of animal welfare has largely targeted negative indicators, leaving positive welfare behaviours such as play underexplored. To address this gap, we present PlayClass, a pipeline for play-behaviour classification in poultry from top-down pen video. The pipeline leverages long-duration tracking with SAM 3 via YOLO-guided chunk boundaries to minimise identity errors in point-based prompting, and frozen embeddings from image and video foundation models for play action classification. Although handcrafted motion features from tracked masks alone achieved competitive accuracy, V-JEPA 2.1 consistently outperformed all other backbones across model scales, reaching 77.0 macro-averaged F$_1$ when combined with handcrafted features. Despite this result, the dataset remains challenging due to play sub-types sharing similar kinematic profiles with non-play and inter-bird occlusion. Overall, our work provides encouraging evidence towards automated frameworks for play behaviour classification in poultry.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "PlayClass: Automated Play Behaviour Classification in Poultry",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 PlayClass: Automated Play Behaviour Classification in Poultry。",
-        "方法：摘要线索包括 YOLO-guided、SAM、JEPA、PlayClass；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "d59e285f95515fb0",
-      "title": "A Dynamic Programming Framework for Discovering Count and Values of Multilevel Image Thresholding",
-      "url": "https://arxiv.org/abs/2605.27287v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Multilevel Image thresholding is an important preprocessing algorithm in computer vision applications nowadays. Since most common thresholding methods take the desired count of thresholds as input by the user, thresholding methods that automatically determines a suitable count of thresholds from the input image itself are advantageous. In this article, a novel thresholding method based on a dynamic programming algorithm and a modification of Minimum Error Thresholding (MET) criterion is thoroughly presented. An empirical statistical study is performed to pinpoint why this proposed method is superior. Moreover, an extended comparison between this proposed method and other state-of-the-art methods is performed on a comprehensive set of natural, satellite and medical test images. The numerical results show that the proposed MET-DP method takes much less time than traditional dynamic programming thresholding methods when the number of thresholds is high. The proposed method can detect a suitable count of thresholds for most of tested images of different types. However, traditional methods that take the count of thresholds as input produce thresholded images of higher structural similarity index measure (SSIM) and peak signal-to-noise ratio (PSNR) values than MET-DP. Source code can be found on https://w3id.org/met-dp/article1-code",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI for Health",
-        "Computer Vision"
-      ],
-      "title_zh": "A Dynamic Programming Framework for Discovering Count and Values of Multilevel Image Thresholding",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI for Health、Computer Vision，核心对象是 A Dynamic Programming Framework for Discovering Count and Values of Multilevel Image Thresholding。",
-        "方法：摘要线索包括 MET-DP、MET、SSIM、PSNR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "f7a3b475cf5757f2",
-      "title": "LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models",
-      "url": "https://arxiv.org/abs/2605.27254v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Selecting which instances to label is a key challenge in low-label tabular learning. For recent Tabular Foundation Models such as TabPFN, context selection directly determines predictive performance. Supervised oracle experiments show that carefully chosen labeled context sets can strongly outperform random selection under the same labeling budget. However, the cold-start setting, where instances must be selected before any labels are available, has received little attention in the TFM literature. This problem is fundamentally geometric. In vision and language, foundation models induce embedding spaces where simple geometric selection methods are effective. In contrast, tabular instance selection has so far been performed predominantly in the original tabular space, which lacks a natural metric; heterogeneous types, mixed scales, and nonlinear interactions make raw-space distances unreliable for context construction, and original-space selection falls below random on the majority of datasets as the budget grows. We propose LUCoS (Latent Unsupervised Context Selection), which replaces raw-feature geometry with the latent geometry induced by embeddings from an unsupervised Prior-Fitted Network (PFN) and selects representative medoids as context. Evaluated on 67 OpenML-CC18 datasets across six low-label budgets, LUCoS ranks first under mean AUC, ACC, and F1, with conclusions stable across metrics and dataset-level robustness checks. A gain decomposition reveals a simple mechanism: at the smallest budgets, the main benefit comes from enforcing coverage; as the budget increases, the decisive factor becomes the representation space in which coverage is measured. LUCoS mitigates failures of original feature space selection, showing that reliable unsupervised context selection depends less on selector sophistication than on defining representativeness in a meaningful representation geometry.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 LUCoS: Latent Unsupervised Context Selection for Tabular Foundation Models。",
-        "方法：摘要线索包括 Prior-Fitted、OpenML-CC18、LUCoS、TFM、PFN、CC18；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "9985f64c34b4f96c",
-      "title": "Symbolic Regression via Latent Iterative Refinement",
-      "url": "https://arxiv.org/abs/2605.27245v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Symbolic regression (SR) seeks closed-form mathematical expressions that fit observed data. Neural SR methods amortize the search by training an encoder to map observations directly to expressions in a single pass, but this amortized inference leaves a residual amortization gap between its one-shot prediction and the true posterior. We propose Latent Equation Embedding (LEE), a framework that closes this gap through iterative amortized inference in a functionally grounded latent space. LEE learns a shared latent space Z equipped with three components: an encoder f_theta that jointly embeds symbolic tokens and numerical observations into a single latent vector z; an expression decoder g_expr that reconstructs formulas from z; and an evaluation decoder g_eval that predicts function values from z, explicitly grounding the latent space in functional behavior. At inference, LEE performs iterative refinement by re-encoding decoded expressions jointly with observations, progressively improving the latent estimate. LEE uses the encoder itself as a learned inference optimizer: each re-encoding step implicitly computes the mismatch between the candidate and the data. Because g_eval is differentiable in z, we additionally interleave continuous gradient descent with discrete re-encoding, yielding a hybrid iterative and gradient refinement procedure. On SRBench across three noise levels, against 19 baselines spanning genetic programming, symbolic-neural hybrids, and pre-trained Transformers, LEE produces expressions 2--10x simpler than the strongest accuracy-oriented baselines, including Operon, GP-GOMEA, TPSR, RAG-SR, and GenSR, with complexity 8--11 versus 20--90. These results advance the low-complexity region of the accuracy-complexity Pareto frontier and show graceful degradation as noise increases.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Symbolic Regression via Latent Iterative Refinement",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Symbolic Regression via Latent Iterative Refinement。",
-        "方法：摘要线索包括 GP-GOMEA、RAG-SR、SR、LEE、SRBench、TPSR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "b9f11ac40ea03a40",
-      "title": "Natural Language Query to Configuration for Retrieval Agents",
-      "url": "https://arxiv.org/abs/2605.27361v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Modern retrieval agents expose many configuration choices -- LLM, retriever, number of documents, number of hops, and synthesis strategy -- each shaping both answer quality and serving cost. Today, these pipelines are typically hand-tuned once per workload, leaving substantial per-query optimization untapped. We formulate the problem: given a natural-language query and either an accuracy or a budget target, select from a predefined pipeline catalog the configuration that minimizes cost or maximizes accuracy at inference time. We propose **BRANE**, which uses an LLM to convert each query into workload-specific characteristics, then trains a lightweight per-configuration predictor that estimates whether the pipeline will answer the query correctly. At inference time, **BRANE** selects the configuration that maximizes predicted correctness penalized by cost, exposing a tunable cost-quality tradeoff without retraining. Across MuSiQue, BrowseComp-Plus, and FinanceBench, **BRANE** consistently pushes the cost-quality Pareto frontier, matches the best fixed configuration's accuracy at up to 89% lower cost, and outperforms LLM-routing, rule-based, and fine-tuned Qwen3-4B baselines. These results show that per-query configuration of the full retrieval pipeline is a practical alternative to static workload-level tuning.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "Natural Language Query to Configuration for Retrieval 智能体",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Natural Language Query to Configuration for Retrieval Agents。",
-        "方法：摘要线索包括 BrowseComp-Plus、LLM-routing、Qwen3-4B、LLM、BRANE、MuSiQue；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "61b9123d23193e0c",
-      "title": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
-      "url": "https://arxiv.org/abs/2605.27354v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Model internals encode rich information about how a large language model (LLM) processes its training data; however, post-training data engineering largely relies on external signals and ignores rich intrinsic signals lying in model internals. We propose SAERL, a data engineering framework for LLM reinforcement learning (RL). It models three intrinsic data properties: diversity, difficulty, and quality, using model internals extracted with Sparse Autoencoder (SAE), an advanced mechanistic interpretability tool. Each property grounds a concrete data engineering operation: SAE-space clustering with moderate batch mixing for batch diversity control, a difficulty proxy for easy-to-hard curriculum ordering, and a quality probe for data filtering. SAERL improves average accuracy by 3.00% over vanilla GRPO and reaches target accuracy with 20% fewer training steps on Qwen2.5-Math-1.5B, with consistent gains across model scales and RL algorithms. Experiments show that SAE transfers effectively across model families and scales, serving as a lightweight and reusable data engineering tool. These results demonstrate that model internals are a powerful and practical source of signals for post-training data engineering.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders。",
-        "方法：摘要线索包括 Post-training、SAE-space、Math-1、LLM、SAERL、RL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "6fa161d87637ff5e",
-      "title": "Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding",
-      "url": "https://arxiv.org/abs/2605.27320v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-05-26",
-      "abstract": "Agentic AI systems combine probabilistic reasoning with delegated action through tools, context, memory, orchestration, and external workflow integration. This note develops a formal and managerially usable model that distinguishes Agentic Technical Debt from Stochastic Tax. Agentic Technical Debt is a stock of accumulated design and governance liability. Stochastic Tax is a recurring flow of operating burden that arises when stochastic agents are used in business workflows. The two constructs are related, but they are not the same: debt can amplify the tax, while the tax can remain positive even when debt is minimized. The note starts from a compact dashboard expression, expands it into a fuller structural model, defines all variables and parameters, shows how each cost category can be estimated from operational data, and illustrates the framework with an accounts-payable simulation and companion spreadsheet.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "Modeling 智能体ic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulati。",
-        "方法：摘要线索包括 AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
     }
   ],
   "paper_items": [
@@ -3063,6 +3070,36 @@
       "score": 0.5773
     },
     {
+      "id": "b9146f2c06c0641f",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-05-27",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: keeping up with AI, and the future of IVF",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: keeping up with AI, and the future of IVF。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless th...",
+        "关键词：AI、IVF、MIT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
       "id": "bfc1ea67cf7eeb13",
       "title": "Rethinking organizational design in the age of agentic AI",
       "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
@@ -3355,41 +3392,13 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.38
-    },
-    {
-      "id": "dd23ca51a8223626",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-05-21",
-      "abstract": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Anthropic’s Code with Claude showed off coding’s future—whether you like it or not。",
-        "内容要点：The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
     }
   ],
   "industry_items": [
     {
-      "id": "2a7c423efc91bb90",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "id": "d673ef81742e436b",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
@@ -3399,7 +3408,7 @@
         "Agent Skills / MCP / Tool Use"
       ],
       "published": "2026-05-27",
-      "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "abstract": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3407,11 +3416,11 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "OpenAI named a Leader in enterprise coding 智能体 by Gartner",
+      "title_zh": "Building self-improving tax 智能体 with Codex",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI named a Leader in enterprise coding agents by Gartner。",
-        "内容要点：OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-        "关键词：AI。"
+        "OpenAI News 的这条更新聚焦：Building self-improving tax agents with Codex。",
+        "内容要点：See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
@@ -3443,6 +3452,37 @@
         "OpenAI News 的这条更新聚焦：How Virgin Atlantic ships faster with Codex。",
         "内容要点：How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
         "指标/证据：near-total, zero P1。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "2a7c423efc91bb90",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI named a Leader in enterprise coding 智能体 by Gartner",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI named a Leader in enterprise coding agents by Gartner。",
+        "内容要点：OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+        "关键词：AI。"
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
@@ -3635,37 +3675,6 @@
       "score": 0.6833
     },
     {
-      "id": "e1544236baa831c5",
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Running Codex safely at OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Running Codex safely at OpenAI。",
-        "内容要点：How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
       "id": "710b65c0bd9269bf",
       "title": "Introducing Agent Skills | Claude",
       "url": "https://claude.com/blog/skills",
@@ -3727,6 +3736,36 @@
       "score": 0.5967
     },
     {
+      "id": "7f966e74390df5db",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-05-27",
+      "abstract": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Election information and safeguards in 2026",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Election information and safeguards in 2026。",
+        "内容要点：Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "d8f17f1fc3b9d469",
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -3751,66 +3790,6 @@
         "OpenAI News 的这条更新聚焦：OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership。",
         "内容要点：OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
         "关键词：UOL、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "8b179a06b54c1a7f",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Ramp engineers accelerate code review with Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
-        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "ba8a2333fed3d018",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-05-27",
-      "abstract": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：An OpenAI model has disproved a central conjecture in discrete geometry。",
-        "内容要点：An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-        "关键词：AI-driven。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
@@ -3844,6 +3823,66 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "ba8a2333fed3d018",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-05-27",
+      "abstract": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：An OpenAI model has disproved a central conjecture in discrete geometry。",
+        "内容要点：An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+        "关键词：AI-driven。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "8b179a06b54c1a7f",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Ramp engineers accelerate code review with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
+        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.5667
     },
     {
@@ -3937,36 +3976,6 @@
       "score": 0.5667
     },
     {
-      "id": "010eaa918057f7cc",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How business operations teams use Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How business operations teams use Codex。",
-        "内容要点：See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "c8df58dd6f1f2e25",
       "title": "A new personal finance experience in ChatGPT",
       "url": "https://openai.com/index/personal-finance-chatgpt",
@@ -3997,36 +4006,6 @@
       "score": 0.5667
     },
     {
-      "id": "400eda3eb29cf22a",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How sales teams use Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How sales teams use Codex。",
-        "内容要点：See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "c2ad981788bad5a5",
       "title": "How data science teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -4051,6 +4030,66 @@
         "OpenAI News 的这条更新聚焦：How data science teams use Codex。",
         "内容要点：See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
         "关键词：KPI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "010eaa918057f7cc",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How business operations teams use Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How business operations teams use Codex。",
+        "内容要点：See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "400eda3eb29cf22a",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How sales teams use Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How sales teams use Codex。",
+        "内容要点：See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
@@ -4261,36 +4300,6 @@
         "OpenAI News 的这条更新聚焦：How ChatGPT adoption broadened in early 2026。",
         "内容要点：ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
         "关键词：AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "87bf8b4976a72682",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-05-27",
-      "abstract": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI Campus Network: Student club interest form",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI Campus Network: Student club interest form。",
-        "内容要点：Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-        "关键词：AI-powered、AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
@@ -17398,6 +17407,38 @@
       "score": 1.1617
     },
     {
+      "id": "e1b56d31d9c6ca25",
+      "title": "MATCHA: Matching Text via Contrastive Semantic Alignment",
+      "url": "https://arxiv.org/abs/2605.27345v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Reliable evaluation is essential for understanding large language model (LLM) performance, yet today's go-to metrics, namely token-overlap scores (e.g., ROUGE) and embedding-based measures (e.g., BERTScore), often misjudge semantic similarity of documents. Our study shows that both token-overlap metrics and embedding-based metrics routinely assign nearly identical scores to texts that directly contradict each other, thereby potentially masking fundamental errors. We introduce MATCHA, an automatic metric that jointly rewards semantic agreement with a reference and penalizes contradictions. MATCHA employs a dual-view perspective that measures (i) proximity to the gold text and (ii) distance from an adversarially generated counterfactual contradiction. In eight public benchmarks, MATCHA outperforms popular metrics, compared with human annotations on question-answering, image caption generation, natural language inference, summarization, and semantic textual similarity tasks. On the TruthfulQA dataset (i.e., a dataset without a training set, where no embedding-based metrics could locally train on), this improvement in terms of matching texts with a reference reaches 18.38% over ROUGE-L and 20.82% over BERTScore. Both quantitative comparison and qualitative human assessments confirm the efficacy and validity of MATCHA and uncover fundamental weaknesses in pre-existing metrics. Compared with 23 embedding models, including top state-of-the-art ones, used as a metric similar to BERTScore, MATCHA remains the most accurate in distinguishing correct from incorrect statements solely based on a reference. Our code and metric are publicly available (https://github.com/Siran-Li/MATCHA).",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "MATCHA: Matching Text via Contrastive Semantic Alignment",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 MATCHA: Matching Text via Contrastive Semantic Alignment。",
+        "方法：摘要线索包括 ROUGE-L、Siran-Li、MATCHA、LLM、ROUGE、BERTScore；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.74
+    },
+    {
       "id": "e98915a8c94c0f53",
       "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
       "url": "https://arxiv.org/abs/2605.27365v1",
@@ -17495,9 +17536,9 @@
       "score": 0.71
     },
     {
-      "id": "2a7c423efc91bb90",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "id": "d673ef81742e436b",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
@@ -17507,7 +17548,7 @@
         "Agent Skills / MCP / Tool Use"
       ],
       "published": "2026-05-27",
-      "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "abstract": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -17515,11 +17556,11 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "OpenAI named a Leader in enterprise coding 智能体 by Gartner",
+      "title_zh": "Building self-improving tax 智能体 with Codex",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI named a Leader in enterprise coding agents by Gartner。",
-        "内容要点：OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-        "关键词：AI。"
+        "OpenAI News 的这条更新聚焦：Building self-improving tax agents with Codex。",
+        "内容要点：See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
@@ -17551,6 +17592,37 @@
         "OpenAI News 的这条更新聚焦：How Virgin Atlantic ships faster with Codex。",
         "内容要点：How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
         "指标/证据：near-total, zero P1。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "2a7c423efc91bb90",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI named a Leader in enterprise coding 智能体 by Gartner",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI named a Leader in enterprise coding agents by Gartner。",
+        "内容要点：OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+        "关键词：AI。"
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
@@ -17743,37 +17815,6 @@
       "score": 0.6833
     },
     {
-      "id": "e1544236baa831c5",
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Running Codex safely at OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Running Codex safely at OpenAI。",
-        "内容要点：How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
       "id": "710b65c0bd9269bf",
       "title": "Introducing Agent Skills | Claude",
       "url": "https://claude.com/blog/skills",
@@ -17838,10 +17879,10 @@
       "score": 0.68
     },
     {
-      "id": "ffac603372b6e0d3",
+      "id": "328f9654408a50f3",
       "title": "Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models",
       "url": "https://arxiv.org/abs/2605.27311v1",
-      "source": "arXiv cs.CV",
+      "source": "arXiv cs.CL",
       "source_tier": 1,
       "category": "学术论文",
       "source_kind": "arxiv",
@@ -18003,6 +18044,71 @@
       "score": 0.65
     },
     {
+      "id": "62ffbc68b01c5ab8",
+      "title": "Self-Ensembling Vision-Language Models for Chart Data Extraction",
+      "url": "https://arxiv.org/abs/2605.27298v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Charts effectively convey quantitative information, but the underlying data are often locked in image form, hindering reuse and analysis. Manually digitizing charts is time-consuming and error-prone, motivating automatic chart-to-table extraction. Recent approaches use specialized vision-language models (VLMs), yet performance still lags on charts with many datapoints or substantial stylistic variation. We propose a VLM self-ensembling method that repeatedly samples multiple tabular outputs from the same VLM for a fixed chart image and aggregates them at the level of individual table cells. We align candidate tables and take per-cell medians over numerical values to produce a more accurate consensus table. Our method also includes convergence detection to stop sampling once the aggregated table stabilizes, and uncertainty estimation based on dispersion across samples to help users assess extraction reliability. Because existing chart extraction benchmarks contain relatively simple plots with limited room for improvement, we introduce WB-ChartExtract, a new benchmark built from World Bank data with more complex and stylistically diverse charts; on average, its charts contain 7 times more datapoints than those in the ChartQA benchmark. Across both ChartQA and WB-ChartExtract, our approach improves extraction accuracy over single-pass VLM outputs, yielding up to 23% relative improvement on WB-ChartExtract after ensembling. More broadly, our method helps unlock tabular data previously siloed in chart images, enabling downstream analysis and reuse.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "Self-Ensembling Vision-语言模型 for Chart Data Extraction",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL、VLM，核心对象是 Self-Ensembling Vision-Language Models for Chart Data Extraction。",
+        "方法：摘要线索包括 Self-Ensembling、Vision-Language、WB-ChartExtract、VLMs、VLM、ChartExtract；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.65
+    },
+    {
+      "id": "6ef40fd577505dfd",
+      "title": "ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents",
+      "url": "https://arxiv.org/abs/2605.27240v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Memory-augmented language agents are increasingly deployed in affective applications such as emotional support, where understanding and responding to users' latent emotional needs is critical. However, existing research often treats memory as a tool for factual retrieval, overlooking its role in shaping users' emotional experiences. In this work, we introduce ENPMR-Bench, a benchmark for evaluating Emotional Need-aware Proactive Memory Retrieval (ENPMR), a core capability that enables agents to infer users' latent emotional needs and proactively retrieve appropriate memories to support empathetic interaction. Grounded in Maslow's hierarchy of needs, ENPMR-Bench includes over 1,800 memory-augmented dialogues and defines structured mappings between emotional needs and supportive memory types. Experimental results demonstrate that current retrieval paradigms, including both embedding-based and LLM-driven approaches, exhibit substantial deficiencies, with empathy scores significantly lagging behind golden memory conditions. While chain-of-thought prompting improves the alignment between inferred emotional needs and retrieved memories to some extent, a notable performance gap remains. Together, these findings reveal critical limitations in current agents and outline directions for advancing personalized emotional support through need-sensitive memory retrieval.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "ENPMR-Bench: 基准ing Proactive Memory Retrieval for Emotional Support 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents。",
+        "方法：摘要线索包括 ENPMR-Bench、Memory-augmented、Need-aware、LLM-driven、ENPMR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.65
+    },
+    {
       "id": "2e9f75970f7fe430",
       "title": "How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning",
       "url": "https://arxiv.org/abs/2605.27310v1",
@@ -18132,6 +18238,102 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.62
+    },
+    {
+      "id": "e85feefd3f2cd928",
+      "title": "FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents",
+      "url": "https://arxiv.org/abs/2605.27333v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Finance LLM agents must simultaneously block prompt-induced unauthorized actions and approve legitimate multi-step business workflows. However, boundary filters often miss irreversible mid-trajectory tool calls, while post-hoc LLM judges perform auditing only after termination -- too late for intervention and at a computational cost that scales linearly with trace length. We present FinHarness, an inline safety harness that wraps a finance agent end-to-end with three components: a Query Monitor that fuses single-turn intent with cross-turn drift, a Tool Monitor that evaluates each prospective tool call, and a Cascade module that integrates per-step risk and adaptively routes verification between a lightweight and an advanced-tier LLM judge. Fired risk factors are re-injected into the agent input as ex-ante evidence, enabling the agent to refuse, re-plan, or approve on its own. On FinVault, routed FinHarness cuts ASR from 38.3% to 15.0% while largely preserving benign approval ($41.1\\% \\to 39.3\\%$), and uses $4.7\\times$ fewer advanced-judge calls than an always-advanced ablation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "FinHarness: An Inline Lifecycle Safety Harness for Finance LLM 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 FinHarness: An Inline Lifecycle Safety Harness for Finance LLM Agents。",
+        "方法：摘要线索包括 LLM、ASR、FinHarness、FinVault；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.62
+    },
+    {
+      "id": "7f7b9f13feb5bbbe",
+      "title": "Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery",
+      "url": "https://arxiv.org/abs/2605.27315v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Visual inputs are often assumed to improve language understanding in multimodal models. We examine this assumption by asking whether vision-language models (VLMs) can distinguish useful visual evidence from incidental image context in lexical judgments. We use human concreteness and imagery ratings because they span words with varying expected visual relevance, from abstract and low-imagery words to concrete and high-imagery words. We find that real-image contexts do not yield consistent gains and often hurt alignment with human ratings, most sharply when visual evidence is least relevant. Through probing and canonical correlation analysis, complemented by an attribution case study, we find that real-image contexts are associated with representational shifts and greater sensitivity to spurious visual cues, coinciding with weaker recoverability of the targeted lexical properties. We further show that instructing models to focus solely on textual content at inference time can reduce this degradation, with the clearest gains on these vulnerable subsets. Our findings suggest that current instruction-tuned VLMs need better calibration of when visual context should inform lexical judgments.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "Real Images, Worse Judgments: Evaluating Vision-语言模型 on Concreteness and Imagery",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 Real Images, Worse Judgments: Evaluating Vision-Language Models on Concreteness and Imagery。",
+        "方法：摘要线索包括 Vision-Language、VLMs、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.62
+    },
+    {
+      "id": "134b3128af819db3",
+      "title": "When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech Detection",
+      "url": "https://arxiv.org/abs/2605.27313v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Demographic information is often used to model annotator perspectives in subjective tasks such as hate speech detection, but its benefit is inconsistent: it improves performance in some settings and behaves as noise in others. This paper asks when demographic features help. We analyze demographic gain as a function of both data split properties and modeling frameworks. For data splits, we measure annotator disagreement, namely how often annotators assign different labels to the same example, along with training size and train-test demographic coverage. We find that demographic gains concentrate in regimes with low training disagreement, high test disagreement, fine-grained ambiguity measurement, sufficient training data, and greater demographic overlap. Motivated by these regimes, we introduce a gated demographic residual model that treats demographics as a selective adjustment to text-only predictions. Experiments on MHS and POPQUORN show that this design is effective, especially on high disagreement or low confidence examples. Overall, our results suggest that demographics should not be assumed useful by default; their value depends jointly on the data regime and the modeling framework.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech Detection",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 When Does Demographic Information Help? Data and Modeling Regimes for Perspective-Aware Hate Speech 。",
+        "方法：摘要线索包括 Perspective-Aware、MHS、POPQUORN；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.62
     },
     {
@@ -18293,6 +18495,36 @@
       "score": 0.5773
     },
     {
+      "id": "7f966e74390df5db",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-05-27",
+      "abstract": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Election information and safeguards in 2026",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Election information and safeguards in 2026。",
+        "内容要点：Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "d8f17f1fc3b9d469",
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -18317,66 +18549,6 @@
         "OpenAI News 的这条更新聚焦：OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership。",
         "内容要点：OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
         "关键词：UOL、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "8b179a06b54c1a7f",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Ramp engineers accelerate code review with Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
-        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "ba8a2333fed3d018",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-05-27",
-      "abstract": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：An OpenAI model has disproved a central conjecture in discrete geometry。",
-        "内容要点：An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-        "关键词：AI-driven。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
@@ -18410,6 +18582,66 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "ba8a2333fed3d018",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-05-27",
+      "abstract": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：An OpenAI model has disproved a central conjecture in discrete geometry。",
+        "内容要点：An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+        "关键词：AI-driven。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "8b179a06b54c1a7f",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Ramp engineers accelerate code review with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
+        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.5667
     },
     {
@@ -18503,36 +18735,6 @@
       "score": 0.5667
     },
     {
-      "id": "010eaa918057f7cc",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How business operations teams use Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How business operations teams use Codex。",
-        "内容要点：See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "c8df58dd6f1f2e25",
       "title": "A new personal finance experience in ChatGPT",
       "url": "https://openai.com/index/personal-finance-chatgpt",
@@ -18563,36 +18765,6 @@
       "score": 0.5667
     },
     {
-      "id": "400eda3eb29cf22a",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-27",
-      "abstract": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How sales teams use Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How sales teams use Codex。",
-        "内容要点：See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "c2ad981788bad5a5",
       "title": "How data science teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -18617,6 +18789,66 @@
         "OpenAI News 的这条更新聚焦：How data science teams use Codex。",
         "内容要点：See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
         "关键词：KPI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "010eaa918057f7cc",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How business operations teams use Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How business operations teams use Codex。",
+        "内容要点：See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "400eda3eb29cf22a",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-27",
+      "abstract": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How sales teams use Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How sales teams use Codex。",
+        "内容要点：See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
@@ -18863,36 +19095,6 @@
       "score": 0.5667
     },
     {
-      "id": "30b8e0c99d5d0872",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-05-27",
-      "abstract": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI launches DeployCo to help businesses build around intelligence。",
-        "内容要点：OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-        "关键词：AI、DeployCo。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -18951,6 +19153,37 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5667
+    },
+    {
+      "id": "2fa2a915471d419e",
+      "title": "Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics",
+      "url": "https://arxiv.org/abs/2605.27296v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Large Language Models (LLMs) are increasingly deployed in diverse cultural contexts, yet their ability to master aesthetic stylistics, i.e., the strategic use of language to evoke cultural resonance, remains underexplored. We curate C4STYLI, a benchmark of highly stylized translated movie titles and advertising slogans from Hong Kong and the Chinese Mainland, to evaluate LLMs via the lens of behavioral recognition and productive competence. Extensive evaluations show that LLMs differ from humans in stylistic recognition, and this recognition ability varies across text domains. In addition, stylistic recognition and generation performance in LLMs are not consistently aligned. To further examine whether LLMs genuinely capture stylistic information in stylistic recognition, we conduct structural ablation with logistic regression probes. We find that, in the Hong Kong setting, stylistic recognition in LLMs relies primarily on surface-level linguistic information rather than stylistic structure. This suggests limited sensitivity to Hong Kong-specific stylistic structure.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Probing Cultural Awareness in LLMs: A Case Study of Cross-Culture Aesthetic Stylistics。",
+        "方法：摘要线索包括 Cross-Culture、Kong-specific、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5633
     },
     {
       "id": "431a81f0050f27a5",
@@ -19418,6 +19651,37 @@
       "score": 0.5033
     },
     {
+      "id": "280fff429c607da2",
+      "title": "Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs",
+      "url": "https://arxiv.org/abs/2605.27255v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Long chain-of-thought reasoning has made autoregressive decoding the dominant inference cost of modern large language models. Existing methods target either the input side (latent compression) or the output side (speculative decoding and multi-token prediction, MTP), but the two lines of work have been pursued independently. Moreover, output-side methods must incur an expensive verifier pass to validate the unreliable draft tokens predicted by MTP. To address these issues, we propose \\textbf{Pair-In, Pair-Out (PIPO)}, which unifies both sides by viewing a latent compressor and an MTP head as mirror-image operations: the compressor folds two input tokens into one latent representation, while the MTP head unfolds one hidden state into one additional output token. To remove the verifier cost without sacrificing reliability, PIPO trains a lightweight confidence head that decides whether draft tokens should be accepted. We observe that On-Policy Distillation (OPD) naturally matches the rejection-sampling criterion of speculative decoding, so the confidence head can be trained alongside OPD with negligible extra cost. Experiments on AIME 2025, GPQA-Diamond, LiveCodeBench v6, and LongBench v2 with Qwen3.5-4B and 9B backbones show that PIPO improves pass@4 over regular decoding by up to $+7.15$ points, while delivering up to $2.64\\times$ first-token-latency and $2.07\\times$ per-token-latency speedups.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs。",
+        "方法：摘要线索包括 Pair-In、Pair-Out、Multi-Token、On-Policy、GPQA-Diamond、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5033
+    },
+    {
       "id": "b4246b3e07e610f9",
       "title": "Generative Animations: A Multi-Model Pipeline for Prompt-Driven Motion Synthesis",
       "url": "https://arxiv.org/abs/2605.27203v1",
@@ -19509,6 +19773,36 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.5033
+    },
+    {
+      "id": "b9146f2c06c0641f",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-05-27",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: keeping up with AI, and the future of IVF",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: keeping up with AI, and the future of IVF。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless th...",
+        "关键词：AI、IVF、MIT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
     },
     {
       "id": "bfc1ea67cf7eeb13",
@@ -19871,6 +20165,36 @@
       "score": 0.4167
     },
     {
+      "id": "b03ad18f6d9eb1f1",
+      "title": "Gumbel Machine: Counterfactual Student Writing Generation via Gumbel Noise Steering",
+      "url": "https://arxiv.org/abs/2605.27249v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "An effective method of teaching across disciplines is to provide examples of high-quality work. However, an example may be significantly different from a student's current work, making it challenging for them to emulate. An ideal learning demonstration is a counterfactual version of the student work, an improved version that is still similar to their own. Existing automated approaches for counterfactual text generation using Large Language Models (LLMs) result in domain-specific systems that are difficult to translate into practical applications. We present the Gumbel Machine, a flexible, modular approach to generating counterfactuals that leverages LLM instruction-following capabilities while encouraging similarity to a reference factual text. Central to our approach is a novel, controlled decoding algorithm, $β$-Hindsight control, which uses latent randomness as a tunable similarity control mechanism during counterfactual generation. Experiments on datasets of student writing, scored on various criteria, demonstrate the effectiveness of our approach at generating counterfactuals both rubric-consistent and similar to a reference.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Gumbel Machine: Counterfactual Student Writing Generation via Gumbel Noise Steering",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Gumbel Machine: Counterfactual Student Writing Generation via Gumbel Noise Steering。",
+        "方法：摘要线索包括 LLMs、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4167
+    },
+    {
       "id": "2e0f686e5384a588",
       "title": "Model discovery for dynamical systems with complex-valued product units",
       "url": "https://arxiv.org/abs/2605.27158v1",
@@ -19984,6 +20308,36 @@
       "summary_zh": [
         "问题：这条内容聚焦 LLM，核心对象是 Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)。",
         "方法：摘要线索包括 LLMs、WCS；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3867
+    },
+    {
+      "id": "01c202416ecdd3eb",
+      "title": "Separating Semantic Competition from Context Length in RAG Reading",
+      "url": "https://arxiv.org/abs/2605.27294v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "Retrieval-augmented generation (RAG) systems can respond incorrectly even when the correct passage was retrieved. The model must still read the retrieved passages and identify which one contains the answer among others that look relevant. This passage-reading model is called the reader. Does it fail simply because the context is longer or because the other passages genuinely compete with the correct one? We introduce and demonstrate a matched-control protocol for RAG reading: we keep the number and length of passages fixed, but replace hard competitors with less competitive real passages. We apply this control across two compact open models on SQuAD. This replacement partially restores performance, with the strongest effects on F1 and answer inclusion. For Phi-2, this recovers +6.0 EM points, +7.0 answer-inclusion points, and +0.057 F1. For Qwen2.5-1.5B, it recovers +4.5 EM points, +9.0 answer-inclusion points, and +0.068 F1. To track how performance changes as competitors accumulate, we also report retention curves and summarize them with a right-censored half-life when the curves do not cross half-retention. Together, these results show the protocol isolates a competition effect distinct from context length, though the effect is clearer for F1 and answer inclusion than for exact match, and also varies with snippet length.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Separating Semantic Competition from Context Length in RAG Reading",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Separating Semantic Competition from Context Length in RAG Reading。",
+        "方法：摘要线索包括 Retrieval-augmented、Phi-2、RAG、SQuAD、EM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -20133,34 +20487,6 @@
       "score": 0.38
     },
     {
-      "id": "dd23ca51a8223626",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-05-21",
-      "abstract": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Anthropic’s Code with Claude showed off coding’s future—whether you like it or not。",
-        "内容要点：The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
       "id": "788eb88b56e94335",
       "title": "Probabilistic Smoothing with Ratio-Monotone Transforms for Global Optimization",
       "url": "https://arxiv.org/abs/2605.27316v1",
@@ -20187,6 +20513,34 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.3
+    },
+    {
+      "id": "4efd6bfa41e91890",
+      "title": "Semantic Gradients Interactions in SSD: A Case Study in Racial Identity and Hate Speech",
+      "url": "https://arxiv.org/abs/2605.27322v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-05-26",
+      "abstract": "We introduce interaction SSD, an extension of Supervised Semantic Differential that models how semantic meaning varies across moderators such as groups, traits, or conditions making this variation testable and interpretable. The method estimates a main semantic gradient, an interaction gradient, and conditional gradients, all interpretable through standard SSD tools. We illustrate it on the UC Berkeley Measuring Hate Speech corpus, testing whether annotator racial identity moderates hate-speech judgments of comments targeting people of color. The interaction model detects a significant moderation effect: the shared gradient contrasts dehumanizing hostility with counter-speech, while the interaction gradient reveals smaller group-linked differences in which semantic cues predict hate-speech ratings. Interaction SSD makes moderated meaning-outcome relationships statistically testable and interpretable.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [],
+      "title_zh": "Semantic Gradients Interactions in SSD: A Case Study in Racial Identity and Hate Speech",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Semantic Gradients Interactions in SSD: A Case Study in Racial Identity and Hate Speech。",
+        "方法：摘要线索包括 SSD、UC；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.27
     },
     {
       "id": "60e6cd587b351c39",
