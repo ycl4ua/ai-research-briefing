@@ -6,7 +6,8 @@
       "tier": 1,
       "category": "学术论文",
       "venue_id": "ICLR.cc/2025/Conference",
-      "max_results": 30
+      "max_results": 30,
+      "default_topics": ["Computer Vision"]
     },
     {
       "name": "ICML 2025 Accepted",
@@ -14,7 +15,8 @@
       "tier": 1,
       "category": "学术论文",
       "venue_id": "ICML.cc/2025/Conference",
-      "max_results": 30
+      "max_results": 30,
+      "default_topics": ["Computer Vision"]
     },
     {
       "name": "NeurIPS 2025 Accepted",
@@ -22,7 +24,47 @@
       "tier": 1,
       "category": "学术论文",
       "venue_id": "NeurIPS.cc/2025/Conference",
-      "max_results": 30
+      "max_results": 30,
+      "default_topics": ["Computer Vision"]
+    },
+    {
+      "name": "MICCAI 2025 Accepted",
+      "type": "miccai",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://papers.miccai.org/miccai-2025/",
+      "max_results": 60,
+      "default_topics": ["AI for Health", "Medical AI", "Computer Vision", "VLM"]
+    },
+    {
+      "name": "CVPR 2025 Accepted",
+      "type": "cvf",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://openaccess.thecvf.com/CVPR2025?day=all",
+      "venue": "CVPR 2025",
+      "max_results": 80,
+      "default_topics": ["Computer Vision", "VLM"]
+    },
+    {
+      "name": "ICCV 2025 Accepted",
+      "type": "cvf",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://openaccess.thecvf.com/ICCV2025?day=all",
+      "venue": "ICCV 2025",
+      "max_results": 80,
+      "default_topics": ["Computer Vision", "VLM"]
+    },
+    {
+      "name": "ECCV 2024 Accepted",
+      "type": "ecva",
+      "tier": 1,
+      "category": "学术论文",
+      "url": "https://eccv2024.ecva.net/virtual/2024/papers.html",
+      "venue": "ECCV 2024",
+      "max_results": 80,
+      "default_topics": ["Computer Vision", "VLM"]
     },
     {
       "name": "arXiv cs.AI",

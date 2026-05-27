@@ -8,6 +8,7 @@
     "VLM",
     "AI Agent",
     "Agent Skills / MCP / Tool Use",
+    "Computer Vision",
     "RL",
     "AI for Health",
     "Medical AI",
@@ -19,6 +20,7 @@
     "VLM": ["vision-language", "multimodal", "VLM", "image-text", "visual reasoning"],
     "AI Agent": ["agent", "agentic", "multi-agent", "tool use", "planning", "workflow"],
     "Agent Skills / MCP / Tool Use": ["skill", "skills", "MCP", "model context protocol", "tool calling", "tool-use", "Codex", "Claude Code", "LangGraph"],
+    "Computer Vision": ["computer vision", "CVPR", "ICCV", "ECCV", "MICCAI", "image", "video", "vision", "segmentation", "detection", "recognition", "diffusion", "3D", "visual"],
     "RL": ["reinforcement learning", "RL", "policy optimization", "reward model", "bandit"],
     "AI for Health": ["health", "healthcare", "clinical", "biomedical", "medical"],
     "Medical AI": ["radiology", "pathology", "EHR", "clinical trial", "diagnosis", "medical imaging"],
@@ -53,4 +55,3 @@
     "citations": 0.1
   }
 }
-

@@ -7,6 +7,7 @@ const topics = [
   "VLM",
   "AI Agent",
   "Skills / MCP",
+  "Computer Vision",
   "RL",
   "AI4Health",
   "GNN",
@@ -71,6 +72,9 @@ function itemMatches(item) {
   if (state.topic === "Saved") {
     return state.feedback[item.id]?.saved;
   }
+  if (state.topic === "Computer Vision" && item.source_kind === "conference") {
+    return !state.query || haystack.includes(state.query.toLowerCase());
+  }
   if (state.topic !== "全部" && !tags.includes(state.topic) && item.category !== state.topic) {
     return false;
   }
@@ -87,6 +91,16 @@ function filtered(items) {
 }
 
 function modeLists() {
+  if (state.topic !== "全部" && state.topic !== "Saved") {
+    return {
+      top: state.digest.all_items || [...(state.digest.top_10 || []), ...(state.digest.more_20 || [])],
+      more: [],
+      primaryHeading: state.topic,
+      primaryHint: "从全量候选里筛选，不只限于今日首页的 30 条。",
+      secondaryHeading: "",
+      secondaryHint: ""
+    };
+  }
   if (state.mode === "latest") {
     return {
       top: state.digest.latest_items || [],

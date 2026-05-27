@@ -124,6 +124,7 @@ def feed_item(source: dict, title: str, abstract: str, published: str, url: str)
         "source_tier": source.get("tier", 2),
         "category": source.get("category", "学术新闻"),
         "source_kind": source.get("type", "web"),
+        "topics": source_topics(source),
         "published": published,
         "abstract": abstract,
         "citations": {"semantic_scholar": None, "openalex": None},
@@ -148,25 +149,39 @@ def collect_items(sources: dict, include_network: bool = True) -> list[dict]:
     if include_network:
         for group in sources.values():
             for source in group:
-                if source.get("type") not in {"arxiv", "rss", "web", "openreview"}:
+                if source.get("type") not in {"arxiv", "rss", "web", "openreview", "cvf", "miccai", "ecva"}:
                     continue
                 try:
                     if source["type"] == "openreview":
                         items.extend(fetch_openreview(source))
                         continue
+                    if source["type"] == "cvf":
+                        items.extend(fetch_cvf(source))
+                        continue
+                    if source["type"] == "miccai":
+                        items.extend(fetch_miccai(source))
+                        continue
+                    if source["type"] == "ecva":
+                        items.extend(fetch_ecva(source))
+                        continue
                     body = fetch_text(source["url"])
                     if source["type"] == "arxiv":
-                        items.extend(parse_arxiv(source, body))
+                        source_items = parse_arxiv(source, body)
                     elif source["type"] == "rss":
-                        items.extend(parse_feed(source, body))
+                        source_items = parse_feed(source, body)
                     else:
-                        items.append(parse_web_page(source, body))
+                        source_items = [parse_web_page(source, body)]
+                    items.extend(source_items[: source.get("max_results", 30)])
                 except (urllib.error.URLError, TimeoutError, ET.ParseError, ValueError) as exc:
                     print(f"warn: skipped {source['name']}: {exc}", file=sys.stderr)
 
     if not items:
         items = read_json(DATA / "sample_items.json")
     return items
+
+
+def source_topics(source: dict) -> list[str]:
+    return list(source.get("default_topics") or [])
 
 
 def content_value(content: dict, field: str, default=""):
@@ -214,6 +229,7 @@ def fetch_openreview(source: dict) -> list[dict]:
                 "source_kind": "conference",
                 "accepted": True,
                 "venue": venue,
+                "topics": source_topics(source),
                 "published": date_from_ms(note.get("pdate") or note.get("mdate") or note.get("cdate")),
                 "abstract": abstract,
                 "citations": {"semantic_scholar": None, "openalex": None},
@@ -221,6 +237,116 @@ def fetch_openreview(source: dict) -> list[dict]:
             }
         )
     return items
+
+
+def fetch_cvf(source: dict) -> list[dict]:
+    body = fetch_text(source["url"])
+    pattern = re.compile(
+        r'<dt class="ptitle">.*?<a href="(?P<href>[^"]+)">(?P<title>.*?)</a></dt>',
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    items: list[dict] = []
+    for match in pattern.finditer(body):
+        if len(items) >= source.get("max_results", 50):
+            break
+        title = clean_text(match.group("title"))
+        href = urllib.parse.urljoin(source["url"], match.group("href"))
+        if not title or title.lower() in {"list of papers"}:
+            continue
+        items.append(
+            {
+                "id": stable_id(source["name"], title, href),
+                "title": title,
+                "url": href,
+                "source": source["name"],
+                "source_tier": source.get("tier", 1),
+                "category": source.get("category", "学术论文"),
+                "source_kind": "conference",
+                "accepted": True,
+                "venue": source.get("venue", source["name"]),
+                "topics": source_topics(source),
+                "published": f"{conference_year(source)}-01-01",
+                "abstract": f"Accepted paper from {source.get('venue', source['name'])}. {title}",
+                "citations": {"semantic_scholar": None, "openalex": None},
+                "signals": {"hotness": 0.72},
+            }
+        )
+    return items
+
+
+def fetch_miccai(source: dict) -> list[dict]:
+    body = fetch_text(source["url"])
+    pattern = re.compile(
+        r"<b>(?P<title>.*?)</b>.*?<a href=\"(?P<href>/miccai-2025/[^\"#]+?Paper[^\"#]+?\.html)\">Paper Information and Reviews</a>",
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    items: list[dict] = []
+    for match in pattern.finditer(body):
+        if len(items) >= source.get("max_results", 50):
+            break
+        title = clean_text(match.group("title"))
+        href = urllib.parse.urljoin(source["url"], match.group("href"))
+        if not title:
+            continue
+        items.append(
+            {
+                "id": stable_id(source["name"], title, href),
+                "title": title,
+                "url": href,
+                "source": source["name"],
+                "source_tier": source.get("tier", 1),
+                "category": source.get("category", "学术论文"),
+                "source_kind": "conference",
+                "accepted": True,
+                "venue": "MICCAI 2025",
+                "topics": source_topics(source),
+                "published": "2025-10-01",
+                "abstract": f"Accepted MICCAI 2025 medical image computing paper. {title}",
+                "citations": {"semantic_scholar": None, "openalex": None},
+                "signals": {"hotness": 0.78},
+            }
+        )
+    return items
+
+
+def fetch_ecva(source: dict) -> list[dict]:
+    body = fetch_text(source["url"])
+    pattern = re.compile(
+        r'<li><a href="(?P<href>/virtual/2024/poster/\d+)">(?P<title>.*?)</a></li>',
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    items: list[dict] = []
+    for match in pattern.finditer(body):
+        if len(items) >= source.get("max_results", 50):
+            break
+        title = clean_text(match.group("title"))
+        href = urllib.parse.urljoin(source["url"], match.group("href"))
+        if not title:
+            continue
+        items.append(
+            {
+                "id": stable_id(source["name"], title, href),
+                "title": title,
+                "url": href,
+                "source": source["name"],
+                "source_tier": source.get("tier", 1),
+                "category": source.get("category", "学术论文"),
+                "source_kind": "conference",
+                "accepted": True,
+                "venue": source.get("venue", source["name"]),
+                "topics": source_topics(source),
+                "published": "2024-10-01",
+                "abstract": f"Accepted paper from {source.get('venue', source['name'])}. {title}",
+                "citations": {"semantic_scholar": None, "openalex": None},
+                "signals": {"hotness": 0.7},
+            }
+        )
+    return items
+
+
+def conference_year(source: dict) -> str:
+    match = re.search(r"(20\d{2})", source.get("venue", "") or source.get("name", ""))
+    return match.group(1) if match else str(dt.date.today().year)
 
 
 def parse_web_page(source: dict, body: str) -> dict:
@@ -431,6 +557,7 @@ def build_digest(include_network: bool = True) -> dict:
     )
     latest_ranked = dedupe(latest_arxiv + latest_other)
     paper_ranked = [item for item in today_ranked if item.get("source_kind") in {"conference", "arxiv"}]
+    academic_news_ranked = [item for item in ranked if item.get("category") == "学术新闻"]
     limits = profile["daily_limits"]
     now = dt.datetime.now().replace(microsecond=0).isoformat()
     return {
@@ -441,6 +568,8 @@ def build_digest(include_network: bool = True) -> dict:
         "more_20": today_ranked[limits["top"] : limits["top"] + limits["more"]],
         "latest_items": latest_ranked[: limits["top"] + limits["more"]],
         "paper_items": paper_ranked[: limits["top"] + limits["more"]],
+        "academic_news_items": academic_news_ranked[: limits["top"] + limits["more"]],
+        "all_items": ranked,
     }
 
 
