@@ -1,7 +1,7 @@
 {
-  "title": "2026-05-29 AI Research Briefing",
+  "title": "2026-05-30 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-05-29T18:11:41",
+  "generated_at": "2026-05-30T16:03:04",
   "top_10": [
     {
       "id": "0f943da22c3412d1",
@@ -3216,6 +3216,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "b9146f2c06c0641f",
       "title": "The Download: keeping up with AI, and the future of IVF",
       "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
@@ -3243,37 +3273,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-29",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "bfc1ea67cf7eeb13",
@@ -3344,7 +3344,7 @@
       "category": "学术新闻",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Weekly AI news for engineers, executives, and enthusiasts.",
       "citations": {
         "semantic_scholar": null,
@@ -3405,7 +3405,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "citations": {
         "semantic_scholar": null,
@@ -3436,7 +3436,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3456,37 +3456,6 @@
       "score": 0.6833
     },
     {
-      "id": "e24b198458f4b18b",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use",
-        "LLM"
-      ],
-      "published": "2026-05-29",
-      "abstract": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Virgin Atlantic ships faster with Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Virgin Atlantic ships faster with Codex。",
-        "内容要点：How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-        "指标/证据：near-total, zero P1。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
       "id": "2a7c423efc91bb90",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -3498,7 +3467,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -3518,6 +3487,37 @@
       "score": 0.6833
     },
     {
+      "id": "e24b198458f4b18b",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "LLM"
+      ],
+      "published": "2026-05-30",
+      "abstract": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Virgin Atlantic ships faster with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Virgin Atlantic ships faster with Codex。",
+        "内容要点：How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+        "指标/证据：near-total, zero P1。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
       "id": "936825df563d188f",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
@@ -3529,7 +3529,7 @@
         "AI Agent",
         "AI for Health"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "citations": {
         "semantic_scholar": null,
@@ -3560,7 +3560,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3591,7 +3591,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "citations": {
         "semantic_scholar": null,
@@ -3622,7 +3622,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Introducing Agent Skills | Claude",
       "citations": {
         "semantic_scholar": null,
@@ -3652,7 +3652,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
       "citations": {
         "semantic_scholar": null,
@@ -3682,7 +3682,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3712,7 +3712,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "citations": {
         "semantic_scholar": null,
@@ -3742,7 +3742,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "citations": {
         "semantic_scholar": null,
@@ -3762,6 +3762,36 @@
       "score": 0.5667
     },
     {
+      "id": "4447fb08ebbf2675",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Braintrust turns customer requests into code with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Braintrust turns customer requests into code with Codex。",
+        "内容要点：How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "fc2e4d2a22df9584",
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
@@ -3772,7 +3802,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "citations": {
         "semantic_scholar": null,
@@ -3792,36 +3822,6 @@
       "score": 0.5667
     },
     {
-      "id": "1c3e8b16204b13dd",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-05-29",
-      "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "MUFG aims to become AI-native with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：MUFG aims to become AI-native with OpenAI。",
-        "内容要点：MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-        "关键词：AI-native、AI-powered、MUFG、ChatGPT。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "651273dee683f8d5",
       "title": "OpenAI’s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -3832,7 +3832,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "citations": {
         "semantic_scholar": null,
@@ -3852,6 +3852,36 @@
       "score": 0.5667
     },
     {
+      "id": "1c3e8b16204b13dd",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-05-30",
+      "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "MUFG aims to become AI-native with OpenAI",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：MUFG aims to become AI-native with OpenAI。",
+        "内容要点：MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+        "关键词：AI-native、AI-powered、MUFG、ChatGPT。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "b621f15c13637672",
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "url": "https://openai.com/index/cisco",
@@ -3862,7 +3892,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "citations": {
         "semantic_scholar": null,
@@ -3892,7 +3922,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "citations": {
         "semantic_scholar": null,
@@ -3922,7 +3952,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "citations": {
         "semantic_scholar": null,
@@ -3942,36 +3972,6 @@
       "score": 0.5667
     },
     {
-      "id": "8b179a06b54c1a7f",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-29",
-      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Ramp engineers accelerate code review with Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
-        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "ba8a2333fed3d018",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -3982,7 +3982,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "citations": {
         "semantic_scholar": null,
@@ -4012,7 +4012,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -4032,6 +4032,36 @@
       "score": 0.5667
     },
     {
+      "id": "8b179a06b54c1a7f",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Ramp engineers accelerate code review with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
+        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "36dde2a3fa22bcbd",
       "title": "Introducing OpenAI for Singapore",
       "url": "https://openai.com/index/introducing-openai-for-singapore",
@@ -4042,7 +4072,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4072,7 +4102,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
       "citations": {
         "semantic_scholar": null,
@@ -4102,7 +4132,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "citations": {
         "semantic_scholar": null,
@@ -4122,36 +4152,6 @@
       "score": 0.5667
     },
     {
-      "id": "c2ad981788bad5a5",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-29",
-      "abstract": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How data science teams use Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How data science teams use Codex。",
-        "内容要点：See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-        "关键词：KPI。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "010eaa918057f7cc",
       "title": "How business operations teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
@@ -4162,7 +4162,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -4182,36 +4182,6 @@
       "score": 0.5667
     },
     {
-      "id": "c8df58dd6f1f2e25",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-05-29",
-      "abstract": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "A new personal finance experience in ChatGPT",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：A new personal finance experience in ChatGPT。",
-        "内容要点：Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-        "关键词：AI-powered、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "400eda3eb29cf22a",
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
@@ -4222,7 +4192,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -4242,6 +4212,66 @@
       "score": 0.5667
     },
     {
+      "id": "c8df58dd6f1f2e25",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-05-30",
+      "abstract": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A new personal finance experience in ChatGPT",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：A new personal finance experience in ChatGPT。",
+        "内容要点：Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+        "关键词：AI-powered、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "c2ad981788bad5a5",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How data science teams use Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How data science teams use Codex。",
+        "内容要点：See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+        "关键词：KPI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "58d94173b1903883",
       "title": "Work with Codex from anywhere",
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
@@ -4252,7 +4282,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
       "citations": {
         "semantic_scholar": null,
@@ -4269,36 +4299,6 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "fb4593d68b631ddc",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-05-29",
-      "abstract": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Helping ChatGPT better recognize context in sensitive conversations",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Helping ChatGPT better recognize context in sensitive conversations。",
-        "内容要点：Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5667
     }
   ],
@@ -9356,6 +9356,314 @@
       "score": 1.472
     },
     {
+      "id": "59576549686246b3",
+      "title": "ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1530",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 ItTakesTwo: Leveraging Peer Representations for Semi-supervised LiDAR Semantic Segmentation。",
+        "方法：摘要线索包括 Semi-supervised、ECCV、ItTakesTwo；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "61b82a4946d9dab0",
+      "title": "BRAVE: Broadening the visual encoding of vision-language models",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2001",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. BRAVE: Broadening the visual encoding of vision-language models",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "BRAVE: Broadening the visual encoding of vision-语言模型",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 BRAVE: Broadening the visual encoding of vision-language models。",
+        "方法：摘要线索包括 BRAVE、ECCV、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "d0d144d0fab4df7f",
+      "title": "Contrastive ground-level image and remote sensing pre-training improves representation learning for natural world imagery",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/353",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "RL",
+        "Self-Supervised Learning",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Contrastive ground-level image and remote sensing pre-training improves representation learning for natural world imagery",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Contrastive ground-level image and remote sensing pre-training improves representation learning for natural world imagery",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL、Self-Supervised Learning、VLM，核心对象是 Contrastive ground-level image and remote sensing pre-training improves representation learning for 。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "0cf6ec705a717a35",
+      "title": "Merlin: Empowering Multimodal LLMs with Foresight Minds",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1827",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Merlin: Empowering Multimodal LLMs with Foresight Minds",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Merlin: Empowering Multimodal LLMs with Foresight Minds",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL、VLM，核心对象是 Merlin: Empowering Multimodal LLMs with Foresight Minds。",
+        "方法：摘要线索包括 LLMs、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "8677a01dcd6ece1c",
+      "title": "Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1496",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation。",
+        "方法：摘要线索包括 Image-to-Text、LLMs、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "5bc6c6a59d09fa00",
+      "title": "Textual-Visual Logic Challenge: Understanding and Reasoning in Text-to-Image Generation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/763",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Textual-Visual Logic Challenge: Understanding and Reasoning in Text-to-Image Generation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Textual-Visual Logic Challenge: Understanding and Reasoning in Text-to-Image Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 Textual-Visual Logic Challenge: Understanding and Reasoning in Text-to-Image Generation。",
+        "方法：摘要线索包括 Textual-Visual、Text-to-Image、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "b14e77ae833519e7",
+      "title": "Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1174",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "Self-Supervised Learning",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Towards Latent Masked Image Modeling for 自监督 Visual Representation Learning",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、Self-Supervised Learning、VLM，核心对象是 Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning。",
+        "方法：摘要线索包括 Self-Supervised、ECCV、self-supervised；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "e1bb3b342565be85",
+      "title": "X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1118",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs。",
+        "方法：摘要线索包括 MLLMs、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
+      "id": "9028343e5ad68a26",
+      "title": "Revisiting Supervision for Continual Representation Learning",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1203",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "Self-Supervised Learning",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Revisiting Supervision for Continual Representation Learning",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Revisiting Supervision for Continual Representation Learning",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、Self-Supervised Learning、VLM，核心对象是 Revisiting Supervision for Continual Representation Learning。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.47
+    },
+    {
       "id": "28b9588f35b8b59c",
       "title": "Robust Root Cause Diagnosis using In-Distribution Interventions",
       "url": "https://openreview.net/forum?id=l11DZY5Nxu",
@@ -9651,6 +9959,72 @@
       "why_it_matters": "它已经被 ICCV 2025 接收，比普通 arXiv 预印本更值得优先检查。",
       "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
       "score": 1.4153
+    },
+    {
+      "id": "9ee8f47a7fef6ca6",
+      "title": "MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2064",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "MSD: A 基准 Dataset for Floor Plan Generation of Building Complexes",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 MSD: A Benchmark Dataset for Floor Plan Generation of Building Complexes。",
+        "方法：摘要线索包括 MSD、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.4133
+    },
+    {
+      "id": "dd6dbc4c11c41673",
+      "title": "When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/236",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and 基准 Dataset",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 When Pedestrian Detection Meets Multi-Modal Learning: Generalist Model and Benchmark Dataset。",
+        "方法：摘要线索包括 Multi-Modal、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.4133
     },
     {
       "id": "8411a751bdc57f3b",
@@ -10113,6 +10487,72 @@
       "why_it_matters": "它已经被 ICCV 2025 接收，比普通 arXiv 预印本更值得优先检查。",
       "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
       "score": 1.3853
+    },
+    {
+      "id": "d9d0c18d33e89e2f",
+      "title": "HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2123",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "HIMO: A New 基准 for Full-Body Human Interacting with Multiple Objects",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects。",
+        "方法：摘要线索包括 Full-Body、HIMO、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3833
+    },
+    {
+      "id": "a331f5601f982aa5",
+      "title": "HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/197",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "HumanRefiner: 基准ing Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversibl。",
+        "方法：摘要线索包括 Coarse-to-fine、Pose-Reversible、ECCV、HumanRefiner；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3833
     },
     {
       "id": "9c301bd0af7a7ed5",
@@ -14240,6 +14680,2217 @@
       "score": 1.3553
     },
     {
+      "id": "ad0b9b1a0bf6319e",
+      "title": "4D Contrastive Superflows are Dense 3D Representation Learners",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/238",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. 4D Contrastive Superflows are Dense 3D Representation Learners",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "4D Contrastive Superflows are Dense 3D Representation Learners",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 4D Contrastive Superflows are Dense 3D Representation Learners。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "0c3599942be0e9f8",
+      "title": "Octopus: Embodied Vision-Language Programmer from Environmental Feedback",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1486",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Octopus: Embodied Vision-Language Programmer from Environmental Feedback",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Octopus: Embodied 视觉语言 Programmer from Environmental Feedback",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Octopus: Embodied Vision-Language Programmer from Environmental Feedback。",
+        "方法：摘要线索包括 Vision-Language、ECCV、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "2e5807c575a95766",
+      "title": "Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1723",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Weakly Supervised 3D Object Detection via Multi-Level Visual Guidance。",
+        "方法：摘要线索包括 Multi-Level、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "0ad2179d8f152f8a",
+      "title": "Modeling and Driving Human Body Soundfields through Acoustic Primitives",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1280",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Modeling and Driving Human Body Soundfields through Acoustic Primitives",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Modeling and Driving Human Body Soundfields through Acoustic Primitives",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Modeling and Driving Human Body Soundfields through Acoustic Primitives。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "93f57e81aac40327",
+      "title": "Motion Mamba: Efficient and Long Sequence Motion Generation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/655",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Motion Mamba: Efficient and Long Sequence Motion Generation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Motion Mamba: Efficient and Long Sequence Motion Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Motion Mamba: Efficient and Long Sequence Motion Generation。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "f1e5590275d7cf53",
+      "title": "Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1640",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation。",
+        "方法：摘要线索包括 Tri-plane、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "a132bb6713734d47",
+      "title": "SAGS: Structure-Aware 3D Gaussian Splatting",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1304",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. SAGS: Structure-Aware 3D Gaussian Splatting",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "SAGS: Structure-Aware 3D Gaussian Splatting",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 SAGS: Structure-Aware 3D Gaussian Splatting。",
+        "方法：摘要线索包括 Structure-Aware、SAGS、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "eb13d1df70368da7",
+      "title": "Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1408",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing。",
+        "方法：摘要线索包括 Guide-and-Rescale、Self-Guidance、Tuning-Free、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "0f31f64a92b363f7",
+      "title": "3DGazeNet: Generalizing Gaze Estimation with Weak Supervision from Synthetic Views",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2247",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. 3DGazeNet: Generalizing Gaze Estimation with Weak Supervision from Synthetic Views",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "3DGazeNet: Generalizing Gaze Estimation with Weak Supervision from Synthetic Views",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 3DGazeNet: Generalizing Gaze Estimation with Weak Supervision from Synthetic Views。",
+        "方法：摘要线索包括 ECCV、3DGazeNet；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "4cc026e2b427d48d",
+      "title": "Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1393",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs。",
+        "方法：摘要线索包括 Multi-Modal、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "2fbb15a80d23a595",
+      "title": "Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1051",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesi。",
+        "方法：摘要线索包括 Super-Resolution、Temporally-Consistent、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "afbb3b35cebeb5c7",
+      "title": "Disentangling Masked Autoencoders for Unsupervised Domain Generalization",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/836",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Disentangling Masked Autoencoders for Unsupervised Domain Generalization",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Disentangling Masked Autoencoders for Unsupervised Domain Generalization",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Disentangling Masked Autoencoders for Unsupervised Domain Generalization。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "d07cc462696f5d7c",
+      "title": "SemGrasp: Semantic Grasp Generation via Language Aligned Discretization",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1361",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. SemGrasp: Semantic Grasp Generation via Language Aligned Discretization",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "SemGrasp: Semantic Grasp Generation via Language Aligned Discretization",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 SemGrasp: Semantic Grasp Generation via Language Aligned Discretization。",
+        "方法：摘要线索包括 ECCV、SemGrasp；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "aadf56ce262a4acf",
+      "title": "BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2577",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 BAM-DETR: Boundary-Aligned Moment Detection Transformer for Temporal Sentence Grounding in Videos。",
+        "方法：摘要线索包括 BAM-DETR、Boundary-Aligned、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "b1ac18d288a04c52",
+      "title": "Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and Efficient Action Recognition",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1470",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and Efficient Action Recognition",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and Efficient Action Recognition",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Optimizing Factorized Encoder Models: Time and Memory Reduction for Scalable and Efficient Action Re。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "4ed71100cef06ac3",
+      "title": "MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/865",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description。",
+        "方法：摘要线索包括 ECCV、MarineInst；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "b12aefcba5a79b88",
+      "title": "Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1740",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation。",
+        "方法：摘要线索包括 Motion-prior、Continuous-Time、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "63a48c1a28412670",
+      "title": "SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/914",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction。",
+        "方法：摘要线索包括 ECCV、SplatFields；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "e4c0a176dab2020b",
+      "title": "CPT-VR: Improving Surface Rendering via Closest Point Transform with View-Reflection Appearance",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/561",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. CPT-VR: Improving Surface Rendering via Closest Point Transform with View-Reflection Appearance",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "CPT-VR: Improving Surface Rendering via Closest Point Transform with View-Reflection Appearance",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 CPT-VR: Improving Surface Rendering via Closest Point Transform with View-Reflection Appearance。",
+        "方法：摘要线索包括 CPT-VR、View-Reflection、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "aa86374be39cb33a",
+      "title": "OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1364",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 OGNI-DC: Robust Depth Completion with Optimization-Guided Neural Iterations。",
+        "方法：摘要线索包括 OGNI-DC、Optimization-Guided、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "60bd116f72fa0986",
+      "title": "MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/237",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distillation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 MapDistill: Boosting Efficient Camera-based HD Map Construction via Camera-LiDAR Fusion Model Distil。",
+        "方法：摘要线索包括 Camera-based、Camera-LiDAR、HD、ECCV、MapDistill；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "1776e0d4e6b11190",
+      "title": "High-Resolution and Few-shot View Synthesis from Asymmetric Dual-lens Inputs",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2395",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. High-Resolution and Few-shot View Synthesis from Asymmetric Dual-lens Inputs",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "High-Resolution and Few-shot View Synthesis from Asymmetric Dual-lens Inputs",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 High-Resolution and Few-shot View Synthesis from Asymmetric Dual-lens Inputs。",
+        "方法：摘要线索包括 High-Resolution、Few-shot、Dual-lens、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "b310deb843000197",
+      "title": "AFreeCA: Annotation-Free Counting for All",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1135",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. AFreeCA: Annotation-Free Counting for All",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "AFreeCA: Annotation-Free Counting for All",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 AFreeCA: Annotation-Free Counting for All。",
+        "方法：摘要线索包括 Annotation-Free、AFreeCA、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "336863c03a1ae667",
+      "title": "Adversarially Robust Distillation by Reducing the Student-Teacher Variance Gap",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/845",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Adversarially Robust Distillation by Reducing the Student-Teacher Variance Gap",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Adversarially Robust Distillation by Reducing the Student-Teacher Variance Gap",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Adversarially Robust Distillation by Reducing the Student-Teacher Variance Gap。",
+        "方法：摘要线索包括 Student-Teacher、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "9820080dbfff931f",
+      "title": "LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1669",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation。",
+        "方法：摘要线索包括 LN3Diff、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "108a7d9c5b60202a",
+      "title": "Motion and Structure from Event-based Normal Flow",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2480",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Motion and Structure from Event-based Normal Flow",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Motion and Structure from Event-based Normal Flow",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Motion and Structure from Event-based Normal Flow。",
+        "方法：摘要线索包括 Event-based、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "41f8bcd1252745b0",
+      "title": "Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1366",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Hierarchical Temporal Context Learning for Camera-based Semantic Scene Completion。",
+        "方法：摘要线索包括 Camera-based、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "c7350b5f9b498590",
+      "title": "DiscoMatch: Fast Discrete Optimisation for Geometrically Consistent 3D Shape Matching",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/595",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. DiscoMatch: Fast Discrete Optimisation for Geometrically Consistent 3D Shape Matching",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "DiscoMatch: Fast Discrete Optimisation for Geometrically Consistent 3D Shape Matching",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 DiscoMatch: Fast Discrete Optimisation for Geometrically Consistent 3D Shape Matching。",
+        "方法：摘要线索包括 ECCV、DiscoMatch；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "5e87d9c625334941",
+      "title": "You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2556",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Huma。",
+        "方法：摘要线索包括 Single-Stage、Multi-Person、Multi-Task、Human-Centric、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "724267c04be4d83b",
+      "title": "Instance-dependent Noisy-label Learning with Graphical Model Based Noise-rate Estimation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1568",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Instance-dependent Noisy-label Learning with Graphical Model Based Noise-rate Estimation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Instance-dependent Noisy-label Learning with Graphical Model Based Noise-rate Estimation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Instance-dependent Noisy-label Learning with Graphical Model Based Noise-rate Estimation。",
+        "方法：摘要线索包括 Instance-dependent、Noisy-label、Noise-rate、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "56a6b9ab0cb889c8",
+      "title": "GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/831",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 GKGNet: Group K-Nearest Neighbor based Graph Convolutional Network for Multi-Label Image Recognition。",
+        "方法：摘要线索包括 Multi-Label、GKGNet、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "f0409f5140a476f1",
+      "title": "LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/939",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "4999726a098a9f1d",
+      "title": "E.T. the Exceptional Trajectory: Text-to-camera-trajectory generation with character awareness",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1401",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. E.T. the Exceptional Trajectory: Text-to-camera-trajectory generation with character awareness",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "E.T. the Exceptional Trajectory: Text-to-camera-trajectory generation with character awareness",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 E.T. the Exceptional Trajectory: Text-to-camera-trajectory generation with character awareness。",
+        "方法：摘要线索包括 Text-to-camera-trajectory、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "1827f775bf004fa5",
+      "title": "Nuvo: Neural UV Mapping for Unruly 3D Representations",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/188",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Nuvo: Neural UV Mapping for Unruly 3D Representations",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Nuvo: Neural UV Mapping for Unruly 3D Representations",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Nuvo: Neural UV Mapping for Unruly 3D Representations。",
+        "方法：摘要线索包括 UV、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "d5fc8475f3ff36bd",
+      "title": "Towards Neuro-Symbolic Video Understanding",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1979",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Towards Neuro-Symbolic Video Understanding",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Towards Neuro-Symbolic Video Understanding",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Towards Neuro-Symbolic Video Understanding。",
+        "方法：摘要线索包括 Neuro-Symbolic、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "81c99a5c2c53535a",
+      "title": "SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1342",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs。",
+        "方法：摘要线索包括 Cross-Modal、ECCV、SceneGraphLoc；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "ba86b9b1b39a4e20",
+      "title": "Improving 2D Feature Representations by 3D-Aware Fine-Tuning",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/953",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Improving 2D Feature Representations by 3D-Aware Fine-Tuning",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Improving 2D Feature Representations by 3D-Aware Fine-Tuning",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Improving 2D Feature Representations by 3D-Aware Fine-Tuning。",
+        "方法：摘要线索包括 Fine-Tuning、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "c2d1d8f3513641eb",
+      "title": "Diffusion Bridges for 3D Point Cloud Denoising",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/207",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Diffusion Bridges for 3D Point Cloud Denoising",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Diffusion Bridges for 3D Point Cloud Denoising",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Diffusion Bridges for 3D Point Cloud Denoising。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "40b4e8c1d325e0c8",
+      "title": "AttnZero: Efficient Attention Discovery for Vision Transformers",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2294",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. AttnZero: Efficient Attention Discovery for Vision Transformers",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "AttnZero: Efficient Attention Discovery for Vision Transformers",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 AttnZero: Efficient Attention Discovery for Vision Transformers。",
+        "方法：摘要线索包括 ECCV、AttnZero；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "2dbf8f63d5ef8b14",
+      "title": "Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1951",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Auto-GAS: Automated Proxy Discovery for Training-free Generative Architecture Search。",
+        "方法：摘要线索包括 Auto-GAS、Training-free、GAS、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "cf52414ee937b1b6",
+      "title": "Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1584",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Auto-DAS: Automated Proxy Discovery for Training-free Distillation-aware Architecture Search。",
+        "方法：摘要线索包括 Auto-DAS、Training-free、Distillation-aware、DAS、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "0a5873c3f2dfb963",
+      "title": "Spectral Subsurface Scattering for Material Classification",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/739",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Spectral Subsurface Scattering for Material Classification",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Spectral Subsurface Scattering for Material Classification",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Spectral Subsurface Scattering for Material Classification。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "16e1e7665b2f708c",
+      "title": "HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/893",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting。",
+        "方法：摘要线索包括 Real-Time、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "07d6dcc5539a1de1",
+      "title": "nuCraft: Crafting High Resolution 3D Semantic Occupancy for Unified 3D Scene Understanding",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/246",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. nuCraft: Crafting High Resolution 3D Semantic Occupancy for Unified 3D Scene Understanding",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "nuCraft: Crafting High Resolution 3D Semantic Occupancy for Unified 3D Scene Understanding",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 nuCraft: Crafting High Resolution 3D Semantic Occupancy for Unified 3D Scene Understanding。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "08a5be4bd9c93ef4",
+      "title": "CarFormer: Self-Driving with Learned Object-Centric Representations",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2110",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. CarFormer: Self-Driving with Learned Object-Centric Representations",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "CarFormer: Self-Driving with Learned Object-Centric Representations",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 CarFormer: Self-Driving with Learned Object-Centric Representations。",
+        "方法：摘要线索包括 Self-Driving、Object-Centric、ECCV、CarFormer；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "a459fa7c096e5f72",
+      "title": "Text-Guided Video Masked Autoencoder",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2573",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Text-Guided Video Masked Autoencoder",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Text-Guided Video Masked Autoencoder",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Text-Guided Video Masked Autoencoder。",
+        "方法：摘要线索包括 Text-Guided、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "18632dbf20c8137b",
+      "title": "PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2507",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Re。",
+        "方法：摘要线索包括 PanGu-Draw、Resource-Efficient、Text-to-Image、Time-Decoupled、Coop-Diffusion、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "b188df207e4b96c2",
+      "title": "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2028",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting。",
+        "方法：摘要线索包括 BAD-Gaussians、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "1030834e3930045b",
+      "title": "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/765",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. ShareGPT4V: Improving Large Multi-Modal Models with Better Captions",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 ShareGPT4V: Improving Large Multi-Modal Models with Better Captions。",
+        "方法：摘要线索包括 Multi-Modal、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "e5ee5945d27369f2",
+      "title": "EvSign: Sign Language Recognition and Translation with Streaming Events",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1839",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. EvSign: Sign Language Recognition and Translation with Streaming Events",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "EvSign: Sign Language Recognition and Translation with Streaming Events",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 EvSign: Sign Language Recognition and Translation with Streaming Events。",
+        "方法：摘要线索包括 ECCV、EvSign；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "e99bc92fa7a490fd",
+      "title": "MetaAug: Meta-Data Augmentation for Post-Training Quantization",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1554",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. MetaAug: Meta-Data Augmentation for Post-Training Quantization",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "MetaAug: Meta-Data Augmentation for Post-Training Quantization",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 MetaAug: Meta-Data Augmentation for Post-Training Quantization。",
+        "方法：摘要线索包括 Meta-Data、Post-Training、ECCV、MetaAug；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "5b86884eeafdbc39",
+      "title": "QUAR-VLA: Vision-Language-Action Model for Quadruped Robots",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1103",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. QUAR-VLA: Vision-Language-Action Model for Quadruped Robots",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "QUAR-VLA: 视觉语言-Action Model for Quadruped Robots",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 QUAR-VLA: Vision-Language-Action Model for Quadruped Robots。",
+        "方法：摘要线索包括 QUAR-VLA、Vision-Language-Action、ECCV、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "6b36aa8bbbb9f1a1",
+      "title": "UNIKD: UNcertainty-Filtered Incremental Knowledge Distillation for Neural Implicit Representation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/170",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. UNIKD: UNcertainty-Filtered Incremental Knowledge Distillation for Neural Implicit Representation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "UNIKD: UNcertainty-Filtered Incremental Knowledge Distillation for Neural Implicit Representation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 UNIKD: UNcertainty-Filtered Incremental Knowledge Distillation for Neural Implicit Representation。",
+        "方法：摘要线索包括 UNcertainty-Filtered、UNIKD、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "fa31c276a14dd1a3",
+      "title": "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/410",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. PartSTAD: 2D-to-3D Part Segmentation Task Adaptation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 PartSTAD: 2D-to-3D Part Segmentation Task Adaptation。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "6da6db264f0fe635",
+      "title": "FutureDepth: Learning to Predict the Future Improves Video Depth Estimation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1717",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. FutureDepth: Learning to Predict the Future Improves Video Depth Estimation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "FutureDepth: Learning to Predict the Future Improves Video Depth Estimation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 FutureDepth: Learning to Predict the Future Improves Video Depth Estimation。",
+        "方法：摘要线索包括 ECCV、FutureDepth；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "424fa783db2d274d",
+      "title": "Cross-Input Certified Training for Universal Perturbations",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1586",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Cross-Input Certified Training for Universal Perturbations",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Cross-Input Certified Training for Universal Perturbations",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Cross-Input Certified Training for Universal Perturbations。",
+        "方法：摘要线索包括 Cross-Input、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "b9a159ef455d25ed",
+      "title": "Rethinking and Improving Visual Prompt Selection for In-Context Learning Segmentation Framework",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/785",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Rethinking and Improving Visual Prompt Selection for In-Context Learning Segmentation Framework",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Rethinking and Improving Visual Prompt Selection for In-Context Learning Segmentation Framework",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Rethinking and Improving Visual Prompt Selection for In-Context Learning Segmentation Framework。",
+        "方法：摘要线索包括 In-Context、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "7ce844a3e00ca213",
+      "title": "LiDAR-Event Stereo Fusion with Hallucinations",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/999",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. LiDAR-Event Stereo Fusion with Hallucinations",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "LiDAR-Event Stereo Fusion with Hallucinations",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 LiDAR-Event Stereo Fusion with Hallucinations。",
+        "方法：摘要线索包括 LiDAR-Event、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "4b0c5e86c222b77f",
+      "title": "Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1513",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Multi-Granularity Sparse Relationship Matrix Prediction Network for End-to-End Scene Graph Generatio。",
+        "方法：摘要线索包括 Multi-Granularity、End-to-End、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "757b236dc1464920",
+      "title": "Dolphins: Multimodal Language Model for Driving",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/356",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Dolphins: Multimodal Language Model for Driving",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Dolphins: Multimodal Language Model for Driving",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Dolphins: Multimodal Language Model for Driving。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "f26e30bb9f2bf74e",
+      "title": "MMBENCH: Is Your Multi-Modal Model an All-around Player?",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2003",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. MMBENCH: Is Your Multi-Modal Model an All-around Player?",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "MMBENCH: Is Your Multi-Modal Model an All-around Player?",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 MMBENCH: Is Your Multi-Modal Model an All-around Player?。",
+        "方法：摘要线索包括 Multi-Modal、All-around、MMBENCH、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "1007172fcff020d1",
+      "title": "HUMOS: Human Motion Model Conditioned on Body Shape",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/262",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. HUMOS: Human Motion Model Conditioned on Body Shape",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "HUMOS: Human Motion Model Conditioned on Body Shape",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 HUMOS: Human Motion Model Conditioned on Body Shape。",
+        "方法：摘要线索包括 HUMOS、ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "bc3e70f02273a68c",
+      "title": "ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1760",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "5f35c32b6c94bd89",
+      "title": "Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/2066",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "df5677a656d0e72b",
+      "title": "Unsupervised Exposure Correction",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/624",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. Unsupervised Exposure Correction",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "Unsupervised Exposure Correction",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 Unsupervised Exposure Correction。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "8cb6efae400221ae",
+      "title": "SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/200",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model。",
+        "方法：摘要线索包括 ECCV、SceneScript；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
+      "id": "e6efd44d3935769a",
+      "title": "External Knowledge Enhanced 3D Scene Generation from Sketch",
+      "url": "https://eccv2024.ecva.net/virtual/2024/poster/1670",
+      "source": "ECCV 2024 Accepted",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "conference",
+      "accepted": true,
+      "venue": "ECCV 2024",
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "published": "2024-10-01",
+      "abstract": "Accepted paper from ECCV 2024. External Knowledge Enhanced 3D Scene Generation from Sketch",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.7
+      },
+      "title_zh": "External Knowledge Enhanced 3D Scene Generation from Sketch",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 External Knowledge Enhanced 3D Scene Generation from Sketch。",
+        "方法：摘要线索包括 ECCV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。"
+      ],
+      "why_it_matters": "它已经被 ECCV 2024 接收，比普通 arXiv 预印本更值得优先检查。",
+      "action": "优先读 OpenReview 页面，查看接收 venue、abstract 和相关讨论",
+      "score": 1.3533
+    },
+    {
       "id": "9142ab87b8cbdb98",
       "title": "Sensitivity Verification for Additive Decision Tree Ensembles",
       "url": "https://openreview.net/forum?id=h0vC0fm1q7",
@@ -14894,7 +17545,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "citations": {
         "semantic_scholar": null,
@@ -14925,7 +17576,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -14945,37 +17596,6 @@
       "score": 0.6833
     },
     {
-      "id": "e24b198458f4b18b",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use",
-        "LLM"
-      ],
-      "published": "2026-05-29",
-      "abstract": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Virgin Atlantic ships faster with Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Virgin Atlantic ships faster with Codex。",
-        "内容要点：How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-        "指标/证据：near-total, zero P1。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
       "id": "2a7c423efc91bb90",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -14987,7 +17607,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -15007,6 +17627,37 @@
       "score": 0.6833
     },
     {
+      "id": "e24b198458f4b18b",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "LLM"
+      ],
+      "published": "2026-05-30",
+      "abstract": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Virgin Atlantic ships faster with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Virgin Atlantic ships faster with Codex。",
+        "内容要点：How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+        "指标/证据：near-total, zero P1。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
       "id": "936825df563d188f",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
@@ -15018,7 +17669,7 @@
         "AI Agent",
         "AI for Health"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "citations": {
         "semantic_scholar": null,
@@ -15049,7 +17700,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -15080,7 +17731,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "citations": {
         "semantic_scholar": null,
@@ -15111,7 +17762,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Introducing Agent Skills | Claude",
       "citations": {
         "semantic_scholar": null,
@@ -15785,7 +18436,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
       "citations": {
         "semantic_scholar": null,
@@ -15815,7 +18466,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -15845,7 +18496,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "citations": {
         "semantic_scholar": null,
@@ -15875,7 +18526,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "citations": {
         "semantic_scholar": null,
@@ -15895,6 +18546,36 @@
       "score": 0.5667
     },
     {
+      "id": "4447fb08ebbf2675",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Braintrust turns customer requests into code with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Braintrust turns customer requests into code with Codex。",
+        "内容要点：How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "fc2e4d2a22df9584",
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
@@ -15905,7 +18586,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "citations": {
         "semantic_scholar": null,
@@ -15925,36 +18606,6 @@
       "score": 0.5667
     },
     {
-      "id": "1c3e8b16204b13dd",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-05-29",
-      "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "MUFG aims to become AI-native with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：MUFG aims to become AI-native with OpenAI。",
-        "内容要点：MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-        "关键词：AI-native、AI-powered、MUFG、ChatGPT。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "651273dee683f8d5",
       "title": "OpenAI’s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
@@ -15965,7 +18616,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "citations": {
         "semantic_scholar": null,
@@ -15985,6 +18636,36 @@
       "score": 0.5667
     },
     {
+      "id": "1c3e8b16204b13dd",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-05-30",
+      "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "MUFG aims to become AI-native with OpenAI",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：MUFG aims to become AI-native with OpenAI。",
+        "内容要点：MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+        "关键词：AI-native、AI-powered、MUFG、ChatGPT。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "b621f15c13637672",
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "url": "https://openai.com/index/cisco",
@@ -15995,7 +18676,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "citations": {
         "semantic_scholar": null,
@@ -16025,7 +18706,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "citations": {
         "semantic_scholar": null,
@@ -16055,7 +18736,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "citations": {
         "semantic_scholar": null,
@@ -16075,36 +18756,6 @@
       "score": 0.5667
     },
     {
-      "id": "8b179a06b54c1a7f",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-29",
-      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Ramp engineers accelerate code review with Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
-        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "ba8a2333fed3d018",
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -16115,7 +18766,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
       "citations": {
         "semantic_scholar": null,
@@ -16145,7 +18796,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -16165,6 +18816,36 @@
       "score": 0.5667
     },
     {
+      "id": "8b179a06b54c1a7f",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Ramp engineers accelerate code review with Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Ramp engineers accelerate code review with Codex。",
+        "内容要点：How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "36dde2a3fa22bcbd",
       "title": "Introducing OpenAI for Singapore",
       "url": "https://openai.com/index/introducing-openai-for-singapore",
@@ -16175,7 +18856,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
       "citations": {
         "semantic_scholar": null,
@@ -16205,7 +18886,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
       "citations": {
         "semantic_scholar": null,
@@ -16235,7 +18916,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "citations": {
         "semantic_scholar": null,
@@ -16255,36 +18936,6 @@
       "score": 0.5667
     },
     {
-      "id": "c2ad981788bad5a5",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-29",
-      "abstract": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How data science teams use Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How data science teams use Codex。",
-        "内容要点：See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-        "关键词：KPI。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "010eaa918057f7cc",
       "title": "How business operations teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
@@ -16295,7 +18946,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -16315,36 +18966,6 @@
       "score": 0.5667
     },
     {
-      "id": "c8df58dd6f1f2e25",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-05-29",
-      "abstract": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "A new personal finance experience in ChatGPT",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：A new personal finance experience in ChatGPT。",
-        "内容要点：Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-        "关键词：AI-powered、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "400eda3eb29cf22a",
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
@@ -16355,7 +18976,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -16375,6 +18996,66 @@
       "score": 0.5667
     },
     {
+      "id": "c8df58dd6f1f2e25",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-05-30",
+      "abstract": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A new personal finance experience in ChatGPT",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：A new personal finance experience in ChatGPT。",
+        "内容要点：Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+        "关键词：AI-powered、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "c2ad981788bad5a5",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-05-30",
+      "abstract": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How data science teams use Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How data science teams use Codex。",
+        "内容要点：See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+        "关键词：KPI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "58d94173b1903883",
       "title": "Work with Codex from anywhere",
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
@@ -16385,7 +19066,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
       "citations": {
         "semantic_scholar": null,
@@ -16415,7 +19096,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
       "citations": {
         "semantic_scholar": null,
@@ -16435,36 +19116,6 @@
       "score": 0.5667
     },
     {
-      "id": "d1d328dcd0239c7a",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-05-29",
-      "abstract": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Building a safe, effective sandbox to enable Codex on Windows",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Building a safe, effective sandbox to enable Codex on Windows。",
-        "内容要点：Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -16475,7 +19126,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16505,7 +19156,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -17233,36 +19884,6 @@
       "score": 0.4967
     },
     {
-      "id": "b9146f2c06c0641f",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-05-27",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: keeping up with AI, and the future of IVF",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: keeping up with AI, and the future of IVF。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless th...",
-        "关键词：AI、IVF、MIT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -17273,7 +19894,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -17321,6 +19942,36 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.4767
+    },
+    {
+      "id": "b9146f2c06c0641f",
+      "title": "The Download: keeping up with AI, and the future of IVF",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-05-27",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: keeping up with AI, and the future of IVF",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: keeping up with AI, and the future of IVF。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless th...",
+        "关键词：AI、IVF、MIT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "bfc1ea67cf7eeb13",
@@ -17721,7 +20372,7 @@
       "category": "学术新闻",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Weekly AI news for engineers, executives, and enthusiasts.",
       "citations": {
         "semantic_scholar": null,
@@ -17777,7 +20428,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-05-29",
+      "published": "2026-05-30",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
