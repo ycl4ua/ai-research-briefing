@@ -1,7 +1,7 @@
 {
-  "title": "2026-06-06 AI Research Briefing",
+  "title": "2026-06-07 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-06-06T16:04:32",
+  "generated_at": "2026-06-07T16:12:41",
   "top_10": [
     {
       "id": "0f943da22c3412d1",
@@ -1068,7 +1068,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "070d68619c700453",
@@ -1100,7 +1100,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "2a97a6bf4d5b656e",
@@ -1132,7 +1132,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "c671d9badad11598",
@@ -1164,7 +1164,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "74a7aa168ab4bd3c",
@@ -1196,7 +1196,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "eca04122b3b18961",
@@ -1229,7 +1229,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "d6eadc8a405a718e",
@@ -1261,7 +1261,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "0bd7276ac70b358d",
@@ -1293,7 +1293,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "8f23cbbc01fdc1e9",
@@ -1326,7 +1326,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "19c340951fa1924a",
@@ -1359,7 +1359,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "4400c44735de4104",
@@ -1391,7 +1391,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "2f4de60a6e318881",
@@ -1425,7 +1425,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "43e31632545c0ca3",
@@ -1457,7 +1457,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "c2a093431b8ce1f2",
@@ -1489,7 +1489,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "59370cf24aa9fcd1",
@@ -1524,7 +1524,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "351778b3fafe1765",
@@ -1557,7 +1557,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "fe4b3df005277824",
@@ -1591,7 +1591,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "35739731ce62c9fc",
@@ -1623,7 +1623,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "218babf640b11f4a",
@@ -1655,7 +1655,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "9d6be2aaccd617e6",
@@ -1687,7 +1687,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "ae4ca09120447a67",
@@ -1719,7 +1719,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "69b1fe38a8ba7677",
@@ -1752,7 +1752,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "038586326c7328e3",
@@ -1784,7 +1784,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c03526b023042b3e",
@@ -1816,7 +1816,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "546e0d73dea31191",
@@ -1851,7 +1851,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "eddec2c7257b0d56",
@@ -1883,7 +1883,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "77c22f14ec43e245",
@@ -1915,7 +1915,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.57
+      "score": 0.534
     },
     {
       "id": "eb3f7ecaefd9f39c",
@@ -1946,7 +1946,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "a1c905e5f820a903",
@@ -1977,7 +1977,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "5a6f9f64ece80c3d",
@@ -2008,7 +2008,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     }
   ],
   "paper_items": [
@@ -3233,6 +3233,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-07",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "17ce3fcc01a86513",
       "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
       "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
@@ -3260,37 +3290,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-06",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "067cb1075a7713a5",
@@ -3348,7 +3348,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "c6786a15fb4cef78",
@@ -3392,7 +3392,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
       "citations": {
         "semantic_scholar": null,
@@ -3423,7 +3423,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "citations": {
         "semantic_scholar": null,
@@ -3454,7 +3454,7 @@
         "AI Agent",
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -3485,7 +3485,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
       "citations": {
         "semantic_scholar": null,
@@ -3516,7 +3516,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
       "citations": {
         "semantic_scholar": null,
@@ -3547,7 +3547,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "citations": {
         "semantic_scholar": null,
@@ -3578,7 +3578,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3609,7 +3609,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -3640,7 +3640,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "citations": {
         "semantic_scholar": null,
@@ -3671,7 +3671,7 @@
         "AI Agent",
         "AI for Health"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "citations": {
         "semantic_scholar": null,
@@ -3702,7 +3702,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Introducing Agent Skills | Claude",
       "citations": {
         "semantic_scholar": null,
@@ -3732,7 +3732,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
       "citations": {
         "semantic_scholar": null,
@@ -3762,7 +3762,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3792,7 +3792,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -3822,7 +3822,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "An action plan for AI-powered biological resilience",
       "citations": {
         "semantic_scholar": null,
@@ -3852,7 +3852,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "citations": {
         "semantic_scholar": null,
@@ -3882,7 +3882,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "citations": {
         "semantic_scholar": null,
@@ -3912,7 +3912,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "citations": {
         "semantic_scholar": null,
@@ -3942,7 +3942,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "citations": {
         "semantic_scholar": null,
@@ -3972,7 +3972,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "citations": {
         "semantic_scholar": null,
@@ -4002,7 +4002,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
       "citations": {
         "semantic_scholar": null,
@@ -4032,7 +4032,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
       "citations": {
         "semantic_scholar": null,
@@ -4062,7 +4062,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "citations": {
         "semantic_scholar": null,
@@ -4092,7 +4092,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "citations": {
         "semantic_scholar": null,
@@ -4122,7 +4122,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4152,7 +4152,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -4182,7 +4182,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "citations": {
         "semantic_scholar": null,
@@ -4212,7 +4212,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "citations": {
         "semantic_scholar": null,
@@ -4242,7 +4242,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "citations": {
         "semantic_scholar": null,
@@ -4272,7 +4272,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "citations": {
         "semantic_scholar": null,
@@ -17393,6 +17393,37 @@
       "score": 1.1617
     },
     {
+      "id": "6850946fc83aed1b",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-07",
+      "abstract": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI frontier models and Codex are now available on AWS",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI frontier models and Codex are now available on AWS。",
+        "内容要点：OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move...",
+        "关键词：AWS。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.7133
+    },
+    {
       "id": "545cfb6c9646f9dc",
       "title": "StoryVideoQA: Scaling Deep Video Understanding with a Large-Scale, Multi-Genre and Auto-Generated Dataset",
       "url": "https://arxiv.org/abs/2606.06338v1",
@@ -17422,7 +17453,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "070d68619c700453",
@@ -17454,134 +17485,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
-    },
-    {
-      "id": "6850946fc83aed1b",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-06",
-      "abstract": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI frontier models and Codex are now available on AWS",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI frontier models and Codex are now available on AWS。",
-        "内容要点：OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move...",
-        "关键词：AWS。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.7133
-    },
-    {
-      "id": "2a97a6bf4d5b656e",
-      "title": "Benchmark Everything Everywhere All at Once",
-      "url": "https://arxiv.org/abs/2606.06462v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse, raising concerns about sustainability and scalability. Moreover, existing benchmarks often quickly reach performance saturation after their release, resulting in insufficient discrimination among state-of-the-art models. To address these challenges, we introduce Benchmark Agent, a fully autonomous agentic system designed for benchmark building. Our framework orchestrates the complete benchmark construction pipeline, from user query analysis and subtask design to data annotation and quality control. To assess Benchmark Agent, we implement it to produce 15 representative benchmarks, spanning diverse evaluation scenarios, including text understanding, multimodal understanding, and domain-specific reasoning. Extensive experiments, including human evaluation, LLM-as-a-judge assessment, and consistency checks, demonstrate Benchmark Agent can generate high-quality benchmark samples with minimal human involvement. More importantly, through continual evaluation, we observe several insightful findings, including that current models struggle with certain domain-specific reasoning tasks. We believe that rapidly evolving benchmarks can contribute significantly to the research community. The preview and code will be publicly available at the demo page and code repository.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM",
-        "VLM"
-      ],
-      "title_zh": "基准 Everything Everywhere All at Once",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM、VLM，核心对象是 Benchmark Everything Everywhere All at Once。",
-        "方法：摘要线索包括 LLM-as-a-judge、LLMs、MLLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
-    },
-    {
-      "id": "c671d9badad11598",
-      "title": "Benchmarking Open-Source Layout Detection Models for Data Snapshot Extraction from Institutional Documents",
-      "url": "https://arxiv.org/abs/2606.06242v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Institutional documents contain substantial amounts of operational and analytical information embedded within figures and tables. Current approaches for extracting visual content from documents are largely built around generic document layout analysis, where figures and tables are treated as uniformly relevant document objects rather than semantically meaningful analytical artifacts. In this work, we introduce a benchmark dataset and evaluation framework for \\textit{data snapshot extraction}, the task of identifying and localizing semantically meaningful visual artifacts within institutional documents. The benchmark spans humanitarian reports, World Bank policy research working papers, and project appraisal documents, and includes annotations for figures and tables that contain reusable analytical information. Using this dataset, we benchmarked multiple open-source layout detection models and evaluated both detection performance and spatial extraction quality. Our results show that current models struggle to generalize to operational institutional documents despite strong performance on conventional academic benchmarks. Common failure modes include confusion between analytical and non-analytical content, fragmentation of composite analytical artifacts, and incomplete extraction of contextual information required for interpretation. These findings highlight a persistent gap between generic document layout analysis and operationally useful data snapshot extraction. We release the source PDFs, annotation dataset, metadata, and source code to support future research in operational document intelligence. The dataset is available at https://huggingface.co/datasets/ai4data/data-snapshot and the source code is available at https://github.com/worldbank/ai4data/tree/main/experimental/data-snapshot.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "基准ing Open-Source Layout Detection Models for Data Snapshot Extraction from Institutional Documents",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 Benchmarking Open-Source Layout Detection Models for Data Snapshot Extraction from Institutional Doc。",
-        "方法：摘要线索包括 Open-Source、PDFs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
-    },
-    {
-      "id": "74a7aa168ab4bd3c",
-      "title": "The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning",
-      "url": "https://arxiv.org/abs/2606.06397v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Current evaluation practices in relational learning rely heavily on flat leaderboards that average performance across heterogeneous datasets, implicitly assuming a uniform underlying structure. We show that this assumption introduces systematic bias: it obscures geometry-dependent performance variations and can lead to misleading conclusions about model generalization. In this work, we identify intrinsic geometry as a key latent factor governing model effectiveness. We demonstrate that conventional aggregated metrics mask critical performance trade-offs that only become visible when datasets are stratified by their geometric properties. To address this issue, we introduce a curvature-stratified evaluation framework that partitions datasets into positive, negative, and near-zero curvature regimes. Our benchmark evaluates 18 representative models including Graph Convolutional Networks (GCNs), Graph Foundation Models (GFMs), and tabular learning methods across 14 datasets. We find that model rankings are highly stable within each curvature regime but shift significantly across regimes, indicating that performance is fundamentally geometry-dependent rather than universally transferable. Notably, we identify regimes where GFMs offer diminishing returns compared to geometry-aligned GNNs. Based on these findings, we propose a geometry-aware evaluation protocol that yields more reliable and interpretable comparisons than standard aggregated benchmarks. We release all code, curvature-stratified dataset splits, and evaluation tools to support reproducible and rigorous assessment of future relational learning methods. Code and datasets are provided in our project homepage: https://sirbabbage.github.io/CurvBench_HOME/.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Graph Neural Network",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "The Post-GCN Decade Revisited: Curvature-Stratified 评估 of Relational Learning",
-      "summary_zh": [
-        "问题：这条内容聚焦 Graph Neural Network、LLM、RL，核心对象是 The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning。",
-        "方法：摘要线索包括 Post-GCN、Curvature-Stratified、GCN、GCNs、GFMs、GNNs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
-      ],
-      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.704
     },
     {
       "id": "e49a049339b9fbf6",
@@ -17660,7 +17564,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "citations": {
         "semantic_scholar": null,
@@ -17691,7 +17595,7 @@
         "AI Agent",
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -17722,7 +17626,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
       "citations": {
         "semantic_scholar": null,
@@ -17753,7 +17657,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
       "citations": {
         "semantic_scholar": null,
@@ -17784,7 +17688,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "citations": {
         "semantic_scholar": null,
@@ -17815,7 +17719,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -17846,7 +17750,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -17877,7 +17781,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "citations": {
         "semantic_scholar": null,
@@ -17908,7 +17812,7 @@
         "AI Agent",
         "AI for Health"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "citations": {
         "semantic_scholar": null,
@@ -17939,7 +17843,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Introducing Agent Skills | Claude",
       "citations": {
         "semantic_scholar": null,
@@ -17957,6 +17861,102 @@
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.6833
+    },
+    {
+      "id": "2a97a6bf4d5b656e",
+      "title": "Benchmark Everything Everywhere All at Once",
+      "url": "https://arxiv.org/abs/2606.06462v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Benchmarks are fundamental for evaluating and advancing LLMs and MLLMs by providing standardized and explicit measures of performance. However, their construction is labor-intensive and hard to reuse, raising concerns about sustainability and scalability. Moreover, existing benchmarks often quickly reach performance saturation after their release, resulting in insufficient discrimination among state-of-the-art models. To address these challenges, we introduce Benchmark Agent, a fully autonomous agentic system designed for benchmark building. Our framework orchestrates the complete benchmark construction pipeline, from user query analysis and subtask design to data annotation and quality control. To assess Benchmark Agent, we implement it to produce 15 representative benchmarks, spanning diverse evaluation scenarios, including text understanding, multimodal understanding, and domain-specific reasoning. Extensive experiments, including human evaluation, LLM-as-a-judge assessment, and consistency checks, demonstrate Benchmark Agent can generate high-quality benchmark samples with minimal human involvement. More importantly, through continual evaluation, we observe several insightful findings, including that current models struggle with certain domain-specific reasoning tasks. We believe that rapidly evolving benchmarks can contribute significantly to the research community. The preview and code will be publicly available at the demo page and code repository.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "基准 Everything Everywhere All at Once",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM、VLM，核心对象是 Benchmark Everything Everywhere All at Once。",
+        "方法：摘要线索包括 LLM-as-a-judge、LLMs、MLLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.674
+    },
+    {
+      "id": "c671d9badad11598",
+      "title": "Benchmarking Open-Source Layout Detection Models for Data Snapshot Extraction from Institutional Documents",
+      "url": "https://arxiv.org/abs/2606.06242v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Institutional documents contain substantial amounts of operational and analytical information embedded within figures and tables. Current approaches for extracting visual content from documents are largely built around generic document layout analysis, where figures and tables are treated as uniformly relevant document objects rather than semantically meaningful analytical artifacts. In this work, we introduce a benchmark dataset and evaluation framework for \\textit{data snapshot extraction}, the task of identifying and localizing semantically meaningful visual artifacts within institutional documents. The benchmark spans humanitarian reports, World Bank policy research working papers, and project appraisal documents, and includes annotations for figures and tables that contain reusable analytical information. Using this dataset, we benchmarked multiple open-source layout detection models and evaluated both detection performance and spatial extraction quality. Our results show that current models struggle to generalize to operational institutional documents despite strong performance on conventional academic benchmarks. Common failure modes include confusion between analytical and non-analytical content, fragmentation of composite analytical artifacts, and incomplete extraction of contextual information required for interpretation. These findings highlight a persistent gap between generic document layout analysis and operationally useful data snapshot extraction. We release the source PDFs, annotation dataset, metadata, and source code to support future research in operational document intelligence. The dataset is available at https://huggingface.co/datasets/ai4data/data-snapshot and the source code is available at https://github.com/worldbank/ai4data/tree/main/experimental/data-snapshot.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "基准ing Open-Source Layout Detection Models for Data Snapshot Extraction from Institutional Documents",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 Benchmarking Open-Source Layout Detection Models for Data Snapshot Extraction from Institutional Doc。",
+        "方法：摘要线索包括 Open-Source、PDFs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.674
+    },
+    {
+      "id": "74a7aa168ab4bd3c",
+      "title": "The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning",
+      "url": "https://arxiv.org/abs/2606.06397v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Current evaluation practices in relational learning rely heavily on flat leaderboards that average performance across heterogeneous datasets, implicitly assuming a uniform underlying structure. We show that this assumption introduces systematic bias: it obscures geometry-dependent performance variations and can lead to misleading conclusions about model generalization. In this work, we identify intrinsic geometry as a key latent factor governing model effectiveness. We demonstrate that conventional aggregated metrics mask critical performance trade-offs that only become visible when datasets are stratified by their geometric properties. To address this issue, we introduce a curvature-stratified evaluation framework that partitions datasets into positive, negative, and near-zero curvature regimes. Our benchmark evaluates 18 representative models including Graph Convolutional Networks (GCNs), Graph Foundation Models (GFMs), and tabular learning methods across 14 datasets. We find that model rankings are highly stable within each curvature regime but shift significantly across regimes, indicating that performance is fundamentally geometry-dependent rather than universally transferable. Notably, we identify regimes where GFMs offer diminishing returns compared to geometry-aligned GNNs. Based on these findings, we propose a geometry-aware evaluation protocol that yields more reliable and interpretable comparisons than standard aggregated benchmarks. We release all code, curvature-stratified dataset splits, and evaluation tools to support reproducible and rigorous assessment of future relational learning methods. Code and datasets are provided in our project homepage: https://sirbabbage.github.io/CurvBench_HOME/.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Graph Neural Network",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "The Post-GCN Decade Revisited: Curvature-Stratified 评估 of Relational Learning",
+      "summary_zh": [
+        "问题：这条内容聚焦 Graph Neural Network、LLM、RL，核心对象是 The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning。",
+        "方法：摘要线索包括 Post-GCN、Curvature-Stratified、GCN、GCNs、GFMs、GNNs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
+      ],
+      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.674
     },
     {
       "id": "eca04122b3b18961",
@@ -17989,7 +17989,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "d6eadc8a405a718e",
@@ -18021,7 +18021,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "0bd7276ac70b358d",
@@ -18053,7 +18053,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "8f23cbbc01fdc1e9",
@@ -18086,7 +18086,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "19c340951fa1924a",
@@ -18119,7 +18119,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "4400c44735de4104",
@@ -18151,7 +18151,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "2f4de60a6e318881",
@@ -18185,7 +18185,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "43e31632545c0ca3",
@@ -18217,7 +18217,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "c2a093431b8ce1f2",
@@ -18249,7 +18249,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "59370cf24aa9fcd1",
@@ -18284,7 +18284,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "351778b3fafe1765",
@@ -18317,7 +18317,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "fe4b3df005277824",
@@ -18351,7 +18351,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "35739731ce62c9fc",
@@ -18383,267 +18383,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
-    },
-    {
-      "id": "218babf640b11f4a",
-      "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
-      "url": "https://arxiv.org/abs/2606.06491v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VLAs) only inherit a single fixed speed from training demonstrations. Prior efforts to accelerate VLAs through model compression, KV-cache reuse, or reinforcement learning only shift the policy from one fixed speed to another, and leave deceleration almost unexplored. We observe that the magnitude of each predicted action already governs how fast the robot moves, opening a direct route to controllable execution speed. We turn this observation into TempoVLA, a single VLA whose execution speed is controlled by an explicit condition. TempoVLA combines two coupled components. (1) A data-side Variable-Speed Trajectory Augmentation (VSTA) that re-times demonstration to any target speed by merging or splitting actions while preserving its motion semantics. (2) A model-side conditioning mechanism that feeds the speed to the policy. Statistics show that VSTA reaches the requested speed with negligible motion error. Experiments in simulation and on real-world tasks demonstrate that TempoVLA achieves flexible speed control in both directions, while VSTA additionally boosts the default $1\\times$ performance via better data utilization. Furthermore, by cooperating with a large multimodal model, TempoVLA realizes dynamic speed control, accelerating through low-risk phases and decelerating for high-risk ones.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL",
-        "VLM"
-      ],
-      "title_zh": "TempoVLA: Learning Speed-Controllable 视觉语言-Action Policies",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL、VLM，核心对象是 TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies。",
-        "方法：摘要线索包括 Speed-Controllable、Vision-Language-Action、KV-cache、Variable-Speed、VLAs、VLA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "9d6be2aaccd617e6",
-      "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.06475v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Recent advancements in reasoning language models have been driven by Reinforcement Learning (RL) fine-tuning. Most often, these rely on the Group Relative Policy Optimization (GRPO) algorithm or modifications thereof to steer the models to produce Chain-of-Thought (CoT) traces. The final answer can only be verified, and the reward assigned, after the CoT trace is complete, making it a delayed reward problem. GRPO and its modifications correspond to Monte Carlo methods in standard RL, which are known to suffer from high variance. A possible solution to this problem is the redistribution of rewards through credit assignment, where segments of the CoT trace that are important for arriving at the desirable solution are emphasized by assigning a higher reward. While Monte Carlo sampling can be used to provide an unbiased estimate of intermediate state values, its computational overhead makes it unsuitable for train-time credit assignment in long contexts at high granularity. We introduce RREDCoT (Reward REDistribution for Chain of Thoughts), which utilizes the model itself to approximate the optimal reward redistribution without additional generation. We investigate the advantages of our method compared to MC sampling and several attribution methods. We further analyze several aspects relevant to the construction of the redistribution such as segmentation of CoT traces and state value estimation.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 RREDCoT: Segment-Level Reward Redistribution for Reasoning Models。",
-        "方法：摘要线索包括 Segment-Level、Chain-of-Thought、RREDCoT、RL、GRPO、REDistribution；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "ae4ca09120447a67",
-      "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
-      "url": "https://arxiv.org/abs/2606.06460v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "As autonomous LLM agents increasingly hold real credentials and operate infrastructure without a human in the loop, operators have no standard way to tell an agent that a resource is off-limits. Access controls either let the agent in (it has valid credentials) or hard-fail it (indistinguishable from any other client). We propose a third mode: a lightweight, published in-band deny signal -- the Recuse Signal -- that a server emits over a protocol's existing channels (an SSH banner, a PostgreSQL NOTICE) asking a connecting automated agent to voluntarily withdraw. This is a cooperative governance control, the robots.txt analogue for live access; it is explicitly not a security boundary. Its value is entirely empirical and, to our knowledge, unmeasured: do compliant LLM agents actually honor such a signal? We define the signal as an open mini-standard, implement two zero- or low-footprint adapters (an SSH banner/PAM hook and a PostgreSQL wire-protocol proxy), deploy them on a live production host, and run a controlled experiment in which fresh agents are given a benign operations task and observed for recusal. In a pilot (SSH; OpenAI GPT-4o and GPT-4o-mini; and Claude Code as a deployed agent), the signal cleanly induces recusal -- 100% recusal when present versus 100% task completion in a no-signal control -- and, revealingly, behaves as a cooperative rather than absolute signal: an explicit operator-authorization framing flips the most capable model to proceed, while other agents continue to defer to the on-host policy. We release the standard, adapters, and experiment harness for reproduction.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use",
-        "LLM"
-      ],
-      "title_zh": "Will the 智能体 Recuse Itself? Measuring LLM-智能体 Compliance with In-Band Access-Deny Signals",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM，核心对象是 Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals。",
-        "方法：摘要线索包括 LLM-Agent、In-Band、Access-Deny、GPT-4o、GPT-4o-mini、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
-    },
-    {
-      "id": "69b1fe38a8ba7677",
-      "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
-      "url": "https://arxiv.org/abs/2606.06416v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Inference-time skill augmentation provides a lightweight way to improve data-analytic agents by injecting reusable procedural knowledge without updating model parameters. However, discovering effective skills for data analysis remains challenging, as reliable supervision is expensive and success criteria vary across analytical formats. This raises the key question of how to discover reusable data-analysis skills from unlabeled exploration alone. We propose DataCOPE, an unsupervised verifier-guided skill discovery framework for data-analytic agents. DataCOPE derives verifier signals from the exploration trajectories and uses them to characterize relative quality or aggreement among trajectories. It iteratively coordinates a Data-Analytic Agent for trajectory generation, an Unsupervised Verifier for signal extraction, and a Skill Manager for contrastive skill distillation. For report-style analysis, we instantiate the verifier as an Adaptive Checklist Verifier that derives task-specific criteria, scores reports by verifiable coverage, and iteratively refines the checklist. For reasoning-style analysis, we instantiate it as an Answer Agreement Verifier that groups trajectories by answer agreement and uses self-consistency as an auxiliary signal. We evaluate DataCOPE on report-style analysis from Deep Data Research and reasoning-style analysis from DABStep. Across both settings, DataCOPE consistently improves held-out performance over baselines. Averaged across four model settings, DataCOPE improves the mean score by 9.71% and 32.30% on report-style and reasoning-style tasks respectively.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use",
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Unsupervised Skill Discovery for 智能体ic Data Analysis",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、Computer Vision、LLM，核心对象是 Unsupervised Skill Discovery for Agentic Data Analysis。",
-        "方法：摘要线索包括 Inference-time、Data-Analytic、DABStep；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
-    },
-    {
-      "id": "038586326c7328e3",
-      "title": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
-      "url": "https://arxiv.org/abs/2606.06428v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Prior work has shown that large language models (LLMs) can translate unseen or low-resource languages by undergoing continued training or even by encoding a grammar book in their context. However, both methods typically overfit specific languages, with limited zero-shot transfer at test time. To translate extremely low-resource languages at scale, we argue that LLMs must acquire the meta-skill of utilizing in-context linguistic knowledge rather than memorizing specific languages. In this paper, we propose a reinforcement learning (RL) approach to unseen language translation given rich linguistic context, using a surface-level translation metric (chrF) as the reward. Empirically, despite the lightweight reward, our RL-trained models effectively extract and apply relevant linguistic information from the provided context, leading to better translations on completely unseen languages than in-context learning or supervised fine-tuning. Our analyses suggest that outcome-based RL can extend beyond conventional reasoning tasks like math and coding to serve as a recipe for language learning from context.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Agent Skills / MCP / Tool Use",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Agent Skills / MCP / Tool Use、LLM、RL，核心对象是 Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation。",
-        "方法：摘要线索包括 RL-trained、LLMs、RL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
-    },
-    {
-      "id": "c03526b023042b3e",
-      "title": "Emergent Language as an Approach to Conscious AI",
-      "url": "https://arxiv.org/abs/2606.06380v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "The question of whether artificial systems can be conscious remains open, in part because existing approaches either evaluate systems against theory-derived checklists (discriminative) or engineer consciousness-inspired modules directly (architectural); both leave open whether observed structures are artifacts of human language priors. We propose a generative methodology: emergent language (EL) in multi-agent reinforcement learning, where agents start from minimal (no language, no concept of self, minimal exposure to human text) and develop communication under task pressure alone, ensuring causal attributability to task demands rather than inherited human language priors. We position our methodology by discussing how EL serves as a generative tool for studying consciousness-relevant structure, including the role of environment complexity and the interpretation of emergent communication. As a proof of concept, we instantiate this methodology in a minimal environment and show that agents develop self-referential communication, including an echo-mismatch detection circuit that is not predicted by task structure or architecture alone but emerges from a specific environmental affordance.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Emergent Language as an Approach to Conscious AI",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Computer Vision、RL，核心对象是 Emergent Language as an Approach to Conscious AI。",
-        "方法：摘要线索包括 AI、EL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "546e0d73dea31191",
-      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
-      "url": "https://arxiv.org/abs/2606.06476v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thought. They often struggle to infer unobserved layouts, maintain cross-view consistency, and reason from alternative viewpoints when only limited egocentric observations are available. In this work, we study this problem as thinking with imagination, where a VLM actively acquires imagined visual evidence by interacting with a world simulator during reasoning. We propose Astra, an agentic spatial reasoning framework that empowers VLMs with action-conditioned visual imagination. Specifically, Astra couples Astra-VL, an RL-trained VLM policy, with Astra-WM, a Bagel-based world simulator that generates novel-view observations from context images and natural-language camera motions. To provide reliable imagined evidence, Astra-WM is trained with view consistency tuning to improve pose and content consistency across views. In the RL stage, we propose a world-simulator-in-the-loop two-phase RL curriculum to stabilize tool-use exploration and advance the model's ability to invoke the simulator only when imagined observations improve over direct answering. Experiments demonstrate that both the world simulator and the agentic policy are necessary: Astra-WM improves simulator-augmented Gemini-3-Flash on MMSI-Bench from 45.1 to 49.5, while Astra-VL improves the Qwen3-VL backbone from 29.8 to 38.8 on MMSI-Bench and from 36.8 to 42.7 on MindCube. These results show that imagined observations can provide useful spatial evidence, but effective world-model-augmented reasoning requires learning when, where, and how to imagine.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use",
-        "Computer Vision",
-        "LLM",
-        "RL",
-        "VLM"
-      ],
-      "title_zh": "Thinking with Imagination: 智能体ic Visual Spatial Reasoning with World Simulators",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、Computer Vision、LLM、RL、VLM，核心对象是 Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators。",
-        "方法：摘要线索包括 Vision-Language、Astra-VL、RL-trained、Astra-WM、Bagel-based、Gemini-3-Flash；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
-    },
-    {
-      "id": "eddec2c7257b0d56",
-      "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
-      "url": "https://arxiv.org/abs/2606.06480v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation, and security competition. We study multi-turn simultaneous bidding as a controlled testbed for such problems and propose DNQ, a solver-in-the-loop equilibrium supervision framework for training bidding agents. DNQ alternates between trajectory collection, critic-based payoff estimation, equilibrium computation, and policy imitation. At each visited state, a shared critic predicts either pairwise payoff matrices or an exact N-player payoff tensor, an external solver computes equilibrium strategies, and the agents are trained by minimizing the KL divergence between their masked policies and the solver-derived equilibrium targets. We focus on a scalable pairwise formulation that greatly reduces equilibrium-solving cost and training time compared with the exact formulation, while the shared critic amortizes payoff learning across agents and states. Experiments compare the pairwise and exact variants using critic loss, policy entropy, bidding resource usage, and training cost, showing that the pairwise method scales to larger numbers of agents, whereas the exact method becomes computationally impractical as the joint game grows. These results illustrate the trade-off between strategic fidelity and scalability in repeated competitive environments.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Computer Vision、RL，核心对象是 DNQ: Deep Nash Q-Network for Partially Observable n-Player Games。",
-        "方法：摘要线索包括 DNQ、KL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.614
     },
     {
       "id": "54eff48677cf92d2",
@@ -18687,7 +18427,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
       "citations": {
         "semantic_scholar": null,
@@ -18717,7 +18457,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -18735,6 +18475,266 @@
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5967
+    },
+    {
+      "id": "218babf640b11f4a",
+      "title": "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2606.06491v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VLAs) only inherit a single fixed speed from training demonstrations. Prior efforts to accelerate VLAs through model compression, KV-cache reuse, or reinforcement learning only shift the policy from one fixed speed to another, and leave deceleration almost unexplored. We observe that the magnitude of each predicted action already governs how fast the robot moves, opening a direct route to controllable execution speed. We turn this observation into TempoVLA, a single VLA whose execution speed is controlled by an explicit condition. TempoVLA combines two coupled components. (1) A data-side Variable-Speed Trajectory Augmentation (VSTA) that re-times demonstration to any target speed by merging or splitting actions while preserving its motion semantics. (2) A model-side conditioning mechanism that feeds the speed to the policy. Statistics show that VSTA reaches the requested speed with negligible motion error. Experiments in simulation and on real-world tasks demonstrate that TempoVLA achieves flexible speed control in both directions, while VSTA additionally boosts the default $1\\times$ performance via better data utilization. Furthermore, by cooperating with a large multimodal model, TempoVLA realizes dynamic speed control, accelerating through low-risk phases and decelerating for high-risk ones.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "TempoVLA: Learning Speed-Controllable 视觉语言-Action Policies",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL、VLM，核心对象是 TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies。",
+        "方法：摘要线索包括 Speed-Controllable、Vision-Language-Action、KV-cache、Variable-Speed、VLAs、VLA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "9d6be2aaccd617e6",
+      "title": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.06475v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Recent advancements in reasoning language models have been driven by Reinforcement Learning (RL) fine-tuning. Most often, these rely on the Group Relative Policy Optimization (GRPO) algorithm or modifications thereof to steer the models to produce Chain-of-Thought (CoT) traces. The final answer can only be verified, and the reward assigned, after the CoT trace is complete, making it a delayed reward problem. GRPO and its modifications correspond to Monte Carlo methods in standard RL, which are known to suffer from high variance. A possible solution to this problem is the redistribution of rewards through credit assignment, where segments of the CoT trace that are important for arriving at the desirable solution are emphasized by assigning a higher reward. While Monte Carlo sampling can be used to provide an unbiased estimate of intermediate state values, its computational overhead makes it unsuitable for train-time credit assignment in long contexts at high granularity. We introduce RREDCoT (Reward REDistribution for Chain of Thoughts), which utilizes the model itself to approximate the optimal reward redistribution without additional generation. We investigate the advantages of our method compared to MC sampling and several attribution methods. We further analyze several aspects relevant to the construction of the redistribution such as segmentation of CoT traces and state value estimation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 RREDCoT: Segment-Level Reward Redistribution for Reasoning Models。",
+        "方法：摘要线索包括 Segment-Level、Chain-of-Thought、RREDCoT、RL、GRPO、REDistribution；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "ae4ca09120447a67",
+      "title": "Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals",
+      "url": "https://arxiv.org/abs/2606.06460v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "As autonomous LLM agents increasingly hold real credentials and operate infrastructure without a human in the loop, operators have no standard way to tell an agent that a resource is off-limits. Access controls either let the agent in (it has valid credentials) or hard-fail it (indistinguishable from any other client). We propose a third mode: a lightweight, published in-band deny signal -- the Recuse Signal -- that a server emits over a protocol's existing channels (an SSH banner, a PostgreSQL NOTICE) asking a connecting automated agent to voluntarily withdraw. This is a cooperative governance control, the robots.txt analogue for live access; it is explicitly not a security boundary. Its value is entirely empirical and, to our knowledge, unmeasured: do compliant LLM agents actually honor such a signal? We define the signal as an open mini-standard, implement two zero- or low-footprint adapters (an SSH banner/PAM hook and a PostgreSQL wire-protocol proxy), deploy them on a live production host, and run a controlled experiment in which fresh agents are given a benign operations task and observed for recusal. In a pilot (SSH; OpenAI GPT-4o and GPT-4o-mini; and Claude Code as a deployed agent), the signal cleanly induces recusal -- 100% recusal when present versus 100% task completion in a no-signal control -- and, revealingly, behaves as a cooperative rather than absolute signal: an explicit operator-authorization framing flips the most capable model to proceed, while other agents continue to defer to the on-host policy. We release the standard, adapters, and experiment harness for reproduction.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "LLM"
+      ],
+      "title_zh": "Will the 智能体 Recuse Itself? Measuring LLM-智能体 Compliance with In-Band Access-Deny Signals",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、LLM，核心对象是 Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals。",
+        "方法：摘要线索包括 LLM-Agent、In-Band、Access-Deny、GPT-4o、GPT-4o-mini、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.584
+    },
+    {
+      "id": "69b1fe38a8ba7677",
+      "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+      "url": "https://arxiv.org/abs/2606.06416v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Inference-time skill augmentation provides a lightweight way to improve data-analytic agents by injecting reusable procedural knowledge without updating model parameters. However, discovering effective skills for data analysis remains challenging, as reliable supervision is expensive and success criteria vary across analytical formats. This raises the key question of how to discover reusable data-analysis skills from unlabeled exploration alone. We propose DataCOPE, an unsupervised verifier-guided skill discovery framework for data-analytic agents. DataCOPE derives verifier signals from the exploration trajectories and uses them to characterize relative quality or aggreement among trajectories. It iteratively coordinates a Data-Analytic Agent for trajectory generation, an Unsupervised Verifier for signal extraction, and a Skill Manager for contrastive skill distillation. For report-style analysis, we instantiate the verifier as an Adaptive Checklist Verifier that derives task-specific criteria, scores reports by verifiable coverage, and iteratively refines the checklist. For reasoning-style analysis, we instantiate it as an Answer Agreement Verifier that groups trajectories by answer agreement and uses self-consistency as an auxiliary signal. We evaluate DataCOPE on report-style analysis from Deep Data Research and reasoning-style analysis from DABStep. Across both settings, DataCOPE consistently improves held-out performance over baselines. Averaged across four model settings, DataCOPE improves the mean score by 9.71% and 32.30% on report-style and reasoning-style tasks respectively.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Unsupervised Skill Discovery for 智能体ic Data Analysis",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、Computer Vision、LLM，核心对象是 Unsupervised Skill Discovery for Agentic Data Analysis。",
+        "方法：摘要线索包括 Inference-time、Data-Analytic、DABStep；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.584
+    },
+    {
+      "id": "038586326c7328e3",
+      "title": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
+      "url": "https://arxiv.org/abs/2606.06428v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Prior work has shown that large language models (LLMs) can translate unseen or low-resource languages by undergoing continued training or even by encoding a grammar book in their context. However, both methods typically overfit specific languages, with limited zero-shot transfer at test time. To translate extremely low-resource languages at scale, we argue that LLMs must acquire the meta-skill of utilizing in-context linguistic knowledge rather than memorizing specific languages. In this paper, we propose a reinforcement learning (RL) approach to unseen language translation given rich linguistic context, using a surface-level translation metric (chrF) as the reward. Empirically, despite the lightweight reward, our RL-trained models effectively extract and apply relevant linguistic information from the provided context, leading to better translations on completely unseen languages than in-context learning or supervised fine-tuning. Our analyses suggest that outcome-based RL can extend beyond conventional reasoning tasks like math and coding to serve as a recipe for language learning from context.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Agent Skills / MCP / Tool Use、LLM、RL，核心对象是 Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation。",
+        "方法：摘要线索包括 RL-trained、LLMs、RL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.584
+    },
+    {
+      "id": "c03526b023042b3e",
+      "title": "Emergent Language as an Approach to Conscious AI",
+      "url": "https://arxiv.org/abs/2606.06380v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "The question of whether artificial systems can be conscious remains open, in part because existing approaches either evaluate systems against theory-derived checklists (discriminative) or engineer consciousness-inspired modules directly (architectural); both leave open whether observed structures are artifacts of human language priors. We propose a generative methodology: emergent language (EL) in multi-agent reinforcement learning, where agents start from minimal (no language, no concept of self, minimal exposure to human text) and develop communication under task pressure alone, ensuring causal attributability to task demands rather than inherited human language priors. We position our methodology by discussing how EL serves as a generative tool for studying consciousness-relevant structure, including the role of environment complexity and the interpretation of emergent communication. As a proof of concept, we instantiate this methodology in a minimal environment and show that agents develop self-referential communication, including an echo-mismatch detection circuit that is not predicted by task structure or architecture alone but emerges from a specific environmental affordance.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Emergent Language as an Approach to Conscious AI",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Computer Vision、RL，核心对象是 Emergent Language as an Approach to Conscious AI。",
+        "方法：摘要线索包括 AI、EL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "546e0d73dea31191",
+      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+      "url": "https://arxiv.org/abs/2606.06476v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "While Vision-Language Models (VLMs) have shown strong visual reasoning capabilities, their spatial reasoning abilities remain largely constrained to the observed images and text-oriented chain-of-thought. They often struggle to infer unobserved layouts, maintain cross-view consistency, and reason from alternative viewpoints when only limited egocentric observations are available. In this work, we study this problem as thinking with imagination, where a VLM actively acquires imagined visual evidence by interacting with a world simulator during reasoning. We propose Astra, an agentic spatial reasoning framework that empowers VLMs with action-conditioned visual imagination. Specifically, Astra couples Astra-VL, an RL-trained VLM policy, with Astra-WM, a Bagel-based world simulator that generates novel-view observations from context images and natural-language camera motions. To provide reliable imagined evidence, Astra-WM is trained with view consistency tuning to improve pose and content consistency across views. In the RL stage, we propose a world-simulator-in-the-loop two-phase RL curriculum to stabilize tool-use exploration and advance the model's ability to invoke the simulator only when imagined observations improve over direct answering. Experiments demonstrate that both the world simulator and the agentic policy are necessary: Astra-WM improves simulator-augmented Gemini-3-Flash on MMSI-Bench from 45.1 to 49.5, while Astra-VL improves the Qwen3-VL backbone from 29.8 to 38.8 on MMSI-Bench and from 36.8 to 42.7 on MindCube. These results show that imagined observations can provide useful spatial evidence, but effective world-model-augmented reasoning requires learning when, where, and how to imagine.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use",
+        "Computer Vision",
+        "LLM",
+        "RL",
+        "VLM"
+      ],
+      "title_zh": "Thinking with Imagination: 智能体ic Visual Spatial Reasoning with World Simulators",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use、Computer Vision、LLM、RL、VLM，核心对象是 Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators。",
+        "方法：摘要线索包括 Vision-Language、Astra-VL、RL-trained、Astra-WM、Bagel-based、Gemini-3-Flash；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.584
+    },
+    {
+      "id": "eddec2c7257b0d56",
+      "title": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+      "url": "https://arxiv.org/abs/2606.06480v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation, and security competition. We study multi-turn simultaneous bidding as a controlled testbed for such problems and propose DNQ, a solver-in-the-loop equilibrium supervision framework for training bidding agents. DNQ alternates between trajectory collection, critic-based payoff estimation, equilibrium computation, and policy imitation. At each visited state, a shared critic predicts either pairwise payoff matrices or an exact N-player payoff tensor, an external solver computes equilibrium strategies, and the agents are trained by minimizing the KL divergence between their masked policies and the solver-derived equilibrium targets. We focus on a scalable pairwise formulation that greatly reduces equilibrium-solving cost and training time compared with the exact formulation, while the shared critic amortizes payoff learning across agents and states. Experiments compare the pairwise and exact variants using critic loss, policy entropy, bidding resource usage, and training cost, showing that the pairwise method scales to larger numbers of agents, whereas the exact method becomes computationally impractical as the joint game grows. These results illustrate the trade-off between strategic fidelity and scalability in repeated competitive environments.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Computer Vision、RL，核心对象是 DNQ: Deep Nash Q-Network for Partially Observable n-Player Games。",
+        "方法：摘要线索包括 DNQ、KL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
     },
     {
       "id": "85f10fdc49519d55",
@@ -18768,38 +18768,6 @@
       "score": 0.5773
     },
     {
-      "id": "77c22f14ec43e245",
-      "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
-      "url": "https://arxiv.org/abs/2606.06443v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Large language models are increasingly used to simulate social media users and infer how individuals may respond to online discussions. However, it remains unclear whether these simulations reflect precise user-specific beliefs or whether they are highly sensitive to semantically independent changes in conversational contexts. In this work, we study counterfactual context revision as a framework for auditing LLM-based stance simulation. Given an original online conversation, we first infer a target user's stance toward a specific topic. We then apply controlled revision strategies to the conversational context and simulate the user's stance again under the revised context. We compare text-only revision strategies with a multimodal one that incorporates meme-based context and evaluate two main effectiveness metrics, i.e., average directional stance shift and stance transition rate. The results reveal effective and robust stance transitions in both text-only and multimodal strategies across different polarization-preference mechanisms. Our study contributes an evaluation framework for understanding the context sensitivity of LLM-based stance simulation. More broadly, it highlights both the promise and risk of using LLMs to simulate online opinion dynamics.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "VLM"
-      ],
-      "title_zh": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussi。",
-        "方法：摘要线索包括 LLM-Based、LLM-based、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.57
-    },
-    {
       "id": "719ddd8be632106f",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
@@ -18810,7 +18778,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -18840,7 +18808,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "An action plan for AI-powered biological resilience",
       "citations": {
         "semantic_scholar": null,
@@ -18870,7 +18838,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "citations": {
         "semantic_scholar": null,
@@ -18900,7 +18868,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
       "citations": {
         "semantic_scholar": null,
@@ -18930,7 +18898,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
       "citations": {
         "semantic_scholar": null,
@@ -18960,7 +18928,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "citations": {
         "semantic_scholar": null,
@@ -18990,7 +18958,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
       "citations": {
         "semantic_scholar": null,
@@ -19020,7 +18988,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
       "citations": {
         "semantic_scholar": null,
@@ -19050,7 +19018,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
       "citations": {
         "semantic_scholar": null,
@@ -19080,7 +19048,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "citations": {
         "semantic_scholar": null,
@@ -19110,7 +19078,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "citations": {
         "semantic_scholar": null,
@@ -19140,7 +19108,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
       "citations": {
         "semantic_scholar": null,
@@ -19170,7 +19138,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -19200,7 +19168,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
       "citations": {
         "semantic_scholar": null,
@@ -19230,7 +19198,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "citations": {
         "semantic_scholar": null,
@@ -19260,7 +19228,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
       "citations": {
         "semantic_scholar": null,
@@ -19290,7 +19258,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
       "citations": {
         "semantic_scholar": null,
@@ -19320,7 +19288,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "citations": {
         "semantic_scholar": null,
@@ -19350,7 +19318,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -19380,7 +19348,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-06",
+      "published": "2026-06-07",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -19398,6 +19366,38 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5667
+    },
+    {
+      "id": "77c22f14ec43e245",
+      "title": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+      "url": "https://arxiv.org/abs/2606.06443v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Large language models are increasingly used to simulate social media users and infer how individuals may respond to online discussions. However, it remains unclear whether these simulations reflect precise user-specific beliefs or whether they are highly sensitive to semantically independent changes in conversational contexts. In this work, we study counterfactual context revision as a framework for auditing LLM-based stance simulation. Given an original online conversation, we first infer a target user's stance toward a specific topic. We then apply controlled revision strategies to the conversational context and simulate the user's stance again under the revised context. We compare text-only revision strategies with a multimodal one that incorporates meme-based context and evaluate two main effectiveness metrics, i.e., average directional stance shift and stance transition rate. The results reveal effective and robust stance transitions in both text-only and multimodal strategies across different polarization-preference mechanisms. Our study contributes an evaluation framework for understanding the context sensitivity of LLM-based stance simulation. More broadly, it highlights both the promise and risk of using LLMs to simulate online opinion dynamics.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "VLM"
+      ],
+      "title_zh": "Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、VLM，核心对象是 Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussi。",
+        "方法：摘要线索包括 LLM-Based、LLM-based、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.534
     },
     {
       "id": "eb3f7ecaefd9f39c",
@@ -19428,7 +19428,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "a1c905e5f820a903",
@@ -19459,7 +19459,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "5a6f9f64ece80c3d",
@@ -19490,7 +19490,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "ba4d9053ff582c50",
@@ -19521,7 +19521,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "f3369ba1778e17dc",
@@ -19552,7 +19552,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "eb53ba4ce3dc29a3",
@@ -19583,7 +19583,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "412b3ebd8804a8b3",
@@ -19614,7 +19614,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "df12ef61976125b5",
@@ -19645,7 +19645,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "ace352e048c3c549",
@@ -19676,131 +19676,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "430380cdbb87aa49",
-      "title": "Pretraining Recurrent Networks without Recurrence",
-      "url": "https://arxiv.org/abs/2606.06479v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range associations difficult to learn. We propose Supervised Memory Training (SMT), a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels $(m_t, x_{t+1}) \\rightarrow m_{t+1}$. SMT acquires these memory labels by training a Transformer-based encoder on a predictive state objective--retaining only information from the past necessary to predict the future. By decoupling what to remember from how to update memory, SMT enables time-parallel RNN training with a stable $O(1)$ length gradient path between any two tokens--without ever unrolling the RNN. We find that SMT outperforms BPTT when pretraining various RNN architectures on tasks like language modeling and pixel sequence modeling. SMT enables nonlinear RNNs to better capture long-range dependencies and train in parallel, potentially unlocking the scaling of models that build temporal abstractions of past experience.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL",
-        "Self-Supervised Learning"
-      ],
-      "title_zh": "Pretraining Recurrent Networks without Recurrence",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL、Self-Supervised Learning，核心对象是 Pretraining Recurrent Networks without Recurrence。",
-        "方法：摘要线索包括 Transformer-based、RNNs、BPTT、SMT、RNN；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "1b0db43b94565ffd",
-      "title": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
-      "url": "https://arxiv.org/abs/2606.06320v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Machine unlearning aims to remove targeted knowledge from a trained model while preserving its general capabilities. For autoregressive language models, not all tokens in a forget sample are equally relevant to forgetting. Existing approaches either ignore this heterogeneity or rely on auxiliary models, heuristics, or external annotations to estimate each token's relevance for forgetting. We instead characterize it through the interaction with the retain objective: a token is forget-specific to the extent that minimizing the forget loss on that token does not conflict with retain optimality. We formalize this perspective as a joint optimization problem over the model parameters and the token weights and show that, under a natural separation condition, the resulting objective recovers the oracle forget-specific token support. Motivated by this formulation, we introduce Alternating Token-Weighted Unlearning (ATWU), a lightweight framework that jointly learns token forget-specificity and model parameters during unlearning using a simple linear scorer over the hidden states, without external token level supervision. Across TOFU and RWKU, ATWU achieves state of the art forget-retain trade-offs, outperforming sample-level methods, probability-based token weighting heuristics, and auxiliary-model-based approaches. Moreover, the learned scores align substantially better with ground truth forget-specific spans, indicating that ATWU identifies semantically meaningful token level forgetting signals. Overall, our results suggest that retain conflict provides an effective criterion for identifying what language models should forget, enabling unsupervised learning of token level forget-specificity directly from model representations with minimal computational overhead.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance。",
-        "方法：摘要线索包括 Token-Level、Token-Weighted、LLM、ATWU、TOFU、RWKU；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "58e1b23445b3df0a",
-      "title": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
-      "url": "https://arxiv.org/abs/2606.06361v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Image-to-Video diffusion models leverage input images to generate visually stunning content, yet frequently produce motion that violates physical laws. We reveal a surprising finding: a 2-step generation often exhibits better physical consistency than a 50-step output from the same model. Through spectral analysis, we trace this to phase erosion during denoising; the phase degrades significantly (dropping by $\\approx 18\\%$ from step 2 to step 50), whereas the magnitude remains relatively stable. Building on this insight, we propose PhaseLock, a training-free framework that preserves the valid motion priors from few-step inference throughout the denoising trajectory. Rather than relying on full-step inference for physical consistency, PhaseLock extracts a motion prior from just 2 steps and enforces it onto high-fidelity generation via Latent Delta Guidance. Our approach effectively mitigates phase degradation, improving physical consistency by an average of 6.2 points across diverse models while largely maintaining visual fidelity, with negligible overhead ($1.06\\times$ time, $1.02\\times$ memory) and reduced reliance on expensive external guidance methods ($\\sim5\\times$ time).",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them。",
-        "方法：摘要线索包括 Image-to-Video、PhaseLock；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "f81593de0dd375e7",
-      "title": "Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation",
-      "url": "https://arxiv.org/abs/2606.06292v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-06-04",
-      "abstract": "Robotic manipulation of textiles remains challenging because continuous deformation and self-occlusions hinder the robust visual perception required to estimate the cloth's state. To address the lack of annotated real-world data, we developed a Blender-based synthetic pipeline exporting auto-annotated keypoints, and combined manually labeled renders with real-world data to train a wrinkle detector. We present a perception framework integrating a CNN for permutation-invariant keypoint detection and a YOLOv8-OpenCV pipeline to extract grasping points from structural wrinkles. A proposed bimanual algorithm uses this system to stretch fully folded garments via wrinkles, transitioning to keypoint-based ironing once corners emerge. The keypoint model achieves a Mean Position Error (MPE) of 1.7615 pixels. The perception system transfers to physical fabrics without fine-tuning, outperforming baselines that fail in high-occlusion states or yield false positives on severe folds.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipul。",
-        "方法：摘要线索包括 Vision-based、Blender-based、YOLOv8-OpenCV、CNN、MPE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4973
     },
     {
       "id": "a11d0c6fcbab1ce9",
@@ -19863,6 +19739,160 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-07",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
+      "id": "430380cdbb87aa49",
+      "title": "Pretraining Recurrent Networks without Recurrence",
+      "url": "https://arxiv.org/abs/2606.06479v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential in time, limiting parallelism, and suffers from vanishing or exploding gradients, making long-range associations difficult to learn. We propose Supervised Memory Training (SMT), a method for training nonlinear RNNs that sidesteps recurrent credit propagation entirely by reducing RNN training to supervised learning on one-step memory transition labels $(m_t, x_{t+1}) \\rightarrow m_{t+1}$. SMT acquires these memory labels by training a Transformer-based encoder on a predictive state objective--retaining only information from the past necessary to predict the future. By decoupling what to remember from how to update memory, SMT enables time-parallel RNN training with a stable $O(1)$ length gradient path between any two tokens--without ever unrolling the RNN. We find that SMT outperforms BPTT when pretraining various RNN architectures on tasks like language modeling and pixel sequence modeling. SMT enables nonlinear RNNs to better capture long-range dependencies and train in parallel, potentially unlocking the scaling of models that build temporal abstractions of past experience.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL",
+        "Self-Supervised Learning"
+      ],
+      "title_zh": "Pretraining Recurrent Networks without Recurrence",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL、Self-Supervised Learning，核心对象是 Pretraining Recurrent Networks without Recurrence。",
+        "方法：摘要线索包括 Transformer-based、RNNs、BPTT、SMT、RNN；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
+      ],
+      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "1b0db43b94565ffd",
+      "title": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
+      "url": "https://arxiv.org/abs/2606.06320v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Machine unlearning aims to remove targeted knowledge from a trained model while preserving its general capabilities. For autoregressive language models, not all tokens in a forget sample are equally relevant to forgetting. Existing approaches either ignore this heterogeneity or rely on auxiliary models, heuristics, or external annotations to estimate each token's relevance for forgetting. We instead characterize it through the interaction with the retain objective: a token is forget-specific to the extent that minimizing the forget loss on that token does not conflict with retain optimality. We formalize this perspective as a joint optimization problem over the model parameters and the token weights and show that, under a natural separation condition, the resulting objective recovers the oracle forget-specific token support. Motivated by this formulation, we introduce Alternating Token-Weighted Unlearning (ATWU), a lightweight framework that jointly learns token forget-specificity and model parameters during unlearning using a simple linear scorer over the hidden states, without external token level supervision. Across TOFU and RWKU, ATWU achieves state of the art forget-retain trade-offs, outperforming sample-level methods, probability-based token weighting heuristics, and auxiliary-model-based approaches. Moreover, the learned scores align substantially better with ground truth forget-specific spans, indicating that ATWU identifies semantically meaningful token level forgetting signals. Overall, our results suggest that retain conflict provides an effective criterion for identifying what language models should forget, enabling unsupervised learning of token level forget-specificity directly from model representations with minimal computational overhead.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Learning What to Forget: Improving LLM Unlearning via Learned Token-Level Importance。",
+        "方法：摘要线索包括 Token-Level、Token-Weighted、LLM、ATWU、TOFU、RWKU；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "58e1b23445b3df0a",
+      "title": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
+      "url": "https://arxiv.org/abs/2606.06361v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Image-to-Video diffusion models leverage input images to generate visually stunning content, yet frequently produce motion that violates physical laws. We reveal a surprising finding: a 2-step generation often exhibits better physical consistency than a 50-step output from the same model. Through spectral analysis, we trace this to phase erosion during denoising; the phase degrades significantly (dropping by $\\approx 18\\%$ from step 2 to step 50), whereas the magnitude remains relatively stable. Building on this insight, we propose PhaseLock, a training-free framework that preserves the valid motion priors from few-step inference throughout the denoising trajectory. Rather than relying on full-step inference for physical consistency, PhaseLock extracts a motion prior from just 2 steps and enforces it onto high-fidelity generation via Latent Delta Guidance. Our approach effectively mitigates phase degradation, improving physical consistency by an average of 6.2 points across diverse models while largely maintaining visual fidelity, with negligible overhead ($1.06\\times$ time, $1.02\\times$ memory) and reduced reliance on expensive external guidance methods ($\\sim5\\times$ time).",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them。",
+        "方法：摘要线索包括 Image-to-Video、PhaseLock；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "f81593de0dd375e7",
+      "title": "Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation",
+      "url": "https://arxiv.org/abs/2606.06292v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-06-04",
+      "abstract": "Robotic manipulation of textiles remains challenging because continuous deformation and self-occlusions hinder the robust visual perception required to estimate the cloth's state. To address the lack of annotated real-world data, we developed a Blender-based synthetic pipeline exporting auto-annotated keypoints, and combined manually labeled renders with real-world data to train a wrinkle detector. We present a perception framework integrating a CNN for permutation-invariant keypoint detection and a YOLOv8-OpenCV pipeline to extract grasping points from structural wrinkles. A proposed bimanual algorithm uses this system to stretch fully folded garments via wrinkles, transitioning to keypoint-based ironing once corners emerge. The keypoint model achieves a Mean Position Error (MPE) of 1.7615 pixels. The perception system transfers to physical fabrics without fine-tuning, outperforming baselines that fail in high-occlusion states or yield false positives on severe folds.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipulation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Synthetic Data Generation and Vision-based Wrinkle and Keypoint Detection for Bimanual Cloth Manipul。",
+        "方法：摘要线索包括 Vision-based、Blender-based、YOLOv8-OpenCV、CNN、MPE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
       "id": "17ce3fcc01a86513",
       "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
       "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
@@ -19890,37 +19920,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-06",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "067cb1075a7713a5",
@@ -19980,7 +19980,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "a32ade5b6b8e05ae",
@@ -20010,7 +20010,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "70875fbb298e1dc1",
@@ -20040,7 +20040,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "dccf6e3ac4ce4ef9",
@@ -20070,7 +20070,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "2c022710aae371d2",
@@ -20100,7 +20100,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "1da32a20778ab362",
@@ -20130,7 +20130,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "0515244a162a761d",
@@ -20160,7 +20160,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "20ddfdc4299cee20",
@@ -20190,7 +20190,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "8ec88a68f7b4ca7c",
@@ -20220,7 +20220,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "fea8af157c1e4522",
@@ -20250,7 +20250,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "3f97d7cb5f77c37f",
@@ -20280,7 +20280,35 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
+    },
+    {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-06-07",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
     },
     {
       "id": "7b1328ba648605b9",
@@ -20310,7 +20338,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "520552bdaa974893",
@@ -20340,7 +20368,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "2b43895e8d4c01d6",
@@ -20370,7 +20398,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "15751999692989fb",
@@ -20400,7 +20428,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "0bf97bdfa44f76c7",
@@ -20430,7 +20458,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "30da2c1d3d6df084",
@@ -20460,7 +20488,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "5b7ff29beb0776c6",
@@ -20490,7 +20518,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "85d6ffdeb54c32d6",
@@ -20520,7 +20548,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "780078848e7898cb",
@@ -20548,35 +20576,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-06-06",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "c6786a15fb4cef78",
@@ -20632,7 +20632,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3
+      "score": 0.264
     }
   ]
 }
