@@ -1,7 +1,7 @@
 {
-  "title": "2026-06-21 AI Research Briefing",
+  "title": "2026-06-22 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-06-21T16:28:34",
+  "generated_at": "2026-06-22T18:43:48",
   "top_10": [
     {
       "id": "0f943da22c3412d1",
@@ -3061,21 +3061,21 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
-      "id": "1d3ccfe70dc54a54",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "id": "747230673f4860f8",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
       "topics": [
-        "LLM"
+        "RL"
       ],
-      "published": "2026-06-19",
-      "abstract": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
+      "published": "2026-06-22",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3083,11 +3083,41 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "title_zh": "The Download: record-breaking subsea tunnels and flexible data centers",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：A startup claims it broke through a bottleneck that’s holding back LLMs。",
-        "内容要点：Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
-        "关键词：Miami-based、LLMs、AI。"
+        "MIT Technology Review AI 的这条更新聚焦：The Download: record-breaking subsea tunnels and flexible data centers。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the Nort...",
+        "指标/证据：1,000。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "74c9b376a0223f0d",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Inside the world’s deepest and longest subsea road tunnel",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Inside the world’s deepest and longest subsea road tunnel。",
+        "内容要点：It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave.",
+        "指标/证据：1,000。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -3104,7 +3134,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -3122,6 +3152,36 @@
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.4967
+    },
+    {
+      "id": "1d3ccfe70dc54a54",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-06-19",
+      "abstract": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：A startup claims it broke through a bottleneck that’s holding back LLMs。",
+        "内容要点：The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
+        "关键词：Miami-based、LLMs、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "7c1a0f4a6acfe796",
@@ -3184,18 +3244,16 @@
       "score": 0.4607
     },
     {
-      "id": "dd4cfdc74c9dbd58",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "id": "8b96ded3034dd277",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-06-17",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations…",
+      "topics": [],
+      "published": "2026-06-22",
+      "abstract": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3203,15 +3261,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The Download: a reality check for geoengineering and the science of interoception",
+      "title_zh": "Three things to watch amid Anthropic’s latest feud with the government",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: a reality check for geoengineering and the science of interoception。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
+        "MIT Technology Review AI 的这条更新聚焦：Three things to watch amid Anthropic’s latest feud with the government。",
+        "内容要点：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+        "关键词：AI、US。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4607
+      "score": 0.38
     },
     {
       "id": "6fc9269bdb089bca",
@@ -3239,7 +3297,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "ec879f52446198a2",
@@ -3267,7 +3325,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "a229eb932a8c19d7",
@@ -3296,62 +3354,6 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.344
-    },
-    {
-      "id": "9ae7505090639db8",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-17",
-      "abstract": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have helped. A couple of years ago, a panel cost about…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Entrepreneurs in Nairobi make the case for going solar",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Entrepreneurs in Nairobi make the case for going solar。",
-        "内容要点：Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions.",
-        "指标/证据：25%。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
-      "id": "af2696b8ba959834",
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-17",
-      "abstract": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Hacking the atmosphere: Geoengineering gets a reality check。",
-        "内容要点：Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters hi...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
     }
   ],
   "industry_items": [
@@ -3367,7 +3369,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -3387,6 +3389,68 @@
       "score": 0.7133
     },
     {
+      "id": "73ebf047c97a70d3",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Daybreak: Tools for securing every organization in the world",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Daybreak: Tools for securing every organization in the world。",
+        "内容要点：OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "6978237ab568e861",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Samsung Electronics brings ChatGPT and Codex to employees。",
+        "内容要点：Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "关键词：AI、ChatGPT。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
       "id": "a9f05ef2d0bc0820",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -3398,7 +3462,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -3429,7 +3493,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3460,7 +3524,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "citations": {
         "semantic_scholar": null,
@@ -3491,7 +3555,7 @@
         "AI Agent",
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -3522,7 +3586,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Introducing Agent Skills | Claude",
       "citations": {
         "semantic_scholar": null,
@@ -3542,6 +3606,36 @@
       "score": 0.6833
     },
     {
+      "id": "1d48ec3c0092f874",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-06-22",
+      "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Patch the Planet: a Daybreak initiative to support open source maintainers。",
+        "内容要点：OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
+    },
+    {
       "id": "1b1bfbb97defc769",
       "title": "Introducing LifeSciBench",
       "url": "https://openai.com/index/introducing-life-sci-bench",
@@ -3552,7 +3646,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -3582,7 +3676,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -3602,6 +3696,36 @@
       "score": 0.5967
     },
     {
+      "id": "6b06a24b83f075df",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Codex-maxxing for long-running work",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Codex-maxxing for long-running work。",
+        "内容要点：Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+        "关键词：Codex-maxxing。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "8eb607f909f5661e",
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -3612,7 +3736,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -3642,7 +3766,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -3672,7 +3796,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -3702,7 +3826,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -3732,7 +3856,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -3752,66 +3876,6 @@
       "score": 0.5667
     },
     {
-      "id": "f6305dc92293af35",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-21",
-      "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How an astrophysicist uses Codex to help simulate black holes。",
-        "内容要点：Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-        "关键词：Chi-kwan。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "59790fb9937c2609",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-06-21",
-      "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "BBVA puts AI at the core of banking with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：BBVA puts AI at the core of banking with OpenAI。",
-        "内容要点：Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-        "指标/证据：100,000；关键词：AI-powered、BBVA、AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "4312fc25bc6dec9d",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -3822,7 +3886,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -3842,6 +3906,66 @@
       "score": 0.5667
     },
     {
+      "id": "59790fb9937c2609",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "BBVA puts AI at the core of banking with OpenAI",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：BBVA puts AI at the core of banking with OpenAI。",
+        "内容要点：Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+        "指标/证据：100,000；关键词：AI-powered、BBVA、AI、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "f6305dc92293af35",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How an astrophysicist uses Codex to help simulate black holes。",
+        "内容要点：Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+        "关键词：Chi-kwan。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "38b55607b320a93f",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
@@ -3852,7 +3976,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -3882,7 +4006,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
       "citations": {
         "semantic_scholar": null,
@@ -3912,7 +4036,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "citations": {
         "semantic_scholar": null,
@@ -3942,7 +4066,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -3972,7 +4096,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
       "citations": {
         "semantic_scholar": null,
@@ -4002,7 +4126,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "citations": {
         "semantic_scholar": null,
@@ -4032,7 +4156,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
       "citations": {
         "semantic_scholar": null,
@@ -4062,7 +4186,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
       "citations": {
         "semantic_scholar": null,
@@ -4092,7 +4216,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
       "citations": {
         "semantic_scholar": null,
@@ -4122,7 +4246,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -4136,126 +4260,6 @@
         "OpenAI News 的这条更新聚焦：Dreaming: Better memory for a more helpful ChatGPT。",
         "内容要点：ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
         "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "447bdfbbee0e7d9f",
-      "title": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-06-21",
-      "abstract": "An action plan for AI-powered biological resilience",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Biodefense in the Intelligence Age",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Biodefense in the Intelligence Age。",
-        "内容要点：An action plan for AI-powered biological resilience",
-        "关键词：AI-powered。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "0f196eddf0e88568",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-21",
-      "abstract": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Wasmer used Codex to build a Node.js runtime for the edge。",
-        "内容要点：See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "4a6e1faa37ee0206",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-06-21",
-      "abstract": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "A blueprint for democratic governance of frontier AI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：A blueprint for democratic governance of frontier AI。",
-        "内容要点：OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "7d8be1cbac007866",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-06-21",
-      "abstract": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI public policy agenda",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI public policy agenda。",
-        "内容要点：OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-        "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
@@ -17374,7 +17378,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -17394,6 +17398,68 @@
       "score": 0.7133
     },
     {
+      "id": "73ebf047c97a70d3",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Daybreak: Tools for securing every organization in the world",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Daybreak: Tools for securing every organization in the world。",
+        "内容要点：OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "6978237ab568e861",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Samsung Electronics brings ChatGPT and Codex to employees。",
+        "内容要点：Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "关键词：AI、ChatGPT。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
       "id": "a9f05ef2d0bc0820",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -17405,7 +17471,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -17436,7 +17502,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -17467,7 +17533,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "citations": {
         "semantic_scholar": null,
@@ -17498,7 +17564,7 @@
         "AI Agent",
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -17529,7 +17595,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Introducing Agent Skills | Claude",
       "citations": {
         "semantic_scholar": null,
@@ -17945,19 +18011,18 @@
       "score": 0.614
     },
     {
-      "id": "38916fd791b74ebb",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
+      "id": "1d48ec3c0092f874",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
       "source_kind": "rss",
       "topics": [
-        "LLM",
-        "RL"
+        "LLM"
       ],
-      "published": "2026-06-19",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+      "published": "2026-06-22",
+      "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -17965,15 +18030,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The Download: AI bottleneck debates, and BCI trials take off",
+      "title_zh": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI bottleneck debates, and BCI trials take off。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth las...",
-        "关键词：AI、BCI、LLMs。"
+        "OpenAI News 的这条更新聚焦：Patch the Planet: a Daybreak initiative to support open source maintainers。",
+        "内容要点：OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+        "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
     },
     {
       "id": "1b1bfbb97defc769",
@@ -17986,7 +18051,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -18016,7 +18081,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -18165,6 +18230,67 @@
       "score": 0.584
     },
     {
+      "id": "38916fd791b74ebb",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "published": "2026-06-19",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: AI bottleneck debates, and BCI trials take off。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth las...",
+        "关键词：AI、BCI、LLMs。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.5773
+    },
+    {
+      "id": "6b06a24b83f075df",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Codex-maxxing for long-running work",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Codex-maxxing for long-running work。",
+        "内容要点：Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+        "关键词：Codex-maxxing。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "8eb607f909f5661e",
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -18175,7 +18301,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -18205,7 +18331,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -18235,7 +18361,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -18265,7 +18391,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -18295,7 +18421,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -18315,66 +18441,6 @@
       "score": 0.5667
     },
     {
-      "id": "f6305dc92293af35",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-21",
-      "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How an astrophysicist uses Codex to help simulate black holes。",
-        "内容要点：Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-        "关键词：Chi-kwan。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "59790fb9937c2609",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-06-21",
-      "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "BBVA puts AI at the core of banking with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：BBVA puts AI at the core of banking with OpenAI。",
-        "内容要点：Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-        "指标/证据：100,000；关键词：AI-powered、BBVA、AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "4312fc25bc6dec9d",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -18385,7 +18451,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -18405,6 +18471,66 @@
       "score": 0.5667
     },
     {
+      "id": "59790fb9937c2609",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "BBVA puts AI at the core of banking with OpenAI",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：BBVA puts AI at the core of banking with OpenAI。",
+        "内容要点：Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+        "指标/证据：100,000；关键词：AI-powered、BBVA、AI、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "f6305dc92293af35",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-06-22",
+      "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How an astrophysicist uses Codex to help simulate black holes。",
+        "内容要点：Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+        "关键词：Chi-kwan。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
       "id": "38b55607b320a93f",
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
@@ -18415,7 +18541,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -18445,7 +18571,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
       "citations": {
         "semantic_scholar": null,
@@ -18475,7 +18601,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "citations": {
         "semantic_scholar": null,
@@ -18505,7 +18631,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -18535,7 +18661,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
       "citations": {
         "semantic_scholar": null,
@@ -18565,7 +18691,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
       "citations": {
         "semantic_scholar": null,
@@ -18595,7 +18721,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
       "citations": {
         "semantic_scholar": null,
@@ -18625,7 +18751,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
       "citations": {
         "semantic_scholar": null,
@@ -18655,7 +18781,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
       "citations": {
         "semantic_scholar": null,
@@ -18685,7 +18811,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -18715,7 +18841,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "An action plan for AI-powered biological resilience",
       "citations": {
         "semantic_scholar": null,
@@ -18735,126 +18861,6 @@
       "score": 0.5667
     },
     {
-      "id": "0f196eddf0e88568",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-21",
-      "abstract": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Wasmer used Codex to build a Node.js runtime for the edge。",
-        "内容要点：See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "4a6e1faa37ee0206",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-06-21",
-      "abstract": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "A blueprint for democratic governance of frontier AI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：A blueprint for democratic governance of frontier AI。",
-        "内容要点：OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "7d8be1cbac007866",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-06-21",
-      "abstract": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI public policy agenda",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI public policy agenda。",
-        "内容要点：OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "a13ac5600bb7a0aa",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-06-21",
-      "abstract": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Travelers deploys AI-powered claims countrywide with OpenAI。",
-        "内容要点：Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-        "关键词：AI-powered。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -18865,7 +18871,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -18895,7 +18901,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -19442,18 +19448,18 @@
       "score": 0.4973
     },
     {
-      "id": "1d3ccfe70dc54a54",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "id": "747230673f4860f8",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
       "topics": [
-        "LLM"
+        "RL"
       ],
-      "published": "2026-06-19",
-      "abstract": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
+      "published": "2026-06-22",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -19461,11 +19467,41 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "title_zh": "The Download: record-breaking subsea tunnels and flexible data centers",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：A startup claims it broke through a bottleneck that’s holding back LLMs。",
-        "内容要点：Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
-        "关键词：Miami-based、LLMs、AI。"
+        "MIT Technology Review AI 的这条更新聚焦：The Download: record-breaking subsea tunnels and flexible data centers。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the Nort...",
+        "指标/证据：1,000。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "74c9b376a0223f0d",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-06-22",
+      "abstract": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Inside the world’s deepest and longest subsea road tunnel",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Inside the world’s deepest and longest subsea road tunnel。",
+        "内容要点：It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave.",
+        "指标/证据：1,000。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -19482,7 +19518,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -19842,6 +19878,36 @@
       "score": 0.4673
     },
     {
+      "id": "1d3ccfe70dc54a54",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-06-19",
+      "abstract": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：A startup claims it broke through a bottleneck that’s holding back LLMs。",
+        "内容要点：The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade.",
+        "关键词：Miami-based、LLMs、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
       "id": "7c1a0f4a6acfe796",
       "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
       "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
@@ -19895,36 +19961,6 @@
       "summary_zh": [
         "MIT Technology Review AI 的这条更新聚焦：The search for dark matter has been blown wide open。",
         "内容要点：Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "dd4cfdc74c9dbd58",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-06-17",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: a reality check for geoengineering and the science of interoception",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: a reality check for geoengineering and the science of interoception。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could...",
         "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -20112,16 +20148,16 @@
       "score": 0.3807
     },
     {
-      "id": "6fc9269bdb089bca",
-      "title": "The inevitable weakness of metrics",
-      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "id": "8b96ded3034dd277",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
       "topics": [],
-      "published": "2026-06-19",
-      "abstract": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
+      "published": "2026-06-22",
+      "abstract": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -20129,39 +20165,11 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The inevitable weakness of metrics",
+      "title_zh": "Three things to watch amid Anthropic’s latest feud with the government",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The inevitable weakness of metrics。",
-        "内容要点：There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "ec879f52446198a2",
-      "title": "Brain-computer interface trials are taking off",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-19",
-      "abstract": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Brain-computer interface trials are taking off",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Brain-computer interface trials are taking off。",
-        "内容要点：This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device.",
-        "关键词：Brain-computer、ALS、BCI。"
+        "MIT Technology Review AI 的这条更新聚焦：Three things to watch amid Anthropic’s latest feud with the government。",
+        "内容要点：This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+        "关键词：AI、US。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -20176,7 +20184,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-06-21",
+      "published": "2026-06-22",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -20376,6 +20384,62 @@
       "score": 0.3507
     },
     {
+      "id": "6fc9269bdb089bca",
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-06-19",
+      "abstract": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The inevitable weakness of metrics",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The inevitable weakness of metrics。",
+        "内容要点：There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.344
+    },
+    {
+      "id": "ec879f52446198a2",
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-06-19",
+      "abstract": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Brain-computer interface trials are taking off",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Brain-computer interface trials are taking off。",
+        "内容要点：This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device.",
+        "关键词：Brain-computer、ALS、BCI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.344
+    },
+    {
       "id": "a229eb932a8c19d7",
       "title": "Geoengineering still faces major practical challenges",
       "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
@@ -20397,62 +20461,6 @@
       "summary_zh": [
         "MIT Technology Review AI 的这条更新聚焦：Geoengineering still faces major practical challenges。",
         "内容要点：Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
-      "id": "9ae7505090639db8",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-17",
-      "abstract": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have helped. A couple of years ago, a panel cost about…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Entrepreneurs in Nairobi make the case for going solar",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Entrepreneurs in Nairobi make the case for going solar。",
-        "内容要点：Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions.",
-        "指标/证据：25%。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
-      "id": "af2696b8ba959834",
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-17",
-      "abstract": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Hacking the atmosphere: Geoengineering gets a reality check。",
-        "内容要点：Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters hi...",
         "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
