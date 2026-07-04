@@ -1,7 +1,7 @@
 {
-  "title": "2026-07-03 AI Research Briefing",
+  "title": "2026-07-04 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-07-03T16:23:02",
+  "generated_at": "2026-07-04T15:59:49",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3233,6 +3233,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-04",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "4d650699e0fbfaba",
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -3260,7 +3290,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "b717ef49f80eeb75",
@@ -3290,37 +3320,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-03",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "f8e77afe911df147",
@@ -3353,6 +3353,34 @@
       "score": 0.4607
     },
     {
+      "id": "54b1f81d703b0337",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-07-03",
+      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：A device that revives eyeballs from dead donors could make eye transplants possible。",
+        "内容要点：It’s not easy to transplant a whole human eye. The surgery is difficult.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
       "id": "89adc6820202e497",
       "title": "Achieving operational excellence with AI",
       "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -3379,34 +3407,6 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.38
-    },
-    {
-      "id": "4def030cdec60b74",
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-30",
-      "abstract": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body。",
-        "内容要点：Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments?",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
     }
   ],
   "industry_items": [
@@ -3422,7 +3422,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -3453,7 +3453,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3484,7 +3484,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -3515,7 +3515,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -3546,7 +3546,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3577,7 +3577,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3607,7 +3607,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -3637,7 +3637,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -3667,7 +3667,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -3697,7 +3697,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -3727,7 +3727,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -3757,7 +3757,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -3787,7 +3787,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -3817,7 +3817,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -3847,7 +3847,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -3877,7 +3877,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -3907,7 +3907,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -3937,7 +3937,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -3967,7 +3967,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -3997,7 +3997,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -4027,7 +4027,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -4057,7 +4057,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -4087,7 +4087,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -4117,7 +4117,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -4147,7 +4147,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -4177,7 +4177,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -4207,7 +4207,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -4237,7 +4237,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "citations": {
         "semantic_scholar": null,
@@ -4267,7 +4267,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -4297,7 +4297,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -14412,7 +14412,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -14575,7 +14575,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -14606,7 +14606,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -14637,7 +14637,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -14668,7 +14668,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -14699,7 +14699,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -15220,7 +15220,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -15442,7 +15442,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -15472,7 +15472,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -15502,7 +15502,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -15532,7 +15532,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -15624,7 +15624,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -15654,7 +15654,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -15684,7 +15684,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -15714,7 +15714,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -15744,7 +15744,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -15774,7 +15774,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -15804,7 +15804,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -15834,7 +15834,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -15864,7 +15864,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -15894,7 +15894,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -15924,7 +15924,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -15954,7 +15954,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -15984,7 +15984,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -16014,7 +16014,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -16044,7 +16044,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -16074,7 +16074,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -16104,7 +16104,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "citations": {
         "semantic_scholar": null,
@@ -16134,7 +16134,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -16164,7 +16164,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -16194,7 +16194,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -16224,7 +16224,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16254,7 +16254,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16952,6 +16952,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-04",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "4d650699e0fbfaba",
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -16979,7 +17009,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "b717ef49f80eeb75",
@@ -17009,37 +17039,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-03",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "f8e77afe911df147",
@@ -17433,6 +17433,34 @@
       "score": 0.3867
     },
     {
+      "id": "54b1f81d703b0337",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-07-03",
+      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：A device that revives eyeballs from dead donors could make eye transplants possible。",
+        "内容要点：It’s not easy to transplant a whole human eye. The surgery is difficult.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
       "id": "89adc6820202e497",
       "title": "Achieving operational excellence with AI",
       "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -17469,7 +17497,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-07-03",
+      "published": "2026-07-04",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -17487,34 +17515,6 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.38
-    },
-    {
-      "id": "4def030cdec60b74",
-      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-06-30",
-      "abstract": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s new focus. Speakers: Mary Beth Griggs, science editor and Jessica…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body。",
-        "内容要点：Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments?",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
     },
     {
       "id": "4263b7f3dfe3855a",
