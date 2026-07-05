@@ -1,7 +1,7 @@
 {
-  "title": "2026-07-04 AI Research Briefing",
+  "title": "2026-07-05 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-07-04T15:59:49",
+  "generated_at": "2026-07-05T16:05:43",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1087,7 +1087,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "d53b165dc95057b8",
@@ -1119,7 +1119,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "888d5943e3094af6",
@@ -1153,7 +1153,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "8c75ed4dd8501637",
@@ -1187,7 +1187,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "76afc5eb0bb980cf",
@@ -1219,7 +1219,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "0d7cc154cd141874",
@@ -1253,7 +1253,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "0be1a2c4840c91b1",
@@ -1287,7 +1287,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "4991da055e97b429",
@@ -1319,7 +1319,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "f869d80b9855c218",
@@ -1352,7 +1352,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "72c96d49baf646c4",
@@ -1386,7 +1386,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "044be82b11234bf2",
@@ -1418,7 +1418,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "0bf2513aac2c5510",
@@ -1451,7 +1451,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "23ad7584d937a45e",
@@ -1484,7 +1484,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "bc001ddcec2628a1",
@@ -1517,7 +1517,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "2d223db0a5ad17f5",
@@ -1549,7 +1549,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "e142531bc9ffe668",
@@ -1581,7 +1581,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "d1b3617b6105b2c5",
@@ -1613,7 +1613,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "39c05ff0ffd15b35",
@@ -1645,7 +1645,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "7d956d22e7c0a0af",
@@ -1678,7 +1678,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "2405708e927dca69",
@@ -1710,7 +1710,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "701240e3337ff786",
@@ -1742,7 +1742,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "1c958aba92ffda86",
@@ -1775,7 +1775,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "e59f8034ebdab39c",
@@ -1807,7 +1807,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b581c78e4fe9bea0",
@@ -1839,7 +1839,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "e814e340bfd343b5",
@@ -1870,7 +1870,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.5573
     },
     {
       "id": "1a3b638fabaf8ee6",
@@ -1901,7 +1901,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.5573
     },
     {
       "id": "08695e8cbec5f595",
@@ -1932,7 +1932,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "c6f739fad079afa6",
@@ -1963,7 +1963,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "0032656dfef4608f",
@@ -1994,7 +1994,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "ea6e4b2a36e180c3",
@@ -2025,7 +2025,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     }
   ],
   "paper_items": [
@@ -3110,7 +3110,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
       "id": "7358c74c7fd53795",
@@ -3173,6 +3173,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "7ed3405083d5e076",
       "title": "Teaching AI to run with the turbines",
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
@@ -3200,7 +3230,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "912a987f4a58ac5a",
@@ -3230,37 +3260,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "4d650699e0fbfaba",
@@ -3362,7 +3362,7 @@
       "source_kind": "rss",
       "topics": [],
       "published": "2026-07-03",
-      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
+      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3406,7 +3406,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     }
   ],
   "industry_items": [
@@ -3422,7 +3422,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -3453,7 +3453,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3484,7 +3484,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -3515,7 +3515,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -3546,7 +3546,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3577,7 +3577,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3607,7 +3607,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -3637,7 +3637,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -3667,7 +3667,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -3697,7 +3697,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -3727,7 +3727,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -3757,7 +3757,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -3787,7 +3787,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -3817,7 +3817,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -3847,7 +3847,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -3877,7 +3877,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -3907,7 +3907,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -3937,7 +3937,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -3967,7 +3967,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -3997,7 +3997,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -4027,7 +4027,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -4057,7 +4057,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -4087,7 +4087,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -4117,7 +4117,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -4147,7 +4147,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -4177,7 +4177,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -4207,7 +4207,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -4237,7 +4237,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "citations": {
         "semantic_scholar": null,
@@ -4267,7 +4267,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -4297,7 +4297,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -14412,7 +14412,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-04",
+      "published": "2026-07-05",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -14430,6 +14430,161 @@
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.7133
+    },
+    {
+      "id": "73ebf047c97a70d3",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Daybreak: Tools for securing every organization in the world",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Daybreak: Tools for securing every organization in the world。",
+        "内容要点：OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "6978237ab568e861",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use",
+        "RL"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Samsung Electronics brings ChatGPT and Codex to employees。",
+        "内容要点：Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "关键词：AI、ChatGPT。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "a9f05ef2d0bc0820",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "New OpenAI Academy courses for the next era of work",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：New OpenAI Academy courses for the next era of work。",
+        "内容要点：OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "cfe55116c736d083",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI to acquire Ona",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI to acquire Ona。",
+        "内容要点：OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "b18b3fdef842963a",
+      "title": "Introducing Agent Skills | Claude by Anthropic",
+      "url": "https://claude.com/blog/skills",
+      "source": "Claude Skills",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "web",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Introducing Agent Skills | Claude by Anthropic",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing 智能体 Skills | Claude by Anthropic",
+      "summary_zh": [
+        "Claude Skills 的这条更新聚焦：Introducing Agent Skills | Claude by Anthropic。",
+        "内容要点：Introducing Agent Skills | Claude by Anthropic",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
     },
     {
       "id": "edd6516779c5c1e4",
@@ -14461,7 +14616,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "d53b165dc95057b8",
@@ -14493,7 +14648,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "888d5943e3094af6",
@@ -14527,7 +14682,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "8c75ed4dd8501637",
@@ -14561,162 +14716,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
-    },
-    {
-      "id": "73ebf047c97a70d3",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use",
-        "RL"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Daybreak: Tools for securing every organization in the world",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Daybreak: Tools for securing every organization in the world。",
-        "内容要点：OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "6978237ab568e861",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use",
-        "RL"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Samsung Electronics brings ChatGPT and Codex to employees。",
-        "内容要点：Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-        "关键词：AI、ChatGPT。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "a9f05ef2d0bc0820",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "New OpenAI Academy courses for the next era of work",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：New OpenAI Academy courses for the next era of work。",
-        "内容要点：OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "cfe55116c736d083",
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI to acquire Ona",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI to acquire Ona。",
-        "内容要点：OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "b18b3fdef842963a",
-      "title": "Introducing Agent Skills | Claude by Anthropic",
-      "url": "https://claude.com/blog/skills",
-      "source": "Claude Skills",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "web",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Introducing Agent Skills | Claude by Anthropic",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing 智能体 Skills | Claude by Anthropic",
-      "summary_zh": [
-        "Claude Skills 的这条更新聚焦：Introducing Agent Skills | Claude by Anthropic。",
-        "内容要点：Introducing Agent Skills | Claude by Anthropic",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
+      "score": 0.674
     },
     {
       "id": "76afc5eb0bb980cf",
@@ -14748,7 +14748,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "0d7cc154cd141874",
@@ -14782,7 +14782,37 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
+    },
+    {
+      "id": "19c3a0c4f838e068",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing GeneBench-Pro",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Introducing GeneBench-Pro。",
+        "内容要点：Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+        "关键词：GeneBench-Pro、AI、GeneBench。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.6267
     },
     {
       "id": "0be1a2c4840c91b1",
@@ -14816,7 +14846,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "4991da055e97b429",
@@ -14848,7 +14878,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "f869d80b9855c218",
@@ -14881,7 +14911,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "72c96d49baf646c4",
@@ -14915,7 +14945,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "044be82b11234bf2",
@@ -14947,7 +14977,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "0bf2513aac2c5510",
@@ -14980,7 +15010,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "23ad7584d937a45e",
@@ -15013,7 +15043,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "bc001ddcec2628a1",
@@ -15046,7 +15076,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "2d223db0a5ad17f5",
@@ -15078,7 +15108,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "e142531bc9ffe668",
@@ -15110,7 +15140,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "d1b3617b6105b2c5",
@@ -15142,7 +15172,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "39c05ff0ffd15b35",
@@ -15174,7 +15204,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "7d956d22e7c0a0af",
@@ -15207,21 +15237,21 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
-      "id": "19c3a0c4f838e068",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "id": "262ce2373bace91c",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
       "source_kind": "rss",
       "topics": [
-        "RL"
+        "LLM"
       ],
-      "published": "2026-07-04",
-      "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "published": "2026-07-05",
+      "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -15229,15 +15259,105 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Introducing GeneBench-Pro",
+      "title_zh": "Helping build shared standards for advanced AI",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing GeneBench-Pro。",
-        "内容要点：Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-        "关键词：GeneBench-Pro、AI、GeneBench。"
+        "OpenAI News 的这条更新聚焦：Helping build shared standards for advanced AI。",
+        "内容要点：OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+        "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.6267
+      "score": 0.5967
+    },
+    {
+      "id": "1d48ec3c0092f874",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Patch the Planet: a Daybreak initiative to support open source maintainers。",
+        "内容要点：OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
+    },
+    {
+      "id": "1b1bfbb97defc769",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing LifeSciBench",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Introducing LifeSciBench。",
+        "内容要点：Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+        "关键词：AI、LifeSciBench。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
+    },
+    {
+      "id": "e4de4b3a47679e6e",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Predicting model behavior before release by simulating deployment",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Predicting model behavior before release by simulating deployment。",
+        "内容要点：OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
     },
     {
       "id": "2405708e927dca69",
@@ -15269,7 +15389,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "701240e3337ff786",
@@ -15301,7 +15421,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "1c958aba92ffda86",
@@ -15334,7 +15454,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "e59f8034ebdab39c",
@@ -15366,7 +15486,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b581c78e4fe9bea0",
@@ -15398,7 +15518,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "0cfa899ecb5159e3",
@@ -15429,12 +15549,12 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
-      "id": "262ce2373bace91c",
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "id": "4ad55b06ed89118f",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
@@ -15442,8 +15562,8 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "published": "2026-07-05",
+      "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -15451,20 +15571,20 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Helping build shared standards for advanced AI",
+      "title_zh": "How ChatGPT adoption has expanded",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Helping build shared standards for advanced AI。",
-        "内容要点：OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-        "关键词：AI。"
+        "OpenAI News 的这条更新聚焦：How ChatGPT adoption has expanded。",
+        "内容要点：New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+        "关键词：ChatGPT。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5967
+      "score": 0.5667
     },
     {
-      "id": "1d48ec3c0092f874",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
+      "id": "6d0f878a49bf6a02",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
@@ -15472,8 +15592,8 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "published": "2026-07-05",
+      "abstract": "",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -15481,20 +15601,470 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "title_zh": "Inside Genebench-Pro",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Patch the Planet: a Daybreak initiative to support open source maintainers。",
-        "内容要点：OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+        "OpenAI News 的这条更新聚焦：Inside Genebench-Pro。",
+        "内容要点：Inside Genebench-Pro",
+        "关键词：Genebench-Pro。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "c7f9768b4831a9da",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Core dump epidemiology: fixing an 18-year-old bug。",
+        "内容要点：OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "8fe243da77cf13b2",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-07-05",
+      "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Mapping Europe’s AI Workforce Opportunity",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Mapping Europe’s AI Workforce Opportunity。",
+        "内容要点：A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+        "关键词：AI、EU。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "d94dad5af7422362",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：HP Inc. launches Frontier strategic partnership with OpenAI。",
+        "内容要点：HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+        "关键词：HP、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "cd1a37b9540f83dc",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Previewing GPT-5.6 Sol: a next-generation model",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Previewing GPT-5.6 Sol: a next-generation model。",
+        "内容要点：OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "25a8836a9550426e",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-07-05",
+      "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How 智能体 are transforming work",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How agents are transforming work。",
+        "内容要点：A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "66ebc8349f442151",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI and Broadcom unveil LLM-optimized inference chip。",
+        "内容要点：OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+        "关键词：LLM-optimized、AI、LLM。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "5814e5cb96533a54",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery。",
+        "内容要点：GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "82066e6b230c7e80",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Omio is building the future of conversational travel",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Omio is building the future of conversational travel。",
+        "内容要点：Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+        "关键词：AI-native。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "6b06a24b83f075df",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Codex-maxxing for long-running work",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Codex-maxxing for long-running work。",
+        "内容要点：Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+        "关键词：Codex-maxxing。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "8eb607f909f5661e",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "New usage analytics and updated spend controls for enterprises",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：New usage analytics and updated spend controls for enterprises。",
+        "内容要点：OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+        "关键词：AI、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "edd37ae49a73b71c",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Using AI to help physicians diagnose rare genetic diseases affecting children。",
+        "内容要点：Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
         "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5967
+      "score": 0.5667
     },
     {
-      "id": "1b1bfbb97defc769",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "id": "e336c23b7ff1b5bd",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry。",
+        "内容要点：OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+        "关键词：GPT-5、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "1999fe270d844aae",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing the OpenAI Partner Network",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Introducing the OpenAI Partner Network。",
+        "内容要点：OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "a6c75ebec8bbfb1c",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Preply combines AI and human tutors to personalize learning",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Preply combines AI and human tutors to personalize learning。",
+        "内容要点：Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+        "关键词：AI-generated、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "f6305dc92293af35",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How an astrophysicist uses Codex to help simulate black holes。",
+        "内容要点：Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+        "关键词：Chi-kwan。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "59790fb9937c2609",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
@@ -15502,8 +16072,8 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-04",
-      "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "published": "2026-07-05",
+      "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -15511,20 +16081,20 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Introducing LifeSciBench",
+      "title_zh": "BBVA puts AI at the core of banking with OpenAI",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing LifeSciBench。",
-        "内容要点：Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-        "关键词：AI、LifeSciBench。"
+        "OpenAI News 的这条更新聚焦：BBVA puts AI at the core of banking with OpenAI。",
+        "内容要点：Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+        "指标/证据：100,000；关键词：AI-powered、BBVA、AI、ChatGPT。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5967
+      "score": 0.5667
     },
     {
-      "id": "e4de4b3a47679e6e",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
+      "id": "4312fc25bc6dec9d",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "source": "OpenAI News",
       "source_tier": 1,
       "category": "工业界",
@@ -15532,8 +16102,8 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "published": "2026-07-05",
+      "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -15541,15 +16111,105 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Predicting model behavior before release by simulating deployment",
+      "title_zh": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Predicting model behavior before release by simulating deployment。",
-        "内容要点：OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+        "OpenAI News 的这条更新聚焦：Supporting Europe’s work in ensuring a trustworthy AI ecosystem。",
+        "内容要点：OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+        "关键词：AI-generated、AI、EU。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "38b55607b320a93f",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Access OpenAI models and Codex through your Oracle cloud commitment。",
+        "内容要点：Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.5667
+    },
+    {
+      "id": "c9479303102d5c83",
+      "title": "News — Google DeepMind",
+      "url": "https://deepmind.google/blog/",
+      "source": "Google DeepMind Blog",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "web",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "News — Google DeepMind",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "News — Google DeepMind",
+      "summary_zh": [
+        "Google DeepMind Blog 的这条更新聚焦：News — Google DeepMind。",
+        "内容要点：News — Google DeepMind",
+        "关键词：DeepMind。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "05e1d9544922b816",
+      "title": "Newsroom \\ Anthropic",
+      "url": "https://www.anthropic.com/news",
+      "source": "Anthropic News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "web",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Newsroom \\ Anthropic",
+      "summary_zh": [
+        "Anthropic News 的这条更新聚焦：Newsroom \\ Anthropic。",
+        "内容要点：Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
         "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5967
+      "score": 0.5667
     },
     {
       "id": "e814e340bfd343b5",
@@ -15580,7 +16240,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.5573
     },
     {
       "id": "1a3b638fabaf8ee6",
@@ -15611,667 +16271,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
-    },
-    {
-      "id": "4ad55b06ed89118f",
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How ChatGPT adoption has expanded",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How ChatGPT adoption has expanded。",
-        "内容要点：New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "6d0f878a49bf6a02",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Inside Genebench-Pro",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Inside Genebench-Pro。",
-        "内容要点：Inside Genebench-Pro",
-        "关键词：Genebench-Pro。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "c7f9768b4831a9da",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Core dump epidemiology: fixing an 18-year-old bug",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Core dump epidemiology: fixing an 18-year-old bug。",
-        "内容要点：OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "8fe243da77cf13b2",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-07-04",
-      "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Mapping Europe’s AI Workforce Opportunity",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Mapping Europe’s AI Workforce Opportunity。",
-        "内容要点：A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-        "关键词：AI、EU。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "d94dad5af7422362",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：HP Inc. launches Frontier strategic partnership with OpenAI。",
-        "内容要点：HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-        "关键词：HP、AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "cd1a37b9540f83dc",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Previewing GPT-5.6 Sol: a next-generation model。",
-        "内容要点：OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "25a8836a9550426e",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-07-04",
-      "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How 智能体 are transforming work",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How agents are transforming work。",
-        "内容要点：A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "66ebc8349f442151",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：OpenAI and Broadcom unveil LLM-optimized inference chip。",
-        "内容要点：OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-        "关键词：LLM-optimized、AI、LLM。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "5814e5cb96533a54",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "url": "https://openai.com/index/gpt-5-immunology-mystery",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery。",
-        "内容要点：GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "82066e6b230c7e80",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Omio is building the future of conversational travel",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Omio is building the future of conversational travel。",
-        "内容要点：Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-        "关键词：AI-native。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "6b06a24b83f075df",
-      "title": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Codex-maxxing for long-running work",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Codex-maxxing for long-running work。",
-        "内容要点：Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
-        "关键词：Codex-maxxing。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "8eb607f909f5661e",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "New usage analytics and updated spend controls for enterprises",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：New usage analytics and updated spend controls for enterprises。",
-        "内容要点：OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-        "关键词：AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "edd37ae49a73b71c",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Using AI to help physicians diagnose rare genetic diseases affecting children。",
-        "内容要点：Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "e336c23b7ff1b5bd",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry。",
-        "内容要点：OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-        "关键词：GPT-5、AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "1999fe270d844aae",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing the OpenAI Partner Network",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing the OpenAI Partner Network。",
-        "内容要点：OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "a6c75ebec8bbfb1c",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Preply combines AI and human tutors to personalize learning",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Preply combines AI and human tutors to personalize learning。",
-        "内容要点：Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-        "关键词：AI-generated、AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "f6305dc92293af35",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How an astrophysicist uses Codex to help simulate black holes",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How an astrophysicist uses Codex to help simulate black holes。",
-        "内容要点：Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-        "关键词：Chi-kwan。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "59790fb9937c2609",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "BBVA puts AI at the core of banking with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：BBVA puts AI at the core of banking with OpenAI。",
-        "内容要点：Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-        "指标/证据：100,000；关键词：AI-powered、BBVA、AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "4312fc25bc6dec9d",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Supporting Europe’s work in ensuring a trustworthy AI ecosystem。",
-        "内容要点：OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-        "关键词：AI-generated、AI、EU。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "38b55607b320a93f",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Access OpenAI models and Codex through your Oracle cloud commitment。",
-        "内容要点：Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "c9479303102d5c83",
-      "title": "News — Google DeepMind",
-      "url": "https://deepmind.google/blog/",
-      "source": "Google DeepMind Blog",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "web",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "News — Google DeepMind",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "News — Google DeepMind",
-      "summary_zh": [
-        "Google DeepMind Blog 的这条更新聚焦：News — Google DeepMind。",
-        "内容要点：News — Google DeepMind",
-        "关键词：DeepMind。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "05e1d9544922b816",
-      "title": "Newsroom \\ Anthropic",
-      "url": "https://www.anthropic.com/news",
-      "source": "Anthropic News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "web",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Newsroom \\ Anthropic",
-      "summary_zh": [
-        "Anthropic News 的这条更新聚焦：Newsroom \\ Anthropic。",
-        "内容要点：Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
+      "score": 0.5573
     },
     {
       "id": "08695e8cbec5f595",
@@ -16302,7 +16302,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "c6f739fad079afa6",
@@ -16333,7 +16333,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "0032656dfef4608f",
@@ -16364,7 +16364,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "ea6e4b2a36e180c3",
@@ -16395,7 +16395,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "423e95f697c4c530",
@@ -16426,7 +16426,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "63a4daf78bc079d4",
@@ -16457,7 +16457,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "a3ded3aa7b02dfa8",
@@ -16488,7 +16488,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "8f3d6c5779fec434",
@@ -16519,7 +16519,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "44197f9e99762f60",
@@ -16550,7 +16550,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "c51beda90a2a2107",
@@ -16581,255 +16581,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "793ef47bfbd04908",
-      "title": "The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing",
-      "url": "https://arxiv.org/abs/2607.02416v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "Natural Language Processing (NLP) has traditionally been published in its core disciplinary venues like ACL. However, advances in Large Language Models (LLMs) has led to a blurring of the disciplinary lines between NLP and general Machine Learning (ML), with authors regularly publishing in venues from both fields. Here, we ask whether the disciplinary center of gravity is shifting. Using NLP research published from 2010 to 2026 and studies of both established and new authors, we find that a migration is taking place. First, comparing the pre- and post-LLM eras, established authors lost 19.2pp of share at flagship *ACL main-conference tracks while gaining 14.8pp in the newer Findings tracks, and general ML venues rose 8.6pp, even when adjusting for parallel growth in the fields. Second, among newer authors who debut with at least three first-author NLP-topic papers, the share whose work appears mostly at *ACL venues fell from 84% (2019) to 74% (2024), while the share appearing mostly at general ML venues rose from 5% to 21%. Using causal inference techniques, we estimate that these general ML venues confer a significant citation premium, which influences venue selection. Together, these results point to a significant shift in where NLP research is published.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Pr。",
-        "方法：摘要线索包括 NLP-topic、NLP、ACL、LLMs、ML、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "c7d4af80be9e48e7",
-      "title": "HULAT2 at MER-TRANS 2026: Governed Multi-Agent Simplification for Spanish Easy-to-Read Generation",
-      "url": "https://arxiv.org/abs/2607.02381v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "This paper describes the participation of HULAT2-UC3M in the Spanish track of MER-TRANS 2026, a shared task on multilingual Easy-to-Read translation. Three fully automatic Spanish runs were submitted. RUN1 and RUN2 used a LangGraph-based multi-agent workflow combining Gemini 2.5 Flash and RigoChat-7B-v2, parallel generation strategies, internal quality signals, Event-Condition-Action routing, controlled editing and traceable decisions. RUN1 used the base workflow, while RUN2 activated an additional lexical-support layer based on a glossary and lexical resources. RUN3 was a RigoChat-based generate-evaluate-regenerate baseline with prompt engineering and LoRA-based adaptation. The official leaderboard reports BLEU-Orig, BLEU-Gold, SARI and BERTScore. During development, additional internal signals were also inspected, including semantic fidelity, readability, lexical simplicity, syntactic clarity and factual consistency. According to official SARI, RUN1 was the best HULAT2 run, with 44.0543 points, followed by RUN2 with 43.1049 and RUN3 with 38.5136. These results indicate that, in this task setting, signal-guided multi-agent routing outperformed the linear regeneration baseline. They also show that adding lexical support did not automatically improve reference-based scores. Further segment-level and document-level analysis are required to assess readability, factual consistency and user-oriented adequacy.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "title_zh": "HULAT2 at MER-TRANS 2026: Governed Multi-智能体 Simplification for Spanish Easy-to-Read Generation",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use，核心对象是 HULAT2 at MER-TRANS 2026: Governed Multi-Agent Simplification for Spanish Easy-to-Read Generation。",
-        "方法：摘要线索包括 MER-TRANS、Multi-Agent、Easy-to-Read、HULAT2-UC3M、LangGraph-based、RigoChat-7B-v2；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5033
-    },
-    {
-      "id": "29ba4a55178fc65d",
-      "title": "World Wide Models: Literary Tools for Cultural AI",
-      "url": "https://arxiv.org/abs/2607.02369v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "LLMs stage a new form of cultural encounter that is massive, automated, and monolingual. Literary disciplines have always negotiated cultural struggles with comparative reading of literature, narratological and poetic analysis, critical theory, world literature, and translation. These tools have now become indispensable for building culturally literate AI. The essay develops a layered framework toward more nuanced textual models and pluralistic interpretations of AI, emphasizing the natural intersections of literature and AI development, connecting current debates in critical theory with structural monolingualism, and suggesting a new application of world literature approaches to address global AI textuality through macrostructure, circulation, and untranslatability.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "World Wide Models: Literary Tools for Cultural AI",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 World Wide Models: Literary Tools for Cultural AI。",
-        "方法：摘要线索包括 AI、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "8aebc9c1c6a18876",
-      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-      "url": "https://arxiv.org/abs/2607.02508v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion model itself. However, the mechanism behind the improvement from SRA to Self-Flow, dual-time scheduling, remains under-examined: Self-Flow attributes its gain to interactions between tokens at different noise levels, where cleaner tokens help infer noisier ones. In this work, we revisit this explanation and ask whether the gain instead comes from data augmentation along the noise dimension. To disentangle these factors, we introduce Attention Separation, which preserves the same dual-timestep input as Self-Flow while blocking attention between tokens assigned to different noise levels. Surprisingly, removing such interaction does not degrade performance and can even improve it, suggesting that the improvement from SRA to Self-Flow mainly comes from data augmentation. Furthermore,We show that Attention Separation itself provides an augmentation effect by splitting a single image into multiple effective training parts to expand the training data. Based on these observations, we combine self-representation alignment with dual-timestep and attention-separation augmentation, and demonstrate the effectiveness of this design on ImageNet.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 From SRA to Self-Flow: Data Augmentation or Self-Supervision?。",
-        "方法：摘要线索包括 Self-Flow、Self-Supervision、SRA、ImageNet；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "1ee3988fa560a83e",
-      "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
-      "url": "https://arxiv.org/abs/2607.02486v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "Descriptor-free visual localization eliminates high-dimensional descriptor storage, preserves scene privacy, and simplifies map maintenance, yet its accuracy still lags far behind descriptor-based pipelines. We identify this gap to insufficient geometric discriminability in geometry-only matching. Without visual appearance, current methods underutilize local geometry cues, lack the global context among keypoints, and overfit to a single keypoint detector. We further observe that descriptor-free matching naturally enables multi-detector training, as heterogeneous keypoints can be optimized in a shared geometry-only space without aligning descriptor spaces. Building on these insights, we propose GeoMix, a descriptor-free 2D-3D matching framework that strengthens geometric discriminability at three levels. Locally, directional and distance-aware embeddings enrich neighborhood aggregation with fine-grained spatial structure. Globally, learnable context nodes aggregate and redistribute scene-wide information via cross-attention to resolve ambiguities beyond local receptive fields. At the training level, Mix-Training exploits this detector-agnostic geometry space to learn representations across multiple keypoint detectors. Extensive experiments on MegaDepth, Cambridge Landmarks, 7Scenes, and Aachen Day-Night show that GeoMix sets a new state of the art among descriptor-free methods, reducing 75th-percentile rotation error by 89\\% and translation error by up to 90\\% over the previous best, while generalizing zero-shot to unseen detectors and narrowing the gap to descriptor-based pipelines. Code is available at $\\href{https://github.com/YejunZhang/Geomix}{\\text{this links}}$.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training。",
-        "方法：摘要线索包括 Descriptor-Free、Multi-Detector、Descriptor-free、Mix-Training、Day-Night、GeoMix；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "443a57915ccd08e2",
-      "title": "Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing",
-      "url": "https://arxiv.org/abs/2607.02421v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "Text-guided image editing aims to modify visual content according to a target prompt while preserving the background. Recent inversion-free image editing frameworks such as FlowEdit have demonstrated strong editing capability without requiring inversion. Empirically, FlowEdit can achieve substantial semantic changes under appropriate hyperparameter settings. However, we observe that under certain global attribute shifts, the editing trajectory may not effectively move away from the source distribution in the early timesteps. Our analysis suggests that in the high-noise regime, the dominant manifold-seeking flow toward the data manifold can reduce the influence of the text-conditioned direction, leading to limited global modification while background structures remain only moderately preserved. Inspired by this observation, we propose an inversion-free, frequency-aware semantic compensation strategy that strengthens the effective signal in the early stage of generation, while maintaining structural consistency in the background. The proposed method improves global editing capacity without sacrificing background fidelity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing。",
-        "方法：摘要线索包括 Wavelet-Guided、Inversion-Free、Text-guided、FlowEdit；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "072f182fd4e8efc1",
-      "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
-      "url": "https://arxiv.org/abs/2607.02417v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "Autonomous robots often need to move their camera before they can act: to inspect an object, reveal an occluded region, or obtain a view that responds to a user's intent. While vision-language navigation translates instructions to base motion and vision-language-action policies map instructions to manipulation actions, language-conditioned camera motion remains comparatively underexplored as a first-class action. We formulate language-conditioned camera motion generation: given a current RGB observation and a free-form natural-language intent, predict a relative target camera pose for the next observation. This task is inherently non-trivial: viewpoint changes are driven by latent perceptual intentions, and a valid motion may operate at different semantic granularity, from entering a room to looking around a corner, inspecting a visible object, or revealing an occluded detail. To model this structure, we mine multi-intention camera-motion supervision from egocentric video, pairing plausible intents and observation-gain descriptions with relative SE(3) target poses. We propose LIME, a vision-language camera-motion generator that combines an auto-regressive observation-gain output with a continuous flow-matching pose head. This design lets the model jointly predict what the next view should reveal while representing multi-hypothesis target views. Across experiments and downstream robotic tasks, we show that LIME can learn to actively choose camera poses from passive human video, turning ordinary egocentric recordings into supervision for intent-aware active perception.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "VLM"
-      ],
-      "title_zh": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 LIME: Learning Intent-aware Camera Motion from Egocentric Video。",
-        "方法：摘要线索包括 Intent-aware、LIME、RGB、SE、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "099834310c080849",
-      "title": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
-      "url": "https://arxiv.org/abs/2607.02396v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-02",
-      "abstract": "Steering and monitoring activations in Large Language Models (LLMs) are increasingly used for both safety and interpretability. Early work assumed behaviours are encoded along single linear directions, but recent findings suggest complex behaviours, such as the refusal to answer harmful queries, live in multi-dimensional subspaces. However, existing methods for extracting these subspaces are computationally expensive, which becomes prohibitive on reasoning models who produce long reasoning traces. By adapting the Recursive Feature Machine (RFM) algorithm -- which can be computed efficiently -- with a probe-informed initialization, we are able to identify the multi-dimensional refusal subspace in seconds, on reasoning (Qwen 3) and non-reasoning (Qwen 2.5) models. While RFM allows for faster subspace identification, it also showed better performances on the ablation task than its alternatives. More work is planned to better understand the relations between subspaces found by different methods. If confirmed, RFM could be a cheap and scalable complement to existing subspace-extraction methods in LLMs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Fast Multi-dimensional Refusal Subspaces via RFM-AGOP。",
-        "方法：摘要线索包括 Multi-dimensional、RFM-AGOP、LLMs、RFM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4973
     },
     {
       "id": "7358c74c7fd53795",
@@ -16892,6 +16644,284 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-05",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
+      "id": "793ef47bfbd04908",
+      "title": "The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing",
+      "url": "https://arxiv.org/abs/2607.02416v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "Natural Language Processing (NLP) has traditionally been published in its core disciplinary venues like ACL. However, advances in Large Language Models (LLMs) has led to a blurring of the disciplinary lines between NLP and general Machine Learning (ML), with authors regularly publishing in venues from both fields. Here, we ask whether the disciplinary center of gravity is shifting. Using NLP research published from 2010 to 2026 and studies of both established and new authors, we find that a migration is taking place. First, comparing the pre- and post-LLM eras, established authors lost 19.2pp of share at flagship *ACL main-conference tracks while gaining 14.8pp in the newer Findings tracks, and general ML venues rose 8.6pp, even when adjusting for parallel growth in the fields. Second, among newer authors who debut with at least three first-author NLP-topic papers, the share whose work appears mostly at *ACL venues fell from 84% (2019) to 74% (2024), while the share appearing mostly at general ML venues rose from 5% to 21%. Using causal inference techniques, we estimate that these general ML venues confer a significant citation premium, which influences venue selection. Together, these results point to a significant shift in where NLP research is published.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Pr。",
+        "方法：摘要线索包括 NLP-topic、NLP、ACL、LLMs、ML、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "c7d4af80be9e48e7",
+      "title": "HULAT2 at MER-TRANS 2026: Governed Multi-Agent Simplification for Spanish Easy-to-Read Generation",
+      "url": "https://arxiv.org/abs/2607.02381v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "This paper describes the participation of HULAT2-UC3M in the Spanish track of MER-TRANS 2026, a shared task on multilingual Easy-to-Read translation. Three fully automatic Spanish runs were submitted. RUN1 and RUN2 used a LangGraph-based multi-agent workflow combining Gemini 2.5 Flash and RigoChat-7B-v2, parallel generation strategies, internal quality signals, Event-Condition-Action routing, controlled editing and traceable decisions. RUN1 used the base workflow, while RUN2 activated an additional lexical-support layer based on a glossary and lexical resources. RUN3 was a RigoChat-based generate-evaluate-regenerate baseline with prompt engineering and LoRA-based adaptation. The official leaderboard reports BLEU-Orig, BLEU-Gold, SARI and BERTScore. During development, additional internal signals were also inspected, including semantic fidelity, readability, lexical simplicity, syntactic clarity and factual consistency. According to official SARI, RUN1 was the best HULAT2 run, with 44.0543 points, followed by RUN2 with 43.1049 and RUN3 with 38.5136. These results indicate that, in this task setting, signal-guided multi-agent routing outperformed the linear regeneration baseline. They also show that adding lexical support did not automatically improve reference-based scores. Further segment-level and document-level analysis are required to assess readability, factual consistency and user-oriented adequacy.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "title_zh": "HULAT2 at MER-TRANS 2026: Governed Multi-智能体 Simplification for Spanish Easy-to-Read Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Agent Skills / MCP / Tool Use，核心对象是 HULAT2 at MER-TRANS 2026: Governed Multi-Agent Simplification for Spanish Easy-to-Read Generation。",
+        "方法：摘要线索包括 MER-TRANS、Multi-Agent、Easy-to-Read、HULAT2-UC3M、LangGraph-based、RigoChat-7B-v2；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4673
+    },
+    {
+      "id": "29ba4a55178fc65d",
+      "title": "World Wide Models: Literary Tools for Cultural AI",
+      "url": "https://arxiv.org/abs/2607.02369v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "LLMs stage a new form of cultural encounter that is massive, automated, and monolingual. Literary disciplines have always negotiated cultural struggles with comparative reading of literature, narratological and poetic analysis, critical theory, world literature, and translation. These tools have now become indispensable for building culturally literate AI. The essay develops a layered framework toward more nuanced textual models and pluralistic interpretations of AI, emphasizing the natural intersections of literature and AI development, connecting current debates in critical theory with structural monolingualism, and suggesting a new application of world literature approaches to address global AI textuality through macrostructure, circulation, and untranslatability.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "World Wide Models: Literary Tools for Cultural AI",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 World Wide Models: Literary Tools for Cultural AI。",
+        "方法：摘要线索包括 AI、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "8aebc9c1c6a18876",
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "url": "https://arxiv.org/abs/2607.02508v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion model itself. However, the mechanism behind the improvement from SRA to Self-Flow, dual-time scheduling, remains under-examined: Self-Flow attributes its gain to interactions between tokens at different noise levels, where cleaner tokens help infer noisier ones. In this work, we revisit this explanation and ask whether the gain instead comes from data augmentation along the noise dimension. To disentangle these factors, we introduce Attention Separation, which preserves the same dual-timestep input as Self-Flow while blocking attention between tokens assigned to different noise levels. Surprisingly, removing such interaction does not degrade performance and can even improve it, suggesting that the improvement from SRA to Self-Flow mainly comes from data augmentation. Furthermore,We show that Attention Separation itself provides an augmentation effect by splitting a single image into multiple effective training parts to expand the training data. Based on these observations, we combine self-representation alignment with dual-timestep and attention-separation augmentation, and demonstrate the effectiveness of this design on ImageNet.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 From SRA to Self-Flow: Data Augmentation or Self-Supervision?。",
+        "方法：摘要线索包括 Self-Flow、Self-Supervision、SRA、ImageNet；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "1ee3988fa560a83e",
+      "title": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+      "url": "https://arxiv.org/abs/2607.02486v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "Descriptor-free visual localization eliminates high-dimensional descriptor storage, preserves scene privacy, and simplifies map maintenance, yet its accuracy still lags far behind descriptor-based pipelines. We identify this gap to insufficient geometric discriminability in geometry-only matching. Without visual appearance, current methods underutilize local geometry cues, lack the global context among keypoints, and overfit to a single keypoint detector. We further observe that descriptor-free matching naturally enables multi-detector training, as heterogeneous keypoints can be optimized in a shared geometry-only space without aligning descriptor spaces. Building on these insights, we propose GeoMix, a descriptor-free 2D-3D matching framework that strengthens geometric discriminability at three levels. Locally, directional and distance-aware embeddings enrich neighborhood aggregation with fine-grained spatial structure. Globally, learnable context nodes aggregate and redistribute scene-wide information via cross-attention to resolve ambiguities beyond local receptive fields. At the training level, Mix-Training exploits this detector-agnostic geometry space to learn representations across multiple keypoint detectors. Extensive experiments on MegaDepth, Cambridge Landmarks, 7Scenes, and Aachen Day-Night show that GeoMix sets a new state of the art among descriptor-free methods, reducing 75th-percentile rotation error by 89\\% and translation error by up to 90\\% over the previous best, while generalizing zero-shot to unseen detectors and narrowing the gap to descriptor-based pipelines. Code is available at $\\href{https://github.com/YejunZhang/Geomix}{\\text{this links}}$.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training。",
+        "方法：摘要线索包括 Descriptor-Free、Multi-Detector、Descriptor-free、Mix-Training、Day-Night、GeoMix；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "443a57915ccd08e2",
+      "title": "Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing",
+      "url": "https://arxiv.org/abs/2607.02421v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "Text-guided image editing aims to modify visual content according to a target prompt while preserving the background. Recent inversion-free image editing frameworks such as FlowEdit have demonstrated strong editing capability without requiring inversion. Empirically, FlowEdit can achieve substantial semantic changes under appropriate hyperparameter settings. However, we observe that under certain global attribute shifts, the editing trajectory may not effectively move away from the source distribution in the early timesteps. Our analysis suggests that in the high-noise regime, the dominant manifold-seeking flow toward the data manifold can reduce the influence of the text-conditioned direction, leading to limited global modification while background structures remain only moderately preserved. Inspired by this observation, we propose an inversion-free, frequency-aware semantic compensation strategy that strengthens the effective signal in the early stage of generation, while maintaining structural consistency in the background. The proposed method improves global editing capacity without sacrificing background fidelity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Wavelet-Guided Semantic Signal Compensation for Inversion-Free Image Editing。",
+        "方法：摘要线索包括 Wavelet-Guided、Inversion-Free、Text-guided、FlowEdit；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "072f182fd4e8efc1",
+      "title": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
+      "url": "https://arxiv.org/abs/2607.02417v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "Autonomous robots often need to move their camera before they can act: to inspect an object, reveal an occluded region, or obtain a view that responds to a user's intent. While vision-language navigation translates instructions to base motion and vision-language-action policies map instructions to manipulation actions, language-conditioned camera motion remains comparatively underexplored as a first-class action. We formulate language-conditioned camera motion generation: given a current RGB observation and a free-form natural-language intent, predict a relative target camera pose for the next observation. This task is inherently non-trivial: viewpoint changes are driven by latent perceptual intentions, and a valid motion may operate at different semantic granularity, from entering a room to looking around a corner, inspecting a visible object, or revealing an occluded detail. To model this structure, we mine multi-intention camera-motion supervision from egocentric video, pairing plausible intents and observation-gain descriptions with relative SE(3) target poses. We propose LIME, a vision-language camera-motion generator that combines an auto-regressive observation-gain output with a continuous flow-matching pose head. This design lets the model jointly predict what the next view should reveal while representing multi-hypothesis target views. Across experiments and downstream robotic tasks, we show that LIME can learn to actively choose camera poses from passive human video, turning ordinary egocentric recordings into supervision for intent-aware active perception.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "title_zh": "LIME: Learning Intent-aware Camera Motion from Egocentric Video",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 LIME: Learning Intent-aware Camera Motion from Egocentric Video。",
+        "方法：摘要线索包括 Intent-aware、LIME、RGB、SE、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "099834310c080849",
+      "title": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
+      "url": "https://arxiv.org/abs/2607.02396v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-02",
+      "abstract": "Steering and monitoring activations in Large Language Models (LLMs) are increasingly used for both safety and interpretability. Early work assumed behaviours are encoded along single linear directions, but recent findings suggest complex behaviours, such as the refusal to answer harmful queries, live in multi-dimensional subspaces. However, existing methods for extracting these subspaces are computationally expensive, which becomes prohibitive on reasoning models who produce long reasoning traces. By adapting the Recursive Feature Machine (RFM) algorithm -- which can be computed efficiently -- with a probe-informed initialization, we are able to identify the multi-dimensional refusal subspace in seconds, on reasoning (Qwen 3) and non-reasoning (Qwen 2.5) models. While RFM allows for faster subspace identification, it also showed better performances on the ablation task than its alternatives. More work is planned to better understand the relations between subspaces found by different methods. If confirmed, RFM could be a cheap and scalable complement to existing subspace-extraction methods in LLMs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Fast Multi-dimensional Refusal Subspaces via RFM-AGOP。",
+        "方法：摘要线索包括 Multi-dimensional、RFM-AGOP、LLMs、RFM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
       "id": "7ed3405083d5e076",
       "title": "Teaching AI to run with the turbines",
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
@@ -16919,7 +16949,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "912a987f4a58ac5a",
@@ -16949,37 +16979,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-04",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "4d650699e0fbfaba",
@@ -17100,7 +17100,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4533
+      "score": 0.4173
     },
     {
       "id": "a554402bcd51c882",
@@ -17130,7 +17130,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "0d2ba579ac2ed7cc",
@@ -17160,7 +17160,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "5355b8cbc081484c",
@@ -17190,7 +17190,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "ab5146014a8763bf",
@@ -17220,7 +17220,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "01687ff6af072a4d",
@@ -17250,7 +17250,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "4730aeb90aa77ca6",
@@ -17280,7 +17280,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "66dfb8381b3e55ff",
@@ -17310,7 +17310,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "2ee58ef7d9beca68",
@@ -17340,7 +17340,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "73a92fe2570c6e4a",
@@ -17370,7 +17370,63 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
+    },
+    {
+      "id": "54b1f81d703b0337",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-07-03",
+      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：A device that revives eyeballs from dead donors could make eye transplants possible。",
+        "内容要点：It’s not easy to transplant a whole human eye. The surgery is difficult.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-07-05",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
     },
     {
       "id": "ee95e33869d3ffa2",
@@ -17400,7 +17456,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "5bb9084354b4ec7c",
@@ -17430,35 +17486,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "54b1f81d703b0337",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-07-03",
-      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：A device that revives eyeballs from dead donors could make eye transplants possible。",
-        "内容要点：It’s not easy to transplant a whole human eye. The surgery is difficult.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.3507
     },
     {
       "id": "89adc6820202e497",
@@ -17486,35 +17514,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-07-04",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "4263b7f3dfe3855a",
@@ -17542,7 +17542,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "0c9aed054dec1d04",
@@ -17570,7 +17570,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     }
   ]
 }
