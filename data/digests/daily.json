@@ -1,7 +1,7 @@
 {
-  "title": "2026-07-05 AI Research Briefing",
+  "title": "2026-07-06 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-07-05T16:05:43",
+  "generated_at": "2026-07-06T17:41:04",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3113,6 +3113,66 @@
       "score": 0.5773
     },
     {
+      "id": "04c247eb170e8b5e",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-07-06",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: South Korea’s hottest bachelors, and advancing eye transplants。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor tita...",
+        "关键词：SK。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-06",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "7358c74c7fd53795",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
@@ -3140,7 +3200,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "bba8cf7819bb2992",
@@ -3170,37 +3230,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-05",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "7ed3405083d5e076",
@@ -3293,18 +3323,16 @@
       "score": 0.4607
     },
     {
-      "id": "b717ef49f80eeb75",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "id": "bb52925fa8e7f65c",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-07-01",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
+      "topics": [],
+      "published": "2026-07-06",
+      "abstract": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3312,45 +3340,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "title_zh": "South Korea’s hottest new bachelors are chip workers",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: Anthropic launches Claude Science, and California’s carbon manure math。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
+        "MIT Technology Review AI 的这条更新聚焦：South Korea’s hottest new bachelors are chip workers。",
+        "内容要点：Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife fo...",
+        "关键词：SK。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "f8e77afe911df147",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-30",
-      "abstract": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Claude Science is Anthropic’s newest flagship product",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Claude Science is Anthropic’s newest flagship product。",
-        "内容要点：At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Cla...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4607
+      "score": 0.38
     },
     {
       "id": "54b1f81d703b0337",
@@ -3378,7 +3376,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "89adc6820202e497",
@@ -3422,7 +3420,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -3453,7 +3451,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3484,7 +3482,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -3515,7 +3513,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -3546,7 +3544,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3577,7 +3575,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3607,7 +3605,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -3637,7 +3635,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -3667,7 +3665,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -3697,7 +3695,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -3727,7 +3725,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -3757,7 +3755,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -3787,7 +3785,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -3817,7 +3815,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -3847,7 +3845,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -3877,7 +3875,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -3907,7 +3905,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -3937,7 +3935,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -3967,7 +3965,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -3997,7 +3995,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -4027,7 +4025,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -4057,7 +4055,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -4087,7 +4085,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -4117,7 +4115,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -4147,7 +4145,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -4177,7 +4175,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -4207,7 +4205,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -4237,7 +4235,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "citations": {
         "semantic_scholar": null,
@@ -4267,7 +4265,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -4297,7 +4295,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -14412,7 +14410,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -14443,7 +14441,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -14474,7 +14472,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -14505,7 +14503,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
       "citations": {
         "semantic_scholar": null,
@@ -14536,7 +14534,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -14567,7 +14565,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -14795,7 +14793,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -15250,7 +15248,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -15280,7 +15278,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -15310,7 +15308,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -15340,7 +15338,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
       "citations": {
         "semantic_scholar": null,
@@ -15562,7 +15560,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -15592,7 +15590,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -15622,7 +15620,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -15652,7 +15650,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -15682,7 +15680,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -15712,7 +15710,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -15742,7 +15740,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -15772,7 +15770,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -15802,7 +15800,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -15832,7 +15830,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -15862,7 +15860,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -15892,7 +15890,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -15922,7 +15920,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -15952,7 +15950,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
       "citations": {
         "semantic_scholar": null,
@@ -15982,7 +15980,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
       "citations": {
         "semantic_scholar": null,
@@ -16012,7 +16010,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "citations": {
         "semantic_scholar": null,
@@ -16042,7 +16040,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "citations": {
         "semantic_scholar": null,
@@ -16072,7 +16070,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -16102,7 +16100,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "citations": {
         "semantic_scholar": null,
@@ -16132,7 +16130,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -16162,7 +16160,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16192,7 +16190,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16584,9 +16582,9 @@
       "score": 0.4973
     },
     {
-      "id": "7358c74c7fd53795",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "id": "04c247eb170e8b5e",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
@@ -16594,8 +16592,8 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-03",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
+      "published": "2026-07-06",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -16603,41 +16601,11 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "title_zh": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: a smoking “endgame” and a new Elizabeth Bear story。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work.",
-        "关键词：UK。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "bba8cf7819bb2992",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-07-03",
-      "abstract": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The UK’s generational tobacco ban might not work. I’m supporting it anyway。",
-        "内容要点：As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school.",
-        "关键词：UK、AI。"
+        "MIT Technology Review AI 的这条更新聚焦：The Download: South Korea’s hottest bachelors, and advancing eye transplants。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor tita...",
+        "关键词：SK。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -16654,7 +16622,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16922,6 +16890,66 @@
       "score": 0.4673
     },
     {
+      "id": "7358c74c7fd53795",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-07-03",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: a smoking “endgame” and a new Elizabeth Bear story。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work.",
+        "关键词：UK。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "bba8cf7819bb2992",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-07-03",
+      "abstract": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The UK’s generational tobacco ban might not work. I’m supporting it anyway。",
+        "内容要点：As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school.",
+        "关键词：UK、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
       "id": "7ed3405083d5e076",
       "title": "Teaching AI to run with the turbines",
       "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
@@ -17009,66 +17037,6 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "b717ef49f80eeb75",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-07-01",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: Anthropic launches Claude Science, and California’s carbon manure math。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "f8e77afe911df147",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-06-30",
-      "abstract": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Claude Science is Anthropic’s newest flagship product",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Claude Science is Anthropic’s newest flagship product。",
-        "内容要点：At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Cla...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.4607
     },
     {
@@ -17373,16 +17341,16 @@
       "score": 0.3807
     },
     {
-      "id": "54b1f81d703b0337",
-      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "id": "bb52925fa8e7f65c",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
       "topics": [],
-      "published": "2026-07-03",
-      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+      "published": "2026-07-06",
+      "abstract": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -17390,11 +17358,11 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "title_zh": "South Korea’s hottest new bachelors are chip workers",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：A device that revives eyeballs from dead donors could make eye transplants possible。",
-        "内容要点：It’s not easy to transplant a whole human eye. The surgery is difficult.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
+        "MIT Technology Review AI 的这条更新聚焦：South Korea’s hottest new bachelors are chip workers。",
+        "内容要点：Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife fo...",
+        "关键词：SK。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -17409,7 +17377,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-07-05",
+      "published": "2026-07-06",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -17487,6 +17455,34 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.3507
+    },
+    {
+      "id": "54b1f81d703b0337",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-07-03",
+      "abstract": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：A device that revives eyeballs from dead donors could make eye transplants possible。",
+        "内容要点：It’s not easy to transplant a whole human eye. The surgery is difficult.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.344
     },
     {
       "id": "89adc6820202e497",
