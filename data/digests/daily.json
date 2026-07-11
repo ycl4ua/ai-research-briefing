@@ -1,7 +1,7 @@
 {
-  "title": "2026-07-10 AI Research Briefing",
+  "title": "2026-07-11 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-07-10T16:53:37",
+  "generated_at": "2026-07-11T15:53:12",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3191,6 +3191,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-07-11",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "6c265217c823de5f",
       "title": "The Download: worms fight pollution, and geoengineering faces reality",
       "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
@@ -3218,37 +3248,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-10",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "6eb9eef9e4fcb9f9",
@@ -3364,7 +3364,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "2321f03f4278dae2",
@@ -3408,7 +3408,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -3439,7 +3439,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3470,7 +3470,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -3501,7 +3501,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3531,7 +3531,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "citations": {
         "semantic_scholar": null,
@@ -3561,7 +3561,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -3591,7 +3591,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -3621,7 +3621,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -3651,7 +3651,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "citations": {
         "semantic_scholar": null,
@@ -3681,7 +3681,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "citations": {
         "semantic_scholar": null,
@@ -3711,7 +3711,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "citations": {
         "semantic_scholar": null,
@@ -3741,7 +3741,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "citations": {
         "semantic_scholar": null,
@@ -3771,7 +3771,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Details about the OpenAI Bio Bounty program",
       "citations": {
         "semantic_scholar": null,
@@ -3801,7 +3801,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
       "citations": {
         "semantic_scholar": null,
@@ -3831,7 +3831,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
       "citations": {
         "semantic_scholar": null,
@@ -3861,7 +3861,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "citations": {
         "semantic_scholar": null,
@@ -3891,7 +3891,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3921,7 +3921,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "citations": {
         "semantic_scholar": null,
@@ -3951,7 +3951,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -3981,7 +3981,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -4011,7 +4011,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -4041,7 +4041,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -4071,7 +4071,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -4101,7 +4101,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -4131,7 +4131,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -4161,7 +4161,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -4191,7 +4191,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -4221,7 +4221,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -4251,7 +4251,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -4281,7 +4281,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -14396,7 +14396,7 @@
         "AI for Health",
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
       "citations": {
         "semantic_scholar": null,
@@ -14528,7 +14528,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -14559,7 +14559,7 @@
         "Agent Skills / MCP / Tool Use",
         "RL"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "citations": {
         "semantic_scholar": null,
@@ -14590,7 +14590,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -14880,7 +14880,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
       "citations": {
         "semantic_scholar": null,
@@ -14910,7 +14910,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
       "citations": {
         "semantic_scholar": null,
@@ -15227,7 +15227,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
       "citations": {
         "semantic_scholar": null,
@@ -15257,7 +15257,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
       "citations": {
         "semantic_scholar": null,
@@ -15318,7 +15318,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "citations": {
         "semantic_scholar": null,
@@ -15348,7 +15348,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
       "citations": {
         "semantic_scholar": null,
@@ -15378,7 +15378,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
       "citations": {
         "semantic_scholar": null,
@@ -15408,7 +15408,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
       "citations": {
         "semantic_scholar": null,
@@ -15438,7 +15438,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Details about the OpenAI Bio Bounty program",
       "citations": {
         "semantic_scholar": null,
@@ -15468,7 +15468,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
       "citations": {
         "semantic_scholar": null,
@@ -15498,7 +15498,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
       "citations": {
         "semantic_scholar": null,
@@ -15528,7 +15528,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
       "citations": {
         "semantic_scholar": null,
@@ -15558,7 +15558,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -15588,7 +15588,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "citations": {
         "semantic_scholar": null,
@@ -15618,7 +15618,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
       "citations": {
         "semantic_scholar": null,
@@ -15648,7 +15648,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
       "citations": {
         "semantic_scholar": null,
@@ -15678,7 +15678,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "",
       "citations": {
         "semantic_scholar": null,
@@ -15708,7 +15708,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
       "citations": {
         "semantic_scholar": null,
@@ -15738,7 +15738,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
       "citations": {
         "semantic_scholar": null,
@@ -15768,7 +15768,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
       "citations": {
         "semantic_scholar": null,
@@ -15798,7 +15798,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
       "citations": {
         "semantic_scholar": null,
@@ -15828,7 +15828,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -15858,7 +15858,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
       "citations": {
         "semantic_scholar": null,
@@ -15888,7 +15888,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "citations": {
         "semantic_scholar": null,
@@ -15918,7 +15918,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
       "citations": {
         "semantic_scholar": null,
@@ -15948,7 +15948,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "citations": {
         "semantic_scholar": null,
@@ -15978,7 +15978,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
       "citations": {
         "semantic_scholar": null,
@@ -16008,7 +16008,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16038,7 +16038,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16892,36 +16892,6 @@
       "score": 0.4967
     },
     {
-      "id": "6c265217c823de5f",
-      "title": "The Download: worms fight pollution, and geoengineering faces reality",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-07-08",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: worms fight pollution, and geoengineering faces reality",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: worms fight pollution, and geoengineering faces reality。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California d...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -16932,7 +16902,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -17011,6 +16981,36 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.4767
+    },
+    {
+      "id": "6c265217c823de5f",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-07-08",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California dairy farmer, pulls a rake through a bed of dark, wet wood chips to…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: worms fight pollution, and geoengineering faces reality",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: worms fight pollution, and geoengineering faces reality。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-generation California d...",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "6eb9eef9e4fcb9f9",
@@ -17521,34 +17521,6 @@
       "score": 0.38
     },
     {
-      "id": "f8ed514ab4546dde",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-07-08",
-      "abstract": "",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "EmTech AI 2026: The Rise of the AI Platform",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：EmTech AI 2026: The Rise of the AI Platform。",
-        "内容要点：EmTech AI 2026: The Rise of the AI Platform",
-        "关键词：AI、EmTech。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
       "id": "0667364e2fdcf309",
       "title": "Trending Papers - Hugging Face",
       "url": "https://paperswithcode.com/",
@@ -17557,7 +17529,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-07-10",
+      "published": "2026-07-11",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -17603,6 +17575,34 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.36
+    },
+    {
+      "id": "f8ed514ab4546dde",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-07-08",
+      "abstract": "",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "EmTech AI 2026: The Rise of the AI Platform",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：EmTech AI 2026: The Rise of the AI Platform。",
+        "内容要点：EmTech AI 2026: The Rise of the AI Platform",
+        "关键词：AI、EmTech。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.344
     },
     {
       "id": "2321f03f4278dae2",
