@@ -1,7 +1,7 @@
 {
-  "title": "2026-07-31 AI Research Briefing",
+  "title": "2026-08-01 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-07-31T16:43:21",
+  "generated_at": "2026-08-01T15:58:15",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3182,7 +3182,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
       "id": "eacc5575fdaaf32b",
@@ -3245,6 +3245,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-08-01",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "292b8b560e6623fa",
       "title": "How an overlooked geothermal plant got a second chance",
       "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
@@ -3272,37 +3302,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-31",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "a58a91be86e4710e",
@@ -3418,7 +3418,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     }
   ],
   "industry_items": [
@@ -3434,7 +3434,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3464,7 +3464,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "citations": {
         "semantic_scholar": null,
@@ -3494,7 +3494,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "citations": {
         "semantic_scholar": null,
@@ -3524,7 +3524,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
       "citations": {
         "semantic_scholar": null,
@@ -3554,7 +3554,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "citations": {
         "semantic_scholar": null,
@@ -3574,36 +3574,6 @@
       "score": 0.5967
     },
     {
-      "id": "e52f49e8479e24af",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-31",
-      "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Disrupting a Criminal Scam Operation",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Disrupting a Criminal Scam Operation。",
-        "内容要点：OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-        "关键词：Cambodia-based、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "7554f530437642d8",
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -3614,7 +3584,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "citations": {
         "semantic_scholar": null,
@@ -3644,7 +3614,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "citations": {
         "semantic_scholar": null,
@@ -3674,7 +3644,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3694,6 +3664,36 @@
       "score": 0.5667
     },
     {
+      "id": "e52f49e8479e24af",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-08-01",
+      "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Disrupting a Criminal Scam Operation",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Disrupting a Criminal Scam Operation。",
+        "内容要点：OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+        "关键词：Cambodia-based、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "f312314574311978",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -3704,7 +3704,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3734,7 +3734,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
       "citations": {
         "semantic_scholar": null,
@@ -3764,7 +3764,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -3794,7 +3794,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "citations": {
         "semantic_scholar": null,
@@ -3824,7 +3824,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "citations": {
         "semantic_scholar": null,
@@ -3854,7 +3854,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "citations": {
         "semantic_scholar": null,
@@ -3884,7 +3884,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -3914,7 +3914,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -3944,7 +3944,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -3974,7 +3974,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -4004,7 +4004,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "citations": {
         "semantic_scholar": null,
@@ -4034,7 +4034,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "citations": {
         "semantic_scholar": null,
@@ -4064,7 +4064,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -4094,7 +4094,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -4124,7 +4124,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "citations": {
         "semantic_scholar": null,
@@ -4154,7 +4154,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "citations": {
         "semantic_scholar": null,
@@ -4184,7 +4184,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4214,7 +4214,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4244,7 +4244,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "citations": {
         "semantic_scholar": null,
@@ -4274,7 +4274,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -4304,7 +4304,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -9162,7 +9162,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -9965,37 +9965,6 @@
       "score": 0.6133
     },
     {
-      "id": "289e0547ef7b622c",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "published": "2026-07-29",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: a chip talent battle, and deflating AI hype",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: a chip talent battle, and deflating AI hype。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to...",
-        "关键词：AI、SK。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.6133
-    },
-    {
       "id": "a98a0569f138ca03",
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
@@ -10006,7 +9975,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "citations": {
         "semantic_scholar": null,
@@ -10036,7 +10005,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "citations": {
         "semantic_scholar": null,
@@ -10066,7 +10035,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
       "citations": {
         "semantic_scholar": null,
@@ -10096,7 +10065,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "citations": {
         "semantic_scholar": null,
@@ -10147,18 +10116,19 @@
       "score": 0.5933
     },
     {
-      "id": "e52f49e8479e24af",
-      "title": "Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
+      "id": "289e0547ef7b622c",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
       "source_kind": "rss",
       "topics": [
-        "LLM"
+        "Computer Vision",
+        "RL"
       ],
-      "published": "2026-07-31",
-      "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "published": "2026-07-29",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -10166,15 +10136,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Disrupting a Criminal Scam Operation",
+      "title_zh": "The Download: a chip talent battle, and deflating AI hype",
       "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Disrupting a Criminal Scam Operation。",
-        "内容要点：OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-        "关键词：Cambodia-based、ChatGPT。"
+        "MIT Technology Review AI 的这条更新聚焦：The Download: a chip talent battle, and deflating AI hype。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to...",
+        "关键词：AI、SK。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
+      "action": "快速扫读，必要时收藏",
+      "score": 0.5773
     },
     {
       "id": "7554f530437642d8",
@@ -10187,7 +10157,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "citations": {
         "semantic_scholar": null,
@@ -10217,7 +10187,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "citations": {
         "semantic_scholar": null,
@@ -10247,7 +10217,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -10267,6 +10237,36 @@
       "score": 0.5667
     },
     {
+      "id": "e52f49e8479e24af",
+      "title": "Disrupting a Criminal Scam Operation",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-08-01",
+      "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Disrupting a Criminal Scam Operation",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Disrupting a Criminal Scam Operation。",
+        "内容要点：OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+        "关键词：Cambodia-based、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "f312314574311978",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -10277,7 +10277,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -10307,7 +10307,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
       "citations": {
         "semantic_scholar": null,
@@ -10337,7 +10337,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -10367,7 +10367,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "citations": {
         "semantic_scholar": null,
@@ -10397,7 +10397,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "citations": {
         "semantic_scholar": null,
@@ -10427,7 +10427,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "citations": {
         "semantic_scholar": null,
@@ -10457,7 +10457,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -10487,7 +10487,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -10517,7 +10517,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -10547,7 +10547,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -10577,7 +10577,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "citations": {
         "semantic_scholar": null,
@@ -10607,7 +10607,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "citations": {
         "semantic_scholar": null,
@@ -10637,7 +10637,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -10667,7 +10667,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -10697,7 +10697,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "citations": {
         "semantic_scholar": null,
@@ -10727,7 +10727,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "citations": {
         "semantic_scholar": null,
@@ -10757,7 +10757,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
       "citations": {
         "semantic_scholar": null,
@@ -10787,7 +10787,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "citations": {
         "semantic_scholar": null,
@@ -10817,7 +10817,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "citations": {
         "semantic_scholar": null,
@@ -10847,7 +10847,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -10877,7 +10877,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -10897,36 +10897,6 @@
       "score": 0.5667
     },
     {
-      "id": "3dfce6777f28873b",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-07-31",
-      "abstract": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How sales teams use ChatGPT Work",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How sales teams use ChatGPT Work。",
-        "内容要点：See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -10937,7 +10907,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -10967,7 +10937,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-07-31",
+      "published": "2026-08-01",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -11667,6 +11637,66 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-08-01",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
+      "id": "0f1a88764d9c59cf",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-08-01",
+      "abstract": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Ten advances in mathematics and theoretical computer science",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Ten advances in mathematics and theoretical computer science。",
+        "内容要点：OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.4867
+    },
+    {
       "id": "292b8b560e6623fa",
       "title": "How an overlooked geothermal plant got a second chance",
       "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
@@ -11694,37 +11724,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-07-31",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "a58a91be86e4710e",
@@ -12175,6 +12175,34 @@
       "score": 0.38
     },
     {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-08-01",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
       "id": "d830b93f894b19a0",
       "title": "The AI Hype Index: Unsexy AI",
       "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
@@ -12200,35 +12228,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-07-31",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "9ee42fc39a0ffcd2",
