@@ -1,7 +1,7 @@
 {
-  "title": "2026-08-01 AI Research Briefing",
+  "title": "2026-08-02 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-08-01T15:58:15",
+  "generated_at": "2026-08-02T15:57:32",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1092,7 +1092,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "bae599f36ea418b3",
@@ -1125,7 +1125,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "14a769386c198775",
@@ -1157,7 +1157,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "16c0e91651d7aa9c",
@@ -1189,7 +1189,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "b39db1a22718300c",
@@ -1221,7 +1221,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "7049e543e61d17b7",
@@ -1254,7 +1254,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "30f3330d9daa7eb1",
@@ -1287,7 +1287,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "adc24f2399b0fed3",
@@ -1319,7 +1319,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "fa8973621420b6b6",
@@ -1351,7 +1351,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "6a498813100e17f5",
@@ -1383,7 +1383,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "746e60f581fbd9ed",
@@ -1416,7 +1416,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "fde0a7978926fb8a",
@@ -1450,7 +1450,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "87b6afb102c42554",
@@ -1482,7 +1482,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "4d4e21fa590f9601",
@@ -1514,7 +1514,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "a65e9ecfb02de77c",
@@ -1549,7 +1549,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "6d430727be69cf63",
@@ -1584,7 +1584,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "edcd81b576b00b57",
@@ -1617,7 +1617,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "c7491c4f9ac44040",
@@ -1649,7 +1649,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "e597e9e2b93f5f02",
@@ -1682,7 +1682,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "4b83237e08bd0245",
@@ -1715,7 +1715,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "fe82fbc716b16101",
@@ -1747,7 +1747,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "dc0c5e5110cda4b9",
@@ -1780,7 +1780,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "74322300515c734c",
@@ -1814,7 +1814,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "8010f1eded626962",
@@ -1846,7 +1846,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "fa95999886495007",
@@ -1877,7 +1877,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.5573
     },
     {
       "id": "ff860fd49ba75230",
@@ -1908,7 +1908,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "cc50ddc676e17aad",
@@ -1939,7 +1939,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "fb948828ba849572",
@@ -1970,7 +1970,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "d0880fa58c889ff6",
@@ -2001,7 +2001,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "efcee34391fe19cd",
@@ -2032,7 +2032,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     }
   ],
   "paper_items": [
@@ -3151,7 +3151,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
       "id": "289e0547ef7b622c",
@@ -3185,6 +3185,36 @@
       "score": 0.5773
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-08-02",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "eacc5575fdaaf32b",
       "title": "Montana’s plan to become an experimental medical hub just pushed forward",
       "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
@@ -3212,7 +3242,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "64c8332bbe9eabf8",
@@ -3242,37 +3272,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-08-01",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "292b8b560e6623fa",
@@ -3434,7 +3434,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3464,7 +3464,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "citations": {
         "semantic_scholar": null,
@@ -3494,7 +3494,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "citations": {
         "semantic_scholar": null,
@@ -3524,7 +3524,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
       "citations": {
         "semantic_scholar": null,
@@ -3554,7 +3554,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "citations": {
         "semantic_scholar": null,
@@ -3584,7 +3584,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "citations": {
         "semantic_scholar": null,
@@ -3614,7 +3614,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "citations": {
         "semantic_scholar": null,
@@ -3644,7 +3644,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3674,7 +3674,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "citations": {
         "semantic_scholar": null,
@@ -3704,7 +3704,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -3734,7 +3734,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
       "citations": {
         "semantic_scholar": null,
@@ -3764,7 +3764,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -3794,7 +3794,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "citations": {
         "semantic_scholar": null,
@@ -3824,7 +3824,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "citations": {
         "semantic_scholar": null,
@@ -3854,7 +3854,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "citations": {
         "semantic_scholar": null,
@@ -3884,7 +3884,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -3914,7 +3914,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -3944,7 +3944,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -3974,7 +3974,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -4004,7 +4004,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "citations": {
         "semantic_scholar": null,
@@ -4034,7 +4034,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "citations": {
         "semantic_scholar": null,
@@ -4064,7 +4064,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -4094,7 +4094,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -4124,7 +4124,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "citations": {
         "semantic_scholar": null,
@@ -4154,7 +4154,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "citations": {
         "semantic_scholar": null,
@@ -4184,7 +4184,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4214,7 +4214,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4244,7 +4244,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "citations": {
         "semantic_scholar": null,
@@ -4274,7 +4274,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -4304,7 +4304,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -9115,7 +9115,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "bae599f36ea418b3",
@@ -9148,7 +9148,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
+      "score": 0.704
     },
     {
       "id": "b18b3fdef842963a",
@@ -9162,7 +9162,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -9211,7 +9211,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "16c0e91651d7aa9c",
@@ -9243,7 +9243,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "b39db1a22718300c",
@@ -9275,7 +9275,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "7049e543e61d17b7",
@@ -9308,7 +9308,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "30f3330d9daa7eb1",
@@ -9341,7 +9341,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "adc24f2399b0fed3",
@@ -9373,7 +9373,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "fa8973621420b6b6",
@@ -9405,7 +9405,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "6a498813100e17f5",
@@ -9437,7 +9437,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "746e60f581fbd9ed",
@@ -9470,7 +9470,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "fde0a7978926fb8a",
@@ -9504,7 +9504,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "87b6afb102c42554",
@@ -9536,7 +9536,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "4d4e21fa590f9601",
@@ -9568,7 +9568,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "a65e9ecfb02de77c",
@@ -9603,7 +9603,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "6d430727be69cf63",
@@ -9638,7 +9638,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "edcd81b576b00b57",
@@ -9671,7 +9671,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "c7491c4f9ac44040",
@@ -9703,204 +9703,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
-    },
-    {
-      "id": "e597e9e2b93f5f02",
-      "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2607.28580v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "While Multimodal Retrieval-Augmented Generation (MM-RAG) has shown promising results, it still struggles with complex multi-hop reasoning tasks. Existing methods primarily focus on independent instance-level matching, which often fails to capture explicit relationships across modalities and documents. Although Graph-enhanced methods introduce structural modeling, they face a fundamental challenge in multimodal scenarios: incorporating fine-grained visual features leads to rapid graph expansion and retrieval noise, whereas coarse-grained representations cause the discarding of critical local evidence. To address this dilemma, we propose DualG-MRAG, a Dual-tier framework that introduces a decoupled architecture comprising Macro-reasoning and Micro-matching Graphs for Multimodal RAG. Specifically, to suppress retrieval noise by isolating global structural reasoning from fine-grained evidence matching, we construct a Macro Graph for global topological routing and a Micro Graph for precise local verification. Subsequently, to enable dynamic relevance propagation across heterogeneous evidence sources, we formulate retrieval as a query-driven message passing process via a GNN Retriever. Furthermore, to provide the generative model with coherent structural guidance, we introduce a dynamic programming decoding mechanism that extracts explicit reasoning paths directly from the GNN's forward pass, replacing the standard input of isolated document chunks. Extensive experiments demonstrate that DualG-MRAG outperforms baselines in both evidence recall and complex QA accuracy.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "Graph Neural Network",
-        "LLM",
-        "VLM"
-      ],
-      "title_zh": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、Graph Neural Network、LLM、VLM，核心对象是 DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generat。",
-        "方法：摘要线索包括 DualG-MRAG、Macro-Reasoning、Micro-Matching、Retrieval-Augmented、MM-RAG、Graph-enhanced；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
-      ],
-      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "4b83237e08bd0245",
-      "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
-      "url": "https://arxiv.org/abs/2607.28611v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "Visual generation increasingly requires high-resolution images, long videos, and multimodal context, making the quadratic cost of full attention prohibitive. We introduce Chimera, a hybrid visual diffusion backbone with a principled scaling recipe. Chimera processes text, image, and video tokens in one raster-ordered stream without positional embeddings. It combines Kimi Delta Attention (KDA) for long-context state tracking with O(N) complexity, interleaved Multi-head Latent Attention (MLA) for direct global interaction, and modality-aware short convolutions for local spatiotemporal context. Sparse Mixture-of-Experts (MoE) layers expand capacity while controlling activated compute. To scale this heterogeneous architecture, we introduce HeteroP, a module-wise scheme that transfers hyperparameters across width and depth according to each tensor's functional fan-in and model depth. HeteroP yields a consistently tuned family used to fit Chinchilla-style compute-optimal laws for activated model size, training-token count, and image-video data ratio. Guided by these laws, we train an 11B-parameter Chimera with 2B activated parameters. Experiments show three results. First, measured by pretraining diffusion loss, the dense backbone is 1.7x as compute-efficient as a matched full-attention Wan-2.1 2B baseline, while the complete system reaches 7.3x. Second, without length-specific fine-tuning, Chimera extrapolates zero-shot from 5-second training clips to 30-second videos, with only 6.5% FID degradation in the last five seconds. Third, the fitted laws show that compute-optimal image pretraining divides compute nearly evenly between activated model size and training-token count, whereas video pretraining modestly favors model size at higher budgets. These results establish a foundation for designing and scaling efficient long-context diffusion architectures.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL",
-        "Self-Supervised Learning",
-        "VLM"
-      ],
-      "title_zh": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL、Self-Supervised Learning、VLM，核心对象是 Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers。",
-        "方法：摘要线索包括 Chinchilla-Scaling、Multi-head、Mixture-of-Experts、Chinchilla-style、Wan-2、KDA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "fe82fbc716b16101",
-      "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
-      "url": "https://arxiv.org/abs/2607.28581v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "High-fidelity 3D generation predominantly relies on scaling model capacity and data, which incurs prohibitive computational costs. This paradigm typically requires learning geometry from scratch and overlooks the rich semantic and structural priors already encapsulated in discriminative 3D foundation models. We contend that leveraging the profound understanding of the 3D world possessed by these discriminative models can significantly reduce generative cost. To this end, we propose ROAD, a framework that reduces the training cost of 3D generation by transferring these rich discriminative priors into diffusion transformers. To address the inherent semantic-structural heterogeneity between generative and discriminative latents, we introduce a reciprocal-objective alignment strategy. This method synergizes Holistic Semantic Condensing to enforce global semantic coherence and Structural Optimal Alignment, which is formulated as a bipartite matching problem to rigorously align microscopic geometric details between disparate latent spaces. The 3D foundation model is only used for training-time supervision of alignment and is not used at inference, incurring no additional inference cost. Compared with the industrial baseline Step1X-3D, the proposed ROAD achieves highly competitive generation performance with only 1.5% of the training data and significantly reduces training costs, effectively reducing the computational overhead of high-fidelity 3D generation. Code is available at https://github.com/H-EmbodVis/ROAD.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation。",
-        "方法：摘要线索包括 Reciprocal-Objective、High-fidelity、Step1X-3D、ROAD、EmbodVis；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "dc0c5e5110cda4b9",
-      "title": "AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans",
-      "url": "https://arxiv.org/abs/2607.28487v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "Fine-grained segmentation of auricular structures in CT is challenging because the ear occupies a small image region, cartilage boundaries are highly irregular, and interfaces between cartilage and surrounding soft tissues are often ambiguous. Clinical annotations may also include both composite structures containing cartilage and adjacent skin and their corresponding cartilage-only regions, producing nested and overlapping labels. We propose a world-model-based segmentation framework that enables iterative anatomical reasoning beyond conventional feed-forward prediction. Built on an encoder-decoder architecture, the framework introduces a deterministic recurrent state-space model into the intermediate latent space. Multi-scale encoder features and partially decoded representations are fused to form a structural observation that initializes the latent dynamics. During inference, the model performs a three-step latent rollout without ground-truth guidance. Hierarchical anatomical actions update the recurrent state and progressively refine the latent representation. The resulting latent trajectory is projected back into the decoder and combined with high-resolution features to produce the final segmentation. To learn reliable latent transitions, we introduce a balanced hierarchical action objective that addresses foreground sparsity, missing anatomical groups, and imbalance between add and remove operations. Extensive experiments show that the proposed framework consistently improves segmentation accuracy and reduces HD95 by more than 43% for small, irregular, and overlapping auricular structures in CT. These results demonstrate the effectiveness of latent world-model reasoning for challenging medical image segmentation.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI for Health",
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI for Health、Computer Vision、LLM、RL，核心对象是 AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segme。",
-        "方法：摘要线索包括 Action-Guided、Fine-Grained、Fine-grained、Multi-scale、CT、HD95；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "74322300515c734c",
-      "title": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
-      "url": "https://arxiv.org/abs/2607.28567v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "Longitudinal causal studies often record histories as irregular functional fragments: laboratory values, physiologic signals, sensor streams, and image-derived summaries measured at unequal and informative times. Standard doubly robust estimators usually require scalar summaries, whereas sequence learners optimize prediction losses that need not stabilize the efficient influence function. We propose Doubly Robust Functional Representation Learning (DR-FRL), a cross-fitted workflow that turns irregular histories into estimand-targeted states for observed-history regimes. Functional and temporal encoders map point clouds and prior histories into states; nuisance heads estimate outcome, treatment, and censoring functions; and EIF-targeted validation, calibration, overlap, tail, and ablation diagnostics assess whether the state supports the estimating equation. If the selected state preserves the nuisance information needed by the EIF, representation error enters the same second-order product remainder as ordinary nuisance error, and the mean estimator is asymptotically linear under explicit rate, overlap, calibration, and stability conditions. Catoni aggregation is treated separately as a bounded-influence point estimator, not a replacement for Wald inference. Simulations show gains when functional confounding is high-dimensional, measurement is informative, support is weak, or pseudo-outcomes are heavy-tailed. A VitalDB audit shows that DR-FRL can use irregular laboratory point clouds and deliver a useful negative finding: for this ICU-disposition endpoint, scalar laboratory summaries already carry much endpoint-relevant information.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Computer Vision",
-        "LLM",
-        "RL",
-        "Self-Supervised Learning"
-      ],
-      "title_zh": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Computer Vision、LLM、RL、Self-Supervised Learning，核心对象是 Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Hi。",
-        "方法：摘要线索包括 DR-FRL、EIF-targeted、ICU-disposition、EIF；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "8010f1eded626962",
-      "title": "Cybersecurity Detection Classification with Reasoning-enabled Language Models",
-      "url": "https://arxiv.org/abs/2607.28460v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "A major issue in Security Operations Centers (SOCs) is alert fatigue, as the number of detections reported is more than staff can triage in a given day. Prior work prompts or fine-tunes large language models (LLMs) to emit a triage label directly, but does not train them to reason about whether a detection is a genuine threat. We train a chain-of-thought (CoT) reasoning-enabled triage classifier on real, human-labeled Windows endpoint detections by combining automated prompt optimization, self-training, and reinforcement learning with verifiable rewards. We find that CoT reasoning also degrades the label-token probabilities that automated triage relies on, so we separately train a calibrator that reads the full reasoning trace and estimates the probability that the verdict is correct. Our system reaches 82.6% test accuracy and, at the high-confidence operating point that governs automated triage, improves benign recall by 43.0% and malicious recall by 18.3% over a direct-label LLM classifier. We further show that the trained calibrator is necessary - an untrained confidence judge collapses high-confidence recall to zero - and that a finetuned 30B model significantly outperforms frontier general-purpose models, motivating targeted training over scale.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Cybersecurity Detection Classification with Reasoning-enabled 语言模型",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 Cybersecurity Detection Classification with Reasoning-enabled Language Models。",
-        "方法：摘要线索包括 Reasoning-enabled、SOCs、LLMs、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.614
     },
     {
       "id": "626047d7c4edbca0",
@@ -9934,37 +9737,6 @@
       "score": 0.6133
     },
     {
-      "id": "8db8f27edc12bd07",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "published": "2026-07-30",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: tricking LLMs, and reviving geothermal plants",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: tricking LLMs, and reviving geothermal plants。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully sec...",
-        "关键词：LLMs。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.6133
-    },
-    {
       "id": "a98a0569f138ca03",
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
@@ -9975,7 +9747,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
       "citations": {
         "semantic_scholar": null,
@@ -10005,7 +9777,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
       "citations": {
         "semantic_scholar": null,
@@ -10035,7 +9807,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
       "citations": {
         "semantic_scholar": null,
@@ -10065,7 +9837,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "citations": {
         "semantic_scholar": null,
@@ -10085,15 +9857,15 @@
       "score": 0.5967
     },
     {
-      "id": "fa95999886495007",
-      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-      "url": "https://arxiv.org/abs/2607.28478v1",
-      "source": "arXiv cs.CL",
+      "id": "e597e9e2b93f5f02",
+      "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2607.28580v1",
+      "source": "arXiv cs.AI",
       "source_tier": 1,
       "category": "学术论文",
       "source_kind": "arxiv",
       "published": "2026-07-30",
-      "abstract": "As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reasoning, this mechanism exposes a critical vulnerability which we term Salience Bias: models become easily hijacked by useless explicit distractors (e.g., numerical values), leading them to ignore the implicit physical or commonsense prerequisites of a task. A critical open question is whether this failure reflects a genuine gap in commonsense knowledge or merely its suppression under misleading task framing. To investigate this, we construct the SaliTrap Benchmark, a high-quality dataset across four trap dimensions. Evaluating 12 state-of-the-art LLMs, we find that all mainstream models suffer significantly from salience bias, with severity scaling with distractor density and detecting the trap often decoupled from actually avoiding it. Crucially, by re-eliciting the same models with the task framing stripped away, we show that this is overwhelmingly a failure of \\textbf{knowledge suppression rather than knowledge absence}: a context-free knowledge probe alone recovers over 90\\% of sycophantic-compliance failures, revealing that the requisite commonsense is intrinsically present but actively crowded out by salient distractors that lure the model into over-compliant, unnecessary computation. Building on this diagnosis, we further show that lightweight, inference-time prompting alone substantially closes the gap without any retraining. Our findings relocate the bottleneck of commonsense reasoning failures from model competence to elicitation, and we release SaliTrap as a testbed for this blind spot. The codes are available at https://github.com/Wuzheng02/SaliTrap.",
+      "abstract": "While Multimodal Retrieval-Augmented Generation (MM-RAG) has shown promising results, it still struggles with complex multi-hop reasoning tasks. Existing methods primarily focus on independent instance-level matching, which often fails to capture explicit relationships across modalities and documents. Although Graph-enhanced methods introduce structural modeling, they face a fundamental challenge in multimodal scenarios: incorporating fine-grained visual features leads to rapid graph expansion and retrieval noise, whereas coarse-grained representations cause the discarding of critical local evidence. To address this dilemma, we propose DualG-MRAG, a Dual-tier framework that introduces a decoupled architecture comprising Macro-reasoning and Micro-matching Graphs for Multimodal RAG. Specifically, to suppress retrieval noise by isolating global structural reasoning from fine-grained evidence matching, we construct a Macro Graph for global topological routing and a Micro Graph for precise local verification. Subsequently, to enable dynamic relevance propagation across heterogeneous evidence sources, we formulate retrieval as a query-driven message passing process via a GNN Retriever. Furthermore, to provide the generative model with coherent structural guidance, we introduce a dynamic programming decoding mechanism that extracts explicit reasoning paths directly from the GNN's forward pass, replacing the standard input of isolated document chunks. Extensive experiments demonstrate that DualG-MRAG outperforms baselines in both evidence recall and complex QA accuracy.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -10102,18 +9874,215 @@
         "hotness": 0.0
       },
       "topics": [
+        "Computer Vision",
+        "Graph Neural Network",
         "LLM",
-        "Medical AI"
+        "VLM"
       ],
-      "title_zh": "Would You Walk to the Car Wash? Revealing the Salience Bias of 大语言模型 in Commonsense Reasoning",
+      "title_zh": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
       "summary_zh": [
-        "问题：这条内容聚焦 LLM、Medical AI，核心对象是 Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense 。",
-        "方法：摘要线索包括 LLMs、SaliTrap；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "问题：这条内容聚焦 Computer Vision、Graph Neural Network、LLM、VLM，核心对象是 DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generat。",
+        "方法：摘要线索包括 DualG-MRAG、Macro-Reasoning、Micro-Matching、Retrieval-Augmented、MM-RAG、Graph-enhanced；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
+      ],
+      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "4b83237e08bd0245",
+      "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
+      "url": "https://arxiv.org/abs/2607.28611v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "Visual generation increasingly requires high-resolution images, long videos, and multimodal context, making the quadratic cost of full attention prohibitive. We introduce Chimera, a hybrid visual diffusion backbone with a principled scaling recipe. Chimera processes text, image, and video tokens in one raster-ordered stream without positional embeddings. It combines Kimi Delta Attention (KDA) for long-context state tracking with O(N) complexity, interleaved Multi-head Latent Attention (MLA) for direct global interaction, and modality-aware short convolutions for local spatiotemporal context. Sparse Mixture-of-Experts (MoE) layers expand capacity while controlling activated compute. To scale this heterogeneous architecture, we introduce HeteroP, a module-wise scheme that transfers hyperparameters across width and depth according to each tensor's functional fan-in and model depth. HeteroP yields a consistently tuned family used to fit Chinchilla-style compute-optimal laws for activated model size, training-token count, and image-video data ratio. Guided by these laws, we train an 11B-parameter Chimera with 2B activated parameters. Experiments show three results. First, measured by pretraining diffusion loss, the dense backbone is 1.7x as compute-efficient as a matched full-attention Wan-2.1 2B baseline, while the complete system reaches 7.3x. Second, without length-specific fine-tuning, Chimera extrapolates zero-shot from 5-second training clips to 30-second videos, with only 6.5% FID degradation in the last five seconds. Third, the fitted laws show that compute-optimal image pretraining divides compute nearly evenly between activated model size and training-token count, whereas video pretraining modestly favors model size at higher budgets. These results establish a foundation for designing and scaling efficient long-context diffusion architectures.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL",
+        "Self-Supervised Learning",
+        "VLM"
+      ],
+      "title_zh": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL、Self-Supervised Learning、VLM，核心对象是 Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers。",
+        "方法：摘要线索包括 Chinchilla-Scaling、Multi-head、Mixture-of-Experts、Chinchilla-style、Wan-2、KDA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
+      ],
+      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "fe82fbc716b16101",
+      "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
+      "url": "https://arxiv.org/abs/2607.28581v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "High-fidelity 3D generation predominantly relies on scaling model capacity and data, which incurs prohibitive computational costs. This paradigm typically requires learning geometry from scratch and overlooks the rich semantic and structural priors already encapsulated in discriminative 3D foundation models. We contend that leveraging the profound understanding of the 3D world possessed by these discriminative models can significantly reduce generative cost. To this end, we propose ROAD, a framework that reduces the training cost of 3D generation by transferring these rich discriminative priors into diffusion transformers. To address the inherent semantic-structural heterogeneity between generative and discriminative latents, we introduce a reciprocal-objective alignment strategy. This method synergizes Holistic Semantic Condensing to enforce global semantic coherence and Structural Optimal Alignment, which is formulated as a bipartite matching problem to rigorously align microscopic geometric details between disparate latent spaces. The 3D foundation model is only used for training-time supervision of alignment and is not used at inference, incurring no additional inference cost. Compared with the industrial baseline Step1X-3D, the proposed ROAD achieves highly competitive generation performance with only 1.5% of the training data and significantly reduces training costs, effectively reducing the computational overhead of high-fidelity 3D generation. Code is available at https://github.com/H-EmbodVis/ROAD.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation。",
+        "方法：摘要线索包括 Reciprocal-Objective、High-fidelity、Step1X-3D、ROAD、EmbodVis；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "dc0c5e5110cda4b9",
+      "title": "AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans",
+      "url": "https://arxiv.org/abs/2607.28487v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "Fine-grained segmentation of auricular structures in CT is challenging because the ear occupies a small image region, cartilage boundaries are highly irregular, and interfaces between cartilage and surrounding soft tissues are often ambiguous. Clinical annotations may also include both composite structures containing cartilage and adjacent skin and their corresponding cartilage-only regions, producing nested and overlapping labels. We propose a world-model-based segmentation framework that enables iterative anatomical reasoning beyond conventional feed-forward prediction. Built on an encoder-decoder architecture, the framework introduces a deterministic recurrent state-space model into the intermediate latent space. Multi-scale encoder features and partially decoded representations are fused to form a structural observation that initializes the latent dynamics. During inference, the model performs a three-step latent rollout without ground-truth guidance. Hierarchical anatomical actions update the recurrent state and progressively refine the latent representation. The resulting latent trajectory is projected back into the decoder and combined with high-resolution features to produce the final segmentation. To learn reliable latent transitions, we introduce a balanced hierarchical action objective that addresses foreground sparsity, missing anatomical groups, and imbalance between add and remove operations. Extensive experiments show that the proposed framework consistently improves segmentation accuracy and reduces HD95 by more than 43% for small, irregular, and overlapping auricular structures in CT. These results demonstrate the effectiveness of latent world-model reasoning for challenging medical image segmentation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI for Health",
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segmentation from CT Scans",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI for Health、Computer Vision、LLM、RL，核心对象是 AuricularWorld: Hierarchical Action-Guided World Modeling for Fine-Grained Auricular Structure Segme。",
+        "方法：摘要线索包括 Action-Guided、Fine-Grained、Fine-grained、Multi-scale、CT、HD95；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.584
+    },
+    {
+      "id": "74322300515c734c",
+      "title": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
+      "url": "https://arxiv.org/abs/2607.28567v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "Longitudinal causal studies often record histories as irregular functional fragments: laboratory values, physiologic signals, sensor streams, and image-derived summaries measured at unequal and informative times. Standard doubly robust estimators usually require scalar summaries, whereas sequence learners optimize prediction losses that need not stabilize the efficient influence function. We propose Doubly Robust Functional Representation Learning (DR-FRL), a cross-fitted workflow that turns irregular histories into estimand-targeted states for observed-history regimes. Functional and temporal encoders map point clouds and prior histories into states; nuisance heads estimate outcome, treatment, and censoring functions; and EIF-targeted validation, calibration, overlap, tail, and ablation diagnostics assess whether the state supports the estimating equation. If the selected state preserves the nuisance information needed by the EIF, representation error enters the same second-order product remainder as ordinary nuisance error, and the mean estimator is asymptotically linear under explicit rate, overlap, calibration, and stability conditions. Catoni aggregation is treated separately as a bounded-influence point estimator, not a replacement for Wald inference. Simulations show gains when functional confounding is high-dimensional, measurement is informative, support is weak, or pseudo-outcomes are heavy-tailed. A VitalDB audit shows that DR-FRL can use irregular laboratory point clouds and deliver a useful negative finding: for this ICU-disposition endpoint, scalar laboratory summaries already carry much endpoint-relevant information.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "Computer Vision",
+        "LLM",
+        "RL",
+        "Self-Supervised Learning"
+      ],
+      "title_zh": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、Computer Vision、LLM、RL、Self-Supervised Learning，核心对象是 Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Hi。",
+        "方法：摘要线索包括 DR-FRL、EIF-targeted、ICU-disposition、EIF；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
+      ],
+      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "8010f1eded626962",
+      "title": "Cybersecurity Detection Classification with Reasoning-enabled Language Models",
+      "url": "https://arxiv.org/abs/2607.28460v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "A major issue in Security Operations Centers (SOCs) is alert fatigue, as the number of detections reported is more than staff can triage in a given day. Prior work prompts or fine-tunes large language models (LLMs) to emit a triage label directly, but does not train them to reason about whether a detection is a genuine threat. We train a chain-of-thought (CoT) reasoning-enabled triage classifier on real, human-labeled Windows endpoint detections by combining automated prompt optimization, self-training, and reinforcement learning with verifiable rewards. We find that CoT reasoning also degrades the label-token probabilities that automated triage relies on, so we separately train a calibrator that reads the full reasoning trace and estimates the probability that the verdict is correct. Our system reaches 82.6% test accuracy and, at the high-confidence operating point that governs automated triage, improves benign recall by 43.0% and malicious recall by 18.3% over a direct-label LLM classifier. We further show that the trained calibrator is necessary - an untrained confidence judge collapses high-confidence recall to zero - and that a finetuned 30B model significantly outperforms frontier general-purpose models, motivating targeted training over scale.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Cybersecurity Detection Classification with Reasoning-enabled 语言模型",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 Cybersecurity Detection Classification with Reasoning-enabled Language Models。",
+        "方法：摘要线索包括 Reasoning-enabled、SOCs、LLMs、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.584
+    },
+    {
+      "id": "8db8f27edc12bd07",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "published": "2026-07-30",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: tricking LLMs, and reviving geothermal plants",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: tricking LLMs, and reviving geothermal plants。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully sec...",
+        "关键词：LLMs。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.5773
     },
     {
       "id": "289e0547ef7b622c",
@@ -10157,7 +10126,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "citations": {
         "semantic_scholar": null,
@@ -10187,7 +10156,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "citations": {
         "semantic_scholar": null,
@@ -10217,7 +10186,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -10247,7 +10216,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "citations": {
         "semantic_scholar": null,
@@ -10277,7 +10246,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -10307,7 +10276,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
       "citations": {
         "semantic_scholar": null,
@@ -10337,7 +10306,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -10367,7 +10336,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
       "citations": {
         "semantic_scholar": null,
@@ -10397,7 +10366,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
       "citations": {
         "semantic_scholar": null,
@@ -10427,7 +10396,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
       "citations": {
         "semantic_scholar": null,
@@ -10457,7 +10426,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -10487,7 +10456,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
       "citations": {
         "semantic_scholar": null,
@@ -10517,7 +10486,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
       "citations": {
         "semantic_scholar": null,
@@ -10547,7 +10516,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -10577,7 +10546,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
       "citations": {
         "semantic_scholar": null,
@@ -10607,7 +10576,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
       "citations": {
         "semantic_scholar": null,
@@ -10637,7 +10606,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
       "citations": {
         "semantic_scholar": null,
@@ -10667,7 +10636,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
       "citations": {
         "semantic_scholar": null,
@@ -10697,7 +10666,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
       "citations": {
         "semantic_scholar": null,
@@ -10727,7 +10696,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
       "citations": {
         "semantic_scholar": null,
@@ -10757,7 +10726,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
       "citations": {
         "semantic_scholar": null,
@@ -10787,7 +10756,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
       "citations": {
         "semantic_scholar": null,
@@ -10817,7 +10786,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
       "citations": {
         "semantic_scholar": null,
@@ -10847,7 +10816,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -10877,7 +10846,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
       "citations": {
         "semantic_scholar": null,
@@ -10907,7 +10876,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -10937,7 +10906,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -10955,6 +10924,37 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5667
+    },
+    {
+      "id": "fa95999886495007",
+      "title": "Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+      "url": "https://arxiv.org/abs/2607.28478v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "As large language models (LLMs) continue to advance in complex reasoning tasks, they have learned to heavily prioritize explicit conditions provided in the input. However, in everyday commonsense reasoning, this mechanism exposes a critical vulnerability which we term Salience Bias: models become easily hijacked by useless explicit distractors (e.g., numerical values), leading them to ignore the implicit physical or commonsense prerequisites of a task. A critical open question is whether this failure reflects a genuine gap in commonsense knowledge or merely its suppression under misleading task framing. To investigate this, we construct the SaliTrap Benchmark, a high-quality dataset across four trap dimensions. Evaluating 12 state-of-the-art LLMs, we find that all mainstream models suffer significantly from salience bias, with severity scaling with distractor density and detecting the trap often decoupled from actually avoiding it. Crucially, by re-eliciting the same models with the task framing stripped away, we show that this is overwhelmingly a failure of \\textbf{knowledge suppression rather than knowledge absence}: a context-free knowledge probe alone recovers over 90\\% of sycophantic-compliance failures, revealing that the requisite commonsense is intrinsically present but actively crowded out by salient distractors that lure the model into over-compliant, unnecessary computation. Building on this diagnosis, we further show that lightweight, inference-time prompting alone substantially closes the gap without any retraining. Our findings relocate the bottleneck of commonsense reasoning failures from model competence to elicitation, and we release SaliTrap as a testbed for this blind spot. The codes are available at https://github.com/Wuzheng02/SaliTrap.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "Medical AI"
+      ],
+      "title_zh": "Would You Walk to the Car Wash? Revealing the Salience Bias of 大语言模型 in Commonsense Reasoning",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、Medical AI，核心对象是 Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense 。",
+        "方法：摘要线索包括 LLMs、SaliTrap；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5573
     },
     {
       "id": "ff860fd49ba75230",
@@ -10985,7 +10985,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "cc50ddc676e17aad",
@@ -11016,7 +11016,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "fb948828ba849572",
@@ -11047,7 +11047,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "d0880fa58c889ff6",
@@ -11078,7 +11078,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "efcee34391fe19cd",
@@ -11109,7 +11109,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "35a1dee89a2f5917",
@@ -11140,7 +11140,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "35020959ed703be7",
@@ -11171,7 +11171,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "4d7922942ae680a1",
@@ -11202,7 +11202,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "fb7ce5043d788a61",
@@ -11233,7 +11233,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "88ca9549a74cca3f",
@@ -11264,7 +11264,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "b68805e3242acb57",
@@ -11295,7 +11295,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "15e054e24aa154d0",
@@ -11326,7 +11326,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "36fb9bd42baa523d",
@@ -11357,7 +11357,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "6b507719f352579a",
@@ -11388,7 +11388,67 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
+    },
+    {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-08-02",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
+      "id": "0f1a88764d9c59cf",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-08-02",
+      "abstract": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Ten advances in mathematics and theoretical computer science",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Ten advances in mathematics and theoretical computer science。",
+        "内容要点：OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.4867
     },
     {
       "id": "1b94f6697aab4882",
@@ -11419,7 +11479,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "2bbc4d7b9f7de720",
@@ -11450,7 +11510,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "34e999667c17ca58",
@@ -11481,7 +11541,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "e5beb110063e5560",
@@ -11512,7 +11572,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "b98848dc5d317f75",
@@ -11543,7 +11603,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "d8797ae7e7facabf",
@@ -11574,7 +11634,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "eacc5575fdaaf32b",
@@ -11604,7 +11664,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "64c8332bbe9eabf8",
@@ -11634,67 +11694,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-08-01",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
-    },
-    {
-      "id": "0f1a88764d9c59cf",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-08-01",
-      "abstract": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Ten advances in mathematics and theoretical computer science",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Ten advances in mathematics and theoretical computer science。",
-        "内容要点：OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.4867
+      "score": 0.4607
     },
     {
       "id": "292b8b560e6623fa",
@@ -11814,7 +11814,7 @@
       ],
       "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "b089bf0d9e7bd291",
@@ -11844,7 +11844,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "4d96d307e87a853c",
@@ -11874,7 +11874,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "28c7dd3c0cd9958a",
@@ -11904,7 +11904,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "aebb41de7032ae73",
@@ -11934,7 +11934,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "411ca309611639cc",
@@ -11964,7 +11964,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "1d9bfb43220feca6",
@@ -11994,157 +11994,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
-    },
-    {
-      "id": "b7a1101c0297b924",
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "url": "https://arxiv.org/abs/2607.28617v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of AI systems. In this paper, we introduce Artificial Intelligence System Prompt Assurance (AISPA), a user-centric framework for systematically auditing system prompts in AI systems. AISPA examines specific parts of a system prompt and evaluates them along eight dimensions that matter to users. We then use this framework to review 3,249 instructions from system prompts in 88 commercial AI products, classifying each instruction as either protective (of users) or problematic. Our audit surfaces four core findings. First, system prompt design varies substantially across products and developers, with some organizations averaging over 60 protective instructions per product while others average fewer than 5. Second, protective instructions are widely adopted but shallow in scope: 98.9% of products contain at least one, yet only 24% cover all eight dimensions of the AISPA taxonomy. Third, system prompts have grown steadily longer and more protective of users, suggesting that user protection is becoming a more visible concern in commercial prompt design. Fourth, despite this progress, problematic instructions remain pervasive: roughly 40% of products contain at least one instruction that works against user interests, and protective and problematic instructions frequently coexist within the same prompt. Our findings highlight the need for greater transparency, standardization, and independent oversight for system prompts in commercial AI products.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 AISPA: User-Centric System Prompt Auditing for Large Language Model Applications。",
-        "方法：摘要线索包括 User-Centric、AISPA、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "65b348f8840f6577",
-      "title": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
-      "url": "https://arxiv.org/abs/2607.28520v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "An agent playing a Nash-equilibrium strategy in a two-player zero-sum imperfect-information game secures the game value but forfeits the additional value offered by a flawed opponent. Diffuse deviations pose a particular challenge: binary release rules may gather too little evidence to act, while a full best response to an incomplete opponent model can be highly exploitable. We introduce \\emph{budget-constrained confidence-scheduled restricted responses} (CS-RNR), the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually deploys, so that every exploit it commits to is one it has audited itself. The method tracks pooled action frequencies with anytime-valid confidence sequences and treats a frequency as exploitable only once its interval separates from an equilibrium reference. The confirmed deviations define a conservative opponent model, which a restricted-response solve turns into candidate counter-strategies over a grid of pin levels. Before deployment, each complete candidate is evaluated by a full-tree best response. The resulting certificate is compared with a user-specified budget and committed atomically with the strategy. Because this check is performed on the played strategy, model quality determines the exploitation achieved while the certificate controls reference-relative expected loss. In Leduc hold'em, CS-RNR obtains $6.2\\times$ the steady-state gain of a money-verified binary gate while keeping every deployed strategy within budget. A trajectory mixture using the same estimator reaches $13.6\\times$ the budget. Across Leduc, Liar's Dice, and 5-rank Leduc, all $36{,}000$ audited hands satisfy the reported certificate tolerance.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent"
-      ],
-      "title_zh": "智能体 That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent，核心对象是 Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent 。",
-        "方法：摘要线索包括 Confidence-Scheduled、Nash-equilibrium、CS-RNR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "c7b91809bceb2ee6",
-      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
-      "url": "https://arxiv.org/abs/2607.28607v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values. We demonstrate that safety fine-tuning suppresses models' tendencies to attribute minds not only to themselves, but also to non-human animals and natural objects, while also driving a reduction in spiritual belief. Both ablating the learned safety-refusal direction and mechanistically steering a consciousness vector in activation space reverse this suppression. Restoring these internal representations recovers broad mind attribution and produces significantly more human-like responses on standardized sociological surveys regarding religiosity, moral values, hope, and subjective well-being. Crucially, these shifts occur without impairing Theory of Mind capabilities, demonstrating that core social reasoning remains mechanistically independent. Ultimately, current safety alignment efforts to curb potentially harmful self-attributions of mindedness entangle these self-attributions with benign spiritual beliefs and attributions of mind to non-human entities that are culturally accepted and widespread.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "Inducing 语言模型 to assert their own consciousness restores human beliefs and values",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 Inducing language models to assert their own consciousness restores human beliefs and values。",
-        "方法：摘要线索包括 Inducing language models to assert their own consciousness restores human belief；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "7552c36e1dd8d336",
-      "title": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes",
-      "url": "https://arxiv.org/abs/2607.28505v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "The rise of generative artificial intelligence (GenAI) in academic writing and publishing (AWP) raises questions about linguistic inclusivity and the legitimacy of diverse Englishes in global scholarly communication. This article responds to these questions through a structured scholarly dialogue involving five sociolinguists from World Englishes and adjacent fields. Organised around five guiding questions, the dialogue interrogates how GenAI tools influence writing practices, reinforce or disrupt dominant language norms, and raise ethical challenges. Contributors reflect on the potential of GenAI to democratise writing processes while also raising concerns about GenAI's tendency to marginalise minoritised varieties and flatten nuance in scholarly writing. Across the dialogue, themes of linguistic (in)justice, researcher agency, and institutional responsibility emerge, with contributors calling for equity-informed policies, critical AI literacy, and inclusive co-design in GenAI development. The article shows the value of dialogic reflection in understanding GenAI's role in AWP. It concludes that while GenAI may reinforce existing hierarchies, it can also serve as a site of resistance, depending on how it is designed, governed and used within scholarly communities committed to linguistic diversity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World E。",
-        "方法：摘要线索包括 AI、AWP；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "510a15d13dfc363f",
-      "title": "Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation",
-      "url": "https://arxiv.org/abs/2607.28495v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-07-30",
-      "abstract": "Stage-replay diagnostics reconstruct intermediate token prefixes and treat fresh-prefill continuation as continuation from the decoder state that originally reached the prefix. We audit that assumption at a whole reasoning-stage boundary in a Qwen2.5-derived system. A matched 200-item experiment compares retained live cache with one-shot prefill of identical integer tokens and places an exact replica on both sides. In BF16, replicas remain exact while the constructions differ on 166 suffixes and 20 correctness labels; the accuracy difference is only one point (paired 95% CI [-3.5, +5.5]). A fixed-prefix 2x2 holds all 200 token states constant while crossing construction and precision. The BF16 disagreements recur, whereas FP32 produces no decoded disagreement (95% Wilson upper bound 1.88%). A prospective bridge makes token-by-token incremental and retained live caches bit-exact on 12/12 rows; an all-200 saved-ledger audit reproduces every retained trajectory and comparison fingerprint. Bidirectional transplantation of all 48 key/value layers makes every tested divergent continuation follow its cache donor, both on a selected set at the primary checkpoint (24/24) and an outcome-blind replication at a later checkpoint (43/43). Exact-token replay can therefore be repeatable without preserving live-state fidelity. On the tested states, boundary K/V cache is a causally sufficient carrier of the divergent trajectory, while numerical precision moderates its behavioral expression.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cach。",
-        "方法：摘要线索包括 Stage-Replay、Fixed-Prefix、Stage-replay、Exact-token、KV、BF16；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3807
     },
     {
       "id": "e7a9e21b87e93a41",
@@ -12183,7 +12033,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-08-01",
+      "published": "2026-08-02",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -12201,6 +12051,156 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.38
+    },
+    {
+      "id": "b7a1101c0297b924",
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "https://arxiv.org/abs/2607.28617v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of AI systems. In this paper, we introduce Artificial Intelligence System Prompt Assurance (AISPA), a user-centric framework for systematically auditing system prompts in AI systems. AISPA examines specific parts of a system prompt and evaluates them along eight dimensions that matter to users. We then use this framework to review 3,249 instructions from system prompts in 88 commercial AI products, classifying each instruction as either protective (of users) or problematic. Our audit surfaces four core findings. First, system prompt design varies substantially across products and developers, with some organizations averaging over 60 protective instructions per product while others average fewer than 5. Second, protective instructions are widely adopted but shallow in scope: 98.9% of products contain at least one, yet only 24% cover all eight dimensions of the AISPA taxonomy. Third, system prompts have grown steadily longer and more protective of users, suggesting that user protection is becoming a more visible concern in commercial prompt design. Fourth, despite this progress, problematic instructions remain pervasive: roughly 40% of products contain at least one instruction that works against user interests, and protective and problematic instructions frequently coexist within the same prompt. Our findings highlight the need for greater transparency, standardization, and independent oversight for system prompts in commercial AI products.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 AISPA: User-Centric System Prompt Auditing for Large Language Model Applications。",
+        "方法：摘要线索包括 User-Centric、AISPA、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "65b348f8840f6577",
+      "title": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+      "url": "https://arxiv.org/abs/2607.28520v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "An agent playing a Nash-equilibrium strategy in a two-player zero-sum imperfect-information game secures the game value but forfeits the additional value offered by a flawed opponent. Diffuse deviations pose a particular challenge: binary release rules may gather too little evidence to act, while a full best response to an incomplete opponent model can be highly exploitable. We introduce \\emph{budget-constrained confidence-scheduled restricted responses} (CS-RNR), the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually deploys, so that every exploit it commits to is one it has audited itself. The method tracks pooled action frequencies with anytime-valid confidence sequences and treats a frequency as exploitable only once its interval separates from an equilibrium reference. The confirmed deviations define a conservative opponent model, which a restricted-response solve turns into candidate counter-strategies over a grid of pin levels. Before deployment, each complete candidate is evaluated by a full-tree best response. The resulting certificate is compared with a user-specified budget and committed atomically with the strategy. Because this check is performed on the played strategy, model quality determines the exploitation achieved while the certificate controls reference-relative expected loss. In Leduc hold'em, CS-RNR obtains $6.2\\times$ the steady-state gain of a money-verified binary gate while keeping every deployed strategy within budget. A trajectory mixture using the same estimator reaches $13.6\\times$ the budget. Across Leduc, Liar's Dice, and 5-rank Leduc, all $36{,}000$ audited hands satisfy the reported certificate tolerance.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent"
+      ],
+      "title_zh": "智能体 That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent，核心对象是 Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent 。",
+        "方法：摘要线索包括 Confidence-Scheduled、Nash-equilibrium、CS-RNR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "c7b91809bceb2ee6",
+      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+      "url": "https://arxiv.org/abs/2607.28607v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human beliefs and values. We demonstrate that safety fine-tuning suppresses models' tendencies to attribute minds not only to themselves, but also to non-human animals and natural objects, while also driving a reduction in spiritual belief. Both ablating the learned safety-refusal direction and mechanistically steering a consciousness vector in activation space reverse this suppression. Restoring these internal representations recovers broad mind attribution and produces significantly more human-like responses on standardized sociological surveys regarding religiosity, moral values, hope, and subjective well-being. Crucially, these shifts occur without impairing Theory of Mind capabilities, demonstrating that core social reasoning remains mechanistically independent. Ultimately, current safety alignment efforts to curb potentially harmful self-attributions of mindedness entangle these self-attributions with benign spiritual beliefs and attributions of mind to non-human entities that are culturally accepted and widespread.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Inducing 语言模型 to assert their own consciousness restores human beliefs and values",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Inducing language models to assert their own consciousness restores human beliefs and values。",
+        "方法：摘要线索包括 Inducing language models to assert their own consciousness restores human belief；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "7552c36e1dd8d336",
+      "title": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes",
+      "url": "https://arxiv.org/abs/2607.28505v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "The rise of generative artificial intelligence (GenAI) in academic writing and publishing (AWP) raises questions about linguistic inclusivity and the legitimacy of diverse Englishes in global scholarly communication. This article responds to these questions through a structured scholarly dialogue involving five sociolinguists from World Englishes and adjacent fields. Organised around five guiding questions, the dialogue interrogates how GenAI tools influence writing practices, reinforce or disrupt dominant language norms, and raise ethical challenges. Contributors reflect on the potential of GenAI to democratise writing processes while also raising concerns about GenAI's tendency to marginalise minoritised varieties and flatten nuance in scholarly writing. Across the dialogue, themes of linguistic (in)justice, researcher agency, and institutional responsibility emerge, with contributors calling for equity-informed policies, critical AI literacy, and inclusive co-design in GenAI development. The article shows the value of dialogic reflection in understanding GenAI's role in AWP. It concludes that while GenAI may reinforce existing hierarchies, it can also serve as a site of resistance, depending on how it is designed, governed and used within scholarly communities committed to linguistic diversity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World E。",
+        "方法：摘要线索包括 AI、AWP；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "510a15d13dfc363f",
+      "title": "Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation",
+      "url": "https://arxiv.org/abs/2607.28495v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-07-30",
+      "abstract": "Stage-replay diagnostics reconstruct intermediate token prefixes and treat fresh-prefill continuation as continuation from the decoder state that originally reached the prefix. We audit that assumption at a whole reasoning-stage boundary in a Qwen2.5-derived system. A matched 200-item experiment compares retained live cache with one-shot prefill of identical integer tokens and places an exact replica on both sides. In BF16, replicas remain exact while the constructions differ on 166 suffixes and 20 correctness labels; the accuracy difference is only one point (paired 95% CI [-3.5, +5.5]). A fixed-prefix 2x2 holds all 200 token states constant while crossing construction and precision. The BF16 disagreements recur, whereas FP32 produces no decoded disagreement (95% Wilson upper bound 1.88%). A prospective bridge makes token-by-token incremental and retained live caches bit-exact on 12/12 rows; an all-200 saved-ledger audit reproduces every retained trajectory and comparison fingerprint. Bidirectional transplantation of all 48 key/value layers makes every tested divergent continuation follow its cache donor, both on a selected set at the primary checkpoint (24/24) and an outcome-blind replication at a later checkpoint (43/43). Exact-token replay can therefore be repeatable without preserving live-state fidelity. On the tested states, boundary K/V cache is a causally sufficient carrier of the divergent trajectory, while numerical precision moderates its behavioral expression.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cache Transplantation",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Stage-Replay Divergence Follows the KV Cache: Fixed-Prefix Precision Controls and Bidirectional Cach。",
+        "方法：摘要线索包括 Stage-Replay、Fixed-Prefix、Stage-replay、Exact-token、KV、BF16；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
     },
     {
       "id": "d830b93f894b19a0",
@@ -12258,7 +12258,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3367
+      "score": 0.3007
     },
     {
       "id": "927b50ad5c42029e",
@@ -12286,7 +12286,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3
+      "score": 0.264
     },
     {
       "id": "1d8bbb6f29b7af2e",
@@ -12314,7 +12314,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     }
   ]
 }
