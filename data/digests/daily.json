@@ -1,7 +1,7 @@
 {
-  "title": "2026-08-14 AI Research Briefing",
+  "title": "2026-08-15 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-08-14T15:47:28",
+  "generated_at": "2026-08-15T15:16:41",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3172,7 +3172,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -3403,7 +3403,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
       "citations": {
         "semantic_scholar": null,
@@ -3434,7 +3434,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3464,7 +3464,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "citations": {
         "semantic_scholar": null,
@@ -3494,7 +3494,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "citations": {
         "semantic_scholar": null,
@@ -3524,7 +3524,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -3554,7 +3554,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
       "citations": {
         "semantic_scholar": null,
@@ -3584,7 +3584,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "citations": {
         "semantic_scholar": null,
@@ -3614,7 +3614,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
       "citations": {
         "semantic_scholar": null,
@@ -3644,7 +3644,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "citations": {
         "semantic_scholar": null,
@@ -3674,7 +3674,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -3704,7 +3704,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
       "citations": {
         "semantic_scholar": null,
@@ -3734,7 +3734,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "citations": {
         "semantic_scholar": null,
@@ -3764,7 +3764,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
       "citations": {
         "semantic_scholar": null,
@@ -3794,7 +3794,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "citations": {
         "semantic_scholar": null,
@@ -3824,7 +3824,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
       "citations": {
         "semantic_scholar": null,
@@ -3854,7 +3854,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "citations": {
         "semantic_scholar": null,
@@ -3884,7 +3884,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
       "citations": {
         "semantic_scholar": null,
@@ -3914,7 +3914,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "citations": {
         "semantic_scholar": null,
@@ -3944,7 +3944,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "citations": {
         "semantic_scholar": null,
@@ -3974,7 +3974,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "citations": {
         "semantic_scholar": null,
@@ -4004,7 +4004,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
       "citations": {
         "semantic_scholar": null,
@@ -4034,7 +4034,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
       "citations": {
         "semantic_scholar": null,
@@ -4064,7 +4064,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "citations": {
         "semantic_scholar": null,
@@ -4094,7 +4094,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
       "citations": {
         "semantic_scholar": null,
@@ -4124,7 +4124,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -4154,7 +4154,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
       "citations": {
         "semantic_scholar": null,
@@ -4184,7 +4184,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "citations": {
         "semantic_scholar": null,
@@ -4214,7 +4214,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "citations": {
         "semantic_scholar": null,
@@ -4244,7 +4244,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -4274,7 +4274,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "citations": {
         "semantic_scholar": null,
@@ -14454,7 +14454,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
       "citations": {
         "semantic_scholar": null,
@@ -14485,7 +14485,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -15100,7 +15100,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
       "citations": {
         "semantic_scholar": null,
@@ -15130,7 +15130,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "citations": {
         "semantic_scholar": null,
@@ -15191,7 +15191,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -15221,7 +15221,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
       "citations": {
         "semantic_scholar": null,
@@ -15251,7 +15251,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
       "citations": {
         "semantic_scholar": null,
@@ -15281,7 +15281,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
       "citations": {
         "semantic_scholar": null,
@@ -15311,7 +15311,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "citations": {
         "semantic_scholar": null,
@@ -15341,7 +15341,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
       "citations": {
         "semantic_scholar": null,
@@ -15371,7 +15371,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
       "citations": {
         "semantic_scholar": null,
@@ -15401,7 +15401,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
       "citations": {
         "semantic_scholar": null,
@@ -15431,7 +15431,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
       "citations": {
         "semantic_scholar": null,
@@ -15461,7 +15461,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
       "citations": {
         "semantic_scholar": null,
@@ -15491,7 +15491,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
       "citations": {
         "semantic_scholar": null,
@@ -15521,7 +15521,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
       "citations": {
         "semantic_scholar": null,
@@ -15551,7 +15551,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
       "citations": {
         "semantic_scholar": null,
@@ -15581,7 +15581,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "citations": {
         "semantic_scholar": null,
@@ -15611,7 +15611,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
       "citations": {
         "semantic_scholar": null,
@@ -15641,7 +15641,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
       "citations": {
         "semantic_scholar": null,
@@ -15671,7 +15671,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
       "citations": {
         "semantic_scholar": null,
@@ -15701,7 +15701,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
       "citations": {
         "semantic_scholar": null,
@@ -15731,7 +15731,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
       "citations": {
         "semantic_scholar": null,
@@ -15761,7 +15761,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
       "citations": {
         "semantic_scholar": null,
@@ -15791,7 +15791,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -15821,7 +15821,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
       "citations": {
         "semantic_scholar": null,
@@ -15851,7 +15851,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
       "citations": {
         "semantic_scholar": null,
@@ -15881,7 +15881,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
       "citations": {
         "semantic_scholar": null,
@@ -15911,7 +15911,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
       "citations": {
         "semantic_scholar": null,
@@ -15941,7 +15941,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
       "citations": {
         "semantic_scholar": null,
@@ -15971,7 +15971,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16001,7 +16001,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16586,7 +16586,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16616,7 +16616,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "citations": {
         "semantic_scholar": null,
@@ -17323,7 +17323,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-08-14",
+      "published": "2026-08-15",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
