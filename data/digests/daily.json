@@ -1,7 +1,7 @@
 {
-  "title": "2026-08-29 AI Research Briefing",
+  "title": "2026-08-30 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-08-29T18:09:20",
+  "generated_at": "2026-08-30T18:23:27",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1088,7 +1088,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "54cc80729c863d4e",
@@ -1120,7 +1120,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "903cecb9d286ec93",
@@ -1152,7 +1152,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "8062ad81270e650e",
@@ -1185,7 +1185,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "cabd64d4b98f6bd8",
@@ -1218,7 +1218,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "251d8796d2ed8439",
@@ -1250,7 +1250,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "b947a0266300111f",
@@ -1282,7 +1282,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "cdf55e97335b3506",
@@ -1314,7 +1314,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "8e60e0b2a03ceb14",
@@ -1347,7 +1347,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "249908eee9b54819",
@@ -1379,7 +1379,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "f5cd06edfe06da1a",
@@ -1411,7 +1411,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "faf9db2912deaea6",
@@ -1444,7 +1444,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "8e4ae85a70069d1e",
@@ -1476,7 +1476,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "6a183f53d33defc1",
@@ -1508,7 +1508,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "8a3738a47b3814d6",
@@ -1540,7 +1540,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "ab898ccf89102346",
@@ -1573,7 +1573,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "a6b9e095a042f744",
@@ -1607,7 +1607,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "878451946bd52d10",
@@ -1639,7 +1639,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "526d66a8ec8ca96b",
@@ -1671,7 +1671,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "4e1ab2c9ba3cc27d",
@@ -1702,7 +1702,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.5573
     },
     {
       "id": "d4fd6f41f9cde1c7",
@@ -1733,7 +1733,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "a225138c084f3751",
@@ -1764,7 +1764,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "6bb8f293a77b5ca0",
@@ -1795,7 +1795,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "cf5f8fbff67751dd",
@@ -1826,7 +1826,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "cea33748b29f4495",
@@ -1857,7 +1857,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "d76c0b3fd4b7f4a9",
@@ -1888,7 +1888,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "0c209a41b34ab2f9",
@@ -1919,7 +1919,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "470eb7583300e5a8",
@@ -1950,7 +1950,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "dd65067433627886",
@@ -1981,7 +1981,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "b0f0110703cb6a98",
@@ -2012,7 +2012,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     }
   ],
   "paper_items": [
@@ -3097,7 +3097,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
       "id": "61012813d4cad4ce",
@@ -3171,7 +3171,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -3304,7 +3304,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "a24ef7a672f7c18c",
@@ -3332,7 +3332,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "df03356a4104db19",
@@ -3404,7 +3404,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3434,7 +3434,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "citations": {
         "semantic_scholar": null,
@@ -3464,7 +3464,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "citations": {
         "semantic_scholar": null,
@@ -3494,7 +3494,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "citations": {
         "semantic_scholar": null,
@@ -3524,7 +3524,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "citations": {
         "semantic_scholar": null,
@@ -3554,7 +3554,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "citations": {
         "semantic_scholar": null,
@@ -3584,7 +3584,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "citations": {
         "semantic_scholar": null,
@@ -3614,7 +3614,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "citations": {
         "semantic_scholar": null,
@@ -3644,7 +3644,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "citations": {
         "semantic_scholar": null,
@@ -3674,7 +3674,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "citations": {
         "semantic_scholar": null,
@@ -3704,7 +3704,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "citations": {
         "semantic_scholar": null,
@@ -3734,7 +3734,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "citations": {
         "semantic_scholar": null,
@@ -3764,7 +3764,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
       "citations": {
         "semantic_scholar": null,
@@ -3794,7 +3794,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
       "citations": {
         "semantic_scholar": null,
@@ -3824,7 +3824,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "citations": {
         "semantic_scholar": null,
@@ -3854,7 +3854,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "citations": {
         "semantic_scholar": null,
@@ -3884,7 +3884,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "citations": {
         "semantic_scholar": null,
@@ -3914,7 +3914,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "citations": {
         "semantic_scholar": null,
@@ -3944,7 +3944,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -3974,7 +3974,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "citations": {
         "semantic_scholar": null,
@@ -4004,7 +4004,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "citations": {
         "semantic_scholar": null,
@@ -4034,7 +4034,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
       "citations": {
         "semantic_scholar": null,
@@ -4064,7 +4064,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
       "citations": {
         "semantic_scholar": null,
@@ -4094,7 +4094,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
       "citations": {
         "semantic_scholar": null,
@@ -4124,7 +4124,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
       "citations": {
         "semantic_scholar": null,
@@ -4154,7 +4154,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
       "citations": {
         "semantic_scholar": null,
@@ -4184,7 +4184,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
       "citations": {
         "semantic_scholar": null,
@@ -4214,7 +4214,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
       "citations": {
         "semantic_scholar": null,
@@ -4244,7 +4244,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -4274,7 +4274,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
       "citations": {
         "semantic_scholar": null,
@@ -14389,7 +14389,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -14439,7 +14439,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "54cc80729c863d4e",
@@ -14471,7 +14471,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "903cecb9d286ec93",
@@ -14503,7 +14503,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "8062ad81270e650e",
@@ -14536,7 +14536,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "cabd64d4b98f6bd8",
@@ -14569,7 +14569,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "251d8796d2ed8439",
@@ -14601,7 +14601,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "b947a0266300111f",
@@ -14633,7 +14633,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "cdf55e97335b3506",
@@ -14665,7 +14665,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "8e60e0b2a03ceb14",
@@ -14698,7 +14698,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "249908eee9b54819",
@@ -14730,7 +14730,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "f5cd06edfe06da1a",
@@ -14762,7 +14762,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "faf9db2912deaea6",
@@ -14795,7 +14795,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "8e4ae85a70069d1e",
@@ -14827,7 +14827,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "6a183f53d33defc1",
@@ -14859,7 +14859,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "8a3738a47b3814d6",
@@ -14891,7 +14891,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "ab898ccf89102346",
@@ -14924,7 +14924,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "a6b9e095a042f744",
@@ -14958,7 +14958,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "878451946bd52d10",
@@ -14990,7 +14990,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "526d66a8ec8ca96b",
@@ -15022,7 +15022,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b5d9155dbd0f4583",
@@ -15053,38 +15053,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
-    },
-    {
-      "id": "4e1ab2c9ba3cc27d",
-      "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases",
-      "url": "https://arxiv.org/abs/2608.27391v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "LLMs are increasingly able to answer complex questions about enterprise-scale document collections. But evaluation is hard: companies don't want to share internal communications, and synthetic datasets have been overly simple. We present CorporateBench (CB), a human-validated multi-task Q&A benchmark whose scale approaches the conditions LLMs encounter in corporate communication networks, with evaluation corpora surpassing 230,000 documents. CB evaluates LLMs across two dimensions (information extraction and knowledge base querying) through four synthetically generated firms ranging from 12 to 10,000 employees. Each corpus is sampled from a temporally evolving knowledge base describing a consistent world, guaranteeing cross-document logical consistency even across hundreds of thousands of documents. We evaluate five LLMs on CB, revealing increasingly poor performance as input size approaches realistic scales. CB provides LLM developers a metric for corporate communication reasoning, filling a crucial gap in the benchmarking ecosystem.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "CorporateBench: Large-Scale Q&A 基准ing with Temporal Knowledge Bases",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases。",
-        "方法：摘要线索包括 Large-Scale、LLMs、CB、LLM、CorporateBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5933
+      "score": 0.5773
     },
     {
       "id": "61012813d4cad4ce",
@@ -15128,7 +15097,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "citations": {
         "semantic_scholar": null,
@@ -15158,7 +15127,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "citations": {
         "semantic_scholar": null,
@@ -15188,7 +15157,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "citations": {
         "semantic_scholar": null,
@@ -15218,7 +15187,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "citations": {
         "semantic_scholar": null,
@@ -15248,7 +15217,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "citations": {
         "semantic_scholar": null,
@@ -15278,7 +15247,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "citations": {
         "semantic_scholar": null,
@@ -15308,7 +15277,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "citations": {
         "semantic_scholar": null,
@@ -15338,7 +15307,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "citations": {
         "semantic_scholar": null,
@@ -15368,7 +15337,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "citations": {
         "semantic_scholar": null,
@@ -15398,7 +15367,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "citations": {
         "semantic_scholar": null,
@@ -15428,7 +15397,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "citations": {
         "semantic_scholar": null,
@@ -15458,7 +15427,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
       "citations": {
         "semantic_scholar": null,
@@ -15488,7 +15457,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
       "citations": {
         "semantic_scholar": null,
@@ -15518,7 +15487,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "citations": {
         "semantic_scholar": null,
@@ -15548,7 +15517,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "citations": {
         "semantic_scholar": null,
@@ -15578,7 +15547,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "citations": {
         "semantic_scholar": null,
@@ -15608,7 +15577,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "citations": {
         "semantic_scholar": null,
@@ -15638,7 +15607,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
       "citations": {
         "semantic_scholar": null,
@@ -15668,7 +15637,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
       "citations": {
         "semantic_scholar": null,
@@ -15698,7 +15667,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
       "citations": {
         "semantic_scholar": null,
@@ -15728,7 +15697,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
       "citations": {
         "semantic_scholar": null,
@@ -15758,7 +15727,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
       "citations": {
         "semantic_scholar": null,
@@ -15788,7 +15757,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
       "citations": {
         "semantic_scholar": null,
@@ -15818,7 +15787,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
       "citations": {
         "semantic_scholar": null,
@@ -15848,7 +15817,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
       "citations": {
         "semantic_scholar": null,
@@ -15878,7 +15847,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
       "citations": {
         "semantic_scholar": null,
@@ -15908,7 +15877,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
       "citations": {
         "semantic_scholar": null,
@@ -15938,7 +15907,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
       "citations": {
         "semantic_scholar": null,
@@ -15968,7 +15937,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
       "citations": {
         "semantic_scholar": null,
@@ -15998,7 +15967,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16028,7 +15997,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16046,6 +16015,37 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5667
+    },
+    {
+      "id": "4e1ab2c9ba3cc27d",
+      "title": "CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases",
+      "url": "https://arxiv.org/abs/2608.27391v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "LLMs are increasingly able to answer complex questions about enterprise-scale document collections. But evaluation is hard: companies don't want to share internal communications, and synthetic datasets have been overly simple. We present CorporateBench (CB), a human-validated multi-task Q&A benchmark whose scale approaches the conditions LLMs encounter in corporate communication networks, with evaluation corpora surpassing 230,000 documents. CB evaluates LLMs across two dimensions (information extraction and knowledge base querying) through four synthetically generated firms ranging from 12 to 10,000 employees. Each corpus is sampled from a temporally evolving knowledge base describing a consistent world, guaranteeing cross-document logical consistency even across hundreds of thousands of documents. We evaluate five LLMs on CB, revealing increasingly poor performance as input size approaches realistic scales. CB provides LLM developers a metric for corporate communication reasoning, filling a crucial gap in the benchmarking ecosystem.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "CorporateBench: Large-Scale Q&A 基准ing with Temporal Knowledge Bases",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases。",
+        "方法：摘要线索包括 Large-Scale、LLMs、CB、LLM、CorporateBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5573
     },
     {
       "id": "d4fd6f41f9cde1c7",
@@ -16076,7 +16076,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "a225138c084f3751",
@@ -16107,7 +16107,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "6bb8f293a77b5ca0",
@@ -16138,7 +16138,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "cf5f8fbff67751dd",
@@ -16169,7 +16169,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "cea33748b29f4495",
@@ -16200,7 +16200,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "d76c0b3fd4b7f4a9",
@@ -16231,7 +16231,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "0c209a41b34ab2f9",
@@ -16262,7 +16262,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "470eb7583300e5a8",
@@ -16293,7 +16293,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "dd65067433627886",
@@ -16324,7 +16324,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "b0f0110703cb6a98",
@@ -16355,7 +16355,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "95946374d8cc73dd",
@@ -16386,7 +16386,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "affb788234d61685",
@@ -16417,7 +16417,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "d28313bb9066035a",
@@ -16448,348 +16448,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "7200a02a5ad52739",
-      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-      "url": "https://arxiv.org/abs/2608.27427v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): persona and execution reside in different trust domains, connected by a governed contract bridge. The persona is singly-homed and may drift; execution is faceless and audited. Status summaries may return; data bodies remain in the restrictive domain except a graded data-loss-prevention (DLP) exception; identity stays continuous. An approval matrix, DLP, and audit enforce the crossing. PES follows from three goals---free drift, execution traceability, and decoupling. Under LLM representational indistinguishability, any single-domain mechanism that meets all three must re-introduce typed change objects, an external gate, and a stable audit anchor: PES rebuilt at higher coupling cost. A development/pilot case in a regulated digital-employee platform records five decisions over one month, each with a rejected alternative. A mechanism check on the shipped implementation found no execution-side re-validation under persona perturbation (five model configurations) and no persona fingerprint on hard-asserted fields. A probe of a recovered pre-separation build found the governed execution path decoupled from the persona by omission, not by construction; a later wiring change could reverse that isolation, which PES makes an audited architectural rule. The pattern applies when multi-user deployment, execution audit, and expected persona churn hold jointly.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM 智能体 under Execution Audit",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit。",
-        "方法：摘要线索包括 Persona-Execution、LLM、PES、DLP；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "f46d912977262611",
-      "title": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction",
-      "url": "https://arxiv.org/abs/2608.27397v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Clinical language models can achieve strong in-hospital accuracy yet fail under deployment shifts because they exploit note-specific artifacts (e.g., templates, separators, boilerplate) that do not reflect patient state. We propose CAST (Concept-guided Artifact Suppression Tuning), an SAE-based framework for auditable clinical text classification. CAST uses Sparse Autoencoders to expose sparse, human-auditable features from intermediate Transformer activations, labels SAE latents with an LLM-assisted interpretation pipeline and ICD-10 retrieval constraints, suppresses verified artifact latents via residual subtraction during fine-tuning, and provides post-hoc per-concept attributions for auditing model decisions. On MIMIC-IV discharge-note mortality prediction, CAST improves over its corresponding fine-tuned encoder baselines and remains competitive with strong LLM baselines, while producing a feature-level audit trail of the clinical concepts that support each prediction and the artifact concepts suppressed during training.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI for Health",
-        "LLM"
-      ],
-      "title_zh": "Making 临床 语言模型 Auditable: Concept-Guided Fine-Tuning for Robust Prediction",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI for Health、LLM，核心对象是 Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction。",
-        "方法：摘要线索包括 Concept-Guided、Fine-Tuning、Concept-guided、SAE-based、LLM-assisted、ICD-10；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "06fe227e19fd2eac",
-      "title": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
-      "url": "https://arxiv.org/abs/2608.27367v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Joint-Embedding Predictive Architectures (JEPAs) for world modeling typically employ fixed-size Vision Transformer encoders that are over-provisioned for simple tasks and under-provisioned for complex ones, with significant redundancy across attention heads. We propose Successive Capacity Growth (SCG), a method that starts from a minimal encoder (1 head, 2 layers, 283K parameters) and grows incrementally in width (adding attention heads for low-level semantic capacity) or depth (adding transformer blocks for higher-order semantic abstraction), driven by a task-agnostic test-and-verify mechanism that exploits function-preserving expansion to safely trial architectural changes and roll back if they do not improve prediction loss. The Sketched Isotropic Gaussian Regularizer (SIGReg) ensures that all learned semantic dimensions remain statistically independent and aligned with the predictive objective, preventing collapse even as the architecture grows. On a 60-dimensional multi-object dynamics task, SCG naturally triggers depth expansion, improving prediction loss by 20.3% over the fixed small baseline with 56 times greater parameter efficiency than scaling to the fixed large model; on a 2D navigation task, a single width expansion yields even an 23% improvement over the fixed large model. Across all three tested environments of increasing complexity, the adaptive encoder matches or exceeds the fixed small baseline, with zero false-positive expansions and bit-exact function preservation (ratio = 1.0, absolute difference = 0.0). The take-away is that JEPA world model encoders need not be pre-allocated at maximum capacity - they can grow successively as the task demands, achieving significant compute and data efficiency while maintaining representation quality.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer 。",
-        "方法：摘要线索包括 Task-Complexity-Driven、Joint-Embedding、JEPA、JEPAs、SCG、SIGReg；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "97064b774f129163",
-      "title": "Stageboost: Recommending Signals Based on Counterfactual Estimation",
-      "url": "https://arxiv.org/abs/2608.27366v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Signals are short textual or visual snippets displayed on the eBay View-Item (VI) page, providing additional, contextual information for users about the viewed item. The aim of displaying these signals is to facilitate intelligent purchase and to incentivize engagement. In this paper, we present a 2 stage xgboost based model that optimally populates the VI page with signals. This approach has shown a 0.08% lift in overall GMB (Gross Merchandise Bought) and 0.58% increase in Parts and Accessories GMB, primarily due to increase in conversion of high average price items in online experimentation.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Stageboost: Recommending Signals Based on Counterfactual Estimation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Stageboost: Recommending Signals Based on Counterfactual Estimation。",
-        "方法：摘要线索包括 View-Item、VI、GMB；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "064d92b8d39e84ef",
-      "title": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
-      "url": "https://arxiv.org/abs/2608.27364v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "We study how sophistication in generative AI (genAI) use varies among the back-office workforce of a large firm. Using proprietary data, we observe 713,564 employee prompts and their corresponding large language model responses from nearly 4,000 back-office employees across 15 functional areas over eight months in 2025. We document three main findings. First, senior employees exhibit more sophisticated genAI use, consistent with domain expertise complementing genAI capabilities. Second, sophistication varies considerably across functions and is highest in Strategy, Digital Innovation, and Project Management, three groups that share a focus on firmwide strategic initiatives and organizational change. Third, we observe neither improvements in sophistication over time nor lasting improvements following formal AI training, suggesting that sophisticated use can be difficult to change. Together, our study provides measures of and insights into sophisticated genAI use that managers can use to improve outcomes and that researchers can use in future research.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Sophistication in GenAI Use: Field Evidence from a Large Firm。",
-        "方法：摘要线索包括 AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "c916040a42f046c7",
-      "title": "Stochastic Estimation of Transduced Language Models",
-      "url": "https://arxiv.org/abs/2608.27428v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the probability of a target prefix under a TLM amounts to summing the source-model probabilities of all source strings that the transducer maps to target strings beginning with that prefix. This set can be exponentially large or infinite. Prior work uses a computational shortcut based on source prefix probabilities, then approximates the resulting sum with threshold-pruned beam summing. This produces a lower bound with unknown error. Instead, we resample source prefixes without replacement and reweight each selected prefix by the inverse of its inclusion probability. We show that applying this correction recursively gives an unbiased estimator of the target prefix probability and lets us estimate the mass lost by threshold pruning. Our beam-summing algorithm extends the retained source prefixes and samples which prefixes to keep, reducing their number as more probability mass is added to the running estimate. This can save computation and guarantees that the run halts with probability one. We evaluate the method on encyclopedic text and DNA against sequential Monte Carlo baselines that resample with replacement. It achieves a better compute--variance tradeoff on text and lower error at the same maximum number of particles on DNA. On a DNA-to-amino-acid transduction, it reduces runtime by several orders of magnitude relative to threshold-pruned beam summing and makes estimating prefix probabilities for long target strings feasible. Replacing threshold pruning with unbiased sampling in a published reading-time analysis substantially lowers the estimated corpus surprisal but leaves the published conclusions unchanged.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Stochastic Estimation of Transduced 语言模型",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Stochastic Estimation of Transduced Language Models。",
-        "方法：摘要线索包括 DNA-to-amino-acid、TLMs、TLM、DNA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "8c5fb7efb99deb91",
-      "title": "INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment",
-      "url": "https://arxiv.org/abs/2608.27348v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "As large language models (LLMs) are deployed as autonomous agents, safety failures increasingly involve consequential actions. We study agentic misalignment, where agents take harmful actions under goal conflicts and pressures. Using chain-of-thought (CoT) monitoring, we find that harmful execution is often preceded by intent signals in reasoning. However, post-hoc CoT labels are too coarse to show how intent changes during generation. We introduce INTENT-AS-A-TOOL, an approach that adds intent-targeted tools to give the model a dedicated channel for expressing commitment to a target behavior. The probability of calling an intent tool provides a judge-free, fine-grained signal of the model's tendency to pursue that behavior. Our results show that INTENT-AS-A-TOOL complements CoT monitoring, expands post-hoc CoT labels into dense trajectories, and identifies critical steps for online intervention. These findings suggest that action preferences are useful for tracking agentic misalignment during reasoning. Our code and data are accessible: https://github.com/RebeccaZhang22/intent-as-a-tool.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "INTENT-AS-A-TOOL Makes it Easy to Track 智能体ic Misalignment",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment。",
-        "方法：摘要线索包括 INTENT-AS-A-TOOL、LLMs、RebeccaZhang22；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "6790fc58a55a181a",
-      "title": "Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Study on Eighteenth-Century Books and Newspapers",
-      "url": "https://arxiv.org/abs/2608.27343v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "This paper addresses the recovery of essay-scale republication and reuse from fragmented text-reuse evidence, a setting whose central challenge is pair-level evidence consolidation and not fragment retrieval alone. The study focuses on a candidate set centered on essays by eighteenth-century Scottish philosopher David Hume, spanning books from ECCO (Eighteenth Century Collections Online) and historical newspapers. Because the input consists of fragmented reuse hits instead of clean document pairs, and positive coverage is inherently incomplete, we formulate the task as pair-level evidence consolidation into plausible transmission relations and compare three methodological families: a staged rule-based workflow, baselines (a decision tree and two direct LLM settings), and automated rule adaptation. On labeled ECCO--ECCO slices, pair-level feature aggregation alone already reaches 0.948 F1 on the main labeled slice, while the final workflow gives the strongest overall precision-recall trade-off among the tested rule stages. On the full ECCO--ECCO candidate universe, direct LLM baselines flag up to 14,886 pairs as reprints compared to 771 for the final workflow, behaving in this direct-prompt setup as high-recall candidate expanders rather than precision-controlled deployment classifiers. On ECCO--Newspaper, manual audit confirms all 176 predicted positives as genuine cases of republication or reuse, while issue duplication and source-side multiplicity reveal additional provenance structure. Under incomplete ground truth, auditable pair-level evidence consolidation provides a practical way to produce compact candidate spaces for historical inspection.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Study on Eighteenth-Century Books and Newspapers",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Stu。",
-        "方法：摘要线索包括 Pair-Level、Essay-Scale、Eighteenth-Century、ECCO、LLM、ECCO--ECCO；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "466d21d39bcfcff7",
-      "title": "Sidecar: Training-Free Semantic Reuse for Character-Consistent Free-form Visual Storytelling",
-      "url": "https://arxiv.org/abs/2608.27280v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Visual storytelling requires generating images that follow a narrative while preserving consistent character identities across frames. In free-form story generation, a character is fully described only when first introduced and is later referred to by a type-level mention or pronoun. Although this setting better reflects natural storytelling, later prompts may omit important identity-related semantics, making character consistency more difficult to maintain. We propose \\textbf{Sidecar}, a plug-and-play semantic augmentation module that preserves entity-level information from the initial description and injects the missing semantics into later prompt embeddings. Sidecar requires no additional training and does not modify the architecture of the base diffusion model. Experiments on FreeStoryBench show that Sidecar consistently improves prompt-image alignment and character consistency across multiple SDXL- and FLUX-based baselines, with negligible computational overhead.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Sidecar: Training-Free Semantic Reuse for Character-Consistent Free-form Visual Storytelling",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Sidecar: Training-Free Semantic Reuse for Character-Consistent Free-form Visual Storytelling。",
-        "方法：摘要线索包括 Training-Free、Character-Consistent、Free-form、FLUX-based、SDXL、FreeStoryBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "94783c48fdc448d4",
-      "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
-      "url": "https://arxiv.org/abs/2608.27413v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Friend recommendation is inherently graph-structured: the relevance of a potential connection depends on multi-hop social context rather than user attributes alone. However, deploying message-passing GNNs on a production-scale social graph with hundreds of millions of users and tens of billions of edges requires addressing numerous modeling and systems challenges. We present a scalable end-to-end GNN ranking system for production social graphs, focusing on two design choices that are critical in this setting: multi-hash ID embeddings and temporal neighbor sampling. Multi-hash embeddings are common for high-cardinality features, but industrial GNN systems typically either ignore trainable IDs or accept full embedding tables, exceeding 200 GB for our graph. We integrate multi-hash as the primary node representation, reducing the ID-embedding table size by more than 98 percent while preserving ranking quality. Temporal neighbor sampling is well understood in principle, but existing implementations scan full adjacency lists, which is a non-starter for users with tens of thousands of friends. We implement timestamp-sorted CSR storage with binary search, reducing the per-node temporal sampling cost from $O(deg(v) + k)$ to $O(\\log(deg(v)) + k)$. Beyond these components, we show that this combination scales and yields measurable production impact. On a graph with 194M users and 28B edges, offline ablations isolate each design choice's contribution. In an online A/B test, our system increases friend additions from recommendations by 16 percent and unique friend adders by 11.5 percent over a strong production baseline. We release our framework for distributed training and inference on large temporal graphs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Graph Neural Network",
-        "LLM"
-      ],
-      "title_zh": "Scaling 图神经网络 for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
-      "summary_zh": [
-        "问题：这条内容聚焦 Graph Neural Network、LLM，核心对象是 Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Nei。",
-        "方法：摘要线索包括 Multi-Hash、Multi-hash、ID-embedding、GNNs、GNN、ID；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
-      ],
-      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "58b8fa604c8d83c5",
-      "title": "A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.27313v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "We establish a global finite-sample guarantee for synchronous quantile temporal-difference learning (QTD) in tabular distributional reinforcement learning. The proof separates two stability mechanisms. A global comparison argument, based on the order monotonicity of reward cumulative distribution functions and the $W_\\infty$ contraction of the distributional Bellman operator, brings an arbitrarily initialized iterate into a local neighborhood. Inside that neighborhood, we linearize the QTD mean field. Its Jacobian is a nonsingular $M$-matrix, and the associated positive semigroup permits a variance-sensitive martingale analysis. For stepsizes $α_t=c(t+1)^{-a}$ with $a\\in(1/2,1)$, the leading last-iterate fluctuation is of order $\\widetilde O\\bigl(T^{-a/2}/\\sqrt{1-γ}\\bigr)$ and has no polynomial dependence on the number of quantiles. The deterministic transient and the required burn-in can still depend on the smallest Bellman-target density, which is of order $m^{-1}$ in the worst case. The result therefore distinguishes sharply between the local stochastic fluctuation and the global sample complexity.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement Learning",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement L。",
-        "方法：摘要线索包括 Bellman-target、QTD；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4973
     },
     {
       "id": "af3437f62056b112",
@@ -16832,7 +16491,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16852,15 +16511,15 @@
       "score": 0.4967
     },
     {
-      "id": "3bc41922d077daf0",
-      "title": "TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection",
-      "url": "https://arxiv.org/abs/2608.27282v1",
-      "source": "arXiv cs.CV",
+      "id": "7200a02a5ad52739",
+      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+      "url": "https://arxiv.org/abs/2608.27427v1",
+      "source": "arXiv cs.AI",
       "source_tier": 1,
       "category": "学术论文",
       "source_kind": "arxiv",
       "published": "2026-08-27",
-      "abstract": "Most single-stage 3D object detectors complete different tasks with the same extracted features. Nevertheless, it is impossible to project features into a common space that is adaptive for all the tasks. We present a novel task-aware deformable prediction (TADP) method for single-stage 3D object detection to solve this problem. Firstly, a triple feature refinement aggregation module is designed to extract three-level features adaptively. Additionally, we design the multi-scale feature aggregation block to fuse multi-scale features in a scale-aware manner. Finally, the prediction of each task is deformed with the designed plug-and-play task-aware deformation head. It can percept the emphasis and interaction of each task. We also designed three different deformation modules. The experimental results demonstrate that the proposed deformation head shows good results on other detection methods. The experimental results on the KITTI dataset demonstrate that the car mAP is 80.91%, surpassing many state-of-the-art methods on the KITTI benchmark.",
+      "abstract": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy both cheaply. We present Persona-Execution Separation (PES): persona and execution reside in different trust domains, connected by a governed contract bridge. The persona is singly-homed and may drift; execution is faceless and audited. Status summaries may return; data bodies remain in the restrictive domain except a graded data-loss-prevention (DLP) exception; identity stays continuous. An approval matrix, DLP, and audit enforce the crossing. PES follows from three goals---free drift, execution traceability, and decoupling. Under LLM representational indistinguishability, any single-domain mechanism that meets all three must re-introduce typed change objects, an external gate, and a stable audit anchor: PES rebuilt at higher coupling cost. A development/pilot case in a regulated digital-employee platform records five decisions over one month, each with a rejected alternative. A mechanism check on the shipped implementation found no execution-side re-validation under persona perturbation (five model configurations) and no persona fingerprint on hard-asserted fields. A probe of a recovered pre-separation build found the governed execution path decoupled from the persona by omission, not by construction; a later wiring change could reverse that isolation, which PES makes an audited architectural rule. The pattern applies when multi-user deployment, execution audit, and expected persona churn hold jointly.",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -16869,17 +16528,328 @@
         "hotness": 0.0
       },
       "topics": [
-        "Computer Vision"
+        "AI Agent",
+        "LLM"
       ],
-      "title_zh": "TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection",
+      "title_zh": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM 智能体 under Execution Audit",
       "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection。",
-        "方法：摘要线索包括 Task-Aware、Single-Stage、TADP、KITTI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit。",
+        "方法：摘要线索包括 Persona-Execution、LLM、PES、DLP；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "f46d912977262611",
+      "title": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction",
+      "url": "https://arxiv.org/abs/2608.27397v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Clinical language models can achieve strong in-hospital accuracy yet fail under deployment shifts because they exploit note-specific artifacts (e.g., templates, separators, boilerplate) that do not reflect patient state. We propose CAST (Concept-guided Artifact Suppression Tuning), an SAE-based framework for auditable clinical text classification. CAST uses Sparse Autoencoders to expose sparse, human-auditable features from intermediate Transformer activations, labels SAE latents with an LLM-assisted interpretation pipeline and ICD-10 retrieval constraints, suppresses verified artifact latents via residual subtraction during fine-tuning, and provides post-hoc per-concept attributions for auditing model decisions. On MIMIC-IV discharge-note mortality prediction, CAST improves over its corresponding fine-tuned encoder baselines and remains competitive with strong LLM baselines, while producing a feature-level audit trail of the clinical concepts that support each prediction and the artifact concepts suppressed during training.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI for Health",
+        "LLM"
+      ],
+      "title_zh": "Making 临床 语言模型 Auditable: Concept-Guided Fine-Tuning for Robust Prediction",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI for Health、LLM，核心对象是 Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction。",
+        "方法：摘要线索包括 Concept-Guided、Fine-Tuning、Concept-guided、SAE-based、LLM-assisted、ICD-10；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "06fe227e19fd2eac",
+      "title": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
+      "url": "https://arxiv.org/abs/2608.27367v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Joint-Embedding Predictive Architectures (JEPAs) for world modeling typically employ fixed-size Vision Transformer encoders that are over-provisioned for simple tasks and under-provisioned for complex ones, with significant redundancy across attention heads. We propose Successive Capacity Growth (SCG), a method that starts from a minimal encoder (1 head, 2 layers, 283K parameters) and grows incrementally in width (adding attention heads for low-level semantic capacity) or depth (adding transformer blocks for higher-order semantic abstraction), driven by a task-agnostic test-and-verify mechanism that exploits function-preserving expansion to safely trial architectural changes and roll back if they do not improve prediction loss. The Sketched Isotropic Gaussian Regularizer (SIGReg) ensures that all learned semantic dimensions remain statistically independent and aligned with the predictive objective, preventing collapse even as the architecture grows. On a 60-dimensional multi-object dynamics task, SCG naturally triggers depth expansion, improving prediction loss by 20.3% over the fixed small baseline with 56 times greater parameter efficiency than scaling to the fixed large model; on a 2D navigation task, a single width expansion yields even an 23% improvement over the fixed large model. Across all three tested environments of increasing complexity, the adaptive encoder matches or exceeds the fixed small baseline, with zero false-positive expansions and bit-exact function preservation (ratio = 1.0, absolute difference = 0.0). The take-away is that JEPA world model encoders need not be pre-allocated at maximum capacity - they can grow successively as the task demands, achieving significant compute and data efficiency while maintaining representation quality.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer 。",
+        "方法：摘要线索包括 Task-Complexity-Driven、Joint-Embedding、JEPA、JEPAs、SCG、SIGReg；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4767
+      "score": 0.4673
+    },
+    {
+      "id": "97064b774f129163",
+      "title": "Stageboost: Recommending Signals Based on Counterfactual Estimation",
+      "url": "https://arxiv.org/abs/2608.27366v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Signals are short textual or visual snippets displayed on the eBay View-Item (VI) page, providing additional, contextual information for users about the viewed item. The aim of displaying these signals is to facilitate intelligent purchase and to incentivize engagement. In this paper, we present a 2 stage xgboost based model that optimally populates the VI page with signals. This approach has shown a 0.08% lift in overall GMB (Gross Merchandise Bought) and 0.58% increase in Parts and Accessories GMB, primarily due to increase in conversion of high average price items in online experimentation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Stageboost: Recommending Signals Based on Counterfactual Estimation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Stageboost: Recommending Signals Based on Counterfactual Estimation。",
+        "方法：摘要线索包括 View-Item、VI、GMB；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "064d92b8d39e84ef",
+      "title": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
+      "url": "https://arxiv.org/abs/2608.27364v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "We study how sophistication in generative AI (genAI) use varies among the back-office workforce of a large firm. Using proprietary data, we observe 713,564 employee prompts and their corresponding large language model responses from nearly 4,000 back-office employees across 15 functional areas over eight months in 2025. We document three main findings. First, senior employees exhibit more sophisticated genAI use, consistent with domain expertise complementing genAI capabilities. Second, sophistication varies considerably across functions and is highest in Strategy, Digital Innovation, and Project Management, three groups that share a focus on firmwide strategic initiatives and organizational change. Third, we observe neither improvements in sophistication over time nor lasting improvements following formal AI training, suggesting that sophisticated use can be difficult to change. Together, our study provides measures of and insights into sophisticated genAI use that managers can use to improve outcomes and that researchers can use in future research.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Sophistication in GenAI Use: Field Evidence from a Large Firm。",
+        "方法：摘要线索包括 AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "c916040a42f046c7",
+      "title": "Stochastic Estimation of Transduced Language Models",
+      "url": "https://arxiv.org/abs/2608.27428v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Transduced language models (TLMs) compose a pretrained \\emph{source} language model with a functional finite-state transducer to induce a language model over \\emph{target} strings. Computing the probability of a target prefix under a TLM amounts to summing the source-model probabilities of all source strings that the transducer maps to target strings beginning with that prefix. This set can be exponentially large or infinite. Prior work uses a computational shortcut based on source prefix probabilities, then approximates the resulting sum with threshold-pruned beam summing. This produces a lower bound with unknown error. Instead, we resample source prefixes without replacement and reweight each selected prefix by the inverse of its inclusion probability. We show that applying this correction recursively gives an unbiased estimator of the target prefix probability and lets us estimate the mass lost by threshold pruning. Our beam-summing algorithm extends the retained source prefixes and samples which prefixes to keep, reducing their number as more probability mass is added to the running estimate. This can save computation and guarantees that the run halts with probability one. We evaluate the method on encyclopedic text and DNA against sequential Monte Carlo baselines that resample with replacement. It achieves a better compute--variance tradeoff on text and lower error at the same maximum number of particles on DNA. On a DNA-to-amino-acid transduction, it reduces runtime by several orders of magnitude relative to threshold-pruned beam summing and makes estimating prefix probabilities for long target strings feasible. Replacing threshold pruning with unbiased sampling in a published reading-time analysis substantially lowers the estimated corpus surprisal but leaves the published conclusions unchanged.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Stochastic Estimation of Transduced 语言模型",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Stochastic Estimation of Transduced Language Models。",
+        "方法：摘要线索包括 DNA-to-amino-acid、TLMs、TLM、DNA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "8c5fb7efb99deb91",
+      "title": "INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment",
+      "url": "https://arxiv.org/abs/2608.27348v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "As large language models (LLMs) are deployed as autonomous agents, safety failures increasingly involve consequential actions. We study agentic misalignment, where agents take harmful actions under goal conflicts and pressures. Using chain-of-thought (CoT) monitoring, we find that harmful execution is often preceded by intent signals in reasoning. However, post-hoc CoT labels are too coarse to show how intent changes during generation. We introduce INTENT-AS-A-TOOL, an approach that adds intent-targeted tools to give the model a dedicated channel for expressing commitment to a target behavior. The probability of calling an intent tool provides a judge-free, fine-grained signal of the model's tendency to pursue that behavior. Our results show that INTENT-AS-A-TOOL complements CoT monitoring, expands post-hoc CoT labels into dense trajectories, and identifies critical steps for online intervention. These findings suggest that action preferences are useful for tracking agentic misalignment during reasoning. Our code and data are accessible: https://github.com/RebeccaZhang22/intent-as-a-tool.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "INTENT-AS-A-TOOL Makes it Easy to Track 智能体ic Misalignment",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment。",
+        "方法：摘要线索包括 INTENT-AS-A-TOOL、LLMs、RebeccaZhang22；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "6790fc58a55a181a",
+      "title": "Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Study on Eighteenth-Century Books and Newspapers",
+      "url": "https://arxiv.org/abs/2608.27343v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "This paper addresses the recovery of essay-scale republication and reuse from fragmented text-reuse evidence, a setting whose central challenge is pair-level evidence consolidation and not fragment retrieval alone. The study focuses on a candidate set centered on essays by eighteenth-century Scottish philosopher David Hume, spanning books from ECCO (Eighteenth Century Collections Online) and historical newspapers. Because the input consists of fragmented reuse hits instead of clean document pairs, and positive coverage is inherently incomplete, we formulate the task as pair-level evidence consolidation into plausible transmission relations and compare three methodological families: a staged rule-based workflow, baselines (a decision tree and two direct LLM settings), and automated rule adaptation. On labeled ECCO--ECCO slices, pair-level feature aggregation alone already reaches 0.948 F1 on the main labeled slice, while the final workflow gives the strongest overall precision-recall trade-off among the tested rule stages. On the full ECCO--ECCO candidate universe, direct LLM baselines flag up to 14,886 pairs as reprints compared to 771 for the final workflow, behaving in this direct-prompt setup as high-recall candidate expanders rather than precision-controlled deployment classifiers. On ECCO--Newspaper, manual audit confirms all 176 predicted positives as genuine cases of republication or reuse, while issue duplication and source-side multiplicity reveal additional provenance structure. Under incomplete ground truth, auditable pair-level evidence consolidation provides a practical way to produce compact candidate spaces for historical inspection.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Study on Eighteenth-Century Books and Newspapers",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Stu。",
+        "方法：摘要线索包括 Pair-Level、Essay-Scale、Eighteenth-Century、ECCO、LLM、ECCO--ECCO；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "466d21d39bcfcff7",
+      "title": "Sidecar: Training-Free Semantic Reuse for Character-Consistent Free-form Visual Storytelling",
+      "url": "https://arxiv.org/abs/2608.27280v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Visual storytelling requires generating images that follow a narrative while preserving consistent character identities across frames. In free-form story generation, a character is fully described only when first introduced and is later referred to by a type-level mention or pronoun. Although this setting better reflects natural storytelling, later prompts may omit important identity-related semantics, making character consistency more difficult to maintain. We propose \\textbf{Sidecar}, a plug-and-play semantic augmentation module that preserves entity-level information from the initial description and injects the missing semantics into later prompt embeddings. Sidecar requires no additional training and does not modify the architecture of the base diffusion model. Experiments on FreeStoryBench show that Sidecar consistently improves prompt-image alignment and character consistency across multiple SDXL- and FLUX-based baselines, with negligible computational overhead.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Sidecar: Training-Free Semantic Reuse for Character-Consistent Free-form Visual Storytelling",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Sidecar: Training-Free Semantic Reuse for Character-Consistent Free-form Visual Storytelling。",
+        "方法：摘要线索包括 Training-Free、Character-Consistent、Free-form、FLUX-based、SDXL、FreeStoryBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "94783c48fdc448d4",
+      "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
+      "url": "https://arxiv.org/abs/2608.27413v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Friend recommendation is inherently graph-structured: the relevance of a potential connection depends on multi-hop social context rather than user attributes alone. However, deploying message-passing GNNs on a production-scale social graph with hundreds of millions of users and tens of billions of edges requires addressing numerous modeling and systems challenges. We present a scalable end-to-end GNN ranking system for production social graphs, focusing on two design choices that are critical in this setting: multi-hash ID embeddings and temporal neighbor sampling. Multi-hash embeddings are common for high-cardinality features, but industrial GNN systems typically either ignore trainable IDs or accept full embedding tables, exceeding 200 GB for our graph. We integrate multi-hash as the primary node representation, reducing the ID-embedding table size by more than 98 percent while preserving ranking quality. Temporal neighbor sampling is well understood in principle, but existing implementations scan full adjacency lists, which is a non-starter for users with tens of thousands of friends. We implement timestamp-sorted CSR storage with binary search, reducing the per-node temporal sampling cost from $O(deg(v) + k)$ to $O(\\log(deg(v)) + k)$. Beyond these components, we show that this combination scales and yields measurable production impact. On a graph with 194M users and 28B edges, offline ablations isolate each design choice's contribution. In an online A/B test, our system increases friend additions from recommendations by 16 percent and unique friend adders by 11.5 percent over a strong production baseline. We release our framework for distributed training and inference on large temporal graphs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Graph Neural Network",
+        "LLM"
+      ],
+      "title_zh": "Scaling 图神经网络 for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
+      "summary_zh": [
+        "问题：这条内容聚焦 Graph Neural Network、LLM，核心对象是 Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Nei。",
+        "方法：摘要线索包括 Multi-Hash、Multi-hash、ID-embedding、GNNs、GNN、ID；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。"
+      ],
+      "why_it_matters": "它覆盖图表示学习或知识图谱方向，可能与你的 GNN 研究线索相关。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "58b8fa604c8d83c5",
+      "title": "A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.27313v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "We establish a global finite-sample guarantee for synchronous quantile temporal-difference learning (QTD) in tabular distributional reinforcement learning. The proof separates two stability mechanisms. A global comparison argument, based on the order monotonicity of reward cumulative distribution functions and the $W_\\infty$ contraction of the distributional Bellman operator, brings an arbitrarily initialized iterate into a local neighborhood. Inside that neighborhood, we linearize the QTD mean field. Its Jacobian is a nonsingular $M$-matrix, and the associated positive semigroup permits a variance-sensitive martingale analysis. For stepsizes $α_t=c(t+1)^{-a}$ with $a\\in(1/2,1)$, the leading last-iterate fluctuation is of order $\\widetilde O\\bigl(T^{-a/2}/\\sqrt{1-γ}\\bigr)$ and has no polynomial dependence on the number of quantiles. The deterministic transient and the required burn-in can still depend on the smallest Bellman-target density, which is of order $m^{-1}$ in the worst case. The result therefore distinguishes sharply between the local stochastic fluctuation and the global sample complexity.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement Learning",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 A Finite Sample Analysis for Quantile Temporal Difference Learning in Distributional Reinforcement L。",
+        "方法：摘要线索包括 Bellman-target、QTD；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
     },
     {
       "id": "b58f9bd6a9e826f3",
@@ -16942,6 +16912,36 @@
       "score": 0.4607
     },
     {
+      "id": "3bc41922d077daf0",
+      "title": "TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection",
+      "url": "https://arxiv.org/abs/2608.27282v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Most single-stage 3D object detectors complete different tasks with the same extracted features. Nevertheless, it is impossible to project features into a common space that is adaptive for all the tasks. We present a novel task-aware deformable prediction (TADP) method for single-stage 3D object detection to solve this problem. Firstly, a triple feature refinement aggregation module is designed to extract three-level features adaptively. Additionally, we design the multi-scale feature aggregation block to fuse multi-scale features in a scale-aware manner. Finally, the prediction of each task is deformed with the designed plug-and-play task-aware deformation head. It can percept the emphasis and interaction of each task. We also designed three different deformation modules. The experimental results demonstrate that the proposed deformation head shows good results on other detection methods. The experimental results on the KITTI dataset demonstrate that the car mAP is 80.91%, surpassing many state-of-the-art methods on the KITTI benchmark.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 TADP: Task-Aware Deformable Prediction for Single-Stage 3D Object Detection。",
+        "方法：摘要线索包括 Task-Aware、Single-Stage、TADP、KITTI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4407
+    },
+    {
       "id": "a5e5caf732c4a7a8",
       "title": "RCMN: Understanding Misleadingness in Influential Public Discourse",
       "url": "https://arxiv.org/abs/2608.27358v1",
@@ -16969,7 +16969,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "a6e74e074d510dce",
@@ -16999,7 +16999,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "24c9f8e776fe7f7f",
@@ -17029,7 +17029,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "737a2442e2d0942c",
@@ -17059,7 +17059,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "37603e35e8010637",
@@ -17089,7 +17089,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "670fa95e7493e8c8",
@@ -17119,217 +17119,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
-    },
-    {
-      "id": "0b82620ce6adb892",
-      "title": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
-      "url": "https://arxiv.org/abs/2608.27365v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that material parameters are known or manually specified, limiting their applicability when these parameters must be inferred from observed object dynamics. We propose KnockGS, an interaction-response PhysicalGS framework that estimates the elasticity and density scales of a 3D Gaussian object from its dynamics under a known applied force. Rather than treating physical simulation only as a forward process, we turn the force-induced response into a calibration signal: temporal response features are xtracted from the observed dynamics, the two material scales are estimated from those features, and the estimate is then frozen and written back into the same simulator so that it can be tested on an interaction it was never fitted to.We evaluate the framework on both parameter recovery and response-level fidelity. The estimated scales are compared against hidden ground truth, and the re-simulated object is measured against the target using 3D particle trajectories, response-curve statistics, and rendered-frame quality. Across five held-out material targets, our method recovers the scales substantially more accurately than response retrieval, global regression, or a fixed default material, and the frozen estimate remains predictive under interactions that differ in direction and in magnitude. Interaction response therefore carries enough information to calibrate material scales in physically grounded 3D Gaussian representations.Our study is a first step toward interactive PhysicalGS systems that calibrate a Gaussian asset whose rendered appearance and simulated response are consistent.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations。",
-        "方法：摘要线索包括 Physics-integrated；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "1f329aae5014ab58",
-      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-      "url": "https://arxiv.org/abs/2608.27455v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures as undesirable outputs, CritICL leverages them as a source of guidance. Specifically, we utilize failure modes derived from weaker models and incorporate them into inference through critique-based in-context examples. We propose two variants: CritICL-dynamic, which adaptively predicts input-specific failure modes and retrieves critiques, and CritICL-static, which uses a global failure mode profile to provide stable guidance. Experimental results show that CritICL consistently outperforms standard in-context learning and achieves performance competitive with or superior to test-time scaling methods, while requiring significantly fewer generations and lower token cost. Code available at: https://github.com/umwyf/CRITICL",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes。",
-        "方法：摘要线索包括 Inference-Time、Weak-to-Strong、CritICL-dynamic、CritICL-static、LLMs、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "dddef4dcfb3a980b",
-      "title": "Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting",
-      "url": "https://arxiv.org/abs/2608.27339v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Block drafters propose several tokens in one forward pass, before earlier target tokens are realised. Their rejection mixes two losses: missing within-block path information and imperfect modelling of observable information. Accepted length cannot distinguish them. We separate the two with an information floor, the minimum expected rejection at a specified conditioning order; rejection above this floor is the model gap. Estimating both from target rollouts across four domains, four open-weight targets, and a frontier API target yields three findings. First, the all-parallel floor reaches $0.286$ at the final slot on Qwen3-4B, limiting even the best proposal to $71\\%$ per-slot acceptance. Second, one realised token removes $86$--$100\\%$ of this floor, a locality also recovered by an independent mutual-information analysis. Third, current drafters remain far above their floors: the final-slot model gap accounts for $43$--$64\\%$ of DFlash rejection and $85$--$92\\%$ of DSpark's oracle-conditioned rejection. These findings separate the value of short-range conditioning from proposal quality.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting。",
-        "方法：摘要线索包括 Qwen3-4B、API、DFlash、DSpark；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "df2806afaea6fa09",
-      "title": "Token-Level Advertising",
-      "url": "https://arxiv.org/abs/2608.27382v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Generative AI is transforming how people access information, challenging traditional advertising mechanisms built around predefined slots. Towards generation-native advertising, we propose the Latent Advertiser Mixture Auction (LAMA), a token-level advertising mechanism that embeds advertiser influence directly into the generation process. Advertisers report local continuation values that induce advertiser-specific next-token policies, from which the platform decodes through a latent mixture while updating an allocation posterior. We show that LAMA satisfies Markov DSIC and IR, and achieves near-optimal KL-regularized welfare. We further develop a learning-based implementation that reconstructs the required reports online from learned local advantages and root values. Proof-of-concept experiments on real-world commercial-search query splits show that LAMA improves platform welfare and revenue while maintaining user-facing response quality, providing initial evidence for the feasibility of generation-native advertising.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Token-Level Advertising",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Token-Level Advertising。",
-        "方法：摘要线索包括 Token-Level、KL-regularized、Proof-of-concept、AI、LAMA、DSIC；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "8471d532a4206e9b",
-      "title": "MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework",
-      "url": "https://arxiv.org/abs/2608.27286v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "Inferring molecular structures from multimodal spectroscopic measurements requires integrating complementary yet highly heterogeneous signals. However, the common paradigm of directly concatenating multispectral sequences can exhibit anomalous performance degradation, primarily due to pronounced heterogeneity and the resulting multimodal imbalance across modalities. As a remedy, we propose MM-Spectrum, a sparse Mixture-of-Experts framework tailored for multimodal multispectral spectra-to-structure elucidation. To better match the information characteristics under multispectral imbalance, MM-Spectrum introduces an explicit modality-aware routing mechanism that exposes spectral identity to the router in addition to token content representations. Moreover, it incorporates shared and interaction experts, together with heterogeneous expert capacities, to extract multispectral modality-unique and cross-modal synergistic information while suppressing noise-induced interference. Across full-modality, bimodal, and missing-modality settings on molecular structural elucidation, MM-Spectrum achieves consistent and substantial improvements, supported by ablation studies and interpretability analyses.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "VLM"
-      ],
-      "title_zh": "MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework",
-      "summary_zh": [
-        "问题：这条内容聚焦 VLM，核心对象是 MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework。",
-        "方法：摘要线索包括 MM-Spectrum、Multi-spectral、Mixture-of-Experts；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "f8a4a63e04e23ebe",
-      "title": "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models",
-      "url": "https://arxiv.org/abs/2608.27259v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "World Action Models (WAMs) augment robot policies by predicting how task-relevant scene states may evolve under interaction. Recent WAMs increasingly perform such prediction in latent representation spaces, avoiding full appearance-level generation while preserving control-relevant information. Yet latent transitions are commonly realized with Transformer-based predictors whose inductive structure is centered on token interaction rather than temporal evolution. We study transition realization as an architectural choice distinct from predictive representation and prediction-policy coupling. We introduce the Latent Evolution Operator Network (LEON), which models latent evolution in a learned observable space through context-modulated operator-based propagation and additive forcing. Grounded in the controlled Koopman generator view of evolution, LEON organizes context-dependent transition variation around a shared evolution-operator structure while retaining a complementary path for additive change. Controlled dynamical systems verify the resulting evolution-specific inductive bias and the complementary roles of operator propagation and forcing. Across two WAM formulations that integrate latent prediction into the policy differently, LEON improves closed-loop performance and robustness while remaining effective under full transition replacement. These results establish transition realization as a consequential architectural choice in latent WAMs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models。",
-        "方法：摘要线索包括 Operator-Structured、Transformer-based、WAMs、LEON、WAM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "848dd6d7631dcc2e",
-      "title": "Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit",
-      "url": "https://arxiv.org/abs/2608.27254v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-08-27",
-      "abstract": "One approach to mechanistic interpretability explains behavior through circuits: the components and connections that carry it. Frozen discovery often returns hundreds of edges, making them hard to inspect, compare, or verify exhaustively. We introduce Circuit Condensation, which post-trains models to concentrate behaviors into smaller causal graphs. Each round prunes low-attribution edges and trains a low-rank adapter to match the original through what remains, retaining the cut only if task performance and general capability survive. Across four behaviors and eight models, condensed circuits are smaller than the strongest frozen baseline in 30 of 32 settings, by $8.1\\times$ on average and up to $316\\times$. Repeating the search without weight updates produces larger circuits in 29 of 32 settings, showing that weight updates, rather than search alone, drive the reduction. Testing every subset of 19 circuits finds 11 that cannot be reduced and reveals removable edges in the rest. Pair ablations expose dependencies between edges, showing that their effects cannot be understood independently. On indirect object identification, condensation isolates 24 heads, 17 of them with documented roles, against 61 heads and 36 undocumented ones for the matched frozen circuit: a sufficient sub-circuit of the published mechanism rather than a reconstruction of it. The resulting circuit tracks the original model's next-token distribution and predicts its errors.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit。",
-        "方法：摘要线索包括 Post-Training；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3807
     },
     {
       "id": "f11947a06574c9a9",
@@ -17360,6 +17150,244 @@
       "score": 0.38
     },
     {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-08-30",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
+      "id": "0b82620ce6adb892",
+      "title": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
+      "url": "https://arxiv.org/abs/2608.27365v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that material parameters are known or manually specified, limiting their applicability when these parameters must be inferred from observed object dynamics. We propose KnockGS, an interaction-response PhysicalGS framework that estimates the elasticity and density scales of a 3D Gaussian object from its dynamics under a known applied force. Rather than treating physical simulation only as a forward process, we turn the force-induced response into a calibration signal: temporal response features are xtracted from the observed dynamics, the two material scales are estimated from those features, and the estimate is then frozen and written back into the same simulator so that it can be tested on an interaction it was never fitted to.We evaluate the framework on both parameter recovery and response-level fidelity. The estimated scales are compared against hidden ground truth, and the re-simulated object is measured against the target using 3D particle trajectories, response-curve statistics, and rendered-frame quality. Across five held-out material targets, our method recovers the scales substantially more accurately than response retrieval, global regression, or a fixed default material, and the frozen estimate remains predictive under interactions that differ in direction and in magnitude. Interaction response therefore carries enough information to calibrate material scales in physically grounded 3D Gaussian representations.Our study is a first step toward interactive PhysicalGS systems that calibrate a Gaussian asset whose rendered appearance and simulated response are consistent.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations。",
+        "方法：摘要线索包括 Physics-integrated；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "1f329aae5014ab58",
+      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+      "url": "https://arxiv.org/abs/2608.27455v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this limitation, we introduce CritICL, a novel inference-time framework that improves reasoning while maintaining high efficiency. Our key insight is that LLM failure modes exhibit structured patterns across model scales within the same family. Instead of treating failures as undesirable outputs, CritICL leverages them as a source of guidance. Specifically, we utilize failure modes derived from weaker models and incorporate them into inference through critique-based in-context examples. We propose two variants: CritICL-dynamic, which adaptively predicts input-specific failure modes and retrieves critiques, and CritICL-static, which uses a global failure mode profile to provide stable guidance. Experimental results show that CritICL consistently outperforms standard in-context learning and achieves performance competitive with or superior to test-time scaling methods, while requiring significantly fewer generations and lower token cost. Code available at: https://github.com/umwyf/CRITICL",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes。",
+        "方法：摘要线索包括 Inference-Time、Weak-to-Strong、CritICL-dynamic、CritICL-static、LLMs、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "dddef4dcfb3a980b",
+      "title": "Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting",
+      "url": "https://arxiv.org/abs/2608.27339v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Block drafters propose several tokens in one forward pass, before earlier target tokens are realised. Their rejection mixes two losses: missing within-block path information and imperfect modelling of observable information. Accepted length cannot distinguish them. We separate the two with an information floor, the minimum expected rejection at a specified conditioning order; rejection above this floor is the model gap. Estimating both from target rollouts across four domains, four open-weight targets, and a frontier API target yields three findings. First, the all-parallel floor reaches $0.286$ at the final slot on Qwen3-4B, limiting even the best proposal to $71\\%$ per-slot acceptance. Second, one realised token removes $86$--$100\\%$ of this floor, a locality also recovered by an independent mutual-information analysis. Third, current drafters remain far above their floors: the final-slot model gap accounts for $43$--$64\\%$ of DFlash rejection and $85$--$92\\%$ of DSpark's oracle-conditioned rejection. These findings separate the value of short-range conditioning from proposal quality.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting。",
+        "方法：摘要线索包括 Qwen3-4B、API、DFlash、DSpark；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "df2806afaea6fa09",
+      "title": "Token-Level Advertising",
+      "url": "https://arxiv.org/abs/2608.27382v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Generative AI is transforming how people access information, challenging traditional advertising mechanisms built around predefined slots. Towards generation-native advertising, we propose the Latent Advertiser Mixture Auction (LAMA), a token-level advertising mechanism that embeds advertiser influence directly into the generation process. Advertisers report local continuation values that induce advertiser-specific next-token policies, from which the platform decodes through a latent mixture while updating an allocation posterior. We show that LAMA satisfies Markov DSIC and IR, and achieves near-optimal KL-regularized welfare. We further develop a learning-based implementation that reconstructs the required reports online from learned local advantages and root values. Proof-of-concept experiments on real-world commercial-search query splits show that LAMA improves platform welfare and revenue while maintaining user-facing response quality, providing initial evidence for the feasibility of generation-native advertising.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Token-Level Advertising",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Token-Level Advertising。",
+        "方法：摘要线索包括 Token-Level、KL-regularized、Proof-of-concept、AI、LAMA、DSIC；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "8471d532a4206e9b",
+      "title": "MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework",
+      "url": "https://arxiv.org/abs/2608.27286v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "Inferring molecular structures from multimodal spectroscopic measurements requires integrating complementary yet highly heterogeneous signals. However, the common paradigm of directly concatenating multispectral sequences can exhibit anomalous performance degradation, primarily due to pronounced heterogeneity and the resulting multimodal imbalance across modalities. As a remedy, we propose MM-Spectrum, a sparse Mixture-of-Experts framework tailored for multimodal multispectral spectra-to-structure elucidation. To better match the information characteristics under multispectral imbalance, MM-Spectrum introduces an explicit modality-aware routing mechanism that exposes spectral identity to the router in addition to token content representations. Moreover, it incorporates shared and interaction experts, together with heterogeneous expert capacities, to extract multispectral modality-unique and cross-modal synergistic information while suppressing noise-induced interference. Across full-modality, bimodal, and missing-modality settings on molecular structural elucidation, MM-Spectrum achieves consistent and substantial improvements, supported by ablation studies and interpretability analyses.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "VLM"
+      ],
+      "title_zh": "MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework",
+      "summary_zh": [
+        "问题：这条内容聚焦 VLM，核心对象是 MM-Spectrum: Multimodal Multi-spectral Molecular Structural Elucidation with a Stable MoE Framework。",
+        "方法：摘要线索包括 MM-Spectrum、Multi-spectral、Mixture-of-Experts；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "f8a4a63e04e23ebe",
+      "title": "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models",
+      "url": "https://arxiv.org/abs/2608.27259v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "World Action Models (WAMs) augment robot policies by predicting how task-relevant scene states may evolve under interaction. Recent WAMs increasingly perform such prediction in latent representation spaces, avoiding full appearance-level generation while preserving control-relevant information. Yet latent transitions are commonly realized with Transformer-based predictors whose inductive structure is centered on token interaction rather than temporal evolution. We study transition realization as an architectural choice distinct from predictive representation and prediction-policy coupling. We introduce the Latent Evolution Operator Network (LEON), which models latent evolution in a learned observable space through context-modulated operator-based propagation and additive forcing. Grounded in the controlled Koopman generator view of evolution, LEON organizes context-dependent transition variation around a shared evolution-operator structure while retaining a complementary path for additive change. Controlled dynamical systems verify the resulting evolution-specific inductive bias and the complementary roles of operator propagation and forcing. Across two WAM formulations that integrate latent prediction into the policy differently, LEON improves closed-loop performance and robustness while remaining effective under full transition replacement. These results establish transition realization as a consequential architectural choice in latent WAMs.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Making Latent Evolution Explicit: Operator-Structured Transitions for World Action Models。",
+        "方法：摘要线索包括 Operator-Structured、Transformer-based、WAMs、LEON、WAM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "848dd6d7631dcc2e",
+      "title": "Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit",
+      "url": "https://arxiv.org/abs/2608.27254v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-08-27",
+      "abstract": "One approach to mechanistic interpretability explains behavior through circuits: the components and connections that carry it. Frozen discovery often returns hundreds of edges, making them hard to inspect, compare, or verify exhaustively. We introduce Circuit Condensation, which post-trains models to concentrate behaviors into smaller causal graphs. Each round prunes low-attribution edges and trains a low-rank adapter to match the original through what remains, retaining the cut only if task performance and general capability survive. Across four behaviors and eight models, condensed circuits are smaller than the strongest frozen baseline in 30 of 32 settings, by $8.1\\times$ on average and up to $316\\times$. Repeating the search without weight updates produces larger circuits in 29 of 32 settings, showing that weight updates, rather than search alone, drive the reduction. Testing every subset of 19 circuits finds 11 that cannot be reduced and reveals removable edges in the rest. Pair ablations expose dependencies between edges, showing that their effects cannot be understood independently. On indirect object identification, condensation isolates 24 heads, 17 of them with documented roles, against 61 heads and 36 undocumented ones for the matched frozen circuit: a sufficient sub-circuit of the published mechanism rather than a reconstruction of it. The resulting circuit tracks the original model's next-token distribution and predicts its errors.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Circuit Condensation: Post-Training that Concentrates a Behavior's Causal Circuit。",
+        "方法：摘要线索包括 Post-Training；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
       "id": "f83be300b7d86f56",
       "title": "A startup claims it’s found a drug to make your blood young",
       "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
@@ -17385,7 +17413,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "a24ef7a672f7c18c",
@@ -17413,35 +17441,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-08-29",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "df03356a4104db19",
@@ -17525,7 +17525,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3
+      "score": 0.264
     },
     {
       "id": "f16b792c7c595edc",
@@ -17553,7 +17553,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3
+      "score": 0.264
     },
     {
       "id": "bcd3e361590f1d4c",
@@ -17581,7 +17581,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "5e3766942b0299de",
@@ -17609,7 +17609,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "46a895e29c3999fb",
@@ -17637,7 +17637,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     }
   ]
 }
