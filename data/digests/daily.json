@@ -1,7 +1,7 @@
 {
-  "title": "2026-09-04 AI Research Briefing",
+  "title": "2026-09-05 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-09-04T18:03:27",
+  "generated_at": "2026-09-05T17:06:50",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3076,6 +3076,38 @@
   ],
   "academic_news_items": [
     {
+      "id": "297d75a31a6d704a",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "AI for Health",
+        "LLM",
+        "RL"
+      ],
+      "published": "2026-09-04",
+      "abstract": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Architecting memory and storage in the AI era",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Architecting memory and storage in the AI era。",
+        "内容要点：The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.73
+    },
+    {
       "id": "89407f5db2f1ded8",
       "title": "The Download: selling battlefield drone data and AI reshaping language",
       "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
@@ -3166,6 +3198,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-09-05",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "5547745fcadc20c2",
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
@@ -3193,7 +3255,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "a21cf91d72c7b0a6",
@@ -3220,66 +3282,6 @@
         "MIT Technology Review AI 的这条更新聚焦：The Download: AI puzzles and a path to our nearest star system。",
         "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
         "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-09-04",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
-    },
-    {
-      "id": "dae6fa4429022dc9",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-01",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: engineered microbes for crops, and OpenAI’s culture problem。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -3411,7 +3413,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "citations": {
         "semantic_scholar": null,
@@ -3442,7 +3444,7 @@
         "AI for Health",
         "Medical AI"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
       "citations": {
         "semantic_scholar": null,
@@ -3473,7 +3475,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3493,6 +3495,36 @@
       "score": 0.6833
     },
     {
+      "id": "27b46edfb420abc5",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-05",
+      "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "GPT-6 Astra: A new generation of intelligence",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：GPT-6 Astra: A new generation of intelligence。",
+        "内容要点：Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+        "关键词：GPT-6。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
+    },
+    {
       "id": "cd49a7a7f20a2d2c",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
@@ -3503,7 +3535,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "citations": {
         "semantic_scholar": null,
@@ -3533,7 +3565,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "citations": {
         "semantic_scholar": null,
@@ -3563,7 +3595,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "citations": {
         "semantic_scholar": null,
@@ -3593,7 +3625,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -3623,7 +3655,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "citations": {
         "semantic_scholar": null,
@@ -3653,7 +3685,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "citations": {
         "semantic_scholar": null,
@@ -3683,7 +3715,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "citations": {
         "semantic_scholar": null,
@@ -3713,7 +3745,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "citations": {
         "semantic_scholar": null,
@@ -3743,7 +3775,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "citations": {
         "semantic_scholar": null,
@@ -3773,7 +3805,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "citations": {
         "semantic_scholar": null,
@@ -3803,7 +3835,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "citations": {
         "semantic_scholar": null,
@@ -3833,7 +3865,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "citations": {
         "semantic_scholar": null,
@@ -3863,7 +3895,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "citations": {
         "semantic_scholar": null,
@@ -3893,7 +3925,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "citations": {
         "semantic_scholar": null,
@@ -3923,7 +3955,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "citations": {
         "semantic_scholar": null,
@@ -3953,7 +3985,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "citations": {
         "semantic_scholar": null,
@@ -3983,7 +4015,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "citations": {
         "semantic_scholar": null,
@@ -4013,7 +4045,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "citations": {
         "semantic_scholar": null,
@@ -4043,7 +4075,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "citations": {
         "semantic_scholar": null,
@@ -4073,7 +4105,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "citations": {
         "semantic_scholar": null,
@@ -4103,7 +4135,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "citations": {
         "semantic_scholar": null,
@@ -4133,7 +4165,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
       "citations": {
         "semantic_scholar": null,
@@ -4163,7 +4195,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
       "citations": {
         "semantic_scholar": null,
@@ -4193,7 +4225,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "citations": {
         "semantic_scholar": null,
@@ -4223,7 +4255,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "citations": {
         "semantic_scholar": null,
@@ -4253,7 +4285,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "citations": {
         "semantic_scholar": null,
@@ -4267,36 +4299,6 @@
         "OpenAI News 的这条更新聚焦：Offering Zero Data Retention for frontier models。",
         "内容要点：OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
         "指标/证据：Zero Data；关键词：API、AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "c1696f1cb5005396",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-04",
-      "abstract": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Replit expands access to software creation with GPT-5.6 Luna",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Replit expands access to software creation with GPT-5.6 Luna。",
-        "内容要点：Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-        "关键词：GPT-5。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
@@ -14387,6 +14389,38 @@
       "score": 1.3533
     },
     {
+      "id": "297d75a31a6d704a",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "AI for Health",
+        "LLM",
+        "RL"
+      ],
+      "published": "2026-09-04",
+      "abstract": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Architecting memory and storage in the AI era",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Architecting memory and storage in the AI era。",
+        "内容要点：The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.73
+    },
+    {
       "id": "dbf0727062b087cd",
       "title": "Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving",
       "url": "https://arxiv.org/abs/2609.04070v1",
@@ -14432,7 +14466,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "citations": {
         "semantic_scholar": null,
@@ -14463,7 +14497,7 @@
         "AI for Health",
         "Medical AI"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
       "citations": {
         "semantic_scholar": null,
@@ -14494,7 +14528,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -15289,6 +15323,36 @@
       "score": 0.62
     },
     {
+      "id": "27b46edfb420abc5",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-05",
+      "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "GPT-6 Astra: A new generation of intelligence",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：GPT-6 Astra: A new generation of intelligence。",
+        "内容要点：Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+        "关键词：GPT-6。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
+    },
+    {
       "id": "cd49a7a7f20a2d2c",
       "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
@@ -15299,7 +15363,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "citations": {
         "semantic_scholar": null,
@@ -15329,7 +15393,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "citations": {
         "semantic_scholar": null,
@@ -15359,7 +15423,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "citations": {
         "semantic_scholar": null,
@@ -15389,7 +15453,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -15419,7 +15483,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "citations": {
         "semantic_scholar": null,
@@ -15449,7 +15513,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "citations": {
         "semantic_scholar": null,
@@ -15479,7 +15543,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "citations": {
         "semantic_scholar": null,
@@ -15509,7 +15573,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "citations": {
         "semantic_scholar": null,
@@ -15539,7 +15603,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "citations": {
         "semantic_scholar": null,
@@ -15569,7 +15633,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "citations": {
         "semantic_scholar": null,
@@ -15599,7 +15663,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "citations": {
         "semantic_scholar": null,
@@ -15629,7 +15693,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "citations": {
         "semantic_scholar": null,
@@ -15659,7 +15723,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "citations": {
         "semantic_scholar": null,
@@ -15689,7 +15753,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "citations": {
         "semantic_scholar": null,
@@ -15719,7 +15783,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
       "citations": {
         "semantic_scholar": null,
@@ -15749,7 +15813,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "citations": {
         "semantic_scholar": null,
@@ -15779,7 +15843,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "citations": {
         "semantic_scholar": null,
@@ -15809,7 +15873,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "citations": {
         "semantic_scholar": null,
@@ -15839,7 +15903,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "citations": {
         "semantic_scholar": null,
@@ -15869,7 +15933,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "citations": {
         "semantic_scholar": null,
@@ -15899,7 +15963,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
       "citations": {
         "semantic_scholar": null,
@@ -15929,7 +15993,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
       "citations": {
         "semantic_scholar": null,
@@ -15959,7 +16023,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
       "citations": {
         "semantic_scholar": null,
@@ -15989,7 +16053,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "citations": {
         "semantic_scholar": null,
@@ -16019,7 +16083,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "citations": {
         "semantic_scholar": null,
@@ -16049,7 +16113,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
       "citations": {
         "semantic_scholar": null,
@@ -16079,7 +16143,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
       "citations": {
         "semantic_scholar": null,
@@ -16099,36 +16163,6 @@
       "score": 0.5667
     },
     {
-      "id": "79a1cb314cf165e1",
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-04",
-      "abstract": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "ChatGPT Ads expands across Europe",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：ChatGPT Ads expands across Europe。",
-        "内容要点：ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -16139,7 +16173,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16169,7 +16203,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16836,66 +16870,6 @@
       "score": 0.4967
     },
     {
-      "id": "5547745fcadc20c2",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-02",
-      "abstract": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Facilitating AI integration with simplicity at scale",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Facilitating AI integration with simplicity at scale。",
-        "内容要点：As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problem...",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "a21cf91d72c7b0a6",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-02",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: AI puzzles and a path to our nearest star system",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI puzzles and a path to our nearest star system。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -16906,7 +16880,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16956,9 +16930,9 @@
       "score": 0.4767
     },
     {
-      "id": "dae6fa4429022dc9",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "id": "5547745fcadc20c2",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
@@ -16966,8 +16940,8 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-01",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
+      "published": "2026-09-02",
+      "abstract": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -16975,11 +16949,41 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "title_zh": "Facilitating AI integration with simplicity at scale",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: engineered microbes for crops, and OpenAI’s culture problem。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
+        "MIT Technology Review AI 的这条更新聚焦：Facilitating AI integration with simplicity at scale。",
+        "内容要点：As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problem...",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "a21cf91d72c7b0a6",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-02",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: AI puzzles and a path to our nearest star system",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: AI puzzles and a path to our nearest star system。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
+        "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -17560,7 +17564,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-09-04",
+      "published": "2026-09-05",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
