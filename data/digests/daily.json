@@ -1,7 +1,7 @@
 {
-  "title": "2026-09-07 AI Research Briefing",
+  "title": "2026-09-08 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-09-07T18:58:17",
+  "generated_at": "2026-09-08T18:16:34",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3143,6 +3143,96 @@
       "score": 0.6133
     },
     {
+      "id": "61e6405882ec3d8f",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-08",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: our 35 Innovators Under 35 this year",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: our 35 Innovators Under 35 this year。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like?",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "6d37ae6eb9107273",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This founder is teaching chips how to recycle (their energy)",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This founder is teaching chips how to recycle (their energy)。",
+        "内容要点：Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "815f0e90174381d1",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This AI entrepreneur is developing 智能体 that can plan ahead for the unexpected",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This AI entrepreneur is developing agents that can plan ahead for the unexpected。",
+        "内容要点：Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door.",
+        "关键词：AI、SoMa。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -3153,7 +3243,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -3233,18 +3323,16 @@
       "score": 0.4607
     },
     {
-      "id": "7c0c0558291a0afe",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "id": "505bafa1c378523e",
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-09-03",
-      "abstract": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+      "topics": [],
+      "published": "2026-09-08",
+      "abstract": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3252,59 +3340,27 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Scaling 智能体ic AI pilots across the enterprise",
+      "title_zh": "This founder is making cheaper, cleaner steel",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Scaling agentic AI pilots across the enterprise。",
-        "内容要点：As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI ha...",
-        "指标/证据：80%；关键词：AI。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "5547745fcadc20c2",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-02",
-      "abstract": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Facilitating AI integration with simplicity at scale",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Facilitating AI integration with simplicity at scale。",
-        "内容要点：As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problem...",
-        "关键词：AI。"
+        "MIT Technology Review AI 的这条更新聚焦：This founder is making cheaper, cleaner steel。",
+        "内容要点：The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4607
+      "score": 0.38
     },
     {
-      "id": "a21cf91d72c7b0a6",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "id": "729349454e675ea3",
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-02",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
+      "topics": [],
+      "published": "2026-09-08",
+      "abstract": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3312,15 +3368,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "The Download: AI puzzles and a path to our nearest star system",
+      "title_zh": "This geneticist’s age-reversal tech could help restore sight",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI puzzles and a path to our nearest star system。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
-        "关键词：AI。"
+        "MIT Technology Review AI 的这条更新聚焦：This geneticist’s age-reversal tech could help restore sight。",
+        "内容要点：Yuancheng (Ryan) Lu is obsessed with aging. And with eyes.",
+        "关键词：Age-related。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4607
+      "score": 0.38
     },
     {
       "id": "58ea4d7f22441960",
@@ -3349,62 +3405,6 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.344
-    },
-    {
-      "id": "08ac95e9a57b842d",
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-09-03",
-      "abstract": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Agriculture relies on fossil fuels. It’s costing us.",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Agriculture relies on fossil fuels. It’s costing us。",
-        "内容要点：If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the confli...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
-      "id": "4bd67c8aa454103d",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-09-01",
-      "abstract": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How AI plotted an interstellar journey to Alpha Centauri",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：How AI plotted an interstellar journey to Alpha Centauri。",
-        "内容要点：A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years t...",
-        "指标/证据：80,000；关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
     }
   ],
   "industry_items": [
@@ -3420,7 +3420,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "citations": {
         "semantic_scholar": null,
@@ -3451,7 +3451,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "citations": {
         "semantic_scholar": null,
@@ -3482,7 +3482,7 @@
         "AI for Health",
         "Medical AI"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
       "citations": {
         "semantic_scholar": null,
@@ -3513,7 +3513,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3543,7 +3543,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "citations": {
         "semantic_scholar": null,
@@ -3563,6 +3563,96 @@
       "score": 0.5967
     },
     {
+      "id": "b16061033ad3b313",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Work Now Within Reach",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：The Work Now Within Reach。",
+        "内容要点：Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "f1073edca6c8e7cb",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "On the Navier–Stokes Millennium Prize Problem",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：On the Navier–Stokes Millennium Prize Problem。",
+        "内容要点：We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+        "关键词：AI-generated。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "aa456dcc964e6405",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI expands initiatives to support journalism from classrooms to newsrooms。",
+        "内容要点：OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "059e884df8189428",
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -3573,7 +3663,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -3603,7 +3693,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "citations": {
         "semantic_scholar": null,
@@ -3633,7 +3723,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "citations": {
         "semantic_scholar": null,
@@ -3663,7 +3753,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "citations": {
         "semantic_scholar": null,
@@ -3693,7 +3783,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "citations": {
         "semantic_scholar": null,
@@ -3723,7 +3813,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -3753,7 +3843,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "citations": {
         "semantic_scholar": null,
@@ -3783,7 +3873,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "citations": {
         "semantic_scholar": null,
@@ -3813,7 +3903,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "citations": {
         "semantic_scholar": null,
@@ -3843,7 +3933,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "citations": {
         "semantic_scholar": null,
@@ -3873,7 +3963,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "citations": {
         "semantic_scholar": null,
@@ -3903,7 +3993,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "citations": {
         "semantic_scholar": null,
@@ -3933,7 +4023,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "citations": {
         "semantic_scholar": null,
@@ -3963,7 +4053,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "citations": {
         "semantic_scholar": null,
@@ -3993,7 +4083,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "citations": {
         "semantic_scholar": null,
@@ -4023,7 +4113,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "citations": {
         "semantic_scholar": null,
@@ -4043,36 +4133,6 @@
       "score": 0.5667
     },
     {
-      "id": "34bd118089f9cdee",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Learning never stops: How AI makes learning continuous",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Learning never stops: How AI makes learning continuous。",
-        "内容要点：OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-        "关键词：AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "1e0d067e2165d32e",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -4083,7 +4143,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "citations": {
         "semantic_scholar": null,
@@ -4103,6 +4163,36 @@
       "score": 0.5667
     },
     {
+      "id": "34bd118089f9cdee",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Learning never stops: How AI makes learning continuous",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Learning never stops: How AI makes learning continuous。",
+        "内容要点：OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+        "关键词：AI、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "673a68a70e6e5f4f",
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
@@ -4113,7 +4203,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "citations": {
         "semantic_scholar": null,
@@ -4143,7 +4233,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "citations": {
         "semantic_scholar": null,
@@ -4173,7 +4263,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "citations": {
         "semantic_scholar": null,
@@ -4203,7 +4293,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "citations": {
         "semantic_scholar": null,
@@ -4217,96 +4307,6 @@
         "OpenAI News 的这条更新聚焦：Jalapeño’s first results show industry-leading speed and efficiency in AI inference。",
         "内容要点：Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
         "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "ce0d5b3fceb34d1e",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Disrupting a new covert influence campaign from Russia",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Disrupting a new covert influence campaign from Russia。",
-        "内容要点：OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-        "关键词：Russia-origin、Israel-based、AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "1e23a00a2a61dbd9",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-09-07",
-      "abstract": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing the Admin plugin for ChatGPT Work and Codex。",
-        "内容要点：Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "1076e87449620a6a",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Advancing price-performance for developers with GPT‑5.6 in Kiro。",
-        "内容要点：GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-        "关键词：GPT。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
@@ -14440,7 +14440,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "citations": {
         "semantic_scholar": null,
@@ -14471,7 +14471,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "citations": {
         "semantic_scholar": null,
@@ -14502,7 +14502,7 @@
         "AI for Health",
         "Medical AI"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
       "citations": {
         "semantic_scholar": null,
@@ -14533,7 +14533,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -15017,7 +15017,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "citations": {
         "semantic_scholar": null,
@@ -15334,6 +15334,96 @@
       "score": 0.584
     },
     {
+      "id": "b16061033ad3b313",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Work Now Within Reach",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：The Work Now Within Reach。",
+        "内容要点：Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "f1073edca6c8e7cb",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "On the Navier–Stokes Millennium Prize Problem",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：On the Navier–Stokes Millennium Prize Problem。",
+        "内容要点：We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+        "关键词：AI-generated。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
+      "id": "aa456dcc964e6405",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：OpenAI expands initiatives to support journalism from classrooms to newsrooms。",
+        "内容要点：OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "059e884df8189428",
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
@@ -15344,7 +15434,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -15374,7 +15464,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "citations": {
         "semantic_scholar": null,
@@ -15404,7 +15494,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "citations": {
         "semantic_scholar": null,
@@ -15434,7 +15524,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "citations": {
         "semantic_scholar": null,
@@ -15464,7 +15554,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "citations": {
         "semantic_scholar": null,
@@ -15494,7 +15584,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -15524,7 +15614,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "citations": {
         "semantic_scholar": null,
@@ -15554,7 +15644,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "citations": {
         "semantic_scholar": null,
@@ -15584,7 +15674,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "citations": {
         "semantic_scholar": null,
@@ -15614,7 +15704,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
       "citations": {
         "semantic_scholar": null,
@@ -15644,7 +15734,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "citations": {
         "semantic_scholar": null,
@@ -15674,7 +15764,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
       "citations": {
         "semantic_scholar": null,
@@ -15704,7 +15794,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
       "citations": {
         "semantic_scholar": null,
@@ -15734,7 +15824,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
       "citations": {
         "semantic_scholar": null,
@@ -15764,7 +15854,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
       "citations": {
         "semantic_scholar": null,
@@ -15794,7 +15884,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
       "citations": {
         "semantic_scholar": null,
@@ -15814,36 +15904,6 @@
       "score": 0.5667
     },
     {
-      "id": "34bd118089f9cdee",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Learning never stops: How AI makes learning continuous",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Learning never stops: How AI makes learning continuous。",
-        "内容要点：OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-        "关键词：AI、ChatGPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "1e0d067e2165d32e",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
@@ -15854,7 +15914,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
       "citations": {
         "semantic_scholar": null,
@@ -15874,6 +15934,36 @@
       "score": 0.5667
     },
     {
+      "id": "34bd118089f9cdee",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Learning never stops: How AI makes learning continuous",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Learning never stops: How AI makes learning continuous。",
+        "内容要点：OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+        "关键词：AI、ChatGPT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "673a68a70e6e5f4f",
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
@@ -15884,7 +15974,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
       "citations": {
         "semantic_scholar": null,
@@ -15914,7 +16004,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "citations": {
         "semantic_scholar": null,
@@ -15944,7 +16034,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
       "citations": {
         "semantic_scholar": null,
@@ -15974,7 +16064,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
       "citations": {
         "semantic_scholar": null,
@@ -15994,126 +16084,6 @@
       "score": 0.5667
     },
     {
-      "id": "ce0d5b3fceb34d1e",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Disrupting a new covert influence campaign from Russia",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Disrupting a new covert influence campaign from Russia。",
-        "内容要点：OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-        "关键词：Russia-origin、Israel-based、AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "1e23a00a2a61dbd9",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-09-07",
-      "abstract": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing the Admin plugin for ChatGPT Work and Codex。",
-        "内容要点：Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "1076e87449620a6a",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Advancing price-performance for developers with GPT‑5.6 in Kiro。",
-        "内容要点：GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-        "关键词：GPT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "705f5c0f9fb38170",
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-07",
-      "abstract": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing Intelligence Age",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing Intelligence Age。",
-        "内容要点：Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -16124,7 +16094,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16154,7 +16124,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16608,6 +16578,96 @@
       "score": 0.4973
     },
     {
+      "id": "61e6405882ec3d8f",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-08",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: our 35 Innovators Under 35 this year",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: our 35 Innovators Under 35 this year。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like?",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "6d37ae6eb9107273",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually thrown away as heat—a strategy known as reversible computing.…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This founder is teaching chips how to recycle (their energy)",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This founder is teaching chips how to recycle (their energy)。",
+        "内容要点：Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "815f0e90174381d1",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This AI entrepreneur is developing 智能体 that can plan ahead for the unexpected",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This AI entrepreneur is developing agents that can plan ahead for the unexpected。",
+        "内容要点：Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door.",
+        "关键词：AI、SoMa。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -16618,7 +16678,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16636,6 +16696,36 @@
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.4967
+    },
+    {
+      "id": "324480fd743e082c",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-08",
+      "abstract": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Funding grants for new research into AI and teen development",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Funding grants for new research into AI and teen development。",
+        "内容要点：Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.4867
     },
     {
       "id": "c50c633aad62537f",
@@ -16909,96 +16999,6 @@
         "MIT Technology Review AI 的这条更新聚焦：The Download: rethinking child safety and fossil-fueled farming。",
         "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents.",
         "关键词：Child-monitoring。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "7c0c0558291a0afe",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-09-03",
-      "abstract": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Scaling 智能体ic AI pilots across the enterprise",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Scaling agentic AI pilots across the enterprise。",
-        "内容要点：As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI ha...",
-        "指标/证据：80%；关键词：AI。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "5547745fcadc20c2",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-02",
-      "abstract": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Facilitating AI integration with simplicity at scale",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Facilitating AI integration with simplicity at scale。",
-        "内容要点：As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problem...",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "a21cf91d72c7b0a6",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-02",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: AI puzzles and a path to our nearest star system",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI puzzles and a path to our nearest star system。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests.",
-        "关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
@@ -17305,6 +17305,62 @@
       "score": 0.3807
     },
     {
+      "id": "505bafa1c378523e",
+      "title": "This founder is making cheaper, cleaner steel",
+      "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-09-08",
+      "abstract": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts with gases to trigger chemical reactions that remove oxygen. It…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This founder is making cheaper, cleaner steel",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This founder is making cheaper, cleaner steel。",
+        "内容要点：The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
+      "id": "729349454e675ea3",
+      "title": "This geneticist’s age-reversal tech could help restore sight",
+      "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [],
+      "published": "2026-09-08",
+      "abstract": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This geneticist’s age-reversal tech could help restore sight",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This geneticist’s age-reversal tech could help restore sight。",
+        "内容要点：Yuancheng (Ryan) Lu is obsessed with aging. And with eyes.",
+        "关键词：Age-related。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
       "id": "0667364e2fdcf309",
       "title": "Trending Papers - Hugging Face",
       "url": "https://paperswithcode.com/",
@@ -17313,7 +17369,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-09-07",
+      "published": "2026-09-08",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -17595,62 +17651,6 @@
         "MIT Technology Review AI 的这条更新聚焦：Data from drones in Ukraine is fueling a new Wild West marketplace。",
         "内容要点：Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector.",
         "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
-      "id": "08ac95e9a57b842d",
-      "title": "Agriculture relies on fossil fuels. It’s costing us.",
-      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-09-03",
-      "abstract": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Agriculture relies on fossil fuels. It’s costing us.",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Agriculture relies on fossil fuels. It’s costing us。",
-        "内容要点：If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the confli...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.344
-    },
-    {
-      "id": "4bd67c8aa454103d",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [],
-      "published": "2026-09-01",
-      "abstract": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How AI plotted an interstellar journey to Alpha Centauri",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：How AI plotted an interstellar journey to Alpha Centauri。",
-        "内容要点：A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years t...",
-        "指标/证据：80,000；关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
