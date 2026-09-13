@@ -1,7 +1,7 @@
 {
-  "title": "2026-09-12 AI Research Briefing",
+  "title": "2026-09-13 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-09-12T17:40:55",
+  "generated_at": "2026-09-13T17:54:14",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1088,7 +1088,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "31b87eb0e1f422fd",
@@ -1121,7 +1121,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "eeeb289c40fd0b0a",
@@ -1153,7 +1153,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "bb753b9bf9e1f362",
@@ -1185,7 +1185,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "4e1bb55b0155f979",
@@ -1217,7 +1217,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "c68c343aafa3fd2b",
@@ -1249,7 +1249,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "dc94157d99edd6c3",
@@ -1281,7 +1281,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b07902df8640f15b",
@@ -1312,7 +1312,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "ae2b134a4f7f4de9",
@@ -1343,7 +1343,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "e581318ecca06f60",
@@ -1374,7 +1374,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "314a05e0ef54c5df",
@@ -1405,7 +1405,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "f3a35a9000e72187",
@@ -1436,7 +1436,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "c4f6c61f1c2e2b8f",
@@ -1467,7 +1467,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "79dc58b383707a1a",
@@ -1498,7 +1498,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "68726464c3835268",
@@ -1528,7 +1528,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "903e615abe5330c7",
@@ -1558,7 +1558,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "63f27802b9944a8e",
@@ -1588,7 +1588,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "0430d1f4d99c4ee2",
@@ -1618,7 +1618,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "fd5d98aa8821e965",
@@ -1648,7 +1648,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "4e59102738436b21",
@@ -1678,7 +1678,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "107ce2fdfcb00ef2",
@@ -1708,7 +1708,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "967f71f89ae9cf33",
@@ -1738,7 +1738,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "a063dd0ee35ba2a8",
@@ -1768,7 +1768,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "16e9e577aad966c6",
@@ -1798,7 +1798,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "6dcd0a3960a1a184",
@@ -1828,7 +1828,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "3ec45fd2efb06e4b",
@@ -1858,7 +1858,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3507
     },
     {
       "id": "05493c0f1b1b30fb",
@@ -1886,7 +1886,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.33
+      "score": 0.294
     },
     {
       "id": "d799590148c511de",
@@ -1914,7 +1914,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "bb75e293bda419b4",
@@ -1942,7 +1942,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "0b15567bab2266fd",
@@ -1970,7 +1970,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     }
   ],
   "paper_items": [
@@ -3118,6 +3118,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-09-13",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "c816a71543f133b7",
       "title": "Powering AI is an architecture problem",
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
@@ -3145,7 +3175,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "01807dc77d936dd1",
@@ -3175,7 +3205,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "542dc8c8302b7711",
@@ -3205,37 +3235,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-09-12",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "3318633ff47306c3",
@@ -3265,7 +3265,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "4f79ce1b76384a7f",
@@ -3321,7 +3321,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "e8a463918b31798d",
@@ -3349,7 +3349,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.3
+      "score": 0.264
     }
   ],
   "industry_items": [
@@ -3365,7 +3365,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "citations": {
         "semantic_scholar": null,
@@ -3396,7 +3396,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "citations": {
         "semantic_scholar": null,
@@ -3427,7 +3427,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "citations": {
         "semantic_scholar": null,
@@ -3458,7 +3458,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3488,7 +3488,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "citations": {
         "semantic_scholar": null,
@@ -3518,7 +3518,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "citations": {
         "semantic_scholar": null,
@@ -3548,7 +3548,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "citations": {
         "semantic_scholar": null,
@@ -3578,7 +3578,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "citations": {
         "semantic_scholar": null,
@@ -3608,7 +3608,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "citations": {
         "semantic_scholar": null,
@@ -3638,7 +3638,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "citations": {
         "semantic_scholar": null,
@@ -3668,7 +3668,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "citations": {
         "semantic_scholar": null,
@@ -3698,7 +3698,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "citations": {
         "semantic_scholar": null,
@@ -3728,7 +3728,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "citations": {
         "semantic_scholar": null,
@@ -3758,7 +3758,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "citations": {
         "semantic_scholar": null,
@@ -3788,7 +3788,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "citations": {
         "semantic_scholar": null,
@@ -3818,7 +3818,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "citations": {
         "semantic_scholar": null,
@@ -3848,7 +3848,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "citations": {
         "semantic_scholar": null,
@@ -3878,7 +3878,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "citations": {
         "semantic_scholar": null,
@@ -3908,7 +3908,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "citations": {
         "semantic_scholar": null,
@@ -3938,7 +3938,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "citations": {
         "semantic_scholar": null,
@@ -3968,7 +3968,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "citations": {
         "semantic_scholar": null,
@@ -3998,7 +3998,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "citations": {
         "semantic_scholar": null,
@@ -4028,7 +4028,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -4058,7 +4058,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "citations": {
         "semantic_scholar": null,
@@ -4088,7 +4088,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "citations": {
         "semantic_scholar": null,
@@ -4118,7 +4118,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "citations": {
         "semantic_scholar": null,
@@ -4148,7 +4148,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "citations": {
         "semantic_scholar": null,
@@ -4178,7 +4178,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -4208,7 +4208,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "citations": {
         "semantic_scholar": null,
@@ -4238,7 +4238,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "citations": {
         "semantic_scholar": null,
@@ -14353,7 +14353,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "citations": {
         "semantic_scholar": null,
@@ -14384,7 +14384,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
       "citations": {
         "semantic_scholar": null,
@@ -14415,7 +14415,7 @@
         "AI Agent",
         "RL"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
       "citations": {
         "semantic_scholar": null,
@@ -14446,7 +14446,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -14496,7 +14496,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "31b87eb0e1f422fd",
@@ -14529,7 +14529,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "eeeb289c40fd0b0a",
@@ -14561,7 +14561,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "bb753b9bf9e1f362",
@@ -14593,7 +14593,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "4e1bb55b0155f979",
@@ -14625,7 +14625,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "c68c343aafa3fd2b",
@@ -14657,7 +14657,37 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
+    },
+    {
+      "id": "27b46edfb420abc5",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-13",
+      "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "GPT-6 Astra: A new generation of intelligence",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：GPT-6 Astra: A new generation of intelligence。",
+        "内容要点：Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+        "关键词：GPT-6。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
     },
     {
       "id": "dc94157d99edd6c3",
@@ -14689,37 +14719,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
-    },
-    {
-      "id": "27b46edfb420abc5",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-12",
-      "abstract": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "GPT-6 Astra: A new generation of intelligence",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：GPT-6 Astra: A new generation of intelligence。",
-        "内容要点：Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-        "关键词：GPT-6。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5967
+      "score": 0.584
     },
     {
       "id": "b300a09583ea33b7",
@@ -14763,7 +14763,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "citations": {
         "semantic_scholar": null,
@@ -14793,7 +14793,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "citations": {
         "semantic_scholar": null,
@@ -14823,7 +14823,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "citations": {
         "semantic_scholar": null,
@@ -14853,7 +14853,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "citations": {
         "semantic_scholar": null,
@@ -14883,7 +14883,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "citations": {
         "semantic_scholar": null,
@@ -14913,7 +14913,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "citations": {
         "semantic_scholar": null,
@@ -14943,7 +14943,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "citations": {
         "semantic_scholar": null,
@@ -14973,7 +14973,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "citations": {
         "semantic_scholar": null,
@@ -15003,7 +15003,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "citations": {
         "semantic_scholar": null,
@@ -15033,7 +15033,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "citations": {
         "semantic_scholar": null,
@@ -15063,7 +15063,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "citations": {
         "semantic_scholar": null,
@@ -15093,7 +15093,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "citations": {
         "semantic_scholar": null,
@@ -15123,7 +15123,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "citations": {
         "semantic_scholar": null,
@@ -15153,7 +15153,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "citations": {
         "semantic_scholar": null,
@@ -15183,7 +15183,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "citations": {
         "semantic_scholar": null,
@@ -15213,7 +15213,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "citations": {
         "semantic_scholar": null,
@@ -15243,7 +15243,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "citations": {
         "semantic_scholar": null,
@@ -15273,7 +15273,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -15303,7 +15303,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
       "citations": {
         "semantic_scholar": null,
@@ -15333,7 +15333,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
       "citations": {
         "semantic_scholar": null,
@@ -15363,7 +15363,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
       "citations": {
         "semantic_scholar": null,
@@ -15393,7 +15393,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "citations": {
         "semantic_scholar": null,
@@ -15423,7 +15423,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -15453,7 +15453,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
       "citations": {
         "semantic_scholar": null,
@@ -15483,7 +15483,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
       "citations": {
         "semantic_scholar": null,
@@ -15513,7 +15513,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -15543,7 +15543,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -15591,7 +15591,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "ae2b134a4f7f4de9",
@@ -15622,7 +15622,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "e581318ecca06f60",
@@ -15653,131 +15653,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "314a05e0ef54c5df",
-      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-      "url": "https://arxiv.org/abs/2609.11911v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand: objectives, retries, verification, stopping rules and other behavioral transitions are specified externally. We propose an artificial id, an adaptive internal drive for determining whether behavior should continue, stop or change. In a minimal virtual Petri-dish experiment, a controller too small to perform general-purpose reasoning and receiving no task-specific behavioral objective develops useful control through differential persistence. The same mechanism selects an unintended physical strategy when that behavior persists better and later replaces a learned sensor mapping when its environmental meaning changes. These results show that adaptive direction can emerge without being explicitly specified as a behavioral objective. The same persistence that makes such adaptive agency useful can also allow misalignment, corrupted state and unintended behavior to persist across task boundaries. A scalable artificial id would carry consequential state and adaptive drive across those boundaries, making alignment a property of the continuing agentic system rather than of a model response or single trajectory. Such systems require a persistent alignment boundary over trusted observations, consequence channels, persistent state, authority, identity, provenance and hard constraints.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "Artificial Id: Drive and Persistent Alignment in 智能体ic AI",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Artificial Id: Drive and Persistent Alignment in Agentic AI。",
-        "方法：摘要线索包括 Petri-dish、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "f3a35a9000e72187",
-      "title": "From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge",
-      "url": "https://arxiv.org/abs/2609.11859v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "How does a language model's dependence on query-routing information and target knowledge change as it answers a question? We study this question through layerwise interventions on the hidden state at the end of the question. Across Qwen, Llama, and Gemma, we compare country-continent questions with noun, adjective, and code answers while keeping several fitted measurements distinct. A pair-conditioned request direction describes which country is queried in natural single-country questions; a global request direction describes first- versus second-country requests in paired questions; separate selection candidates test control among contents already available in the hidden state. A diagnostic reanalysis of frozen Qwen natural-question states shows that the pair-conditioned direction grows stronger before interventions on it begin to alter later fitted knowledge, with this causal window opening while answer-supporting content is still forming. The paired three-model trajectories are not uniform: Gemma shows a partially overlapping mid-layer routing-content profile, whereas Llama has no sustained routing-effect window under the same gates. In the paired protocol, dependence on the global request direction decreases from fixed earlier to later layer sets while dependence on fitted content persists. A matched Qwen comparison shows that the pair-conditioned direction retains a late effect, so this operational handoff concerns the global fitted direction rather than all request information. These results separate early readability, natural strength, causal steering, and later content dependence.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge。",
-        "方法：摘要线索包括 LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "c4f6c61f1c2e2b8f",
-      "title": "Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing",
-      "url": "https://arxiv.org/abs/2609.11769v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Large language models (LLMs) are increasingly used to analyze and rewrite news, yet current framing studies mainly evaluate generation, detection, or whether rewritten text appears more neutral. They do not directly show whether a model can undo a known framing transformation while keeping the facts fixed. We introduce a controlled inversion test over three established textual realizations of framing: evaluative lexis, agency realization, and information salience. Across 60 news articles and three intervention strengths, this yields 540 paired variants with preserved atomic facts and recorded edits. Across Qwen, DeepSeek, and Kimi, factual preservation remains near 0.84, whereas intervention reversal is 0.044--0.068. Even when both framing type and direction are recognized correctly, pooled reversal reaches 0.071. These results reveal a clear separation between factual fidelity, framing recognition, and framing inversion: recognizing how an article is framed does not imply that the framing can be undone.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing。",
-        "方法：摘要线索包括 Fact-Preserving、LLMs、DeepSeek；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "79dc58b383707a1a",
-      "title": "SpecGuard: Inference-Time Backdoor Detection For Free",
-      "url": "https://arxiv.org/abs/2609.11799v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Large language models are often fine-tuned, shared, or downloaded from third parties, so a deployed model may carry a hidden backdoor that behaves normally on benign inputs but switches to attacker-controlled behavior when a secret trigger appears. While backdoors can be audited before deployment, runtime monitoring remains important for models that are frequently updated. The challenge is that LLM serving is latency-sensitive: existing inference-time detectors either rely on assumptions about the trigger form, which can fail on stealthy attacks, or require extra model computation, such as input perturbations or an additional generation pass. We introduce SpecGuard, an inference-time backdoor detector that repurposes speculative decoding at zero added model-computation cost. Speculative decoding speeds up inference by using a small draft model to propose tokens and a target model to verify them. We observe that this verification process already exposes a useful signal: when a backdoor is triggered, the target model shifts toward the attacker's behavior, while a clean draft model does not predict this shift, causing the draft-token acceptance rate to change. We formalize when this signal appears and show that an attacker who suppresses it must also weaken the backdoor. Across diverse backdoor types and model families, SpecGuard reliably detects triggered behavior, including stealthy cases where input-level filters are blind, while avoiding the extra generation cost of existing runtime detectors. Speculative decoding therefore doubles as a free, always-on signal for detecting backdoored LLM behavior.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "SpecGuard: Inference-Time Backdoor Detection For Free",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 SpecGuard: Inference-Time Backdoor Detection For Free。",
-        "方法：摘要线索包括 Inference-Time、LLM、SpecGuard；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.5273
     },
     {
       "id": "e129aa4568dedc94",
@@ -15840,96 +15716,6 @@
       "score": 0.4967
     },
     {
-      "id": "c816a71543f133b7",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-10",
-      "abstract": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Powering AI is an architecture problem",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Powering AI is an architecture problem。",
-        "内容要点：On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time.",
-        "指标/证据：1,500；关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "01807dc77d936dd1",
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-10",
-      "abstract": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Can the US battery market untangle from China?",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Can the US battery market untangle from China?。",
-        "内容要点：The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and so...",
-        "关键词：US。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "542dc8c8302b7711",
-      "title": "Healthcare AI’s next test is integration",
-      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "AI for Health"
-      ],
-      "published": "2026-09-10",
-      "abstract": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Healthcare AI’s next test is integration",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Healthcare AI’s next test is integration。",
-        "内容要点：The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex term...",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -15940,7 +15726,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -15970,7 +15756,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-12",
+      "published": "2026-09-13",
       "abstract": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "citations": {
         "semantic_scholar": null,
@@ -15988,6 +15774,220 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.4867
+    },
+    {
+      "id": "314a05e0ef54c5df",
+      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+      "url": "https://arxiv.org/abs/2609.11911v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand: objectives, retries, verification, stopping rules and other behavioral transitions are specified externally. We propose an artificial id, an adaptive internal drive for determining whether behavior should continue, stop or change. In a minimal virtual Petri-dish experiment, a controller too small to perform general-purpose reasoning and receiving no task-specific behavioral objective develops useful control through differential persistence. The same mechanism selects an unintended physical strategy when that behavior persists better and later replaces a learned sensor mapping when its environmental meaning changes. These results show that adaptive direction can emerge without being explicitly specified as a behavioral objective. The same persistence that makes such adaptive agency useful can also allow misalignment, corrupted state and unintended behavior to persist across task boundaries. A scalable artificial id would carry consequential state and adaptive drive across those boundaries, making alignment a property of the continuing agentic system rather than of a model response or single trajectory. Such systems require a persistent alignment boundary over trusted observations, consequence channels, persistent state, authority, identity, provenance and hard constraints.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "Artificial Id: Drive and Persistent Alignment in 智能体ic AI",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Artificial Id: Drive and Persistent Alignment in Agentic AI。",
+        "方法：摘要线索包括 Petri-dish、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "f3a35a9000e72187",
+      "title": "From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge",
+      "url": "https://arxiv.org/abs/2609.11859v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "How does a language model's dependence on query-routing information and target knowledge change as it answers a question? We study this question through layerwise interventions on the hidden state at the end of the question. Across Qwen, Llama, and Gemma, we compare country-continent questions with noun, adjective, and code answers while keeping several fitted measurements distinct. A pair-conditioned request direction describes which country is queried in natural single-country questions; a global request direction describes first- versus second-country requests in paired questions; separate selection candidates test control among contents already available in the hidden state. A diagnostic reanalysis of frozen Qwen natural-question states shows that the pair-conditioned direction grows stronger before interventions on it begin to alter later fitted knowledge, with this causal window opening while answer-supporting content is still forming. The paired three-model trajectories are not uniform: Gemma shows a partially overlapping mid-layer routing-content profile, whereas Llama has no sustained routing-effect window under the same gates. In the paired protocol, dependence on the global request direction decreases from fixed earlier to later layer sets while dependence on fitted content persists. A matched Qwen comparison shows that the pair-conditioned direction retains a late effect, so this operational handoff concerns the global fitted direction rather than all request information. These results separate early readability, natural strength, causal steering, and later content dependence.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge。",
+        "方法：摘要线索包括 LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "c4f6c61f1c2e2b8f",
+      "title": "Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing",
+      "url": "https://arxiv.org/abs/2609.11769v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Large language models (LLMs) are increasingly used to analyze and rewrite news, yet current framing studies mainly evaluate generation, detection, or whether rewritten text appears more neutral. They do not directly show whether a model can undo a known framing transformation while keeping the facts fixed. We introduce a controlled inversion test over three established textual realizations of framing: evaluative lexis, agency realization, and information salience. Across 60 news articles and three intervention strengths, this yields 540 paired variants with preserved atomic facts and recorded edits. Across Qwen, DeepSeek, and Kimi, factual preservation remains near 0.84, whereas intervention reversal is 0.044--0.068. Even when both framing type and direction are recognized correctly, pooled reversal reaches 0.071. These results reveal a clear separation between factual fidelity, framing recognition, and framing inversion: recognizing how an article is framed does not imply that the framing can be undone.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing。",
+        "方法：摘要线索包括 Fact-Preserving、LLMs、DeepSeek；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "79dc58b383707a1a",
+      "title": "SpecGuard: Inference-Time Backdoor Detection For Free",
+      "url": "https://arxiv.org/abs/2609.11799v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Large language models are often fine-tuned, shared, or downloaded from third parties, so a deployed model may carry a hidden backdoor that behaves normally on benign inputs but switches to attacker-controlled behavior when a secret trigger appears. While backdoors can be audited before deployment, runtime monitoring remains important for models that are frequently updated. The challenge is that LLM serving is latency-sensitive: existing inference-time detectors either rely on assumptions about the trigger form, which can fail on stealthy attacks, or require extra model computation, such as input perturbations or an additional generation pass. We introduce SpecGuard, an inference-time backdoor detector that repurposes speculative decoding at zero added model-computation cost. Speculative decoding speeds up inference by using a small draft model to propose tokens and a target model to verify them. We observe that this verification process already exposes a useful signal: when a backdoor is triggered, the target model shifts toward the attacker's behavior, while a clean draft model does not predict this shift, causing the draft-token acceptance rate to change. We formalize when this signal appears and show that an attacker who suppresses it must also weaken the backdoor. Across diverse backdoor types and model families, SpecGuard reliably detects triggered behavior, including stealthy cases where input-level filters are blind, while avoiding the extra generation cost of existing runtime detectors. Speculative decoding therefore doubles as a free, always-on signal for detecting backdoored LLM behavior.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "SpecGuard: Inference-Time Backdoor Detection For Free",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 SpecGuard: Inference-Time Backdoor Detection For Free。",
+        "方法：摘要线索包括 Inference-Time、LLM、SpecGuard；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "c816a71543f133b7",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-10",
+      "abstract": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Powering AI is an architecture problem",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Powering AI is an architecture problem。",
+        "内容要点：On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time.",
+        "指标/证据：1,500；关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "01807dc77d936dd1",
+      "title": "Can the US battery market untangle from China?",
+      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-10",
+      "abstract": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Can the US battery market untangle from China?",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Can the US battery market untangle from China?。",
+        "内容要点：The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and so...",
+        "关键词：US。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "542dc8c8302b7711",
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "AI for Health"
+      ],
+      "published": "2026-09-10",
+      "abstract": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Healthcare AI’s next test is integration",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Healthcare AI’s next test is integration。",
+        "内容要点：The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex term...",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "68726464c3835268",
@@ -16017,7 +16017,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "903e615abe5330c7",
@@ -16047,7 +16047,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "63f27802b9944a8e",
@@ -16077,7 +16077,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "0430d1f4d99c4ee2",
@@ -16107,7 +16107,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4467
+      "score": 0.4107
     },
     {
       "id": "fd5d98aa8821e965",
@@ -16137,7 +16137,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "4e59102738436b21",
@@ -16167,7 +16167,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "3318633ff47306c3",
@@ -16197,187 +16197,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4167
-    },
-    {
-      "id": "107ce2fdfcb00ef2",
-      "title": "General Quantification of Covariate and Concept Shifts",
-      "url": "https://arxiv.org/abs/2609.11918v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition of concept shift breaks when the source and target supports mismatch. Leveraging entropic optimal transport, we propose a key notion: $γ^{*}\\!$-concept shifts, and derive a general error bound unifying covariate and $γ^{*}\\!$-concept shifts, which applies to broad loss functions, label spaces, and stochastic labeling. We further develop estimators for these shifts with concentration guarantees, and the DataShifts algorithm, which can quantify distribution shifts and estimate the error bound in most applications - a rigorous and general tool for analyzing learning error under distribution shift.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "General Quantification of Covariate and Concept Shifts",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 General Quantification of Covariate and Concept Shifts。",
-        "方法：摘要线索包括 DataShifts；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "967f71f89ae9cf33",
-      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.11873v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent changes that improve both their capabilities and the process of future improvement. We first use the Headroom-Closed Index (HCI) to reveal the problems of existing LLMs, then introduce the RSI concept and its development roadmap: from improvement-execution autonomy, improvement-strategy autonomy, experience-acquisition autonomy, and environment-adaptation autonomy, to recursive meta-improvement. Next we examine RSI across scenarios (e.g., scientific discovery, embodied intelligence, software engineering), highlighting their distinct requirements and development speeds. Drawing on diverse industry practices and preliminary empirical evidence, we connect RSI research with practical systems and identify key challenges to achieving genuine RSI.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement。",
-        "方法：摘要线索包括 Self-Improvement、Headroom-Closed、AI、RSI、HCI、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "a063dd0ee35ba2a8",
-      "title": "Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling",
-      "url": "https://arxiv.org/abs/2609.11804v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Visual Autoregressive Models (VAR) generate images through next-scale prediction, producing all tokens within each scale in parallel. We show that this parallel decoding constitutes a mean-field-style approximation that discards spatial dependencies among same-scale tokens, causing locally incoherent samples regardless of backbone capacity -- a limitation of the decoding rule. Addressing this limitation, we introduce the Logit Refiner, a lightweight autoregressive module that restores intra-scale dependencies by sequentially sampling tokens conditioned on frozen backbone features. Adding only ~10% parameters and less than 5% of the base model's training compute, it plugs into any pretrained VAR checkpoint without retraining. Controlled ablations isolate joint intra-scale sampling -- rather than additional capacity or training -- as the critical ingredient. Across backbones from 310M to 2B parameters on class-conditional ImageNet 256x256, the refiner consistently improves generation quality, enabling a 1.1B-parameter model to surpass one twice its size. The approach further generalizes to text-to-image generation, confirming that the mean-field bottleneck persists across VAR variants and is effectively alleviated by our method. Project page: https://compvis.github.io/logit-refiner/",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling。",
-        "方法：摘要线索包括 Intra-Scale、VAR、ImageNet；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "16e9e577aad966c6",
-      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-      "url": "https://arxiv.org/abs/2609.11917v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as Mixture-of-Experts (MoE), despite their increased compute efficiency. We vary data repetition rates across single- and multi-domain data mixes, and across MoE settings, including expert count and granularity. We consistently find, for models ranging from 80M to 1B active (8.5B total) parameters, that MoEs degrade more rapidly under data repetition. This effect increases with sparsity, dictated by total rather than active parameters. While 80M dense models can repeat data over 8x with minimal degradation, MoEs instead begin to suffer at 4x, and deteriorate rapidly, ceding their performance benefits in all-unique data settings to underperform dense models after 32x. We experiment with existing regularization methods as a potential remedy. We find that some methods, such as dropout, can mitigate overfitting. In particular, with strong masking-based regularization, MoEs are able to outperform dense models even when data is repeated more than 64 times. However, no method fully matches the performance of all-unique training data. Finally, we analyze internal mechanisms correlated with MoE overfitting in high repetition regimes, and find that MoE routing universally stabilizes early in training, and that expert specialization correlates with overfitting to repeated data. In sum, our work addresses the adverse interactions between sparsity and data repetition: we present evidence for the core mechanisms of overfitting and its potential remediation, and suggest promising avenues for future methods to reduce over-specialization in model parameters by disrupting memorization patterns.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data。",
-        "方法：摘要线索包括 Mixtures-of-Experts、Mixture-of-Experts、MoEs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "6dcd0a3960a1a184",
-      "title": "Distance generalization in transformers: why bother with positional encoding?",
-      "url": "https://arxiv.org/abs/2609.11913v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on delays unseen during training. We address three questions: (A) Do positional encoding schemes such as RoPE and ALiBi improve distance resolution relative to no positional encoding (NoPE)? (B) How does data diversity, the number of inter-token distances seen in training, affect performance? (C) When is distance transfer learning positive or negative? We present a thorough investigation, finding that it is paramount to improve our understanding of the underlying mechanisms.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Distance generalization in transformers: why bother with positional encoding?",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Distance generalization in transformers: why bother with positional encoding?。",
-        "方法：摘要线索包括 Out-of-distribution、ALiBi；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "3ec45fd2efb06e4b",
-      "title": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
-      "url": "https://arxiv.org/abs/2609.11762v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-10",
-      "abstract": "Per-layer differential privacy (DP) clipping improves gradient fidelity in federated learning by allocating per-matrix clipping budgets proportional to parameter count. We show that this recipe breaks for speech large language models (speech-LLMs), when the acoustic encoder and the language decoder differ by an order of magnitude in update norm. Single-pool per-layer methods suffer \\emph{cross-component budget collapse}, dragging word error rate (WER) far from flat global clipping or collapsing training entirely. When the norm imbalance is milder, adaptive single-pool methods partially recover, confirming that collapse severity scales with the inter-component norm ratio. We empirically diagnose the root cause across six per-layer methods and three speech-LLM architectures. We then propose \\emph{$α$-split}, a two-pool allocation that normalises encoder and LLM parameters into independent pools, and show that joint $\\ell_2$ sensitivity and the original $(\\varepsilon,δ)$-DP guarantee are unchanged. At architecture-calibrated $α$, our method recovers WER utility compared to flat DP, while granting the encoder $4.47{\\times}$ tighter per-component noise protection against speaker voice-based gradient-inversion attacks at only $+2.6\\%$ LLM noise overhead.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs。",
-        "方法：摘要线索包括 Component-Aware、Speech-LLMs、Per-layer、Single-pool、LLMs、DP；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3807
     },
     {
       "id": "4f79ce1b76384a7f",
@@ -16408,6 +16228,214 @@
       "score": 0.38
     },
     {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-09-13",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
+      "id": "107ce2fdfcb00ef2",
+      "title": "General Quantification of Covariate and Concept Shifts",
+      "url": "https://arxiv.org/abs/2609.11918v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition of concept shift breaks when the source and target supports mismatch. Leveraging entropic optimal transport, we propose a key notion: $γ^{*}\\!$-concept shifts, and derive a general error bound unifying covariate and $γ^{*}\\!$-concept shifts, which applies to broad loss functions, label spaces, and stochastic labeling. We further develop estimators for these shifts with concentration guarantees, and the DataShifts algorithm, which can quantify distribution shifts and estimate the error bound in most applications - a rigorous and general tool for analyzing learning error under distribution shift.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "General Quantification of Covariate and Concept Shifts",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 General Quantification of Covariate and Concept Shifts。",
+        "方法：摘要线索包括 DataShifts；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "967f71f89ae9cf33",
+      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.11873v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Recursive self-improvement (RSI) enables AI systems to turn experience and feedback into persistent changes that improve both their capabilities and the process of future improvement. We first use the Headroom-Closed Index (HCI) to reveal the problems of existing LLMs, then introduce the RSI concept and its development roadmap: from improvement-execution autonomy, improvement-strategy autonomy, experience-acquisition autonomy, and environment-adaptation autonomy, to recursive meta-improvement. Next we examine RSI across scenarios (e.g., scientific discovery, embodied intelligence, software engineering), highlighting their distinct requirements and development speeds. Drawing on diverse industry practices and preliminary empirical evidence, we connect RSI research with practical systems and identify key challenges to achieving genuine RSI.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement。",
+        "方法：摘要线索包括 Self-Improvement、Headroom-Closed、AI、RSI、HCI、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "a063dd0ee35ba2a8",
+      "title": "Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling",
+      "url": "https://arxiv.org/abs/2609.11804v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Visual Autoregressive Models (VAR) generate images through next-scale prediction, producing all tokens within each scale in parallel. We show that this parallel decoding constitutes a mean-field-style approximation that discards spatial dependencies among same-scale tokens, causing locally incoherent samples regardless of backbone capacity -- a limitation of the decoding rule. Addressing this limitation, we introduce the Logit Refiner, a lightweight autoregressive module that restores intra-scale dependencies by sequentially sampling tokens conditioned on frozen backbone features. Adding only ~10% parameters and less than 5% of the base model's training compute, it plugs into any pretrained VAR checkpoint without retraining. Controlled ablations isolate joint intra-scale sampling -- rather than additional capacity or training -- as the critical ingredient. Across backbones from 310M to 2B parameters on class-conditional ImageNet 256x256, the refiner consistently improves generation quality, enabling a 1.1B-parameter model to surpass one twice its size. The approach further generalizes to text-to-image generation, confirming that the mean-field bottleneck persists across VAR variants and is effectively alleviated by our method. Project page: https://compvis.github.io/logit-refiner/",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling。",
+        "方法：摘要线索包括 Intra-Scale、VAR、ImageNet；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "16e9e577aad966c6",
+      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "url": "https://arxiv.org/abs/2609.11917v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of data repetition remains largely unexplored for recently dominant sparse architectures such as Mixture-of-Experts (MoE), despite their increased compute efficiency. We vary data repetition rates across single- and multi-domain data mixes, and across MoE settings, including expert count and granularity. We consistently find, for models ranging from 80M to 1B active (8.5B total) parameters, that MoEs degrade more rapidly under data repetition. This effect increases with sparsity, dictated by total rather than active parameters. While 80M dense models can repeat data over 8x with minimal degradation, MoEs instead begin to suffer at 4x, and deteriorate rapidly, ceding their performance benefits in all-unique data settings to underperform dense models after 32x. We experiment with existing regularization methods as a potential remedy. We find that some methods, such as dropout, can mitigate overfitting. In particular, with strong masking-based regularization, MoEs are able to outperform dense models even when data is repeated more than 64 times. However, no method fully matches the performance of all-unique training data. Finally, we analyze internal mechanisms correlated with MoE overfitting in high repetition regimes, and find that MoE routing universally stabilizes early in training, and that expert specialization correlates with overfitting to repeated data. In sum, our work addresses the adverse interactions between sparsity and data repetition: we present evidence for the core mechanisms of overfitting and its potential remediation, and suggest promising avenues for future methods to reduce over-specialization in model parameters by disrupting memorization patterns.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data。",
+        "方法：摘要线索包括 Mixtures-of-Experts、Mixture-of-Experts、MoEs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "6dcd0a3960a1a184",
+      "title": "Distance generalization in transformers: why bother with positional encoding?",
+      "url": "https://arxiv.org/abs/2609.11913v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which probes performance when inter-token distances are changed between training and inference, while keeping a fixed context length. We construct two synthetic delay copy tasks, both involving finite distances between source and recall, where tokens are copied either fully or selectively, and test models on delays unseen during training. We address three questions: (A) Do positional encoding schemes such as RoPE and ALiBi improve distance resolution relative to no positional encoding (NoPE)? (B) How does data diversity, the number of inter-token distances seen in training, affect performance? (C) When is distance transfer learning positive or negative? We present a thorough investigation, finding that it is paramount to improve our understanding of the underlying mechanisms.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Distance generalization in transformers: why bother with positional encoding?",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Distance generalization in transformers: why bother with positional encoding?。",
+        "方法：摘要线索包括 Out-of-distribution、ALiBi；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "3ec45fd2efb06e4b",
+      "title": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
+      "url": "https://arxiv.org/abs/2609.11762v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-10",
+      "abstract": "Per-layer differential privacy (DP) clipping improves gradient fidelity in federated learning by allocating per-matrix clipping budgets proportional to parameter count. We show that this recipe breaks for speech large language models (speech-LLMs), when the acoustic encoder and the language decoder differ by an order of magnitude in update norm. Single-pool per-layer methods suffer \\emph{cross-component budget collapse}, dragging word error rate (WER) far from flat global clipping or collapsing training entirely. When the norm imbalance is milder, adaptive single-pool methods partially recover, confirming that collapse severity scales with the inter-component norm ratio. We empirically diagnose the root cause across six per-layer methods and three speech-LLM architectures. We then propose \\emph{$α$-split}, a two-pool allocation that normalises encoder and LLM parameters into independent pools, and show that joint $\\ell_2$ sensitivity and the original $(\\varepsilon,δ)$-DP guarantee are unchanged. At architecture-calibrated $α$, our method recovers WER utility compared to flat DP, while granting the encoder $4.47{\\times}$ tighter per-component noise protection against speaker voice-based gradient-inversion attacks at only $+2.6\\%$ LLM noise overhead.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs。",
+        "方法：摘要线索包括 Component-Aware、Speech-LLMs、Per-layer、Single-pool、LLMs、DP；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
       "id": "25dbd52e66155762",
       "title": "This road map could help us decide whether to deploy solar geoengineering",
       "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
@@ -16433,35 +16461,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-09-12",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "05493c0f1b1b30fb",
@@ -16489,7 +16489,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.33
+      "score": 0.294
     },
     {
       "id": "e8a463918b31798d",
@@ -16517,7 +16517,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.3
+      "score": 0.264
     },
     {
       "id": "d799590148c511de",
@@ -16545,7 +16545,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "bb75e293bda419b4",
@@ -16573,7 +16573,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "0b15567bab2266fd",
@@ -16601,7 +16601,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "1ef0859bb930bf44",
@@ -16629,7 +16629,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     },
     {
       "id": "f3035354c301b19d",
@@ -16657,7 +16657,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.19
+      "score": 0.154
     }
   ]
 }
