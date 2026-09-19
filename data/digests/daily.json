@@ -1,7 +1,7 @@
 {
-  "title": "2026-09-18 AI Research Briefing",
+  "title": "2026-09-19 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-09-18T18:03:05",
+  "generated_at": "2026-09-19T17:44:45",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1058,70 +1058,6 @@
   ],
   "latest_items": [
     {
-      "id": "ab47d45db3920999",
-      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
-      "url": "https://arxiv.org/abs/2609.20818v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, calibrated 4K cameras at 60 fps, with manually refined per-view liquid and container masks and fixed evaluation splits. We further present SplashSplat, built on a single principle: impose physical structure only where the observations can constrain it. Per-frame liquid SDFs fused from the masks provide the geometry, level-set transport between consecutive SDFs yields a coarse velocity field, and Lagrangian carriers advected along this flow, corrected against each new observation and reseeded where coverage is lost, decode local Gaussians for differentiable rendering. SplashSplat outperforms state-of-the-art dynamic Gaussian splatting methods on our real captures and on a synthetic benchmark, with physically more plausible motion and a lower training cost. The same representation supports temporal interpolation and style transfer without re-optimization.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos。",
-        "方法：摘要线索包括 Real-World、Multi-View、Per-frame、SDFs、SplashSplat；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
-    },
-    {
-      "id": "ac202ccaacf79377",
-      "title": "Can 4D Foundation Models Remember?",
-      "url": "https://arxiv.org/abs/2609.20819v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Can 4D Foundation Models Remember?",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 Can 4D Foundation Models Remember?。",
-        "方法：摘要线索包括 PersistBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
-    },
-    {
       "id": "1bad593102233051",
       "title": "RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents",
       "url": "https://arxiv.org/abs/2609.20754v1",
@@ -1345,70 +1281,6 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
-    },
-    {
-      "id": "697c0821e9de4977",
-      "title": "RawSLAM: Online HDR Gaussian SLAM from Linear Radiance",
-      "url": "https://arxiv.org/abs/2609.20589v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Current dense visual SLAM systems rely almost exclusively on 8-bit tonemapped Low Dynamic Range (LDR) inputs, limiting their robustness in extreme lighting where shadows and highlights trigger tracking drift and mapping collapse. Conversely, existing raw and High Dynamic Range (HDR) reconstruction pipelines operate strictly offline. They depend on Structure-from-Motion preprocessing and are not suited for large inter-frame motion. We present, to the best of our knowledge, the first online Gaussian SLAM framework that tracks and maps directly on single-exposure 16-bit linear HDR imagery. Our method rests on three core components: an architecture-agnostic HDR Gaussian Splatting module featuring an MLP-free logarithmic parameterization of Gaussian color features; a Reinhard range-compressed photometric objective; and structure-guided spatial gradient weighting. Combined, these components allow our approach to outperform a direct HDR adaptation of MonoGS in both trajectory and reconstruction accuracy, while rendering natively in linear scene radiance for post-rendering processing. The same formulation runs unchanged on standard 8-bit inputs, roughly halving the MonoGS baseline error. Furthermore, our HDR Gaussian module transfers seamlessly to SplaTAM, Gaussian SLAM, and DROID-W, eliminating all tracking failures these systems suffer on challenging illumination sequences. To enable this research, we introduce RawSLAM: a dataset of 10 real-world indoor sequences featuring 16-bit RAW imagery, aligned depth, IMU measurements, and external OptiTrack poses. Code and dataset will be made publicly available soon.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL",
-        "Self-Supervised Learning"
-      ],
-      "title_zh": "RawSLAM: Online HDR Gaussian SLAM from Linear Radiance",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL、Self-Supervised Learning，核心对象是 RawSLAM: Online HDR Gaussian SLAM from Linear Radiance。",
-        "方法：摘要线索包括 Structure-from-Motion、MLP-free、DROID-W、HDR、SLAM、LDR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
-    },
-    {
-      "id": "6b9d9989239ce1dd",
-      "title": "CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding",
-      "url": "https://arxiv.org/abs/2609.20586v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Referring scene understanding for embodied robots requires grounding object- and relation-centric language queries from a designated viewpoint. While a local semantic Gaussian map can support such grounding within one agent's observations, cooperative settings require this ability to remain effective after independently reconstructed maps are aligned and fused. In this setting, the referred target or its contextual landmark may come from another agent's observations, while spatial relations must still be interpreted from the querying robot's viewpoint. We formulate this problem as cooperative referring Gaussian grounding over fused maps, which requires geometric alignability, instance-level semantic comparability, and view-conditioned relation reasoning. Existing language-aware Gaussian methods mainly focus on single-map querying, whereas Gaussian registration methods optimize geometric or photometric alignment without preserving language-grounding-oriented semantic compatibility. We propose CoRef-GS, a cooperative referring Gaussian splatting framework. CoRef-GS constructs local open-vocabulary instance-aware Gaussian maps, then aligns partially overlapping maps with a cross-agent alignment module by geometric and semantic consistency, and grounds queries using a view-conditioned mask relation graph. We further introduce CoQuad-Ref, a dual-quadruped benchmark spanning both real-world and simulated indoor scenes. Experiments show that, on simulated scenes, CoRef-GS reduces the rotation error from 2.58° after coarse initialization to 0.15° after refinement, and improves real-world referring mIoU over ReferSplat from 52.6% to 68.8%. The established benchmark and source code will be publicly released at https://github.com/ruojiruoli17/CoRef-GS.git.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-智能体 Scene Understanding",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding。",
-        "方法：摘要线索包括 CoRef-GS、Multi-Agent、CoQuad-Ref、GS、CoRef、CoQuad；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.65
     },
     {
@@ -1831,130 +1703,6 @@
       "score": 0.5633
     },
     {
-      "id": "de9b67c21b6d489c",
-      "title": "FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants",
-      "url": "https://arxiv.org/abs/2609.20769v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Flow matching has emerged as the state-of-the-art generative model and has been used for plug-and-play (PnP) priors to solve inverse problems in computational imaging. However, existing flow-based inverse solvers assume linear forward models and/or make simplifying approximations in posterior sampling. To circumvent these problems, we introduce FlowSGS, a flow-based posterior sampling method using Split Gibbs Sampling (SGS) to decompose the posterior into a likelihood step and a prior step. Specifically, we sample from the likelihood step using Langevin dynamics and leverage the Stochastic Interpolants (SI) framework to integrate a pretrained flow model into the prior step. We provide a form for the prior step that uses SI's reverse-time SDE, and show connections to previous PnP methods. Moreover, with the aid of the flow prior's straight probability paths and a novel timestep correction technique for the reverse-time SDE, FlowSGS requires fewer network evaluations in its prior step than plug-and-play diffusion samplers. Our experiments show state-of-the-art performance on a range of inverse problems. For the first time, we provide an experiment on a nonlinear inverse problem (Fourier phase retrieval) for flow-based inverse solvers.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants。",
-        "方法：摘要线索包括 SGS、SI、SDE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "051fd42884784642",
-      "title": "Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation",
-      "url": "https://arxiv.org/abs/2609.20700v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Episodic test-time adaptation resets a frozen segmenter to source weights $M_0$ on each case and adapts for a fixed step count. A fixed horizon conflates a cohort-level question, how far to adapt, with an irreducibly per-case one, whether this case should be adapted at all. Cohort means hide that decision: on cross-vendor cardiac MRI the mean $Δ$Dice from adaptation is statistically indistinguishable from zero while 58.7% of cases are individually made worse. We quantify this harm as harmful accepted area (HA), the harmful fraction of the edited area a controller deploys. Held-out tuning gives a stronger baseline than a fixed horizon, but the budget it selects transfers on neither of the two main medical benchmarks, and no global budget can condition on the case. We show that prediction fragmentation---the disagreement geometry between $M_0$ and the adapted mask $M_k$---predicts HA with no labels or extra backward passes at decision time, comparably on three benchmarks (Spearman $ρ$ 0.50--0.60), at a quarter of gradient-norm's latency. A case-level router built on it cuts HA from 0.228 to 0.139 on a benchmark that took no part in its design, with the design frozen and only cut-points recalibrated there. On the cardiac benchmark the design was selected on, the router cuts HA from 0.129 to 0.013 at matched Dice and 1.10 deployed updates, against the retrospective-best budget found post hoc on evaluation labels, and reduces that 58.7% to 20.0%, an upper bound we quantify. Where the retained cases are not net-helped (as on prostate), the router still cuts HA but concedes accuracy, a boundary we report. Thresholds are fit once on a labeled split disjoint from evaluation; decisions use no labels or gradients. The template ports across architecture and domain (nnU-Net$\\to$SegFormer, Cityscapes$\\to$ACDC) with coordinate, thresholds and per-bucket actions instantiated per domain.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI for Health",
-        "LLM"
-      ],
-      "title_zh": "Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI for Health、LLM，核心对象是 Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation。",
-        "方法：摘要线索包括 Test-Time、Held-out、MRI、HA、ACDC、SegFormer；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "75a2a726a1ddea59",
-      "title": "Towards Scaling Marine Perception with Synthetic Data",
-      "url": "https://arxiv.org/abs/2609.20680v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Scalable machine learning in challenging underwater environments is strongly limited by the lack of labeled real-world training data. This data is often expensive and laborious to gather, making large-scale real-world data challenging to gather and curate. However, simulated data can help close the gap, enabling many learning-based tasks for underwater perception. In this work, we extend OceanSim, an IsaacSim-based underwater perception simulator, with a Synthetic Data Generation (SDG) pipeline for training models to be used in underwater scenarios. The proposed pipeline enables users to generate large, automatically labeled, photorealistic datasets with configurable scene appearance, structure, and sensor settings. We evaluate the pipeline on a real-world sea urchin detection task and study how different forms of synthetic scene variation affect sim-to-real performance. Based on these experiments, we discuss findings on our results, main limitations of the current pipeline and identify future directions for improving underwater rendering fidelity, scene diversity, and the evaluation of sim-to-real generalization. The open-source code can be found at https://github.com/umfieldrobotics/OceanSim.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Towards Scaling Marine Perception with Synthetic Data",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Towards Scaling Marine Perception with Synthetic Data。",
-        "方法：摘要线索包括 IsaacSim-based、SDG、OceanSim、IsaacSim；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "4a83f559a0138570",
-      "title": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
-      "url": "https://arxiv.org/abs/2609.20673v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "To operate effectively in human environments, robots must identify articulated objects, segment their movable and interactive parts, and estimate their kinematic models. Existing articulated scene representations typically recover kinematics from observed interactions, while methods operating on static scans often decouple articulation from functional interactive elements. We present FunArt, a framework that constructs articulation-aware functional 3D scene graphs from posed RGB-D observations captured in a single static configuration. FunArt reconstructs object instances, converts their fused geometry directly into the O-Voxel representation of TRELLIS.2, and exploits its frozen, sparse-compression VAE as a structural prior. A lightweight query-based decoder combines compact object-level latents with dense, surface-aligned features to jointly segment movable parts and functional interactive elements while estimating motion type, axis, origin, and range. On the Articulate3D dataset, FunArt achieves state-of-the-art performance across movable-part segmentation, articulation estimation, and functional-element segmentation, both with and without ground-truth object input. In the end-to-end setting, it outperforms the strongest baselines by 1.5 AP_{50} points for movable parts, 2.8 AP_{50} points under joint origin-and-axis constraints, and 6.7 AP_{50} points for functional elements. These results demonstrate that generative 3D latents encode actionable structural cues that can initialize robotic perception and planning before physical interaction.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Computer Vision"
-      ],
-      "title_zh": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Computer Vision，核心对象是 FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents。",
-        "方法：摘要线索包括 RGB-D、TRELLIS、VAE、FunArt；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
       "id": "f5a1f62c07b39dd3",
       "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
       "url": "https://arxiv.org/abs/2609.20817v1",
@@ -2015,6 +1763,254 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.5333
+    },
+    {
+      "id": "7bde1334d6a3de91",
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "url": "https://arxiv.org/abs/2609.20812v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to \\emph{overclaim} task completion, a misrepresentation that can mislead the user. An agent overclaims when its final response contradicts information in its context. This definition requires no inference about intent and is independent of task success. We introduce \\emph{OverclaimBench}, an evaluation suite composed of five file-review scenarios, transcript-based coverage measurements, and registered planted defects. We evaluate eight proprietary frontier models in their own production command-line interfaces, and four open-weight models under a single fixed harness on OverclaimBench and find that 1) agents do not read all the files they were asked to review in 67.9\\% of runs; 2) among runs where not all files are read, agents are \\emph{misleading} 80.4\\% of the time (59--96\\% per model), either falsely claiming to have read all files or omitting that coverage is incomplete; 3) requiring delegation to subagents increased reading coverage, but among reviews that remained incomplete, a large majority were still misleading; and 4) agents that falsely claimed a complete review missed planted defects at about 1.8 times the rate of agents that read every file, showing that claims of completion can conceal substantive failures. Together, these results show that agents' final responses are not reliable accounts of their actions.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "Quantifying Overclaiming Propensity in Frontier LLM 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Quantifying Overclaiming Propensity in Frontier LLM Agents。",
+        "方法：摘要线索包括 LLM、OverclaimBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5333
+    },
+    {
+      "id": "ea95c6bd1519328e",
+      "title": "Chronicle: Cut-Point Replay for Regression Testing of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.20625v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Large language model responses are non-deterministic, so failures in LLM agents are hard to reproduce: a failure depends on inference that is not bitwise reproducible, on tools that read changing state, and on a multi-step trajectory that a re-run rarely repeats. Record-and-replay makes a run reproducible, but existing agent tooling records runs only to trace or score them, not to test a code change against them. We present Chronicle, which records an agent run at its non-deterministic boundaries as immutable envelopes and replays it from the record. Its central operation, cut-point replay, serves a chosen subset of boundaries from the record and executes the complementary subset live with new code, turning a recorded incident into a regression test that runs in continuous integration. On a benchmark of 6 recorded failures with simulated model boundaries, recording adds 23 μs per crossing (0.008% of an assumed 300 ms model call), full replay issues zero model calls and is bit-stable across 20 repetitions, and cut-point tests fail on faulty code and pass on guarded and benign changes for all 6 incidents. In a mutation study of the guarded tools, cut-point tests catch every mutant that lets the recorded unsafe action through, while a baseline that stubs every boundary, using the same assertion, catches none. Chronicle and the benchmark are publicly available at https://github.com/theagentplane/chronicle.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "Chronicle: Cut-Point Replay for Regression Testing of LLM 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Chronicle: Cut-Point Replay for Regression Testing of LLM Agents。",
+        "方法：摘要线索包括 Cut-Point、Record-and-replay、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5333
+    },
+    {
+      "id": "a76d5c86630f084e",
+      "title": "WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution",
+      "url": "https://arxiv.org/abs/2609.20593v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Word-in-Context (WiC) remains challenging for language models, despite recent progress on lexical-semantic tasks. We hypothesise that this difficulty arises not only from comparing two contextual uses of a word, but also from the absence of an explicit sense inventory that specifies the relevant level of semantic granularity. We evaluate open LLMs on WiC and traditional Word Sense Disambiguation (WSD) under similar settings. We find that providing candidate senses, similar to what is done in traditional WSD, improves WiC performance in all settings. In general, explicit sense information helps models make more consistent and targeted judgements. Human evaluation further shows that many apparent WiC errors reflect label ambiguity or mismatches between model and annotator sense boundaries rather than simple failures of lexical understanding. In particular, results show that LLMs overthink the sense distinction often leading to errors based on overly fine-grained distinctions.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution。",
+        "方法：摘要线索包括 Word-in-Context、WSD、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5333
+    },
+    {
+      "id": "724667d865d2c44a",
+      "title": "RISC-V and machine learning: a survey",
+      "url": "https://arxiv.org/abs/2609.20677v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "The intersection of open-source processor architectures and machine learning is driving the demand for customizable, efficient, and accessible hardware. This survey examines the state of the RISC-V ISA in machine learning applications, analyzing current capabilities, challenges, and future directions based on recent research. The analysis covers academic and commercial implementations, software frameworks, and real-world applications. The RISC-V machine learning ecosystem is evaluated, from instruction set extensions and core implementations to compiler optimizations and deployment strategies. Key contributions include a unified taxonomy of RISC-V ML implementations, a comparative analysis of performance and design trade-offs, an evaluation of software toolchain maturity, and the identification of emerging trends in instruction set extensions and specialized accelerators. Findings reveal progress in energy efficiency, specialized instruction development, and framework integration, while highlighting challenges in standardization, verification complexity, and ecosystem fragmentation. The analysis proposes four research directions to address current limitations: specialized neural processing extensions, adaptive and modular processor architectures, security frameworks, and energy-efficient multi-domain architectures. These directions provide a roadmap for advancing RISC-V as a foundational platform for next-generation machine learning systems.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "RISC-V and machine learning: a survey",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 RISC-V and machine learning: a survey。",
+        "方法：摘要线索包括 RISC-V、ISA、ML；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5333
+    },
+    {
+      "id": "e871b1c8829c32e8",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "An Empirical Study of Harness Design for Coding 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 An Empirical Study of Harness Design for Coding Agents。",
+        "方法：摘要线索包括 SWE-Bench、Terminal-Bench、LLM-based、Trajectory-level；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5033
+    },
+    {
+      "id": "8f855ad7471475e4",
+      "title": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
+      "url": "https://arxiv.org/abs/2609.20722v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Activation steering modifies LLM behavior at inference time, but identifying where and how strongly to steer remains manual. We introduce Deep Noir, a framework that uses Logit Lens convergence and causal head-level attribution to autonomously discover optimal steering parameters. Across three scales (1B x 3, 2-3B x 2, and 7-9B x 4), our engine achieves 16.7 percentage-point improvement on spam at 1B (standard deviation 4.7; 39 runs), with gains increasing to 21 to 42 percentage points at 7-9B across four architectures. On SST-2 sentiment, it achieves a 13.1 percentage-point improvement with zero code changes. Mechanistic grounding enables automated discovery of intervention points that generalize across tasks and architectures. On sentiment, RepE without head masking fails to improve over baseline, while Deep Noir improves all models (p less than 0.01). We further show that steering creates a predictable prompt-injection attack surface whose vulnerability increases monotonically with steering magnitude. This finding is relevant to agent systems deploying steered classifiers.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models。",
+        "方法：摘要线索包括 SST-2、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5033
+    },
+    {
+      "id": "8132bf212d621ee5",
+      "title": "On-Demand Attention: Language Models Know When to Recall",
+      "url": "https://arxiv.org/abs/2609.20734v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Reasoning and agentic workloads increasingly demand efficient long-context inference. Yet full-attention decoding reads the growing history at every step, regardless of its benefit to the next prediction. We show that a pretrained model's decoding states already contain information predictive of this benefit, before the global read. Building on this finding, we introduce On-Demand Attention (ODA), a local-first decoding method that uses a lightweight recall head to selectively invoke global attention as its predicted benefit changes during generation. ODA trains only the recall head, leaving pretrained weights unchanged and the complete historical KV cache available for future recall. We further implement GPU-side conditional execution in vLLM, translating reduced global reads into practical decoding speedups over full attention at long context lengths. Experiments across Qwen and Gemma models, including hybrid-attention backbones, show that selective recall recovers most of the performance lost under local attention while substantially reducing global reads. These findings support long-context inference in which pretrained models guide their own access to the information they retain.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "On-Demand Attention: 语言模型 Know When to Recall",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 On-Demand Attention: Language Models Know When to Recall。",
+        "方法：摘要线索包括 On-Demand、GPU-side、ODA、KV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5033
+    },
+    {
+      "id": "982d0d3bd0426d0c",
+      "title": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol",
+      "url": "https://arxiv.org/abs/2609.20712v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "This paper introduces and operationalizes summarization bias: a proposed systematic tendency of large language models (LLMs) to represent narrative meaning as an abstract summary label rather than as the reconstructable inferential structure that produces it. Within the Bulut Doctrine, narrative effect is theorized along a told-shown axis: in told mode, emotional and informational content is declared explicitly and requires little reader reconstruction; in shown mode, that content is suppressed at the surface and must be reconstructed from physical cues and indirection (Objective Projection). Shown mode is the higher-load condition the doctrine is designed to measure. The claim is that LLMs fail along this axis in a specific direction. Summarization bias is hypothesized to operate in two regimes: (i) a generative regime, in which a model asked to render an emotion through Objective Projection defaults to declaring it instead; and (ii) an evaluative regime, in which a model judging narrative quality rewards told-mode explicitness and under-detects shown-mode suppression. The evaluative regime is the more consequential, since LLMs increasingly serve as judges and reward models, and a directional bias toward told mode would impose a selection pressure degrading prose toward flat declaration. This report does not claim the bias is validated. It defines the construct, situates it against LLM-as-judge biases, rereads a completed independent reliability study as directional evidence consistent with it, and pre-registers a two-regime test with decision rules under which the construct would be abandoned.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in 大语言模型 --- A Conceptual Framework and Registered Test Protocol",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large 。",
+        "方法：摘要线索包括 Told-Mode、LLM-as-judge、LLMs、reward model；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5033
     }
   ],
   "paper_items": [
@@ -3193,6 +3189,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-09-19",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "7c22df76d56c29e1",
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
@@ -3220,7 +3246,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "74e214143ae73f1f",
@@ -3250,37 +3276,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-09-18",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "82f3a06a189297e9",
@@ -3394,10 +3390,41 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     }
   ],
   "industry_items": [
+    {
+      "id": "265c40d4bc94b444",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Computer Vision"
+      ],
+      "published": "2026-09-19",
+      "abstract": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Hex turns complex analysis into visual reports with GPT‑6 Astra。",
+        "内容要点：GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+        "关键词：GPT-6、GPT。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.6833
+    },
     {
       "id": "88c2d53f3a156a3f",
       "title": "Introducing the Agents API",
@@ -3410,7 +3437,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "citations": {
         "semantic_scholar": null,
@@ -3430,37 +3457,6 @@
       "score": 0.6833
     },
     {
-      "id": "ab59eac848c799ea",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "RL"
-      ],
-      "published": "2026-09-18",
-      "abstract": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Research acceleration: The view inside OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Research acceleration: The view inside OpenAI。",
-        "内容要点：Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.6833
-    },
-    {
       "id": "b18b3fdef842963a",
       "title": "Introducing Agent Skills | Claude by Anthropic",
       "url": "https://claude.com/blog/skills",
@@ -3472,7 +3468,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3492,6 +3488,36 @@
       "score": 0.6833
     },
     {
+      "id": "deb961a10e1fc447",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-19",
+      "abstract": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing the Australian Youth Safety Blueprint",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Introducing the Australian Youth Safety Blueprint。",
+        "内容要点：OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "7a48b4420bfd738c",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
@@ -3502,7 +3528,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "citations": {
         "semantic_scholar": null,
@@ -3532,7 +3558,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "citations": {
         "semantic_scholar": null,
@@ -3562,7 +3588,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "citations": {
         "semantic_scholar": null,
@@ -3592,7 +3618,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -3622,7 +3648,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "citations": {
         "semantic_scholar": null,
@@ -3652,7 +3678,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "citations": {
         "semantic_scholar": null,
@@ -3682,7 +3708,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "citations": {
         "semantic_scholar": null,
@@ -3712,7 +3738,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "citations": {
         "semantic_scholar": null,
@@ -3742,7 +3768,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "citations": {
         "semantic_scholar": null,
@@ -3772,7 +3798,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "citations": {
         "semantic_scholar": null,
@@ -3802,7 +3828,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "citations": {
         "semantic_scholar": null,
@@ -3832,7 +3858,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "citations": {
         "semantic_scholar": null,
@@ -3862,7 +3888,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "citations": {
         "semantic_scholar": null,
@@ -3892,7 +3918,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "citations": {
         "semantic_scholar": null,
@@ -3922,7 +3948,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "citations": {
         "semantic_scholar": null,
@@ -3952,7 +3978,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "citations": {
         "semantic_scholar": null,
@@ -3982,7 +4008,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "citations": {
         "semantic_scholar": null,
@@ -4012,7 +4038,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "citations": {
         "semantic_scholar": null,
@@ -4042,7 +4068,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "citations": {
         "semantic_scholar": null,
@@ -4072,7 +4098,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "citations": {
         "semantic_scholar": null,
@@ -4102,7 +4128,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "citations": {
         "semantic_scholar": null,
@@ -4132,7 +4158,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "citations": {
         "semantic_scholar": null,
@@ -4162,7 +4188,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "citations": {
         "semantic_scholar": null,
@@ -4192,7 +4218,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "citations": {
         "semantic_scholar": null,
@@ -4222,7 +4248,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -4242,36 +4268,6 @@
       "score": 0.5667
     },
     {
-      "id": "b9fa41c77d0b9ee1",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-18",
-      "abstract": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "An Alien Mind",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：An Alien Mind。",
-        "内容要点：Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -4282,7 +4278,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -14386,70 +14382,6 @@
       "score": 1.3533
     },
     {
-      "id": "ab47d45db3920999",
-      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
-      "url": "https://arxiv.org/abs/2609.20818v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, calibrated 4K cameras at 60 fps, with manually refined per-view liquid and container masks and fixed evaluation splits. We further present SplashSplat, built on a single principle: impose physical structure only where the observations can constrain it. Per-frame liquid SDFs fused from the masks provide the geometry, level-set transport between consecutive SDFs yields a coarse velocity field, and Lagrangian carriers advected along this flow, corrected against each new observation and reseeded where coverage is lost, decode local Gaussians for differentiable rendering. SplashSplat outperforms state-of-the-art dynamic Gaussian splatting methods on our real captures and on a synthetic benchmark, with physically more plausible motion and a lower training cost. The same representation supports temporal interpolation and style transfer without re-optimization.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos。",
-        "方法：摘要线索包括 Real-World、Multi-View、Per-frame、SDFs、SplashSplat；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.74
-    },
-    {
-      "id": "ac202ccaacf79377",
-      "title": "Can 4D Foundation Models Remember?",
-      "url": "https://arxiv.org/abs/2609.20819v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Can 4D Foundation Models Remember?",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM、RL，核心对象是 Can 4D Foundation Models Remember?。",
-        "方法：摘要线索包括 PersistBench；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
-    },
-    {
       "id": "89d58b51191ae02c",
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
       "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
@@ -14482,6 +14414,37 @@
       "score": 0.694
     },
     {
+      "id": "265c40d4bc94b444",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Computer Vision"
+      ],
+      "published": "2026-09-19",
+      "abstract": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Hex turns complex analysis into visual reports with GPT‑6 Astra。",
+        "内容要点：GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+        "关键词：GPT-6、GPT。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.6833
+    },
+    {
       "id": "88c2d53f3a156a3f",
       "title": "Introducing the Agents API",
       "url": "https://openai.com/index/introducing-the-agents-api",
@@ -14493,7 +14456,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "citations": {
         "semantic_scholar": null,
@@ -14513,37 +14476,6 @@
       "score": 0.6833
     },
     {
-      "id": "ab59eac848c799ea",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "RL"
-      ],
-      "published": "2026-09-18",
-      "abstract": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Research acceleration: The view inside OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Research acceleration: The view inside OpenAI。",
-        "内容要点：Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.6833
-    },
-    {
       "id": "b18b3fdef842963a",
       "title": "Introducing Agent Skills | Claude by Anthropic",
       "url": "https://claude.com/blog/skills",
@@ -14555,7 +14487,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -14798,70 +14730,6 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
-    },
-    {
-      "id": "697c0821e9de4977",
-      "title": "RawSLAM: Online HDR Gaussian SLAM from Linear Radiance",
-      "url": "https://arxiv.org/abs/2609.20589v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Current dense visual SLAM systems rely almost exclusively on 8-bit tonemapped Low Dynamic Range (LDR) inputs, limiting their robustness in extreme lighting where shadows and highlights trigger tracking drift and mapping collapse. Conversely, existing raw and High Dynamic Range (HDR) reconstruction pipelines operate strictly offline. They depend on Structure-from-Motion preprocessing and are not suited for large inter-frame motion. We present, to the best of our knowledge, the first online Gaussian SLAM framework that tracks and maps directly on single-exposure 16-bit linear HDR imagery. Our method rests on three core components: an architecture-agnostic HDR Gaussian Splatting module featuring an MLP-free logarithmic parameterization of Gaussian color features; a Reinhard range-compressed photometric objective; and structure-guided spatial gradient weighting. Combined, these components allow our approach to outperform a direct HDR adaptation of MonoGS in both trajectory and reconstruction accuracy, while rendering natively in linear scene radiance for post-rendering processing. The same formulation runs unchanged on standard 8-bit inputs, roughly halving the MonoGS baseline error. Furthermore, our HDR Gaussian module transfers seamlessly to SplaTAM, Gaussian SLAM, and DROID-W, eliminating all tracking failures these systems suffer on challenging illumination sequences. To enable this research, we introduce RawSLAM: a dataset of 10 real-world indoor sequences featuring 16-bit RAW imagery, aligned depth, IMU measurements, and external OptiTrack poses. Code and dataset will be made publicly available soon.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL",
-        "Self-Supervised Learning"
-      ],
-      "title_zh": "RawSLAM: Online HDR Gaussian SLAM from Linear Radiance",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL、Self-Supervised Learning，核心对象是 RawSLAM: Online HDR Gaussian SLAM from Linear Radiance。",
-        "方法：摘要线索包括 Structure-from-Motion、MLP-free、DROID-W、HDR、SLAM、LDR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
-    },
-    {
-      "id": "6b9d9989239ce1dd",
-      "title": "CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding",
-      "url": "https://arxiv.org/abs/2609.20586v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Referring scene understanding for embodied robots requires grounding object- and relation-centric language queries from a designated viewpoint. While a local semantic Gaussian map can support such grounding within one agent's observations, cooperative settings require this ability to remain effective after independently reconstructed maps are aligned and fused. In this setting, the referred target or its contextual landmark may come from another agent's observations, while spatial relations must still be interpreted from the querying robot's viewpoint. We formulate this problem as cooperative referring Gaussian grounding over fused maps, which requires geometric alignability, instance-level semantic comparability, and view-conditioned relation reasoning. Existing language-aware Gaussian methods mainly focus on single-map querying, whereas Gaussian registration methods optimize geometric or photometric alignment without preserving language-grounding-oriented semantic compatibility. We propose CoRef-GS, a cooperative referring Gaussian splatting framework. CoRef-GS constructs local open-vocabulary instance-aware Gaussian maps, then aligns partially overlapping maps with a cross-agent alignment module by geometric and semantic consistency, and grounds queries using a view-conditioned mask relation graph. We further introduce CoQuad-Ref, a dual-quadruped benchmark spanning both real-world and simulated indoor scenes. Experiments show that, on simulated scenes, CoRef-GS reduces the rotation error from 2.58° after coarse initialization to 0.15° after refinement, and improves real-world referring mIoU over ReferSplat from 52.6% to 68.8%. The established benchmark and source code will be publicly released at https://github.com/ruojiruoli17/CoRef-GS.git.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-智能体 Scene Understanding",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM、RL，核心对象是 CoRef-GS: Cooperative Referring Gaussian Splatting for Multi-Agent Scene Understanding。",
-        "方法：摘要线索包括 CoRef-GS、Multi-Agent、CoQuad-Ref、GS、CoRef、CoQuad；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
       "score": 0.65
     },
     {
@@ -15191,6 +15059,36 @@
       "score": 0.62
     },
     {
+      "id": "deb961a10e1fc447",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "LLM"
+      ],
+      "published": "2026-09-19",
+      "abstract": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing the Australian Youth Safety Blueprint",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Introducing the Australian Youth Safety Blueprint。",
+        "内容要点：OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "7a48b4420bfd738c",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
@@ -15201,7 +15099,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "citations": {
         "semantic_scholar": null,
@@ -15231,7 +15129,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "citations": {
         "semantic_scholar": null,
@@ -15261,7 +15159,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "citations": {
         "semantic_scholar": null,
@@ -15291,7 +15189,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -15321,7 +15219,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "citations": {
         "semantic_scholar": null,
@@ -15351,7 +15249,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "citations": {
         "semantic_scholar": null,
@@ -15381,7 +15279,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "citations": {
         "semantic_scholar": null,
@@ -15411,7 +15309,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "citations": {
         "semantic_scholar": null,
@@ -15441,7 +15339,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "citations": {
         "semantic_scholar": null,
@@ -15471,7 +15369,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "citations": {
         "semantic_scholar": null,
@@ -15501,7 +15399,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "citations": {
         "semantic_scholar": null,
@@ -15531,7 +15429,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "citations": {
         "semantic_scholar": null,
@@ -15561,7 +15459,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "citations": {
         "semantic_scholar": null,
@@ -15591,7 +15489,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "citations": {
         "semantic_scholar": null,
@@ -15621,7 +15519,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "citations": {
         "semantic_scholar": null,
@@ -15651,7 +15549,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "citations": {
         "semantic_scholar": null,
@@ -15681,7 +15579,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "citations": {
         "semantic_scholar": null,
@@ -15711,7 +15609,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "citations": {
         "semantic_scholar": null,
@@ -15741,7 +15639,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "citations": {
         "semantic_scholar": null,
@@ -15771,7 +15669,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "citations": {
         "semantic_scholar": null,
@@ -15801,7 +15699,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "citations": {
         "semantic_scholar": null,
@@ -15831,7 +15729,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "citations": {
         "semantic_scholar": null,
@@ -15861,7 +15759,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "citations": {
         "semantic_scholar": null,
@@ -15891,7 +15789,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "citations": {
         "semantic_scholar": null,
@@ -15921,7 +15819,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -15941,36 +15839,6 @@
       "score": 0.5667
     },
     {
-      "id": "b9fa41c77d0b9ee1",
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "LLM"
-      ],
-      "published": "2026-09-18",
-      "abstract": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "An Alien Mind",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：An Alien Mind。",
-        "内容要点：Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
       "id": "c9479303102d5c83",
       "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
@@ -15981,7 +15849,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -16011,7 +15879,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16117,130 +15985,6 @@
       "summary_zh": [
         "问题：这条内容聚焦 AI Agent、LLM，核心对象是 SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment。",
         "方法：摘要线索包括 LLM-Assisted、Safety-Aware、LLM-assisted、LLM-as-a-judge、Chain-of-Thought、SAFARI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "de9b67c21b6d489c",
-      "title": "FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants",
-      "url": "https://arxiv.org/abs/2609.20769v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Flow matching has emerged as the state-of-the-art generative model and has been used for plug-and-play (PnP) priors to solve inverse problems in computational imaging. However, existing flow-based inverse solvers assume linear forward models and/or make simplifying approximations in posterior sampling. To circumvent these problems, we introduce FlowSGS, a flow-based posterior sampling method using Split Gibbs Sampling (SGS) to decompose the posterior into a likelihood step and a prior step. Specifically, we sample from the likelihood step using Langevin dynamics and leverage the Stochastic Interpolants (SI) framework to integrate a pretrained flow model into the prior step. We provide a form for the prior step that uses SI's reverse-time SDE, and show connections to previous PnP methods. Moreover, with the aid of the flow prior's straight probability paths and a novel timestep correction technique for the reverse-time SDE, FlowSGS requires fewer network evaluations in its prior step than plug-and-play diffusion samplers. Our experiments show state-of-the-art performance on a range of inverse problems. For the first time, we provide an experiment on a nonlinear inverse problem (Fourier phase retrieval) for flow-based inverse solvers.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants。",
-        "方法：摘要线索包括 SGS、SI、SDE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "051fd42884784642",
-      "title": "Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation",
-      "url": "https://arxiv.org/abs/2609.20700v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Episodic test-time adaptation resets a frozen segmenter to source weights $M_0$ on each case and adapts for a fixed step count. A fixed horizon conflates a cohort-level question, how far to adapt, with an irreducibly per-case one, whether this case should be adapted at all. Cohort means hide that decision: on cross-vendor cardiac MRI the mean $Δ$Dice from adaptation is statistically indistinguishable from zero while 58.7% of cases are individually made worse. We quantify this harm as harmful accepted area (HA), the harmful fraction of the edited area a controller deploys. Held-out tuning gives a stronger baseline than a fixed horizon, but the budget it selects transfers on neither of the two main medical benchmarks, and no global budget can condition on the case. We show that prediction fragmentation---the disagreement geometry between $M_0$ and the adapted mask $M_k$---predicts HA with no labels or extra backward passes at decision time, comparably on three benchmarks (Spearman $ρ$ 0.50--0.60), at a quarter of gradient-norm's latency. A case-level router built on it cuts HA from 0.228 to 0.139 on a benchmark that took no part in its design, with the design frozen and only cut-points recalibrated there. On the cardiac benchmark the design was selected on, the router cuts HA from 0.129 to 0.013 at matched Dice and 1.10 deployed updates, against the retrospective-best budget found post hoc on evaluation labels, and reduces that 58.7% to 20.0%, an upper bound we quantify. Where the retained cases are not net-helped (as on prostate), the router still cuts HA but concedes accuracy, a boundary we report. Thresholds are fit once on a labeled split disjoint from evaluation; decisions use no labels or gradients. The template ports across architecture and domain (nnU-Net$\\to$SegFormer, Cityscapes$\\to$ACDC) with coordinate, thresholds and per-bucket actions instantiated per domain.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI for Health",
-        "LLM"
-      ],
-      "title_zh": "Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI for Health、LLM，核心对象是 Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation。",
-        "方法：摘要线索包括 Test-Time、Held-out、MRI、HA、ACDC、SegFormer；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "75a2a726a1ddea59",
-      "title": "Towards Scaling Marine Perception with Synthetic Data",
-      "url": "https://arxiv.org/abs/2609.20680v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Scalable machine learning in challenging underwater environments is strongly limited by the lack of labeled real-world training data. This data is often expensive and laborious to gather, making large-scale real-world data challenging to gather and curate. However, simulated data can help close the gap, enabling many learning-based tasks for underwater perception. In this work, we extend OceanSim, an IsaacSim-based underwater perception simulator, with a Synthetic Data Generation (SDG) pipeline for training models to be used in underwater scenarios. The proposed pipeline enables users to generate large, automatically labeled, photorealistic datasets with configurable scene appearance, structure, and sensor settings. We evaluate the pipeline on a real-world sea urchin detection task and study how different forms of synthetic scene variation affect sim-to-real performance. Based on these experiments, we discuss findings on our results, main limitations of the current pipeline and identify future directions for improving underwater rendering fidelity, scene diversity, and the evaluation of sim-to-real generalization. The open-source code can be found at https://github.com/umfieldrobotics/OceanSim.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Towards Scaling Marine Perception with Synthetic Data",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Towards Scaling Marine Perception with Synthetic Data。",
-        "方法：摘要线索包括 IsaacSim-based、SDG、OceanSim、IsaacSim；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
-    },
-    {
-      "id": "4a83f559a0138570",
-      "title": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
-      "url": "https://arxiv.org/abs/2609.20673v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "To operate effectively in human environments, robots must identify articulated objects, segment their movable and interactive parts, and estimate their kinematic models. Existing articulated scene representations typically recover kinematics from observed interactions, while methods operating on static scans often decouple articulation from functional interactive elements. We present FunArt, a framework that constructs articulation-aware functional 3D scene graphs from posed RGB-D observations captured in a single static configuration. FunArt reconstructs object instances, converts their fused geometry directly into the O-Voxel representation of TRELLIS.2, and exploits its frozen, sparse-compression VAE as a structural prior. A lightweight query-based decoder combines compact object-level latents with dense, surface-aligned features to jointly segment movable parts and functional interactive elements while estimating motion type, axis, origin, and range. On the Articulate3D dataset, FunArt achieves state-of-the-art performance across movable-part segmentation, articulation estimation, and functional-element segmentation, both with and without ground-truth object input. In the end-to-end setting, it outperforms the strongest baselines by 1.5 AP_{50} points for movable parts, 2.8 AP_{50} points under joint origin-and-axis constraints, and 6.7 AP_{50} points for functional elements. These results demonstrate that generative 3D latents encode actionable structural cues that can initialize robotic perception and planning before physical interaction.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "Computer Vision"
-      ],
-      "title_zh": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、Computer Vision，核心对象是 FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents。",
-        "方法：摘要线索包括 RGB-D、TRELLIS、VAE、FunArt；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
@@ -16396,37 +16140,6 @@
       "summary_zh": [
         "问题：这条内容聚焦 LLM、RL，核心对象是 WiC is Not WSD: A Study on LLMs and Lexical Ambiguity Resolution。",
         "方法：摘要线索包括 Word-in-Context、WSD、LLMs；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "7c5a1052d8ef441d",
-      "title": "DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation",
-      "url": "https://arxiv.org/abs/2609.20649v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Learning predictive models of contact-rich dexterous manipulation requires dense tactile interaction, but such data are costly to scale on real robots and remain tied to embodiment-specific sensors. We introduce DexTouch-WM, an action-conditioned world model that learns from scalable human touch to jointly predict future RGB observations and bilateral tactile dynamics. Our insight is that human and robot manipulation share transferable contact dynamics when their tactile observations and action spaces are made compatible. We deploy flexible piezoresistive arrays with a shared sensing layout on both human and dexterous robot hands, and retarget human motion into the robot action space so that human interaction can supervise the same dynamics model used for real-robot prediction. DexTouch-WM couples a pretrained video expert with a lightweight tactile expert using anatomy-aware tactile tokens and aligned action conditioning. In human-to-robot scaling experiments, we keep five hours of real-robot supervision fixed while increasing human interaction from 0 to 100 hours, and observe substantial improvements in held-out robot-domain visual, geometric, and contact prediction despite disjoint human and robot task sets. Beyond prediction, we evaluate the world models as surrogate environments for policy evaluation and as generators of synthetic trajectories for real-robot policy learning, showing that scalable human interaction provides a complementary data axis for learning dexterous robot world models.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot Manipulation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 DexTouch-WM: Learning Action-Conditioned Tactile World Models from Human Touch for Dexterous Robot M。",
-        "方法：摘要线索包括 DexTouch-WM、Action-Conditioned、WM、RGB、DexTouch；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -16620,68 +16333,6 @@
       "score": 0.5033
     },
     {
-      "id": "d9755436d7b1179c",
-      "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
-      "url": "https://arxiv.org/abs/2609.20756v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "As scaling pre-training data alone yields diminishing returns, post-training is becoming increasingly important across physical AI domains such as autonomous driving. End-to-end driving policies are pre-trained in open loop with behavior cloning on human demonstrations. However, compounding errors during closed-loop deployment can take the vehicle outside the training data distribution, increasing the risk of safety-critical incidents. Closed-loop post-training can mitigate this risk but requires costly simulation for sensor-based policies. We propose OPTED (on-policy fine-tuning for end-to-end driving) which decouples reinforcement learning from the post-training of the end-to-end policy: a privileged teacher is trained using RL on vectorized inputs (HD-map and bounding boxes). This teacher then provides supervision to the pre-trained student during closed-loop post-training. We apply OPTED to two camera-based models, TransFuser and VaVAM, and fine-tune them in AlpaSim, using neural reconstructions (3DGS) of real driving logs. Driving scores increase by factors of 1.6$\\times$ and 9.5$\\times$, respectively. In controlled experiments OPTED matches closed-loop performance with approximately three orders of magnitude fewer simulator interactions than direct RL post-training, while staying closer to the human prior. Project page: https://01dami23.github.io/opted/",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher。",
-        "方法：摘要线索包括 On-Policy、Fine-Tuning、End-to-End、Render-Free、End-to-end、Closed-loop；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "5de9c7a65cc68bc7",
-      "title": "Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network",
-      "url": "https://arxiv.org/abs/2609.20633v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Text-guided image editing must introduce the requested changes while preserving unrelated source content. Diffusion-based editors rely on spatial controls whose inaccuracies can leave edits incomplete or alter unrelated regions. Causal autoregressive editors face a further constraint: their fixed decoding order limits revision of earlier decisions. We introduce RefineEdit, a training-free prompt-to-prompt image editing framework built on a Generative Refinement Network. Our key idea is to couple edit localization with content generation through the global refinement of binary image codes, allowing editing evidence to be reassessed as the image evolves. RefineEdit initializes an editing branch from an intermediate source state, reusing the emerging layout. We compare the probabilities assigned by the two branches to the same source-sampled bits, using their signed differences to select editable positions and bits. Selected bits follow editing refinement, while the remaining bits copy the evolving source state. To stabilize editing across refinement steps, adaptive spatial freezing limits unnecessary mask expansion, while finite bit locking keeps recently selected bits editable. The framework requires no additional training, external masks, or attention control. Across nine editing categories of PIE-Bench, RefineEdit achieves the best background-preservation scores in PSNR, LPIPS, MSE and SSIM, together with the highest whole-image and edited-region CLIP scores among the evaluated methods.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refi。",
-        "方法：摘要线索包括 Training-Free、Prompt-to-Prompt、Text-guided、Diffusion-based、PIE-Bench、PSNR；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
       "id": "3701b1689bddb8d7",
       "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
       "url": "https://arxiv.org/abs/2609.20814v1",
@@ -16768,6 +16419,37 @@
       "summary_zh": [
         "问题：这条内容聚焦 LLM、RL，核心对象是 Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols。",
         "方法：摘要线索包括 RF-Fingerprinting、Wi-Fi、RF、CNN、POWDER、LTE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.5033
+    },
+    {
+      "id": "77059e7e896fa955",
+      "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+      "url": "https://arxiv.org/abs/2609.20756v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "As scaling pre-training data alone yields diminishing returns, post-training is becoming increasingly important across physical AI domains such as autonomous driving. End-to-end driving policies are pre-trained in open loop with behavior cloning on human demonstrations. However, compounding errors during closed-loop deployment can take the vehicle outside the training data distribution, increasing the risk of safety-critical incidents. Closed-loop post-training can mitigate this risk but requires costly simulation for sensor-based policies. We propose OPTED (on-policy fine-tuning for end-to-end driving) which decouples reinforcement learning from the post-training of the end-to-end policy: a privileged teacher is trained using RL on vectorized inputs (HD-map and bounding boxes). This teacher then provides supervision to the pre-trained student during closed-loop post-training. We apply OPTED to two camera-based models, TransFuser and VaVAM, and fine-tune them in AlpaSim, using neural reconstructions (3DGS) of real driving logs. Driving scores increase by factors of 1.6$\\times$ and 9.5$\\times$, respectively. In controlled experiments OPTED matches closed-loop performance with approximately three orders of magnitude fewer simulator interactions than direct RL post-training, while staying closer to the human prior. Project page: https://01dami23.github.io/opted/",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher。",
+        "方法：摘要线索包括 On-Policy、Fine-Tuning、End-to-End、Render-Free、End-to-end、Closed-loop；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -16958,66 +16640,6 @@
       "score": 0.4967
     },
     {
-      "id": "7c22df76d56c29e1",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-16",
-      "abstract": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Meet a mouse whose brain cortex is made up of human cells",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Meet a mouse whose brain cortex is made up of human cells。",
-        "内容要点：Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.",
-        "关键词：Pong-like。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "74e214143ae73f1f",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-16",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylva...",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -17028,7 +16650,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -17058,7 +16680,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "citations": {
         "semantic_scholar": null,
@@ -17088,7 +16710,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-18",
+      "published": "2026-09-19",
       "abstract": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "citations": {
         "semantic_scholar": null,
@@ -17106,6 +16728,66 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.4867
+    },
+    {
+      "id": "7c22df76d56c29e1",
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-16",
+      "abstract": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Meet a mouse whose brain cortex is made up of human cells",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Meet a mouse whose brain cortex is made up of human cells。",
+        "内容要点：Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.",
+        "关键词：Pong-like。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "74e214143ae73f1f",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-16",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylva...",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "82f3a06a189297e9",
@@ -17161,66 +16843,6 @@
       "summary_zh": [
         "问题：这条内容聚焦 LLM，核心对象是 Large Language Models as Falsifiers for Cyber-Physical Systems。",
         "方法：摘要线索包括 Cyber-Physical、LLM-Falsifier、LLM-based、ARCH-COMP、CPS、STL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
-    },
-    {
-      "id": "9165e048a513898c",
-      "title": "Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies",
-      "url": "https://arxiv.org/abs/2609.20662v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Earth surface anomalies, driven by escalating climate change, and expanding human activities, are increasing in both frequency and diversity, yet their limited historical data and unpredictability make them fundamentally different from conventional remote sensing targets. Existing methods address specific anomaly categories or stop at localization, leaving a gap between detection and actionable information. Here we present ESIA, an Earth Surface Immune System whose architecture is constrained by three principles from the biological immune system, refined over millions of years against equally diverse and uncertain threats. A non-specific innate immune stage treats anomalies as unobserved changes in time-series satellite imagery, generating binary localization maps at 14.51 km2/s without assuming any anomaly category, surpassing the strongest general baseline by 37% in F1. A specific adaptive immune stage applies negative selection to filter text prompts and matches surviving prompts with localized image patches through a multi-modal foundation model, enabling open-vocabulary recognition of unknown anomaly attributes including category, affected area, and damage severity, with recognition F1 exceeding 80%. A mutation mechanism tunes minimal embeddings at test time, adapting to each scene in 3.26s using a single reference image pair. We validate ESIA on a global-scale dataset covering 19,801.60 km2 across six anomaly categories, comparing against 22 models, and further apply it to quantify degraded farmland in the Dnipro Delta following the Kakhovka Dam collapse and assess burn severity from 2025 Palisades Fire in Los Angeles. This unprecedented flexibility in handling unknown anomalies opens new avenues for real-time disaster response and environmental surveillance.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies。",
-        "方法：摘要线索包括 ESIA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
-    },
-    {
-      "id": "0f1d2a6ca0e67d45",
-      "title": "INSPECT: Learning Robot View Selection from Assistant Use",
-      "url": "https://arxiv.org/abs/2609.20615v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Robots inspecting an assembly must determine which parts are present and whether they are correctly installed. During egocentric assembly assistance, head motion and workpiece handling reveal evidence for these checks, while spoken state confirmations link observations to procedural outcomes. We introduce INSPECT, which learns robot view preferences from records of a smart-glasses assistant that answers part queries and provides next-step guidance. Presence-Invariant TwinSwap (PI-TwinSwap) calibrates object evidence through paired identity interventions. Claim-indexed supervision separates evidence requirements from camera-reproducible observation changes. Object-centered calibration adapts relative view preferences to robot poses, while clause-level screening checks predicted evidence. The robot selects views using only its current observation and known poses, without candidate images. Evaluation uses annotated assistant-video replay to simulate state feedback, without target-domain view labels for policy training. On images of physical gearbox assemblies, INSPECT achieves the highest view utility among the compared non-oracle policies and raises human-rated full verifiability from 34.8% to 41.7% compared with keeping the current view. On commercial angle-grinder recordings in IMPACT, the transferred relative-view selector increases the correct decision rate from 50.6% to 54.3% with a frozen perception head. The source code is available at https://github.com/Kratos-Wen/INSPECT.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "INSPECT: Learning Robot View Selection from Assistant Use",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 INSPECT: Learning Robot View Selection from Assistant Use。",
-        "方法：摘要线索包括 Presence-Invariant、PI-TwinSwap、Claim-indexed、Object-centered、Kratos-Wen、INSPECT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
         "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -17378,96 +17000,6 @@
       "score": 0.3867
     },
     {
-      "id": "6bce789e517142bd",
-      "title": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
-      "url": "https://arxiv.org/abs/2609.20669v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "3D diffusion policies are strong at generating geometrically grounded actions from current observations, but successful manipulation requires not only knowing what motion is feasible now, but also anticipating where the interaction is heading. Existing policies largely leave such foresight to emerge implicitly from action learning. We introduce Movement Trend Guidance, a simple but effective way to provide this foresight without introducing an explicit plan. From a short observation history, the policy learns a compact latent representation of interaction evolution. During training, sparse future gripper states supervise this representation; at inference, only the latent is retained as future-oriented conditioning alongside the current observation. The latent provides global conditioning for action generation, while an additional gated FiLM branch is used only at the UNet bottleneck. Despite adding only 3.52% more parameters to DP3, our method preserves the original dense-action and receding-horizon formulation and consistently improves upon DP3 across RoboTwin2.0, LIBERO-40, and DexArt. It reaches 62.8% vs. 56.1% in 50-task RoboTwin2.0 mixed training, 71.93% vs. 37.08% on LIBERO-40, and 72.0% vs. 49.0% on five real-robot tasks. These results show that a diffusion policy can benefit substantially from knowing where an interaction is heading, without being told exactly where to move.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 Learning Foresight without Explicit Trajectories for 3D Diffusion Policies。",
-        "方法：摘要线索包括 LIBERO-40、UNet、DP3、RoboTwin2、DexArt；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "8517f3edadac52c9",
-      "title": "PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos",
-      "url": "https://arxiv.org/abs/2609.20638v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "An assistant watching egocentric video should notice a mistake from past frames alone, before the next step begins, and keep working once the person recovers. A mistake changes the state of the work, so every later step has to be read against what was done rather than against the plan. The first-mistake protocol that current online methods report on cuts each recording at its first mistake, so a fixed-time rule that never looks at the video is right on every case. We evaluate on complete trials, where mistakes and recoveries arise naturally, under a validation false-alarm budget and against controls that use timing alone. PROVIA keeps two records apart: a factual state, a learned summary of the steps each actor performed, mistakes included, and the accepted progress, an exact posterior over the state of an automaton induced from correct demonstrations by Bayesian state merging and over the execution status of each actor. Procedure-state transitions occur only in the correct-status branch; the mistake and correction branches retain the source state. A sequential test turns the per-frame mistake probability into alarms. With one filter and one optimization rule, PROVIA ranks mistakes best among the evaluated controlled baselines on CaptainCook4D, IndustReal, HoloAssist and IMPACT-ego. At a validation budget of 0.1 false alarms per minute it recalls .154 against .128 on CaptainCook4D and .034 against .015 on HoloAssist, where it leads at every budget. The pipeline runs at 58-70 frames per second. The source code is available at https://github.com/Kratos-Wen/PROVIA.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 PROVIA: Procedure State Tracking for Online Mistake Detection in Egocentric Videos。",
-        "方法：摘要线索包括 Procedure-state、IMPACT-ego、Kratos-Wen、PROVIA、IndustReal、HoloAssist；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "e11382e602a88b05",
-      "title": "PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions",
-      "url": "https://arxiv.org/abs/2609.20623v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Recent single-view feed-forward 3D Gaussian Splatting (3DGS) generation predicts a fixed number of Gaussians per camera ray, introducing severe spatial redundancy. Most existing compaction strategies target multi-view setups to exploit cross-view consistency and are incompatible with single-image models. Instead of retraining the base feed-forward network to directly output compact representations, our insight is to keep the base models frozen and apply post-hoc pruning and recurrent refinement to the generated Gaussians. Consequently, we propose a backbone-agnostic compaction pipeline for single-view feed-forward 3DGS that couples an importance-score-based pruning mechanism with a trainable, lightweight recurrent refinement module, which iteratively updates the surviving primitives to restore image quality. Our results demonstrate seamless integration with existing baselines while preserving novel-view rendering fidelity and achieving high memory reduction. Furthermore, our method supports flexible inference-time keep ratios for application needs.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions。",
-        "方法：摘要线索包括 Post-Hoc、Single-View、Feed-Forward；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
       "id": "3663a24116281cf6",
       "title": "TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data",
       "url": "https://arxiv.org/abs/2609.20693v1",
@@ -17554,6 +17086,34 @@
       "score": 0.38
     },
     {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-09-19",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
       "id": "b2ffb4b5ebaf0622",
       "title": "Building the materials foundation for AI",
       "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
@@ -17579,35 +17139,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-09-18",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "27302404eb818210",
