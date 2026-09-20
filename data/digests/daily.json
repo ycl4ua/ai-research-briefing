@@ -1,7 +1,7 @@
 {
-  "title": "2026-09-19 AI Research Briefing",
+  "title": "2026-09-20 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-09-19T17:44:45",
+  "generated_at": "2026-09-20T17:55:11",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1087,7 +1087,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "2fdd4162e98a7829",
@@ -1119,7 +1119,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "b6bb68874a8eb495",
@@ -1152,7 +1152,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "ff5af4cba3790c68",
@@ -1184,7 +1184,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "428cc82034334200",
@@ -1216,7 +1216,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "cd6613e10eef4fee",
@@ -1249,7 +1249,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "724738e4dc64d7ee",
@@ -1281,7 +1281,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "35538031b2374ce2",
@@ -1313,7 +1313,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c21f4c35b7d03888",
@@ -1346,7 +1346,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "70eeba83b7b6b96f",
@@ -1379,7 +1379,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "e1500fb41f0322aa",
@@ -1411,7 +1411,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c5766427c4ffa209",
@@ -1444,7 +1444,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "d47ea15a2d7fdd77",
@@ -1477,7 +1477,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "593614a62a69ed62",
@@ -1511,7 +1511,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c39bde7e0665f116",
@@ -1543,7 +1543,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b0f75f9225b900cb",
@@ -1575,7 +1575,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "eb26c94ddf0c8f74",
@@ -1607,7 +1607,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "bc61858324422c97",
@@ -1638,7 +1638,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "090533b2d37469e4",
@@ -1669,7 +1669,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "255722aa08b920f1",
@@ -1700,7 +1700,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "f5a1f62c07b39dd3",
@@ -1731,7 +1731,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "141cec299f4bf7ad",
@@ -1762,7 +1762,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "7bde1334d6a3de91",
@@ -1793,7 +1793,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "ea95c6bd1519328e",
@@ -1824,7 +1824,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "a76d5c86630f084e",
@@ -1855,7 +1855,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "724667d865d2c44a",
@@ -1886,7 +1886,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "e871b1c8829c32e8",
@@ -1917,7 +1917,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "8f855ad7471475e4",
@@ -1948,7 +1948,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "8132bf212d621ee5",
@@ -1979,7 +1979,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     },
     {
       "id": "982d0d3bd0426d0c",
@@ -2010,7 +2010,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4673
     }
   ],
   "paper_items": [
@@ -3129,6 +3129,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-09-20",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "2086f25dfa7eea0c",
       "title": "The Download: mice with part-human brains and climate tech innovators",
       "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
@@ -3156,7 +3186,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "be1073923779f096",
@@ -3186,37 +3216,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-09-19",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "7c22df76d56c29e1",
@@ -3406,7 +3406,7 @@
         "AI Agent",
         "Computer Vision"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
       "citations": {
         "semantic_scholar": null,
@@ -3437,7 +3437,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "citations": {
         "semantic_scholar": null,
@@ -3468,7 +3468,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3498,7 +3498,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
       "citations": {
         "semantic_scholar": null,
@@ -3528,7 +3528,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "citations": {
         "semantic_scholar": null,
@@ -3558,7 +3558,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "citations": {
         "semantic_scholar": null,
@@ -3588,7 +3588,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "citations": {
         "semantic_scholar": null,
@@ -3618,7 +3618,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -3648,7 +3648,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "citations": {
         "semantic_scholar": null,
@@ -3678,7 +3678,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "citations": {
         "semantic_scholar": null,
@@ -3708,7 +3708,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "citations": {
         "semantic_scholar": null,
@@ -3738,7 +3738,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "citations": {
         "semantic_scholar": null,
@@ -3768,7 +3768,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "citations": {
         "semantic_scholar": null,
@@ -3798,7 +3798,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "citations": {
         "semantic_scholar": null,
@@ -3828,7 +3828,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "citations": {
         "semantic_scholar": null,
@@ -3858,7 +3858,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "citations": {
         "semantic_scholar": null,
@@ -3888,7 +3888,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "citations": {
         "semantic_scholar": null,
@@ -3918,7 +3918,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "citations": {
         "semantic_scholar": null,
@@ -3948,7 +3948,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "citations": {
         "semantic_scholar": null,
@@ -3978,7 +3978,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "citations": {
         "semantic_scholar": null,
@@ -4008,7 +4008,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "citations": {
         "semantic_scholar": null,
@@ -4038,7 +4038,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "citations": {
         "semantic_scholar": null,
@@ -4068,7 +4068,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "citations": {
         "semantic_scholar": null,
@@ -4098,7 +4098,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "citations": {
         "semantic_scholar": null,
@@ -4128,7 +4128,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "citations": {
         "semantic_scholar": null,
@@ -4158,7 +4158,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "citations": {
         "semantic_scholar": null,
@@ -4188,7 +4188,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "citations": {
         "semantic_scholar": null,
@@ -4218,7 +4218,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "citations": {
         "semantic_scholar": null,
@@ -4248,7 +4248,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -4278,7 +4278,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -14425,7 +14425,7 @@
         "AI Agent",
         "Computer Vision"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
       "citations": {
         "semantic_scholar": null,
@@ -14456,7 +14456,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "citations": {
         "semantic_scholar": null,
@@ -14487,7 +14487,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -14536,7 +14536,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "2fdd4162e98a7829",
@@ -14568,7 +14568,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "b6bb68874a8eb495",
@@ -14601,7 +14601,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "ff5af4cba3790c68",
@@ -14633,7 +14633,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "428cc82034334200",
@@ -14665,7 +14665,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "cd6613e10eef4fee",
@@ -14698,7 +14698,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "724738e4dc64d7ee",
@@ -14730,7 +14730,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "35538031b2374ce2",
@@ -14762,7 +14762,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c21f4c35b7d03888",
@@ -14795,7 +14795,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "70eeba83b7b6b96f",
@@ -14828,7 +14828,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "e1500fb41f0322aa",
@@ -14860,7 +14860,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c5766427c4ffa209",
@@ -14893,7 +14893,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "d47ea15a2d7fdd77",
@@ -14926,7 +14926,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "593614a62a69ed62",
@@ -14960,7 +14960,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c39bde7e0665f116",
@@ -14992,7 +14992,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b0f75f9225b900cb",
@@ -15024,7 +15024,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "eb26c94ddf0c8f74",
@@ -15056,7 +15056,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "deb961a10e1fc447",
@@ -15069,7 +15069,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
       "citations": {
         "semantic_scholar": null,
@@ -15099,7 +15099,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "citations": {
         "semantic_scholar": null,
@@ -15129,7 +15129,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "citations": {
         "semantic_scholar": null,
@@ -15159,7 +15159,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "citations": {
         "semantic_scholar": null,
@@ -15189,7 +15189,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
       "citations": {
         "semantic_scholar": null,
@@ -15219,7 +15219,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
       "citations": {
         "semantic_scholar": null,
@@ -15249,7 +15249,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
       "citations": {
         "semantic_scholar": null,
@@ -15279,7 +15279,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
       "citations": {
         "semantic_scholar": null,
@@ -15309,7 +15309,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "citations": {
         "semantic_scholar": null,
@@ -15339,7 +15339,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
       "citations": {
         "semantic_scholar": null,
@@ -15369,7 +15369,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "citations": {
         "semantic_scholar": null,
@@ -15399,7 +15399,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "citations": {
         "semantic_scholar": null,
@@ -15429,7 +15429,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
       "citations": {
         "semantic_scholar": null,
@@ -15459,7 +15459,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
       "citations": {
         "semantic_scholar": null,
@@ -15489,7 +15489,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
       "citations": {
         "semantic_scholar": null,
@@ -15519,7 +15519,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
       "citations": {
         "semantic_scholar": null,
@@ -15549,7 +15549,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
       "citations": {
         "semantic_scholar": null,
@@ -15579,7 +15579,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
       "citations": {
         "semantic_scholar": null,
@@ -15609,7 +15609,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
       "citations": {
         "semantic_scholar": null,
@@ -15639,7 +15639,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "citations": {
         "semantic_scholar": null,
@@ -15669,7 +15669,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
       "citations": {
         "semantic_scholar": null,
@@ -15699,7 +15699,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "citations": {
         "semantic_scholar": null,
@@ -15729,7 +15729,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
       "citations": {
         "semantic_scholar": null,
@@ -15759,7 +15759,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
       "citations": {
         "semantic_scholar": null,
@@ -15789,7 +15789,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "citations": {
         "semantic_scholar": null,
@@ -15819,7 +15819,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
       "citations": {
         "semantic_scholar": null,
@@ -15849,7 +15849,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
@@ -15879,7 +15879,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -15927,7 +15927,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "090533b2d37469e4",
@@ -15958,7 +15958,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "255722aa08b920f1",
@@ -15989,7 +15989,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "f5a1f62c07b39dd3",
@@ -16020,7 +16020,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "141cec299f4bf7ad",
@@ -16051,7 +16051,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "7bde1334d6a3de91",
@@ -16082,7 +16082,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "ea95c6bd1519328e",
@@ -16113,7 +16113,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "a76d5c86630f084e",
@@ -16144,7 +16144,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "724667d865d2c44a",
@@ -16175,379 +16175,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "e871b1c8829c32e8",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://arxiv.org/abs/2609.20804v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "An Empirical Study of Harness Design for Coding 智能体",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 An Empirical Study of Harness Design for Coding Agents。",
-        "方法：摘要线索包括 SWE-Bench、Terminal-Bench、LLM-based、Trajectory-level；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "8f855ad7471475e4",
-      "title": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
-      "url": "https://arxiv.org/abs/2609.20722v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Activation steering modifies LLM behavior at inference time, but identifying where and how strongly to steer remains manual. We introduce Deep Noir, a framework that uses Logit Lens convergence and causal head-level attribution to autonomously discover optimal steering parameters. Across three scales (1B x 3, 2-3B x 2, and 7-9B x 4), our engine achieves 16.7 percentage-point improvement on spam at 1B (standard deviation 4.7; 39 runs), with gains increasing to 21 to 42 percentage points at 7-9B across four architectures. On SST-2 sentiment, it achieves a 13.1 percentage-point improvement with zero code changes. Mechanistic grounding enables automated discovery of intervention points that generalize across tasks and architectures. On sentiment, RepE without head masking fails to improve over baseline, while Deep Noir improves all models (p less than 0.01). We further show that steering creates a predictable prompt-injection attack surface whose vulnerability increases monotonically with steering magnitude. This finding is relevant to agent systems deploying steered classifiers.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models。",
-        "方法：摘要线索包括 SST-2、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "8132bf212d621ee5",
-      "title": "On-Demand Attention: Language Models Know When to Recall",
-      "url": "https://arxiv.org/abs/2609.20734v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Reasoning and agentic workloads increasingly demand efficient long-context inference. Yet full-attention decoding reads the growing history at every step, regardless of its benefit to the next prediction. We show that a pretrained model's decoding states already contain information predictive of this benefit, before the global read. Building on this finding, we introduce On-Demand Attention (ODA), a local-first decoding method that uses a lightweight recall head to selectively invoke global attention as its predicted benefit changes during generation. ODA trains only the recall head, leaving pretrained weights unchanged and the complete historical KV cache available for future recall. We further implement GPU-side conditional execution in vLLM, translating reduced global reads into practical decoding speedups over full attention at long context lengths. Experiments across Qwen and Gemma models, including hybrid-attention backbones, show that selective recall recovers most of the performance lost under local attention while substantially reducing global reads. These findings support long-context inference in which pretrained models guide their own access to the information they retain.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "LLM"
-      ],
-      "title_zh": "On-Demand Attention: 语言模型 Know When to Recall",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 On-Demand Attention: Language Models Know When to Recall。",
-        "方法：摘要线索包括 On-Demand、GPU-side、ODA、KV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "982d0d3bd0426d0c",
-      "title": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol",
-      "url": "https://arxiv.org/abs/2609.20712v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "This paper introduces and operationalizes summarization bias: a proposed systematic tendency of large language models (LLMs) to represent narrative meaning as an abstract summary label rather than as the reconstructable inferential structure that produces it. Within the Bulut Doctrine, narrative effect is theorized along a told-shown axis: in told mode, emotional and informational content is declared explicitly and requires little reader reconstruction; in shown mode, that content is suppressed at the surface and must be reconstructed from physical cues and indirection (Objective Projection). Shown mode is the higher-load condition the doctrine is designed to measure. The claim is that LLMs fail along this axis in a specific direction. Summarization bias is hypothesized to operate in two regimes: (i) a generative regime, in which a model asked to render an emotion through Objective Projection defaults to declaring it instead; and (ii) an evaluative regime, in which a model judging narrative quality rewards told-mode explicitness and under-detects shown-mode suppression. The evaluative regime is the more consequential, since LLMs increasingly serve as judges and reward models, and a directional bias toward told mode would impose a selection pressure degrading prose toward flat declaration. This report does not claim the bias is validated. It defines the construct, situates it against LLM-as-judge biases, rereads a completed independent reliability study as directional evidence consistent with it, and pre-registers a two-regime test with decision rules under which the construct would be abandoned.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in 大语言模型 --- A Conceptual Framework and Registered Test Protocol",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large 。",
-        "方法：摘要线索包括 Told-Mode、LLM-as-judge、LLMs、reward model；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "ee552b3e00a95174",
-      "title": "UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising",
-      "url": "https://arxiv.org/abs/2609.20630v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Search advertising connects user intent with commercial content and plays a critical role in platform monetization. Recent systems typically align pretrained generative models with a single business reward, such as eCPM, or use naive reward fusion for preliminary multi-objective alignment. However, an ideal search advertising system must jointly account for heterogeneous objectives, including relevance, click propensity, and commercial value, to balance user experience and business value while mitigating globally suboptimal performance caused by gradient competition. We propose UniPolicy, an objective-aware multi-policy alignment framework. UniPolicy combines objective-specific prefix tokens, sparse MoE-LoRA routing, and objective-specific residual FFNs to hierarchically decouple parameters within a shared backbone, providing differentiated parameter and policy-expression spaces for different business objectives. It further constructs pairwise preferences from multi-stage behavioral feedback, supplementing the relative preference information in exposed-but-unclicked samples and strengthening the relative advantage of clicked candidates in the generation distribution. At inference, UniPolicy supports parallel, business-customizable multi-policy beam search, flexibly allocating candidate quotas across objectives under a fixed retrieval budget. Large-scale offline experiments show that UniPolicy delivers balanced improvements across multiple metrics while preserving retrieval quality, outperforming single-objective reinforcement learning and naive reward-fusion baselines. In a 7-day online A/B test on a real search advertising system, UniPolicy improves CTR by 0.71%, RPS by 1.58%, and advertising revenue by 1.32%, while maintaining stable serving latency.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising。",
-        "方法：摘要线索包括 Objective-Specific、MoE-LoRA、Large-scale、FFNs、CTR、RPS；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "3701b1689bddb8d7",
-      "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
-      "url": "https://arxiv.org/abs/2609.20814v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained model matches the accuracy of a model trained from scratch on $3.25\\times$ as many samples for the same-SA target, but $2.58\\times$ as many for the transition-modeled target. By $N=5000$, this ordering reverses ($1.56\\times$ versus $1.86\\times$). At $N=1000$, sampling more distinct airfoils lowers error on both targets, but only for the same-SA target is the gain increase larger than the observed draw-to-draw variation ($3.3\\times$ to $4.0\\times$). These results show that pretraining value depends jointly on target-data budget, target-data coverage, and whether source and target differ in modeled physics.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "Self-Supervised Learning"
-      ],
-      "title_zh": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、Self-Supervised Learning，核心对象是 How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?。",
-        "方法：摘要线索包括 Spalart-Allmaras、PDE、CFD、RANS、SA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "01ebdf1b2123d054",
-      "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2609.20807v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout efficiency. In this paper, we show that the instability of RL under TIM is primarily caused by drift: a persistent bias between training and inference engines that accumulates with every training step. We derive an additive \"score centering\" correction term that stabilizes RL under TIM by canceling drift. When training models from 0.6B to 30B parameters, score centering alone matches or outperforms methods based on importance sampling under quantization, with the gap growing as the mismatch becomes more severe. Because the correction is additive, score centering also composes with importance sampling -- their composition outperforms pure importance-sampling baselines in our staleness experiments.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Score Centering Stabilizes Off-policy Reinforcement Learning",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Score Centering Stabilizes Off-policy Reinforcement Learning。",
-        "方法：摘要线索包括 Off-policy、RL、TIM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "ceab260c2e28bb74",
-      "title": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols",
-      "url": "https://arxiv.org/abs/2609.20765v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Radio Frequency(RF)-Fingerprinting is a spectrum monitoring technique that identifies specific transmitters based on hardware impairments imprinted within the emitted signal. Although widely researched, studies almost exclusively consider scenarios where only one transmitter is emitting at a time, limiting real world applicability. In this work, we further the study of RF-Fingerprinting by considering co-channel interference, with multiple emitted signals interfering with each other, overlapping in time and frequency. Specifically, we formulate this problem as a multi-label classification problem and employ a 1D convolutional neural network (CNN). Furthermore, the models are calibrated such that the confidence thresholds for the label probabilities are derived, with guarantees on the upper bound on the average number of False Negatives, providing a degree of confidence in not missing a true spectrum policy violation. The proposed method is validated using real world data from the POWDER 5G testbed on devices transmitting 802.11a(Wi-Fi), 4G LTE, and 5G NR waveforms. The results show accuracy as high as 97% and as low as 73% after calibration depending on channel conditions. Also calibrating for various average false negatives upper bounds achieves micro recall scores of approximately (1 - calibrated false negatives) with the calibration robust to out-of-distribution interference, demonstrating the potential of the proposed method in a realistic high contention wireless environment",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols。",
-        "方法：摘要线索包括 RF-Fingerprinting、Wi-Fi、RF、CNN、POWDER、LTE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "77059e7e896fa955",
-      "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
-      "url": "https://arxiv.org/abs/2609.20756v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "As scaling pre-training data alone yields diminishing returns, post-training is becoming increasingly important across physical AI domains such as autonomous driving. End-to-end driving policies are pre-trained in open loop with behavior cloning on human demonstrations. However, compounding errors during closed-loop deployment can take the vehicle outside the training data distribution, increasing the risk of safety-critical incidents. Closed-loop post-training can mitigate this risk but requires costly simulation for sensor-based policies. We propose OPTED (on-policy fine-tuning for end-to-end driving) which decouples reinforcement learning from the post-training of the end-to-end policy: a privileged teacher is trained using RL on vectorized inputs (HD-map and bounding boxes). This teacher then provides supervision to the pre-trained student during closed-loop post-training. We apply OPTED to two camera-based models, TransFuser and VaVAM, and fine-tune them in AlpaSim, using neural reconstructions (3DGS) of real driving logs. Driving scores increase by factors of 1.6$\\times$ and 9.5$\\times$, respectively. In controlled experiments OPTED matches closed-loop performance with approximately three orders of magnitude fewer simulator interactions than direct RL post-training, while staying closer to the human prior. Project page: https://01dami23.github.io/opted/",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher。",
-        "方法：摘要线索包括 On-Policy、Fine-Tuning、End-to-End、Render-Free、End-to-end、Closed-loop；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "561338ae471091f5",
-      "title": "MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving",
-      "url": "https://arxiv.org/abs/2609.20747v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Reinforcement learning constitutes a promising approach owing to its potential for superhuman performance and self-learned policies. However, its application to real-world autonomous driving remains scarce, particularly in unstructured environments, because of the challenges associated with sim-to-real transfer for unstructured environments. In this work, we present MILER, an end-to-end policy framework with zero-shot sim-to-real transfer. During offline training, we employ a custom semantic mid-level representation (MLR) simulator and train the policy network using reinforcement learning, with its control outputs applied directly to a bicycle model. During deployment on the real vehicle, camera and LiDAR data are processed by BEVFusion to generate a semantic bird's-eye-view representation consistent with that of the MLR simulator. The actions generated by the policy network are not applied directly to the real vehicle. Instead, we employ a trajectory-alignment strategy that enables zero-shot sim-to-real transfer of both perception and control. We extensively evaluate the proposed framework on a diverse test track comprising numerous challenges, including various obstacles, hairpin curves, velocities of up to 33.6 km/h, and off-road sections. In total, we drove 17.3 km with two different vehicles on a 3.0 km test track without human intervention, thereby demonstrating the effectiveness of our approach. Furthermore, the entire software stack runs on a Jetson AGX Orin.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Auto。",
-        "方法：摘要线索包括 Mid-Level、Sim-to-Real、MILER、MLR、BEVFusion、AGX；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "a61325c4095ddb7a",
-      "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
-      "url": "https://arxiv.org/abs/2609.20744v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Video diffusion models repeatedly process long spatiotemporal token sequences during denoising, making attention a major computational bottleneck. Linear attention offers an appealing alternative and has been widely adopted in recent large language models, but directly applying it to video models often fails to preserve the fine-grained interactions required for high-quality generation. We present Video DeltaNet (VDN), which combines local Softmax attention with bidirectional linear memory for long-range video context. Its linear branch introduces Video Delta Attention (VDA), which updates memory once per frame by jointly incorporating its spatial tokens. Separate output projections and learnable gates calibrate the two branches, while a staged teacher-alignment recipe progressively introduces the new pathway into pretrained models. We instantiate VDN on MiniMax H3, applying the hybrid to video-to-video interactions while retaining Softmax for interactions involving text or audio. With eight-step distillation and an optimized SGLang serving stack, VDN-H3 completes DiT denoising for a 14.3-second, 768p video in 6.70 seconds on eight NVIDIA B200 GPUs, corresponding to a 14.5x speedup over the 50-step dense H3 baseline on the same GPU count.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation。",
-        "方法：摘要线索包括 Video-Native、VDN-H3、VDN、VDA、SGLang、NVIDIA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "e90d2649cff86bf7",
-      "title": "Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rates",
-      "url": "https://arxiv.org/abs/2609.20701v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "We study efficient algorithms for realizing the first-order oracle complexity of optimization of $G$-Lipschitz convex functions with respect to the $\\ell_{q}$-norm over an $\\ell_{p}$-ball of radius $R$, where $1\\leq p,q\\leq \\infty$. For $p<q$, we obtain error $\\widetilde{O}_{p,q}(GR/T^{1/p-(1/q-1/2)_{+}})$ after $T$ oracle queries, efficiently realizing the nearly optimal rates of (MBG+26), thereby resolving the nonsmooth end of the COLT 2015 open problem (Guz15b). In particular, the rate is $\\widetilde{O}(GR/T)$ for Euclidean Lipschitzness over an $\\ell_1$-ball of radius $R$ ($p=1,q=2$). Our solution consists of reducing convex Lipschitz optimization to the chasing nested convex sets problem in sublevel sets of an evolving bundle (LNN95; BBE+20): at each query we either find a point with low function value or we produce a deep cut in the current sublevel of the bundle, that we chase. The dichotomy between stability of selectors and forced movement by deep cuts bounds the number of iterations of the algorithm near optimally. For nested subsets of $R B_{p}^{d}$, we introduce a novel notion of stable center whose movement is bounded by $\\widetilde{O}_{p,q}(RT^{1-1/p+(1/q-1/2)_{+}})$ in the $\\ell_{q}$-norm after $T$ steps, which we show is nearly optimal in high dimensions. A Monte Carlo average of the proposed selector achieves near-optimal rates with high probability and can be implemented in polynomial time for our optimization algorithm in the real-arithmetic model.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rates",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rate。",
-        "方法：摘要线索包括 GR、MBG、COLT、LNN95、BBE、RT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4973
     },
     {
       "id": "a44394407566a12e",
@@ -16580,66 +16208,6 @@
       "score": 0.4967
     },
     {
-      "id": "2086f25dfa7eea0c",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-17",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: mice with part-human brains and climate tech innovators",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: mice with part-human brains and climate tech innovators。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a smal...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "be1073923779f096",
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-09-17",
-      "abstract": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Meet the innovators under 35 shaping climate tech",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Meet the innovators under 35 shaping climate tech。",
-        "内容要点：Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate...",
-        "关键词：MIT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -16650,7 +16218,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16680,7 +16248,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
       "citations": {
         "semantic_scholar": null,
@@ -16710,7 +16278,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
       "citations": {
         "semantic_scholar": null,
@@ -16728,6 +16296,438 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.4867
+    },
+    {
+      "id": "e871b1c8829c32e8",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "An Empirical Study of Harness Design for Coding 智能体",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 An Empirical Study of Harness Design for Coding Agents。",
+        "方法：摘要线索包括 SWE-Bench、Terminal-Bench、LLM-based、Trajectory-level；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "8f855ad7471475e4",
+      "title": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
+      "url": "https://arxiv.org/abs/2609.20722v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Activation steering modifies LLM behavior at inference time, but identifying where and how strongly to steer remains manual. We introduce Deep Noir, a framework that uses Logit Lens convergence and causal head-level attribution to autonomously discover optimal steering parameters. Across three scales (1B x 3, 2-3B x 2, and 7-9B x 4), our engine achieves 16.7 percentage-point improvement on spam at 1B (standard deviation 4.7; 39 runs), with gains increasing to 21 to 42 percentage points at 7-9B across four architectures. On SST-2 sentiment, it achieves a 13.1 percentage-point improvement with zero code changes. Mechanistic grounding enables automated discovery of intervention points that generalize across tasks and architectures. On sentiment, RepE without head masking fails to improve over baseline, while Deep Noir improves all models (p less than 0.01). We further show that steering creates a predictable prompt-injection attack surface whose vulnerability increases monotonically with steering magnitude. This finding is relevant to agent systems deploying steered classifiers.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models。",
+        "方法：摘要线索包括 SST-2、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "8132bf212d621ee5",
+      "title": "On-Demand Attention: Language Models Know When to Recall",
+      "url": "https://arxiv.org/abs/2609.20734v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Reasoning and agentic workloads increasingly demand efficient long-context inference. Yet full-attention decoding reads the growing history at every step, regardless of its benefit to the next prediction. We show that a pretrained model's decoding states already contain information predictive of this benefit, before the global read. Building on this finding, we introduce On-Demand Attention (ODA), a local-first decoding method that uses a lightweight recall head to selectively invoke global attention as its predicted benefit changes during generation. ODA trains only the recall head, leaving pretrained weights unchanged and the complete historical KV cache available for future recall. We further implement GPU-side conditional execution in vLLM, translating reduced global reads into practical decoding speedups over full attention at long context lengths. Experiments across Qwen and Gemma models, including hybrid-attention backbones, show that selective recall recovers most of the performance lost under local attention while substantially reducing global reads. These findings support long-context inference in which pretrained models guide their own access to the information they retain.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "LLM"
+      ],
+      "title_zh": "On-Demand Attention: 语言模型 Know When to Recall",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、LLM，核心对象是 On-Demand Attention: Language Models Know When to Recall。",
+        "方法：摘要线索包括 On-Demand、GPU-side、ODA、KV；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "982d0d3bd0426d0c",
+      "title": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol",
+      "url": "https://arxiv.org/abs/2609.20712v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "This paper introduces and operationalizes summarization bias: a proposed systematic tendency of large language models (LLMs) to represent narrative meaning as an abstract summary label rather than as the reconstructable inferential structure that produces it. Within the Bulut Doctrine, narrative effect is theorized along a told-shown axis: in told mode, emotional and informational content is declared explicitly and requires little reader reconstruction; in shown mode, that content is suppressed at the surface and must be reconstructed from physical cues and indirection (Objective Projection). Shown mode is the higher-load condition the doctrine is designed to measure. The claim is that LLMs fail along this axis in a specific direction. Summarization bias is hypothesized to operate in two regimes: (i) a generative regime, in which a model asked to render an emotion through Objective Projection defaults to declaring it instead; and (ii) an evaluative regime, in which a model judging narrative quality rewards told-mode explicitness and under-detects shown-mode suppression. The evaluative regime is the more consequential, since LLMs increasingly serve as judges and reward models, and a directional bias toward told mode would impose a selection pressure degrading prose toward flat declaration. This report does not claim the bias is validated. It defines the construct, situates it against LLM-as-judge biases, rereads a completed independent reliability study as directional evidence consistent with it, and pre-registers a two-regime test with decision rules under which the construct would be abandoned.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in 大语言模型 --- A Conceptual Framework and Registered Test Protocol",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large 。",
+        "方法：摘要线索包括 Told-Mode、LLM-as-judge、LLMs、reward model；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "ee552b3e00a95174",
+      "title": "UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising",
+      "url": "https://arxiv.org/abs/2609.20630v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Search advertising connects user intent with commercial content and plays a critical role in platform monetization. Recent systems typically align pretrained generative models with a single business reward, such as eCPM, or use naive reward fusion for preliminary multi-objective alignment. However, an ideal search advertising system must jointly account for heterogeneous objectives, including relevance, click propensity, and commercial value, to balance user experience and business value while mitigating globally suboptimal performance caused by gradient competition. We propose UniPolicy, an objective-aware multi-policy alignment framework. UniPolicy combines objective-specific prefix tokens, sparse MoE-LoRA routing, and objective-specific residual FFNs to hierarchically decouple parameters within a shared backbone, providing differentiated parameter and policy-expression spaces for different business objectives. It further constructs pairwise preferences from multi-stage behavioral feedback, supplementing the relative preference information in exposed-but-unclicked samples and strengthening the relative advantage of clicked candidates in the generation distribution. At inference, UniPolicy supports parallel, business-customizable multi-policy beam search, flexibly allocating candidate quotas across objectives under a fixed retrieval budget. Large-scale offline experiments show that UniPolicy delivers balanced improvements across multiple metrics while preserving retrieval quality, outperforming single-objective reinforcement learning and naive reward-fusion baselines. In a 7-day online A/B test on a real search advertising system, UniPolicy improves CTR by 0.71%, RPS by 1.58%, and advertising revenue by 1.32%, while maintaining stable serving latency.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising。",
+        "方法：摘要线索包括 Objective-Specific、MoE-LoRA、Large-scale、FFNs、CTR、RPS；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "3701b1689bddb8d7",
+      "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+      "url": "https://arxiv.org/abs/2609.20814v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit. We pretrain a surrogate on 254,909 RANS solutions from one airfoil family and fine-tune it on a new family under two target settings with matched freestream ranges: the same Spalart-Allmaras (SA) modeling and SA with added $e^N$ transition modeling. At $N=1000$, the pretrained model matches the accuracy of a model trained from scratch on $3.25\\times$ as many samples for the same-SA target, but $2.58\\times$ as many for the transition-modeled target. By $N=5000$, this ordering reverses ($1.56\\times$ versus $1.86\\times$). At $N=1000$, sampling more distinct airfoils lowers error on both targets, but only for the same-SA target is the gain increase larger than the observed draw-to-draw variation ($3.3\\times$ to $4.0\\times$). These results show that pretraining value depends jointly on target-data budget, target-data coverage, and whether source and target differ in modeled physics.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "Self-Supervised Learning"
+      ],
+      "title_zh": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、Self-Supervised Learning，核心对象是 How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?。",
+        "方法：摘要线索包括 Spalart-Allmaras、PDE、CFD、RANS、SA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
+      ],
+      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "01ebdf1b2123d054",
+      "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.20807v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout efficiency. In this paper, we show that the instability of RL under TIM is primarily caused by drift: a persistent bias between training and inference engines that accumulates with every training step. We derive an additive \"score centering\" correction term that stabilizes RL under TIM by canceling drift. When training models from 0.6B to 30B parameters, score centering alone matches or outperforms methods based on importance sampling under quantization, with the gap growing as the mismatch becomes more severe. Because the correction is additive, score centering also composes with importance sampling -- their composition outperforms pure importance-sampling baselines in our staleness experiments.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Score Centering Stabilizes Off-policy Reinforcement Learning。",
+        "方法：摘要线索包括 Off-policy、RL、TIM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "ceab260c2e28bb74",
+      "title": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols",
+      "url": "https://arxiv.org/abs/2609.20765v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Radio Frequency(RF)-Fingerprinting is a spectrum monitoring technique that identifies specific transmitters based on hardware impairments imprinted within the emitted signal. Although widely researched, studies almost exclusively consider scenarios where only one transmitter is emitting at a time, limiting real world applicability. In this work, we further the study of RF-Fingerprinting by considering co-channel interference, with multiple emitted signals interfering with each other, overlapping in time and frequency. Specifically, we formulate this problem as a multi-label classification problem and employ a 1D convolutional neural network (CNN). Furthermore, the models are calibrated such that the confidence thresholds for the label probabilities are derived, with guarantees on the upper bound on the average number of False Negatives, providing a degree of confidence in not missing a true spectrum policy violation. The proposed method is validated using real world data from the POWDER 5G testbed on devices transmitting 802.11a(Wi-Fi), 4G LTE, and 5G NR waveforms. The results show accuracy as high as 97% and as low as 73% after calibration depending on channel conditions. Also calibrating for various average false negatives upper bounds achieves micro recall scores of approximately (1 - calibrated false negatives) with the calibration robust to out-of-distribution interference, demonstrating the potential of the proposed method in a realistic high contention wireless environment",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Calibrated RF-Fingerprinting Under Interference With Heterogeneous Transmission Protocols。",
+        "方法：摘要线索包括 RF-Fingerprinting、Wi-Fi、RF、CNN、POWDER、LTE；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "77059e7e896fa955",
+      "title": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+      "url": "https://arxiv.org/abs/2609.20756v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "As scaling pre-training data alone yields diminishing returns, post-training is becoming increasingly important across physical AI domains such as autonomous driving. End-to-end driving policies are pre-trained in open loop with behavior cloning on human demonstrations. However, compounding errors during closed-loop deployment can take the vehicle outside the training data distribution, increasing the risk of safety-critical incidents. Closed-loop post-training can mitigate this risk but requires costly simulation for sensor-based policies. We propose OPTED (on-policy fine-tuning for end-to-end driving) which decouples reinforcement learning from the post-training of the end-to-end policy: a privileged teacher is trained using RL on vectorized inputs (HD-map and bounding boxes). This teacher then provides supervision to the pre-trained student during closed-loop post-training. We apply OPTED to two camera-based models, TransFuser and VaVAM, and fine-tune them in AlpaSim, using neural reconstructions (3DGS) of real driving logs. Driving scores increase by factors of 1.6$\\times$ and 9.5$\\times$, respectively. In controlled experiments OPTED matches closed-loop performance with approximately three orders of magnitude fewer simulator interactions than direct RL post-training, while staying closer to the human prior. Project page: https://01dami23.github.io/opted/",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher。",
+        "方法：摘要线索包括 On-Policy、Fine-Tuning、End-to-End、Render-Free、End-to-end、Closed-loop；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "561338ae471091f5",
+      "title": "MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.20747v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Reinforcement learning constitutes a promising approach owing to its potential for superhuman performance and self-learned policies. However, its application to real-world autonomous driving remains scarce, particularly in unstructured environments, because of the challenges associated with sim-to-real transfer for unstructured environments. In this work, we present MILER, an end-to-end policy framework with zero-shot sim-to-real transfer. During offline training, we employ a custom semantic mid-level representation (MLR) simulator and train the policy network using reinforcement learning, with its control outputs applied directly to a bicycle model. During deployment on the real vehicle, camera and LiDAR data are processed by BEVFusion to generate a semantic bird's-eye-view representation consistent with that of the MLR simulator. The actions generated by the policy network are not applied directly to the real vehicle. Instead, we employ a trajectory-alignment strategy that enables zero-shot sim-to-real transfer of both perception and control. We extensively evaluate the proposed framework on a diverse test track comprising numerous challenges, including various obstacles, hairpin curves, velocities of up to 33.6 km/h, and off-road sections. In total, we drove 17.3 km with two different vehicles on a 3.0 km test track without human intervention, thereby demonstrating the effectiveness of our approach. Furthermore, the entire software stack runs on a Jetson AGX Orin.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Auto。",
+        "方法：摘要线索包括 Mid-Level、Sim-to-Real、MILER、MLR、BEVFusion、AGX；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "a61325c4095ddb7a",
+      "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+      "url": "https://arxiv.org/abs/2609.20744v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Video diffusion models repeatedly process long spatiotemporal token sequences during denoising, making attention a major computational bottleneck. Linear attention offers an appealing alternative and has been widely adopted in recent large language models, but directly applying it to video models often fails to preserve the fine-grained interactions required for high-quality generation. We present Video DeltaNet (VDN), which combines local Softmax attention with bidirectional linear memory for long-range video context. Its linear branch introduces Video Delta Attention (VDA), which updates memory once per frame by jointly incorporating its spatial tokens. Separate output projections and learnable gates calibrate the two branches, while a staged teacher-alignment recipe progressively introduces the new pathway into pretrained models. We instantiate VDN on MiniMax H3, applying the hybrid to video-to-video interactions while retaining Softmax for interactions involving text or audio. With eight-step distillation and an optimized SGLang serving stack, VDN-H3 completes DiT denoising for a 14.3-second, 768p video in 6.70 seconds on eight NVIDIA B200 GPUs, corresponding to a 14.5x speedup over the 50-step dense H3 baseline on the same GPU count.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation。",
+        "方法：摘要线索包括 Video-Native、VDN-H3、VDN、VDA、SGLang、NVIDIA；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "e90d2649cff86bf7",
+      "title": "Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rates",
+      "url": "https://arxiv.org/abs/2609.20701v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "We study efficient algorithms for realizing the first-order oracle complexity of optimization of $G$-Lipschitz convex functions with respect to the $\\ell_{q}$-norm over an $\\ell_{p}$-ball of radius $R$, where $1\\leq p,q\\leq \\infty$. For $p<q$, we obtain error $\\widetilde{O}_{p,q}(GR/T^{1/p-(1/q-1/2)_{+}})$ after $T$ oracle queries, efficiently realizing the nearly optimal rates of (MBG+26), thereby resolving the nonsmooth end of the COLT 2015 open problem (Guz15b). In particular, the rate is $\\widetilde{O}(GR/T)$ for Euclidean Lipschitzness over an $\\ell_1$-ball of radius $R$ ($p=1,q=2$). Our solution consists of reducing convex Lipschitz optimization to the chasing nested convex sets problem in sublevel sets of an evolving bundle (LNN95; BBE+20): at each query we either find a point with low function value or we produce a deep cut in the current sublevel of the bundle, that we chase. The dichotomy between stability of selectors and forced movement by deep cuts bounds the number of iterations of the algorithm near optimally. For nested subsets of $R B_{p}^{d}$, we introduce a novel notion of stable center whose movement is bounded by $\\widetilde{O}_{p,q}(RT^{1-1/p+(1/q-1/2)_{+}})$ in the $\\ell_{q}$-norm after $T$ steps, which we show is nearly optimal in high dimensions. A Monte Carlo average of the proposed selector achieves near-optimal rates with high probability and can be implemented in polynomial time for our optimization algorithm in the real-arithmetic model.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rates",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Stable Movement for Nondual Lipschitz Convex Optimization: Efficiency and Nearly Optimal Oracle Rate。",
+        "方法：摘要线索包括 GR、MBG、COLT、LNN95、BBE、RT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "2086f25dfa7eea0c",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-17",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: mice with part-human brains and climate tech innovators",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: mice with part-human brains and climate tech innovators。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a smal...",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "be1073923779f096",
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-09-17",
+      "abstract": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Meet the innovators under 35 shaping climate tech",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Meet the innovators under 35 shaping climate tech。",
+        "内容要点：Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate...",
+        "关键词：MIT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "7c22df76d56c29e1",
@@ -16847,187 +16847,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
-    },
-    {
-      "id": "254ff32a8efce1e4",
-      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-      "url": "https://arxiv.org/abs/2609.20822v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent"
-      ],
-      "title_zh": "Coding 智能体 with an Obstacle-Aware Harness for Safe Robot Manipulation",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent，核心对象是 Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation。",
-        "方法：摘要线索包括 Obstacle-Aware、Obstacle-aware、SOTA、SafeHarness；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "17a115527d0ddf39",
-      "title": "Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure",
-      "url": "https://arxiv.org/abs/2609.20732v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems, aiding answer generation through enriched context rather than improved retrieval accuracy. We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation. Our framework beats the state of the art, yet it faces a hard ceiling. Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles. Because classification models are restricted to finite, pre-defined classes, they cannot perfectly capture this structural nuance, even with human-level annotation. We show that addressing the spreadsheet-to-LLM bottleneck requires moving beyond discrete cell classification. Instead, the field must develop dimensionality-reduction techniques to directly flatten 2D unstructured spreadsheets into 1D unstructured text. Text chunks would be easier for downstream RAG to interpret and generate from.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure。",
-        "方法：摘要线索包括 LLM-driven、RAG、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "42e7f592d7b2e5d3",
-      "title": "Ownership in AI-Assisted Everyday Tasks",
-      "url": "https://arxiv.org/abs/2609.20658v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "When does work done with AI still feel like ours? As AI becomes woven into everyday tasks, we must examine what happens to our sense of ownership and contribution when a machine shares in producing what we make. We report an exploratory qualitative survey in which participants were asked to describe two recent, self-selected tasks completed with AI: one that felt like their own and one that did not. We find that felt ownership depends on the process of collaboration: people disown work when they merely approve AI's suggestions, but retain ownership when they lead, iterate, or rewrite. Ownership can also extend to settings where people own the vision for a project but not the execution; respondents reported high ownership on tasks they could not have completed without AI. Loss of personal voice and a lack of comprehension of the output both erode ownership. Finally, willingness to disclose AI use is often decoupled from actual pride or ownership, and instead shaped by community norms and fear of credit erasure. We propose several research directions as a result of these findings to promote AI development that supports people's sense of authorship over their own lives.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "Ownership in AI-Assisted Everyday Tasks",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 Ownership in AI-Assisted Everyday Tasks。",
-        "方法：摘要线索包括 AI-Assisted、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "c67cd8c623a700fa",
-      "title": "PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's Interval Relations",
-      "url": "https://arxiv.org/abs/2609.20634v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Allen's interval algebra is a qualitative calculus for temporal relations, but its thirteen base relations are crisp predicates over exact interval boundaries. This is inadequate for temporal information from language, perception, databases, or uncertain histories, where times, durations, and boundaries are uncertain and expressions such as \"just before\" or \"roughly during\" have graded meaning. We develop the probabilistic Allen algebra (PAA): a generative and complete extension in which relation probabilities are derived from distributions over interval boundaries rather than assigned as scores. Time points are Gaussian; intervals have Gaussian midpoints and truncated-Gaussian durations. Every relation is a boundary-ordering predicate in one common probability space: point-point relations reduce to error functions, and point-interval and interval-interval relations to multivariate Gaussian orthant probabilities induced by linear inequalities. Contact relations (meets, starts, finishes, equals) receive positive measure through a tolerance band, and under a single tolerance the thirteen relations form a true partition that recovers crisp Allen as the tolerance vanishes. The construction derives Allen's taxonomy rather than positing it: coarse predicates such as precedence, overlap, and containment are unions of leaves whose probabilities are leaf sums, and this hierarchy is preserved as intervals collapse to points and thirteen relations reduce to five and then three. Each relation further decomposes into correlation-aware temporal primitives in the spirit of CIDOC CRM. The algebra is scale-invariant and separates graded expressions such as \"shortly before\" from contact relations. All results are Monte-Carlo validated and shipped as an open, tested Python package.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's Interval Relations",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's I。",
-        "方法：摘要线索包括 Monte-Carlo、PAA、CIDOC、CRM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "5d6bf5b240cdd83c",
-      "title": "Embedding Models Measure in Peculiar Ways",
-      "url": "https://arxiv.org/abs/2609.20821v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM"
-      ],
-      "title_zh": "Embedding Models Measure in Peculiar Ways",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM，核心对象是 Embedding Models Measure in Peculiar Ways。",
-        "方法：摘要线索包括 Embedding Models Measure in Peculiar Ways；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "3663a24116281cf6",
-      "title": "TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data",
-      "url": "https://arxiv.org/abs/2609.20693v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-09-17",
-      "abstract": "Detecting phases of matter in general relies on identifying the correct order parameter - a task that remains notoriously difficult for unknown transitions and traditionally is guided by physical intuition and educated guess. Neural networks have recently offered an alternative route by locating phase transitions in known models without any a priori physical knowledge. Yet these approaches remain black boxes and only identify phases without elucidating their properties. Moreover, they often struggle when confronted with realistic, noisy experimental data, which constitute the ultimate testbed for automated methods in physics. Here, we bridge these perspectives by introducing TetrisCNN, a convolutional architecture with parallel branches of differently shaped filters, reminiscent of Tetris blocks, that learns sparse, interpretable latent representations directly in terms of spin correlators. Applied to experimental snapshots of two-dimensional Ising and XY quantum simulators measured in multiple bases, the network not only detects phase transitions and crossovers but also expresses its latent representation and decision boundaries as symbolic formulas built from experimentally measurable spin correlators. This framework opens the way to integrating interpretable neural networks with quantum simulators to uncover and understand new phases of matter.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data。",
-        "方法：摘要线索包括 XY；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3807
     },
     {
       "id": "4dd657b9db9465b3",
@@ -17094,7 +16914,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-09-19",
+      "published": "2026-09-20",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -17112,6 +16932,186 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
       "score": 0.38
+    },
+    {
+      "id": "254ff32a8efce1e4",
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "url": "https://arxiv.org/abs/2609.20822v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent"
+      ],
+      "title_zh": "Coding 智能体 with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent，核心对象是 Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation。",
+        "方法：摘要线索包括 Obstacle-Aware、Obstacle-aware、SOTA、SafeHarness；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "17a115527d0ddf39",
+      "title": "Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure",
+      "url": "https://arxiv.org/abs/2609.20732v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Semantic cell annotation improves chunking interpretability for spreadsheets in LLM-driven RAG systems, aiding answer generation through enriched context rather than improved retrieval accuracy. We propose a novel framework of splitting any spreadsheet into interpretable chunks using cell role annotation. Our framework beats the state of the art, yet it faces a hard ceiling. Spreadsheets are fundamentally two-dimensional unstructured data with continuous relationships and infinite potential cell roles. Because classification models are restricted to finite, pre-defined classes, they cannot perfectly capture this structural nuance, even with human-level annotation. We show that addressing the spreadsheet-to-LLM bottleneck requires moving beyond discrete cell classification. Instead, the field must develop dimensionality-reduction techniques to directly flatten 2D unstructured spreadsheets into 1D unstructured text. Text chunks would be easier for downstream RAG to interpret and generate from.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure。",
+        "方法：摘要线索包括 LLM-driven、RAG、LLM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "42e7f592d7b2e5d3",
+      "title": "Ownership in AI-Assisted Everyday Tasks",
+      "url": "https://arxiv.org/abs/2609.20658v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "When does work done with AI still feel like ours? As AI becomes woven into everyday tasks, we must examine what happens to our sense of ownership and contribution when a machine shares in producing what we make. We report an exploratory qualitative survey in which participants were asked to describe two recent, self-selected tasks completed with AI: one that felt like their own and one that did not. We find that felt ownership depends on the process of collaboration: people disown work when they merely approve AI's suggestions, but retain ownership when they lead, iterate, or rewrite. Ownership can also extend to settings where people own the vision for a project but not the execution; respondents reported high ownership on tasks they could not have completed without AI. Loss of personal voice and a lack of comprehension of the output both erode ownership. Finally, willingness to disclose AI use is often decoupled from actual pride or ownership, and instead shaped by community norms and fear of credit erasure. We propose several research directions as a result of these findings to promote AI development that supports people's sense of authorship over their own lives.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "Ownership in AI-Assisted Everyday Tasks",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 Ownership in AI-Assisted Everyday Tasks。",
+        "方法：摘要线索包括 AI-Assisted、AI；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "c67cd8c623a700fa",
+      "title": "PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's Interval Relations",
+      "url": "https://arxiv.org/abs/2609.20634v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Allen's interval algebra is a qualitative calculus for temporal relations, but its thirteen base relations are crisp predicates over exact interval boundaries. This is inadequate for temporal information from language, perception, databases, or uncertain histories, where times, durations, and boundaries are uncertain and expressions such as \"just before\" or \"roughly during\" have graded meaning. We develop the probabilistic Allen algebra (PAA): a generative and complete extension in which relation probabilities are derived from distributions over interval boundaries rather than assigned as scores. Time points are Gaussian; intervals have Gaussian midpoints and truncated-Gaussian durations. Every relation is a boundary-ordering predicate in one common probability space: point-point relations reduce to error functions, and point-interval and interval-interval relations to multivariate Gaussian orthant probabilities induced by linear inequalities. Contact relations (meets, starts, finishes, equals) receive positive measure through a tolerance band, and under a single tolerance the thirteen relations form a true partition that recovers crisp Allen as the tolerance vanishes. The construction derives Allen's taxonomy rather than positing it: coarse predicates such as precedence, overlap, and containment are unions of leaves whose probabilities are leaf sums, and this hierarchy is preserved as intervals collapse to points and thirteen relations reduce to five and then three. Each relation further decomposes into correlation-aware temporal primitives in the spirit of CIDOC CRM. The algebra is scale-invariant and separates graded expressions such as \"shortly before\" from contact relations. All results are Monte-Carlo validated and shipped as an open, tested Python package.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's Interval Relations",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's I。",
+        "方法：摘要线索包括 Monte-Carlo、PAA、CIDOC、CRM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "5d6bf5b240cdd83c",
+      "title": "Embedding Models Measure in Peculiar Ways",
+      "url": "https://arxiv.org/abs/2609.20821v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM"
+      ],
+      "title_zh": "Embedding Models Measure in Peculiar Ways",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM，核心对象是 Embedding Models Measure in Peculiar Ways。",
+        "方法：摘要线索包括 Embedding Models Measure in Peculiar Ways；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "3663a24116281cf6",
+      "title": "TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data",
+      "url": "https://arxiv.org/abs/2609.20693v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-09-17",
+      "abstract": "Detecting phases of matter in general relies on identifying the correct order parameter - a task that remains notoriously difficult for unknown transitions and traditionally is guided by physical intuition and educated guess. Neural networks have recently offered an alternative route by locating phase transitions in known models without any a priori physical knowledge. Yet these approaches remain black boxes and only identify phases without elucidating their properties. Moreover, they often struggle when confronted with realistic, noisy experimental data, which constitute the ultimate testbed for automated methods in physics. Here, we bridge these perspectives by introducing TetrisCNN, a convolutional architecture with parallel branches of differently shaped filters, reminiscent of Tetris blocks, that learns sparse, interpretable latent representations directly in terms of spin correlators. Applied to experimental snapshots of two-dimensional Ising and XY quantum simulators measured in multiple bases, the network not only detects phase transitions and crossovers but also expresses its latent representation and decision boundaries as symbolic formulas built from experimentally measurable spin correlators. This framework opens the way to integrating interpretable neural networks with quantum simulators to uncover and understand new phases of matter.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 TetrisCNN for interpretable detection of phases of matter from experimental quantum simulator data。",
+        "方法：摘要线索包括 XY；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
     },
     {
       "id": "b2ffb4b5ebaf0622",
@@ -17167,7 +17167,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.27
+      "score": 0.234
     }
   ]
 }
