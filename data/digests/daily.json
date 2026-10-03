@@ -1,7 +1,7 @@
 {
-  "title": "2026-10-02 AI Research Briefing",
+  "title": "2026-10-03 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-10-02T19:44:01",
+  "generated_at": "2026-10-03T18:31:24",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3141,7 +3141,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.5773
     },
     {
       "id": "e10520443dcce9af",
@@ -3264,6 +3264,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-03",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "ac490728334eff11",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
@@ -3291,37 +3321,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-02",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "4046ae373426bf56",
@@ -3424,7 +3424,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "citations": {
         "semantic_scholar": null,
@@ -3455,7 +3455,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "citations": {
         "semantic_scholar": null,
@@ -3486,7 +3486,7 @@
         "LLM",
         "RL"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "citations": {
         "semantic_scholar": null,
@@ -3517,7 +3517,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -3547,7 +3547,7 @@
       "topics": [
         "AI for Health"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
       "citations": {
         "semantic_scholar": null,
@@ -3577,7 +3577,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "citations": {
         "semantic_scholar": null,
@@ -3607,7 +3607,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "citations": {
         "semantic_scholar": null,
@@ -3637,7 +3637,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "citations": {
         "semantic_scholar": null,
@@ -3667,7 +3667,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
       "citations": {
         "semantic_scholar": null,
@@ -3697,7 +3697,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "citations": {
         "semantic_scholar": null,
@@ -3727,7 +3727,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "citations": {
         "semantic_scholar": null,
@@ -3757,7 +3757,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "citations": {
         "semantic_scholar": null,
@@ -3787,7 +3787,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "citations": {
         "semantic_scholar": null,
@@ -3817,7 +3817,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "citations": {
         "semantic_scholar": null,
@@ -3847,7 +3847,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "citations": {
         "semantic_scholar": null,
@@ -3877,7 +3877,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
       "citations": {
         "semantic_scholar": null,
@@ -3907,7 +3907,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "citations": {
         "semantic_scholar": null,
@@ -3937,7 +3937,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "citations": {
         "semantic_scholar": null,
@@ -3967,7 +3967,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "citations": {
         "semantic_scholar": null,
@@ -3997,7 +3997,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "citations": {
         "semantic_scholar": null,
@@ -4027,7 +4027,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "citations": {
         "semantic_scholar": null,
@@ -4057,7 +4057,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "citations": {
         "semantic_scholar": null,
@@ -4087,7 +4087,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "citations": {
         "semantic_scholar": null,
@@ -4117,7 +4117,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
       "citations": {
         "semantic_scholar": null,
@@ -4147,7 +4147,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
       "citations": {
         "semantic_scholar": null,
@@ -4177,7 +4177,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
       "citations": {
         "semantic_scholar": null,
@@ -4207,7 +4207,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "citations": {
         "semantic_scholar": null,
@@ -4237,7 +4237,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "citations": {
         "semantic_scholar": null,
@@ -4267,7 +4267,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
       "citations": {
         "semantic_scholar": null,
@@ -4297,7 +4297,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
       "citations": {
         "semantic_scholar": null,
@@ -14413,7 +14413,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "citations": {
         "semantic_scholar": null,
@@ -14508,7 +14508,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "citations": {
         "semantic_scholar": null,
@@ -14539,7 +14539,7 @@
         "LLM",
         "RL"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "citations": {
         "semantic_scholar": null,
@@ -14570,7 +14570,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Introducing Agent Skills | Claude by Anthropic",
       "citations": {
         "semantic_scholar": null,
@@ -15403,6 +15403,36 @@
       "score": 0.6133
     },
     {
+      "id": "e9807ca5eb4c941a",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI for Health"
+      ],
+      "published": "2026-10-03",
+      "abstract": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing MentalHealthBench",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Introducing MentalHealthBench。",
+        "内容要点：MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+        "关键词：AI、MentalHealthBench。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5967
+    },
+    {
       "id": "295646741199a170",
       "title": "The Download: OpenAI’s chief research officer explains its hacking response",
       "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
@@ -15431,37 +15461,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.6133
-    },
-    {
-      "id": "e9807ca5eb4c941a",
-      "title": "Introducing MentalHealthBench",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI for Health"
-      ],
-      "published": "2026-10-02",
-      "abstract": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing MentalHealthBench",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Introducing MentalHealthBench。",
-        "内容要点：MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-        "关键词：AI、MentalHealthBench。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5967
+      "score": 0.5773
     },
     {
       "id": "997e05a30b721202",
@@ -15474,7 +15474,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "citations": {
         "semantic_scholar": null,
@@ -15504,7 +15504,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "citations": {
         "semantic_scholar": null,
@@ -15534,7 +15534,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "citations": {
         "semantic_scholar": null,
@@ -15564,7 +15564,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
       "citations": {
         "semantic_scholar": null,
@@ -15594,7 +15594,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "citations": {
         "semantic_scholar": null,
@@ -15624,7 +15624,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "citations": {
         "semantic_scholar": null,
@@ -15654,7 +15654,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "citations": {
         "semantic_scholar": null,
@@ -15684,7 +15684,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "citations": {
         "semantic_scholar": null,
@@ -15714,7 +15714,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "citations": {
         "semantic_scholar": null,
@@ -15744,7 +15744,7 @@
       "topics": [
         "RL"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "citations": {
         "semantic_scholar": null,
@@ -15774,7 +15774,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
       "citations": {
         "semantic_scholar": null,
@@ -15804,7 +15804,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
       "citations": {
         "semantic_scholar": null,
@@ -15834,7 +15834,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
       "citations": {
         "semantic_scholar": null,
@@ -15864,7 +15864,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
       "citations": {
         "semantic_scholar": null,
@@ -15894,7 +15894,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "citations": {
         "semantic_scholar": null,
@@ -15924,7 +15924,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
       "citations": {
         "semantic_scholar": null,
@@ -15954,7 +15954,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "citations": {
         "semantic_scholar": null,
@@ -15984,7 +15984,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
       "citations": {
         "semantic_scholar": null,
@@ -16014,7 +16014,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
       "citations": {
         "semantic_scholar": null,
@@ -16044,7 +16044,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
       "citations": {
         "semantic_scholar": null,
@@ -16074,7 +16074,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
       "citations": {
         "semantic_scholar": null,
@@ -16104,7 +16104,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
       "citations": {
         "semantic_scholar": null,
@@ -16134,7 +16134,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "citations": {
         "semantic_scholar": null,
@@ -16164,7 +16164,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
       "citations": {
         "semantic_scholar": null,
@@ -16194,7 +16194,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
       "citations": {
         "semantic_scholar": null,
@@ -16224,7 +16224,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Google DeepMind Blog",
       "citations": {
         "semantic_scholar": null,
@@ -16254,7 +16254,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16921,36 +16921,6 @@
       "score": 0.4967
     },
     {
-      "id": "ac490728334eff11",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent"
-      ],
-      "published": "2026-09-30",
-      "abstract": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer。",
-        "内容要点：Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since ha...",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -16961,7 +16931,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16991,7 +16961,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
       "citations": {
         "semantic_scholar": null,
@@ -17009,6 +16979,36 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.4867
+    },
+    {
+      "id": "ac490728334eff11",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent"
+      ],
+      "published": "2026-09-30",
+      "abstract": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer。",
+        "内容要点：Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since ha...",
+        "关键词：AI。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "4046ae373426bf56",
@@ -17465,7 +17465,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-10-02",
+      "published": "2026-10-03",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
