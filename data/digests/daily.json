@@ -1,7 +1,7 @@
 {
-  "title": "2026-10-12 AI Research Briefing",
+  "title": "2026-10-13 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-10-12T22:22:35",
+  "generated_at": "2026-10-13T20:29:43",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -3068,6 +3068,66 @@
   ],
   "academic_news_items": [
     {
+      "id": "297bde3b084c124f",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-10-13",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: open model trade-offs and geothermal power’s promise",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: open model trade-offs and geothermal power’s promise。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "590c50a7b19b4bbf",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-10-13",
+      "abstract": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Open models have real benefits. Do they outweigh the risks?",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Open models have real benefits. Do they outweigh the risks?。",
+        "内容要点：MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+        "关键词：GLM-5、MIT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
       "id": "4e98788fdfa38481",
       "title": "The Download: moon city problems and drone traffic controllers",
       "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
@@ -3108,7 +3168,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -3158,68 +3218,8 @@
       "score": 0.4607
     },
     {
-      "id": "8a59fbb383de5c3b",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-08",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI roadblocks for humanoids and portable rubber dams。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "e9632a01e3284bd0",
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-08",
-      "abstract": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Why we’re watching these climate tech companies",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Why we’re watching these climate tech companies。",
-        "内容要点：This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together.",
-        "关键词：MIT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "6a6d3965ab42bb0a",
-      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "id": "debfd73d79cffc42",
+      "title": "What it would take to build a city on the moon",
       "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
@@ -3235,9 +3235,9 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Mars may be a hellhole, but the moon is not far behind",
+      "title_zh": "What it would take to build a city on the moon",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Mars may be a hellhole, but the moon is not far behind。",
+        "MIT Technology Review AI 的这条更新聚焦：What it would take to build a city on the moon。",
         "内容要点：Welcome to the second space race. You can be forgiven for experiencing déjà vu.",
         "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
@@ -3358,16 +3358,16 @@
       "score": 0.344
     },
     {
-      "id": "61b219e09c5620b7",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "id": "bd81ae7ddcc3b953",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
       "topics": [],
-      "published": "2026-10-09",
-      "abstract": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+      "published": "2026-10-13",
+      "abstract": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3375,15 +3375,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "title_zh": "AI labs are buying data from dead startups to train their models",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Roundtables: A Conversation With the Creator of AI-Designed Viruses。",
-        "内容要点：Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-        "关键词：AI-Designed、AI-generated、AI。"
+        "MIT Technology Review AI 的这条更新聚焦：AI labs are buying data from dead startups to train their models。",
+        "内容要点：When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+        "指标/证据：25,000；关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.344
+      "score": 0.3
     }
   ],
   "industry_items": [
@@ -3400,7 +3400,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "citations": {
         "semantic_scholar": null,
@@ -3431,7 +3431,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "citations": {
         "semantic_scholar": null,
@@ -3462,7 +3462,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -3493,7 +3493,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "citations": {
         "semantic_scholar": null,
@@ -3524,7 +3524,7 @@
         "LLM",
         "RL"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "citations": {
         "semantic_scholar": null,
@@ -3555,7 +3555,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
       "citations": {
         "semantic_scholar": null,
@@ -3575,6 +3575,36 @@
       "score": 0.6833
     },
     {
+      "id": "affc2e45e5dc6ad6",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Computer Vision"
+      ],
+      "published": "2026-10-13",
+      "abstract": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Higgsfield takes AI video from 1 minute to over 10。",
+        "内容要点：Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "关键词：GPT-6、GPT-Image-2、GPT-Live、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "145acdd75501f45a",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -3585,7 +3615,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "citations": {
         "semantic_scholar": null,
@@ -3615,7 +3645,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "citations": {
         "semantic_scholar": null,
@@ -3645,7 +3675,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "citations": {
         "semantic_scholar": null,
@@ -3675,7 +3705,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "citations": {
         "semantic_scholar": null,
@@ -3705,7 +3735,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "citations": {
         "semantic_scholar": null,
@@ -3735,7 +3765,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "citations": {
         "semantic_scholar": null,
@@ -3765,7 +3795,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "citations": {
         "semantic_scholar": null,
@@ -3795,7 +3825,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "citations": {
         "semantic_scholar": null,
@@ -3825,7 +3855,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "citations": {
         "semantic_scholar": null,
@@ -3855,7 +3885,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "citations": {
         "semantic_scholar": null,
@@ -3885,7 +3915,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "citations": {
         "semantic_scholar": null,
@@ -3915,7 +3945,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "citations": {
         "semantic_scholar": null,
@@ -3945,7 +3975,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "citations": {
         "semantic_scholar": null,
@@ -3975,7 +4005,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "citations": {
         "semantic_scholar": null,
@@ -4005,7 +4035,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "citations": {
         "semantic_scholar": null,
@@ -4035,7 +4065,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "citations": {
         "semantic_scholar": null,
@@ -4065,7 +4095,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
       "citations": {
         "semantic_scholar": null,
@@ -4095,7 +4125,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "citations": {
         "semantic_scholar": null,
@@ -4125,7 +4155,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "citations": {
         "semantic_scholar": null,
@@ -4155,7 +4185,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "citations": {
         "semantic_scholar": null,
@@ -4185,7 +4215,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "citations": {
         "semantic_scholar": null,
@@ -4215,7 +4245,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "citations": {
         "semantic_scholar": null,
@@ -4245,7 +4275,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
       "citations": {
         "semantic_scholar": null,
@@ -4262,36 +4292,6 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5667
-    },
-    {
-      "id": "07aaab0ebbd79d71",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-12",
-      "abstract": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Basis completes a tax workbook 2x faster with GPT-6 Astra。",
-        "内容要点：GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-        "关键词：GPT-6、GPT-5。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.5667
     }
   ],
@@ -14391,7 +14391,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "citations": {
         "semantic_scholar": null,
@@ -14422,7 +14422,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "citations": {
         "semantic_scholar": null,
@@ -14453,7 +14453,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -14484,7 +14484,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "citations": {
         "semantic_scholar": null,
@@ -14515,7 +14515,7 @@
         "LLM",
         "RL"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
       "citations": {
         "semantic_scholar": null,
@@ -14546,7 +14546,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
       "citations": {
         "semantic_scholar": null,
@@ -15212,6 +15212,36 @@
       "score": 0.584
     },
     {
+      "id": "affc2e45e5dc6ad6",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "Computer Vision"
+      ],
+      "published": "2026-10-13",
+      "abstract": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Higgsfield takes AI video from 1 minute to over 10。",
+        "内容要点：Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+        "关键词：GPT-6、GPT-Image-2、GPT-Live、AI。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "看官方 demo 或技术细节，避免只读营销表述",
+      "score": 0.5667
+    },
+    {
       "id": "145acdd75501f45a",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -15222,7 +15252,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "citations": {
         "semantic_scholar": null,
@@ -15252,7 +15282,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "citations": {
         "semantic_scholar": null,
@@ -15282,7 +15312,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "citations": {
         "semantic_scholar": null,
@@ -15312,7 +15342,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "citations": {
         "semantic_scholar": null,
@@ -15342,7 +15372,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "citations": {
         "semantic_scholar": null,
@@ -15372,7 +15402,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "citations": {
         "semantic_scholar": null,
@@ -15402,7 +15432,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "citations": {
         "semantic_scholar": null,
@@ -15432,7 +15462,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "citations": {
         "semantic_scholar": null,
@@ -15462,7 +15492,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "citations": {
         "semantic_scholar": null,
@@ -15492,7 +15522,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "citations": {
         "semantic_scholar": null,
@@ -15522,7 +15552,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "citations": {
         "semantic_scholar": null,
@@ -15552,7 +15582,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "citations": {
         "semantic_scholar": null,
@@ -15582,7 +15612,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "citations": {
         "semantic_scholar": null,
@@ -15612,7 +15642,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "citations": {
         "semantic_scholar": null,
@@ -15642,7 +15672,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
       "citations": {
         "semantic_scholar": null,
@@ -15672,7 +15702,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "citations": {
         "semantic_scholar": null,
@@ -15702,7 +15732,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
       "citations": {
         "semantic_scholar": null,
@@ -15732,7 +15762,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "citations": {
         "semantic_scholar": null,
@@ -15762,7 +15792,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "citations": {
         "semantic_scholar": null,
@@ -15792,7 +15822,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "citations": {
         "semantic_scholar": null,
@@ -15822,7 +15852,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "citations": {
         "semantic_scholar": null,
@@ -15852,7 +15882,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "citations": {
         "semantic_scholar": null,
@@ -15882,7 +15912,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
       "citations": {
         "semantic_scholar": null,
@@ -15902,38 +15932,8 @@
       "score": 0.5667
     },
     {
-      "id": "07aaab0ebbd79d71",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-12",
-      "abstract": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Basis completes a tax workbook 2x faster with GPT-6 Astra。",
-        "内容要点：GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-        "关键词：GPT-6、GPT-5。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "看官方 demo 或技术细节，避免只读营销表述",
-      "score": 0.5667
-    },
-    {
-      "id": "607ce8f0f08e203d",
-      "title": "Google DeepMind Blog",
+      "id": "c9479303102d5c83",
+      "title": "News — Google DeepMind",
       "url": "https://deepmind.google/blog/",
       "source": "Google DeepMind Blog",
       "source_tier": 1,
@@ -15942,8 +15942,8 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
-      "abstract": "Google DeepMind Blog",
+      "published": "2026-10-13",
+      "abstract": "News — Google DeepMind",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -15951,10 +15951,10 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Google DeepMind Blog",
+      "title_zh": "News — Google DeepMind",
       "summary_zh": [
-        "Google DeepMind Blog 的这条更新聚焦：Google DeepMind Blog。",
-        "内容要点：Google DeepMind Blog",
+        "Google DeepMind Blog 的这条更新聚焦：News — Google DeepMind。",
+        "内容要点：News — Google DeepMind",
         "关键词：DeepMind。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -15972,7 +15972,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16395,6 +16395,66 @@
       "score": 0.4973
     },
     {
+      "id": "297bde3b084c124f",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-10-13",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: open model trade-offs and geothermal power’s promise",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: open model trade-offs and geothermal power’s promise。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
+      "id": "590c50a7b19b4bbf",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-10-13",
+      "abstract": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Open models have real benefits. Do they outweigh the risks?",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：Open models have real benefits. Do they outweigh the risks?。",
+        "内容要点：MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here.",
+        "关键词：GLM-5、MIT。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4967
+    },
+    {
       "id": "4e98788fdfa38481",
       "title": "The Download: moon city problems and drone traffic controllers",
       "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
@@ -16435,7 +16495,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -16465,7 +16525,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
       "citations": {
         "semantic_scholar": null,
@@ -16825,66 +16885,6 @@
       "score": 0.4607
     },
     {
-      "id": "8a59fbb383de5c3b",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-08",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the idea that the same AI…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: AI roadblocks for humanoids and portable rubber dams。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch.",
-        "关键词：AI。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
-      "id": "e9632a01e3284bd0",
-      "title": "Why we’re watching these climate tech companies",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-08",
-      "abstract": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Why we’re watching these climate tech companies",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Why we’re watching these climate tech companies。",
-        "内容要点：This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together.",
-        "关键词：MIT。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4607
-    },
-    {
       "id": "f73b006436dcaf19",
       "title": "Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning",
       "url": "https://arxiv.org/abs/2610.13812v1",
@@ -17215,8 +17215,8 @@
       "score": 0.3807
     },
     {
-      "id": "6a6d3965ab42bb0a",
-      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "id": "debfd73d79cffc42",
+      "title": "What it would take to build a city on the moon",
       "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
@@ -17232,9 +17232,9 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Mars may be a hellhole, but the moon is not far behind",
+      "title_zh": "What it would take to build a city on the moon",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Mars may be a hellhole, but the moon is not far behind。",
+        "MIT Technology Review AI 的这条更新聚焦：What it would take to build a city on the moon。",
         "内容要点：Welcome to the second space race. You can be forgiven for experiencing déjà vu.",
         "建议点开原文确认具体时间、机构、证据和上下文。"
       ],
@@ -17279,7 +17279,7 @@
       "category": "学术论文",
       "source_kind": "web",
       "topics": [],
-      "published": "2026-10-12",
+      "published": "2026-10-13",
       "abstract": "Your daily dose of AI research from AK",
       "citations": {
         "semantic_scholar": null,
@@ -17683,16 +17683,16 @@
       "score": 0.344
     },
     {
-      "id": "61b219e09c5620b7",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "id": "bd81ae7ddcc3b953",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
       "source": "MIT Technology Review AI",
       "source_tier": 2,
       "category": "学术新闻",
       "source_kind": "rss",
       "topics": [],
-      "published": "2026-10-09",
-      "abstract": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+      "published": "2026-10-13",
+      "abstract": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -17700,15 +17700,15 @@
       "signals": {
         "hotness": 0.0
       },
-      "title_zh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "title_zh": "AI labs are buying data from dead startups to train their models",
       "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：Roundtables: A Conversation With the Creator of AI-Designed Viruses。",
-        "内容要点：Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses.",
-        "关键词：AI-Designed、AI-generated、AI。"
+        "MIT Technology Review AI 的这条更新聚焦：AI labs are buying data from dead startups to train their models。",
+        "内容要点：When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money.",
+        "指标/证据：25,000；关键词：AI。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.344
+      "score": 0.3
     },
     {
       "id": "3a83b6a560607b02",
