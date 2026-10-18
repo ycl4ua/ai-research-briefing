@@ -1,7 +1,7 @@
 {
-  "title": "2026-10-17 AI Research Briefing",
+  "title": "2026-10-18 AI Research Briefing",
   "description": "Top 10 必读 + More 20 可扫，按你的研究兴趣画像生成。",
-  "generated_at": "2026-10-17T17:44:41",
+  "generated_at": "2026-10-18T17:47:18",
   "top_10": [
     {
       "id": "e0ba4f1101e61992",
@@ -1087,7 +1087,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
+      "score": 0.674
     },
     {
       "id": "c4849de612a122c5",
@@ -1120,7 +1120,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "e81369f89ec3d073",
@@ -1152,7 +1152,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "a48b598327a69a5b",
@@ -1184,7 +1184,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "6b875f525a390d47",
@@ -1217,7 +1217,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "861b5f52e896d1fa",
@@ -1249,7 +1249,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "57aede3e4f3491ec",
@@ -1283,7 +1283,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "d61ff5da974284a0",
@@ -1315,7 +1315,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "a0bdf38c0f98307e",
@@ -1347,7 +1347,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "741bcbbefe08f8ac",
@@ -1379,7 +1379,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "bf37a7385b755ea9",
@@ -1411,7 +1411,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "71f4df5b58dc4bfc",
@@ -1443,7 +1443,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "cfb59cd6b5b2772d",
@@ -1475,7 +1475,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "d7326276b3e90ad0",
@@ -1509,7 +1509,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "0a3505e14d1da874",
@@ -1541,7 +1541,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "d5c39e0c14967762",
@@ -1573,7 +1573,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c96501cb1a2a68db",
@@ -1605,7 +1605,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "117c78cc15bef3b7",
@@ -1638,7 +1638,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "6f8984fc167401b6",
@@ -1670,7 +1670,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "337f1a20f66bd840",
@@ -1704,7 +1704,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "4707b127326763dd",
@@ -1738,7 +1738,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b39860a64fbc7cad",
@@ -1770,7 +1770,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "2f9e0ecd13996e66",
@@ -1802,7 +1802,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "ea25acc444387a92",
@@ -1834,7 +1834,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "df68fad5c3f46a76",
@@ -1865,7 +1865,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "a0e25d984812ab83",
@@ -1896,7 +1896,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "0e9da27dca8504f0",
@@ -1927,7 +1927,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "abfc992f8dead40d",
@@ -1958,7 +1958,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "12c15582c204eb6f",
@@ -1989,7 +1989,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "b622063c698d9bd2",
@@ -2020,7 +2020,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     }
   ],
   "paper_items": [
@@ -3089,7 +3089,7 @@
         "RL"
       ],
       "published": "2026-10-16",
-      "abstract": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…",
+      "abstract": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,…",
       "citations": {
         "semantic_scholar": null,
         "openalex": null
@@ -3100,7 +3100,7 @@
       "title_zh": "This implant can restore sight for patients with macular degeneration",
       "summary_zh": [
         "MIT Technology Review AI 的这条更新聚焦：This implant can restore sight for patients with macular degeneration。",
-        "内容要点：More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision.",
+        "内容要点：More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision.",
         "关键词：AMD、PRIMA、FDA、US。"
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
@@ -3168,6 +3168,36 @@
       "score": 0.4967
     },
     {
+      "id": "29ce826a5b1ec84d",
+      "title": "Skills - Docs by LangChain",
+      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
+      "source": "LangChain Skills",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "web",
+      "topics": [
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "Skills - Docs by LangChain",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Skills - Docs by LangChain",
+      "summary_zh": [
+        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
+        "内容要点：Skills - Docs by LangChain",
+        "关键词：LangChain。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.4967
+    },
+    {
       "id": "a1e250cd7b29b735",
       "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
       "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
@@ -3195,7 +3225,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "14b40137d17c6b26",
@@ -3225,37 +3255,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "29ce826a5b1ec84d",
-      "title": "Skills - Docs by LangChain",
-      "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
-      "source": "LangChain Skills",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "web",
-      "topics": [
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "Skills - Docs by LangChain",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Skills - Docs by LangChain",
-      "summary_zh": [
-        "LangChain Skills 的这条更新聚焦：Skills - Docs by LangChain。",
-        "内容要点：Skills - Docs by LangChain",
-        "关键词：LangChain。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.4967
+      "score": 0.4607
     },
     {
       "id": "5b6fd6cfc1c43557",
@@ -3367,7 +3367,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "9698ee76fa6c615d",
@@ -3395,7 +3395,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     }
   ],
   "industry_items": [
@@ -3412,7 +3412,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "citations": {
         "semantic_scholar": null,
@@ -3443,7 +3443,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
       "citations": {
         "semantic_scholar": null,
@@ -3474,7 +3474,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "citations": {
         "semantic_scholar": null,
@@ -3505,7 +3505,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
       "citations": {
         "semantic_scholar": null,
@@ -3536,7 +3536,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
       "citations": {
         "semantic_scholar": null,
@@ -3567,7 +3567,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
       "citations": {
         "semantic_scholar": null,
@@ -3598,7 +3598,7 @@
         "AI Agent",
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
       "citations": {
         "semantic_scholar": null,
@@ -3628,7 +3628,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "citations": {
         "semantic_scholar": null,
@@ -3658,7 +3658,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "citations": {
         "semantic_scholar": null,
@@ -3688,7 +3688,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "citations": {
         "semantic_scholar": null,
@@ -3718,7 +3718,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "citations": {
         "semantic_scholar": null,
@@ -3748,7 +3748,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "citations": {
         "semantic_scholar": null,
@@ -3778,7 +3778,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
       "citations": {
         "semantic_scholar": null,
@@ -3808,7 +3808,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -3838,7 +3838,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "citations": {
         "semantic_scholar": null,
@@ -3868,7 +3868,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "citations": {
         "semantic_scholar": null,
@@ -3898,7 +3898,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "citations": {
         "semantic_scholar": null,
@@ -3928,7 +3928,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "citations": {
         "semantic_scholar": null,
@@ -3958,7 +3958,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "citations": {
         "semantic_scholar": null,
@@ -3988,7 +3988,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "citations": {
         "semantic_scholar": null,
@@ -4018,7 +4018,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "citations": {
         "semantic_scholar": null,
@@ -4048,7 +4048,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "citations": {
         "semantic_scholar": null,
@@ -4078,7 +4078,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "citations": {
         "semantic_scholar": null,
@@ -4108,7 +4108,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "citations": {
         "semantic_scholar": null,
@@ -4138,7 +4138,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "citations": {
         "semantic_scholar": null,
@@ -4168,7 +4168,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "citations": {
         "semantic_scholar": null,
@@ -4198,7 +4198,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "citations": {
         "semantic_scholar": null,
@@ -4228,7 +4228,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "citations": {
         "semantic_scholar": null,
@@ -4258,7 +4258,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "citations": {
         "semantic_scholar": null,
@@ -4288,7 +4288,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "citations": {
         "semantic_scholar": null,
@@ -14404,7 +14404,7 @@
         "Agent Skills / MCP / Tool Use",
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "citations": {
         "semantic_scholar": null,
@@ -14422,6 +14422,192 @@
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
       "score": 0.8
+    },
+    {
+      "id": "4811fdf72646d719",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Stack Overflow for 智能体 triples signups with ChatGPT plugin",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Stack Overflow for Agents triples signups with ChatGPT plugin。",
+        "内容要点：Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+        "关键词：ChatGPT。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "6761dff931344c82",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Third Moment Research runs 10,000 智能体 for 36+ hours",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Third Moment Research runs 10,000 agents for 36+ hours。",
+        "内容要点：With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+        "关键词：GPT-6、AI。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "154945fd589141fa",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Asana cuts model costs 76x in browser tests with GPT-6.1 Sol。",
+        "内容要点：Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+        "关键词：GPT-6。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "c1bfa467f62308a9",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：How Oracle turns days of work into minutes with ChatGPT and Codex。",
+        "内容要点：Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+        "关键词：ChatGPT。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "140f12d80066d8ed",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI News",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "rss",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Chatham scales its capital markets expertise with OpenAI",
+      "summary_zh": [
+        "OpenAI News 的这条更新聚焦：Chatham scales its capital markets expertise with OpenAI。",
+        "内容要点：Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+        "关键词：GPT-5。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
+    },
+    {
+      "id": "b18b3fdef842963a",
+      "title": "Introducing Agent Skills | Claude by Anthropic",
+      "url": "https://claude.com/blog/skills",
+      "source": "Claude Skills",
+      "source_tier": 1,
+      "category": "工业界",
+      "source_kind": "web",
+      "topics": [
+        "AI Agent",
+        "Agent Skills / MCP / Tool Use"
+      ],
+      "published": "2026-10-18",
+      "abstract": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Introducing 智能体 Skills | Claude by Anthropic",
+      "summary_zh": [
+        "Claude Skills 的这条更新聚焦：Introducing Agent Skills | Claude by Anthropic。",
+        "内容要点：Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
+      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
+      "score": 0.6833
     },
     {
       "id": "9d3582b4239c231a",
@@ -14453,193 +14639,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.71
-    },
-    {
-      "id": "4811fdf72646d719",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Stack Overflow for 智能体 triples signups with ChatGPT plugin",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Stack Overflow for Agents triples signups with ChatGPT plugin。",
-        "内容要点：Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "6761dff931344c82",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Third Moment Research runs 10,000 智能体 for 36+ hours",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Third Moment Research runs 10,000 agents for 36+ hours。",
-        "内容要点：With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-        "关键词：GPT-6、AI。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "154945fd589141fa",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Asana cuts model costs 76x in browser tests with GPT-6.1 Sol。",
-        "内容要点：Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-        "关键词：GPT-6。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "c1bfa467f62308a9",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：How Oracle turns days of work into minutes with ChatGPT and Codex。",
-        "内容要点：Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-        "关键词：ChatGPT。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "140f12d80066d8ed",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "rss",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Chatham scales its capital markets expertise with OpenAI",
-      "summary_zh": [
-        "OpenAI News 的这条更新聚焦：Chatham scales its capital markets expertise with OpenAI。",
-        "内容要点：Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-        "关键词：GPT-5。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
-    },
-    {
-      "id": "b18b3fdef842963a",
-      "title": "Introducing Agent Skills | Claude by Anthropic",
-      "url": "https://claude.com/blog/skills",
-      "source": "Claude Skills",
-      "source_tier": 1,
-      "category": "工业界",
-      "source_kind": "web",
-      "topics": [
-        "AI Agent",
-        "Agent Skills / MCP / Tool Use"
-      ],
-      "published": "2026-10-17",
-      "abstract": "Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed. Claude will only access a skill when it's relevant to the task at hand.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Introducing 智能体 Skills | Claude by Anthropic",
-      "summary_zh": [
-        "Claude Skills 的这条更新聚焦：Introducing Agent Skills | Claude by Anthropic。",
-        "内容要点：Claude can now use Skills to improve how it performs specific tasks. Skills are folders that include instructions, scripts, and resources that Claude can load when needed.",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
-      "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.6833
+      "score": 0.674
     },
     {
       "id": "c4849de612a122c5",
@@ -14672,7 +14672,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "e81369f89ec3d073",
@@ -14704,7 +14704,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "a48b598327a69a5b",
@@ -14736,7 +14736,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "6b875f525a390d47",
@@ -14769,7 +14769,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "861b5f52e896d1fa",
@@ -14801,7 +14801,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "57aede3e4f3491ec",
@@ -14835,7 +14835,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.68
+      "score": 0.644
     },
     {
       "id": "d61ff5da974284a0",
@@ -14867,7 +14867,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "a0bdf38c0f98307e",
@@ -14899,7 +14899,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "741bcbbefe08f8ac",
@@ -14931,7 +14931,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "bf37a7385b755ea9",
@@ -14963,7 +14963,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "71f4df5b58dc4bfc",
@@ -14995,7 +14995,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
     },
     {
       "id": "cfb59cd6b5b2772d",
@@ -15027,7 +15027,38 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.65
+      "score": 0.614
+    },
+    {
+      "id": "aa1b1517bd223fd1",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "published": "2026-10-16",
+      "abstract": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "This implant can restore sight for patients with macular degeneration",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：This implant can restore sight for patients with macular degeneration。",
+        "内容要点：More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision.",
+        "关键词：AMD、PRIMA、FDA、US。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.6133
     },
     {
       "id": "d7326276b3e90ad0",
@@ -15061,7 +15092,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "0a3505e14d1da874",
@@ -15093,7 +15124,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "d5c39e0c14967762",
@@ -15125,7 +15156,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "c96501cb1a2a68db",
@@ -15157,7 +15188,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "117c78cc15bef3b7",
@@ -15190,7 +15221,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "6f8984fc167401b6",
@@ -15222,7 +15253,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "337f1a20f66bd840",
@@ -15256,7 +15287,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "4707b127326763dd",
@@ -15290,7 +15321,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "b39860a64fbc7cad",
@@ -15322,7 +15353,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "2f9e0ecd13996e66",
@@ -15354,7 +15385,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.62
+      "score": 0.584
     },
     {
       "id": "ea25acc444387a92",
@@ -15386,38 +15417,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.62
-    },
-    {
-      "id": "aa1b1517bd223fd1",
-      "title": "This implant can restore sight for patients with macular degeneration",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "published": "2026-10-16",
-      "abstract": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "This implant can restore sight for patients with macular degeneration",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：This implant can restore sight for patients with macular degeneration。",
-        "内容要点：More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision.",
-        "关键词：AMD、PRIMA、FDA、US。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.6133
+      "score": 0.584
     },
     {
       "id": "19a35b33cb1756dd",
@@ -15430,7 +15430,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
       "citations": {
         "semantic_scholar": null,
@@ -15460,7 +15460,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
       "citations": {
         "semantic_scholar": null,
@@ -15490,7 +15490,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "citations": {
         "semantic_scholar": null,
@@ -15520,7 +15520,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
       "citations": {
         "semantic_scholar": null,
@@ -15550,7 +15550,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
       "citations": {
         "semantic_scholar": null,
@@ -15580,7 +15580,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
       "citations": {
         "semantic_scholar": null,
@@ -15610,7 +15610,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
       "citations": {
         "semantic_scholar": null,
@@ -15640,7 +15640,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "citations": {
         "semantic_scholar": null,
@@ -15670,7 +15670,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "citations": {
         "semantic_scholar": null,
@@ -15700,7 +15700,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "citations": {
         "semantic_scholar": null,
@@ -15730,7 +15730,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "citations": {
         "semantic_scholar": null,
@@ -15760,7 +15760,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "citations": {
         "semantic_scholar": null,
@@ -15790,7 +15790,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "citations": {
         "semantic_scholar": null,
@@ -15820,7 +15820,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
       "citations": {
         "semantic_scholar": null,
@@ -15850,7 +15850,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
       "citations": {
         "semantic_scholar": null,
@@ -15880,7 +15880,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
       "citations": {
         "semantic_scholar": null,
@@ -15910,7 +15910,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "citations": {
         "semantic_scholar": null,
@@ -15940,7 +15940,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
       "citations": {
         "semantic_scholar": null,
@@ -15970,7 +15970,7 @@
       "topics": [
         "AI Agent"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "citations": {
         "semantic_scholar": null,
@@ -16000,7 +16000,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "citations": {
         "semantic_scholar": null,
@@ -16030,7 +16030,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
       "citations": {
         "semantic_scholar": null,
@@ -16060,7 +16060,7 @@
       "topics": [
         "Computer Vision"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "citations": {
         "semantic_scholar": null,
@@ -16090,7 +16090,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "citations": {
         "semantic_scholar": null,
@@ -16120,7 +16120,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Google DeepMind Blog",
       "citations": {
         "semantic_scholar": null,
@@ -16150,7 +16150,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "citations": {
         "semantic_scholar": null,
@@ -16198,7 +16198,7 @@
       ],
       "why_it_matters": "它可能直接影响 Codex、Claude Code、LangChain 等 agent 工作流的可用能力。",
       "action": "看官方文档或 repo，判断是否能装进你的 Codex 工作流",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "a0e25d984812ab83",
@@ -16229,7 +16229,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "0e9da27dca8504f0",
@@ -16260,7 +16260,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5633
+      "score": 0.5273
     },
     {
       "id": "abfc992f8dead40d",
@@ -16291,7 +16291,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "12c15582c204eb6f",
@@ -16322,7 +16322,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "b622063c698d9bd2",
@@ -16353,7 +16353,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "189794db1f07762d",
@@ -16384,7 +16384,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "d7b2f0dc64a6ff2e",
@@ -16415,7 +16415,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "6d0aaaf5bbc377a3",
@@ -16446,7 +16446,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "b9233f8e474aae11",
@@ -16477,7 +16477,7 @@
       ],
       "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "c54eda1f5a72b272",
@@ -16508,7 +16508,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
+      "score": 0.4973
     },
     {
       "id": "e6c33f31580f898c",
@@ -16539,348 +16539,7 @@
       ],
       "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5333
-    },
-    {
-      "id": "e888b8d6c7e1d5ae",
-      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-      "url": "https://arxiv.org/abs/2610.22364v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they take. During training, T2-Z alternates between two stages: a world-model optimization stage that fixes the latents and learns general action-conditioned dynamics across environments; and an environment-latent optimization stage that freezes the world model and optimizes the conditioning latents, allowing latent structure to emerge purely through world prediction. At test time, the world model remains frozen and a newly initialized environment latent is optimized from one or more test-time interactions, adapting the model to previously unseen environmental configurations. Across 7 simulated settings and 4 real-world robotic tasks, T2-Z reduces object prediction error metric from 15.20 to 7.00 and raises action success from 33.73% to 72.96%. Its emergent latents capture structured representations of individual and compounded factors across diverse visual scenes. Ablations further show that T2-Z can efficiently infer environment latents from as little as a single test-time interaction trajectory.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 T2-z: Test-Time Optimization of Environment Latents for Robotic World Models。",
-        "方法：摘要线索包括 T2-z、Test-Time、T2-Z；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "5ef25506201c7d82",
-      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-      "url": "https://arxiv.org/abs/2610.22362v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in which a simulation data engine and an action policy co-evolve through a shared heterogeneous memory of environment construction, policy failures, and learning progress. The memory compiles validated diagnoses from a vision-language critic into generation programs that recreate difficulties and training programs that help the policy overcome them. We further propose Text2potential to convert these diagnoses into staged potentials for action-chunk value learning, providing dense supervision for policy updates while preserving the task's optimal policy under standard shaping assumptions. Measured learning progress guides further generation and program refinement. Across four manipulation task families, CoDA improves out-of-distribution success from 5.3% after supervised fine-tuning to 27.6%, exceeding the strongest closed-loop baseline by 9.5 percentage points with the same generation budget. On LIBERO-Pro, 15 rounds of generation and training raise success from 25% to 84% under position perturbations and from 1% to 76% under instruction perturbations.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "VLM"
-      ],
-      "title_zh": "CoDA: Co-Evolution of Data Engines and Action Policies",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 CoDA: Co-Evolution of Data Engines and Action Policies。",
-        "方法：摘要线索包括 Co-Evolution、LIBERO-Pro、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "ee3e27ca643b8b7c",
-      "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
-      "url": "https://arxiv.org/abs/2610.22328v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successive edits, creating a gap between the input distributions encountered during the editor's original training and multi-turn inference. We introduce a training scheme that makes multi-turn image editing stable under this accumulating distribution shift. A key is to force the editor to operate on its own outputs from previous editing turns during training, bringing the principle of Self-Forcing to image editing. The main challenge is that self-generated editing trajectories deviate from ground-truth trajectories, making direct supervision unreliable. We address this challenge through a distillation objective that leverages a teacher image editor to provide a reliable training signal when the model operates on its own previous outputs. We introduce an asymmetric conditioning scheme: while the student performs edits sequentially on its own outputs, the teacher remains anchored to the original clean image and receives a compound editing instruction. Experiments show substantially reduced degradation over long multi-turn sequences while maintaining editing quality and instruction adherence.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "LLM"
-      ],
-      "title_zh": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning。",
-        "方法：摘要线索包括 Multi-Turn、Self-Forcing、ACEdit；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "7ae39a93322ed9df",
-      "title": "Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness",
-      "url": "https://arxiv.org/abs/2610.22249v1",
-      "source": "arXiv cs.CL",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Recurring expressions in model-written text are often treated as signatures of machine authorship, yet most of them serve legitimate functions. Whether such an expression is a tic depends on whether the model knows when it is called for. This judgment of appropriateness, central to communicative competence, remains largely unexamined for language models. We study it through the Mandarin corrective construction bushi X, ershi Y (\"not X, but Y\"). Drawing on Gricean pragmatics and corrective negation, we introduce a decision tree that classifies uses as substantive, optional, or defective by testing whether the context makes X a live alternative and whether rejecting X is informative. Five commercial models use the construction 2.5 to 9.2 times as densely as a human reference. Of 307 annotated uses, only 1.30% are defective while 52.8% are optional, that is, correct but unneeded, so models fall short in appropriateness far more often than in correctness. Several reward models favor the construction even over quality-matched variants, an LLM judge favors it even where the context does not license it, and both supervised fine-tuning and preference optimization tend to raise its frequency in open-weight models. We hope this work encourages the development of models attentive to the appropriateness of their expressions.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness。",
-        "方法：摘要线索包括 LLM、reward model；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "e7aaf35b2276dd43",
-      "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-      "url": "https://arxiv.org/abs/2610.22370v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background objects, local details that are not explicitly mentioned in the prompt, leading to degraded structural coherence. In this work, we propose Dynamics-aware Token Merging (DaTMe), a training-free framework that grounds token merging in the underlying diffusion dynamics. Our key insight is that token importance should reflect whether a token remains unresolved during denoising and whether it carries structural information. To this end, DaTMe constructs a dynamics- aware importance map from the Tweedie denoised estimate. The map combines a temporal signal, measuring inter-step changes in the predicted clean image, with a structural signal, capturing local high-frequency content such as boundaries and fine details. Using this map, DaTMe adaptively assigns tokens into merging roles under a given compression ratio: important tokens are preserved as anchors, while tokens that are both temporally stabilized and structurally homogeneous are selected as safe merge candidates. Experiments on PixArt-a and FLUX demonstrate that DaTMe maintains visual fidelity across the entire image, highlighting diffusion dynamics as an effective token-level merging decision in efficient generation. Our code is available at https://github.com/SeungJuCha/DaTMe.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation。",
-        "方法：摘要线索包括 Dynamics-aware、PixArt-a、FLUX、PixArt、SeungJuCha；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "730df1fd4ed7a9e1",
-      "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
-      "url": "https://arxiv.org/abs/2610.22347v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoising step, regardless of how much refinement it needs. We find this uniform computation is often unnecessary: many tokens already closely match their eventual full-step outputs in the initial steps, while others require refinement until the end. We introduce Speculative Forcing, a framework that treats intermediate clean estimates as drafts and predicts when individual tokens can be safely accepted early. Once accepted, a token is frozen as its final output and undergoes no further denoising, while its cached keys and values remain available as context for the remaining tokens. We explore two alternative verifier designs: a training-free one based on similarity to clean content and stability across steps, and a learned one that reads the frozen generator's intermediate features to estimate each token's remaining gap to its full-step output. Across short-video, long-video, and world generation, Speculative Forcing preserves the quality of full-step sampling while substantially reducing computation. On LongLive, it matches the four-step generator with ~1.7 denoising steps per token, running over 1.5x faster at 41.7 and 37.8 fps. On Lingbot-World 2.0, where camera motion continually changes the visible content, it maintains quality with ~2.5 denoising steps per token and runs 1.35x faster at 24.5 fps.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Speculative Forcing for Efficient Autoregressive Video Generation",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Speculative Forcing for Efficient Autoregressive Video Generation。",
-        "方法：摘要线索包括 Few-step、Lingbot-World、LongLive；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "c4080b1267cc6ca8",
-      "title": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
-      "url": "https://arxiv.org/abs/2610.22336v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "We develop a robust reinforcement learning (RL) framework for learning adaptive treatment policies that generalize across patients and remain reliable under errors in the measured biomarker and shifts in the disease dynamics. By modeling the patient as a hidden context, we address generalization and robustness in a unified manner through robust contextual Markov decision processes. Applying our framework to adaptive therapy for metastatic prostate cancer in a simulator calibrated to clinical data, we obtain generalizable and robust policies that substantially outperform the existing adaptive therapy method. In particular, we attain robustness with almost no loss of performance when the biomarker is accurate and the disease evolves as anticipated, and find that the resulting policy Pareto-dominates the existing method across a diverse array of scenarios. Our findings suggest that robust RL holds great promise as a principled methodology for learning reliable adaptive treatment policies.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI for Health",
-        "RL"
-      ],
-      "title_zh": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI for Health、RL，核心对象是 Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty。",
-        "方法：摘要线索包括 Pareto-dominates、RL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
-      ],
-      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "8980255bde743af4",
-      "title": "Backward Compatibility in Zero-Bit Neural Audio Watermarking",
-      "url": "https://arxiv.org/abs/2610.22296v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Neural watermarking systems are typically trained as tightly coupled embedder-detector pairs and implicitly assume static deployment. In real-world deployments, embedders and detectors are frequently updated and selectively decoupled for security and versioning purposes, which can break detection in previously embedded content and, more critically, increase false-positive rates on embedders that a given detector is intentionally not intended to recognize. In this paper the concept of backward compatibility in zero-bit audio watermarking is formalized. A training framework is proposed that pairs a new detector with a sequence of frozen legacy embedders (its legacy chain), using a performance-weighted sampling strategy so that the detector retains accuracy across all earlier versions. This coupling, while necessary for backward compatibility, is shown to induce an embedder-collapse effect that catastrophically degrades the true negative rate (TNR) against out-of-chain embedders. To counteract this, a Angular Diversity Loss (ADL) is introduced that explicitly forces each new embedder to occupy a distinct region of the output space. The combined approach restores near-perfect TNR with no measurable cost to detection accuracy or perceptual audio quality.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision",
-        "RL"
-      ],
-      "title_zh": "Backward Compatibility in Zero-Bit Neural Audio Watermarking",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Backward Compatibility in Zero-Bit Neural Audio Watermarking。",
-        "方法：摘要线索包括 Zero-Bit、TNR、ADL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "e46eb96a86d610ff",
-      "title": "Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2610.22287v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "We study rational synthesis for stochastic multi-agent systems with unknown dynamics, where each agent is equipped with its own probabilistic temporal objective specified using Probabilistic Linear Temporal Logic on Finite Traces ($\\mathsf{PLTL}_f}$). We impose solution concepts (e.g., Nash equilibrium, subgame-perfect equilibrium) as constraints on the joint strategy profile, using payoffs derived from each agent's probability of satisfying its temporal objective. In particular, we formulate per-agent rational synthesis as finding a strategy profile -- if one exists -- such that (i) the designated agent's probabilistic temporal constraint is satisfied, and (ii) the profile represents a stable solution under a chosen solution concept. We give conditional convergence guarantees for tabular Nash-Q learning, certify satisfaction with simultaneous finite-sample confidence bounds, and assess strategic stability with approximate best-response checking. Our approach operates in a stochastic \\emph{Multi-Agent Reinforcement Learning} (MARL) environment, where model-free learning algorithms attempt to attain extremal satisfaction probabilities for temporal objectives automatically compiled into reward automata. Our approach is empirically validated using 8 general-sum concurrent stochastic games.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent",
-        "RL"
-      ],
-      "title_zh": "Learning Rational Strategies for Temporal Objectives in Multi-智能体 Systems",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent、RL，核心对象是 Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems。",
-        "方法：摘要线索包括 Multi-Agent、Nash-Q、PLTL、MARL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "64d1ab741c646c9b",
-      "title": "Baselines and Score Centering in Policy Gradient Estimation",
-      "url": "https://arxiv.org/abs/2610.22263v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Reinforcement learning has become a widely used approach to post-training large language models. In a typical implementation, learning is off-policy: The policy generating the responses differs from the policy being trained because of training-inference mismatch or policy staleness in asynchronous training. This discrepancy is commonly addressed by importance sampling, whose ratio is usually regularized in practice through truncation, masking, or clipping. Under regularized importance sampling, the importance-weighted policy gradient is no longer invariant to constant shifts in the reward. This invariance is recovered by using the covariance between the reward and the importance-weighted score as the estimand, which coincides with the policy gradient when the ratio is not regularized. This note develops this covariance perspective for both sequence-level and token-level importance sampling. The covariance perspective reveals the roles of the group-mean baseline and score centering in policy gradient estimation. Both perform centering in covariance estimation, but they differ in the mean being subtracted: The group-mean baseline uses a sample mean, whereas score centering uses a population mean. The two lead to distinct unbiased covariance estimators with different variances. Whether both forms of centering should be used simultaneously depends on whether importance sampling is applied at the sequence level or at the token level. With sequence-level importance sampling, score centering adds no benefit once the group-mean baseline is used; with token-level importance sampling, using the group-mean baseline without score centering generally introduces bias when the importance ratio is regularized.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "RL"
-      ],
-      "title_zh": "Baselines and Score Centering in Policy Gradient Estimation",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、RL，核心对象是 Baselines and Score Centering in Policy Gradient Estimation。",
-        "方法：摘要线索包括 Baselines and Score Centering in Policy Gradient Estimation；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
-    },
-    {
-      "id": "8afacc4fd959a73e",
-      "title": "BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks",
-      "url": "https://arxiv.org/abs/2610.22256v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Reducing memory use in large language model (LLM) training is an ongoing challenge. Activation checkpointing saves memory by recomputation, while lossy compression changes the stored activations. The reemergence of sparse $\\relu$ and $\\relu^2$ activations creates a third opportunity: losslessly compressing the activation cache itself. We present BitSparse, a GPU-resident lossless compression format for sparse activations. Compression and reconstruction run in custom Triton kernels fused into an autograd function, shrinking the activation cache while recovering it exactly for the backward pass. Bfloat16 (BF16) and FP8 activations are supported. Optional sign-bit packing further increases compression up to close to the theoretical limit. We analyze its compression ratio and compare it to the theoretical optimum. BitSparse lowers per-token VRAM by 31\\% and 30\\% Modded-NanoGPT and Nemotron-H respectively, with overheads of no more than 1\\% at practical sequence lengths. Additionally, a new preallocated buffer system avoids host synchronization during training when variable size tensors are allocated.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "LLM",
-        "Self-Supervised Learning"
-      ],
-      "title_zh": "BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks",
-      "summary_zh": [
-        "问题：这条内容聚焦 LLM、Self-Supervised Learning，核心对象是 BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks。",
-        "方法：摘要线索包括 Feed-Forward、GPU-resident、Modded-NanoGPT、Nemotron-H、LLM、BF16；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
-      ],
-      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.5033
+      "score": 0.4973
     },
     {
       "id": "f92a3a8f9689b887",
@@ -16943,66 +16602,6 @@
       "score": 0.4967
     },
     {
-      "id": "a1e250cd7b29b735",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-15",
-      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：The Download: reviving frozen pig kidneys and boosting nuclear power。",
-        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and st...",
-        "建议点开原文确认具体时间、机构、证据和上下文。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
-      "id": "14b40137d17c6b26",
-      "title": "How much more can nuclear power plants give?",
-      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "source": "MIT Technology Review AI",
-      "source_tier": 2,
-      "category": "学术新闻",
-      "source_kind": "rss",
-      "topics": [
-        "RL"
-      ],
-      "published": "2026-10-15",
-      "abstract": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a…",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "How much more can nuclear power plants give?",
-      "summary_zh": [
-        "MIT Technology Review AI 的这条更新聚焦：How much more can nuclear power plants give?。",
-        "内容要点：In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that.",
-        "关键词：US。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.4967
-    },
-    {
       "id": "29ce826a5b1ec84d",
       "title": "Skills - Docs by LangChain",
       "url": "https://docs.langchain.com/oss/python/langchain/multi-agent/skills",
@@ -17013,7 +16612,7 @@
       "topics": [
         "Agent Skills / MCP / Tool Use"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Skills - Docs by LangChain",
       "citations": {
         "semantic_scholar": null,
@@ -17043,7 +16642,7 @@
       "topics": [
         "LLM"
       ],
-      "published": "2026-10-17",
+      "published": "2026-10-18",
       "abstract": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "citations": {
         "semantic_scholar": null,
@@ -17061,6 +16660,407 @@
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "看官方 demo 或技术细节，避免只读营销表述",
       "score": 0.4867
+    },
+    {
+      "id": "e888b8d6c7e1d5ae",
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "https://arxiv.org/abs/2610.22364v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they take. During training, T2-Z alternates between two stages: a world-model optimization stage that fixes the latents and learns general action-conditioned dynamics across environments; and an environment-latent optimization stage that freezes the world model and optimizes the conditioning latents, allowing latent structure to emerge purely through world prediction. At test time, the world model remains frozen and a newly initialized environment latent is optimized from one or more test-time interactions, adapting the model to previously unseen environmental configurations. Across 7 simulated settings and 4 real-world robotic tasks, T2-Z reduces object prediction error metric from 15.20 to 7.00 and raises action success from 33.73% to 72.96%. Its emergent latents capture structured representations of individual and compounded factors across diverse visual scenes. Ablations further show that T2-Z can efficiently infer environment latents from as little as a single test-time interaction trajectory.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 T2-z: Test-Time Optimization of Environment Latents for Robotic World Models。",
+        "方法：摘要线索包括 T2-z、Test-Time、T2-Z；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "5ef25506201c7d82",
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "https://arxiv.org/abs/2610.22362v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures and supervision that helps it overcome them. We introduce CoDA, a framework in which a simulation data engine and an action policy co-evolve through a shared heterogeneous memory of environment construction, policy failures, and learning progress. The memory compiles validated diagnoses from a vision-language critic into generation programs that recreate difficulties and training programs that help the policy overcome them. We further propose Text2potential to convert these diagnoses into staged potentials for action-chunk value learning, providing dense supervision for policy updates while preserving the task's optimal policy under standard shaping assumptions. Measured learning progress guides further generation and program refinement. Across four manipulation task families, CoDA improves out-of-distribution success from 5.3% after supervised fine-tuning to 27.6%, exceeding the strongest closed-loop baseline by 9.5 percentage points with the same generation budget. On LIBERO-Pro, 15 rounds of generation and training raise success from 25% to 84% under position perturbations and from 1% to 76% under instruction perturbations.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "VLM"
+      ],
+      "title_zh": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、VLM，核心对象是 CoDA: Co-Evolution of Data Engines and Action Policies。",
+        "方法：摘要线索包括 Co-Evolution、LIBERO-Pro、vision-language；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "ee3e27ca643b8b7c",
+      "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+      "url": "https://arxiv.org/abs/2610.22328v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successive edits, creating a gap between the input distributions encountered during the editor's original training and multi-turn inference. We introduce a training scheme that makes multi-turn image editing stable under this accumulating distribution shift. A key is to force the editor to operate on its own outputs from previous editing turns during training, bringing the principle of Self-Forcing to image editing. The main challenge is that self-generated editing trajectories deviate from ground-truth trajectories, making direct supervision unreliable. We address this challenge through a distillation objective that leverages a teacher image editor to provide a reliable training signal when the model operates on its own previous outputs. We introduce an asymmetric conditioning scheme: while the student performs edits sequentially on its own outputs, the teacher remains anchored to the original clean image and receives a compound editing instruction. Experiments show substantially reduced degradation over long multi-turn sequences while maintaining editing quality and instruction adherence.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "LLM"
+      ],
+      "title_zh": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、LLM，核心对象是 ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning。",
+        "方法：摘要线索包括 Multi-Turn、Self-Forcing、ACEdit；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "7ae39a93322ed9df",
+      "title": "Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness",
+      "url": "https://arxiv.org/abs/2610.22249v1",
+      "source": "arXiv cs.CL",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Recurring expressions in model-written text are often treated as signatures of machine authorship, yet most of them serve legitimate functions. Whether such an expression is a tic depends on whether the model knows when it is called for. This judgment of appropriateness, central to communicative competence, remains largely unexamined for language models. We study it through the Mandarin corrective construction bushi X, ershi Y (\"not X, but Y\"). Drawing on Gricean pragmatics and corrective negation, we introduce a decision tree that classifies uses as substantive, optional, or defective by testing whether the context makes X a live alternative and whether rejecting X is informative. Five commercial models use the construction 2.5 to 9.2 times as densely as a human reference. Of 307 annotated uses, only 1.30% are defective while 52.8% are optional, that is, correct but unneeded, so models fall short in appropriateness far more often than in correctness. Several reward models favor the construction even over quality-matched variants, an LLM judge favors it even where the context does not license it, and both supervised fine-tuning and preference optimization tend to raise its frequency in open-weight models. We hope this work encourages the development of models attentive to the appropriateness of their expressions.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Not X, but When: Diagnosing a Mandarin LLM Writing Tic through Contextual Appropriateness。",
+        "方法：摘要线索包括 LLM、reward model；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "e7aaf35b2276dd43",
+      "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+      "url": "https://arxiv.org/abs/2610.22370v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is determining which tokens can be safely merged and which should be preserved for subsequent computation. Existing method addresses this by preserving prompt-aligned foreground regions, thereby protecting semantically relevant structures. However, this text-relevance criterion overlooks background objects, local details that are not explicitly mentioned in the prompt, leading to degraded structural coherence. In this work, we propose Dynamics-aware Token Merging (DaTMe), a training-free framework that grounds token merging in the underlying diffusion dynamics. Our key insight is that token importance should reflect whether a token remains unresolved during denoising and whether it carries structural information. To this end, DaTMe constructs a dynamics- aware importance map from the Tweedie denoised estimate. The map combines a temporal signal, measuring inter-step changes in the predicted clean image, with a structural signal, capturing local high-frequency content such as boundaries and fine details. Using this map, DaTMe adaptively assigns tokens into merging roles under a given compression ratio: important tokens are preserved as anchors, while tokens that are both temporally stabilized and structurally homogeneous are selected as safe merge candidates. Experiments on PixArt-a and FLUX demonstrate that DaTMe maintains visual fidelity across the entire image, highlighting diffusion dynamics as an effective token-level merging decision in efficient generation. Our code is available at https://github.com/SeungJuCha/DaTMe.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation。",
+        "方法：摘要线索包括 Dynamics-aware、PixArt-a、FLUX、PixArt、SeungJuCha；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "730df1fd4ed7a9e1",
+      "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+      "url": "https://arxiv.org/abs/2610.22347v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoising step, regardless of how much refinement it needs. We find this uniform computation is often unnecessary: many tokens already closely match their eventual full-step outputs in the initial steps, while others require refinement until the end. We introduce Speculative Forcing, a framework that treats intermediate clean estimates as drafts and predicts when individual tokens can be safely accepted early. Once accepted, a token is frozen as its final output and undergoes no further denoising, while its cached keys and values remain available as context for the remaining tokens. We explore two alternative verifier designs: a training-free one based on similarity to clean content and stability across steps, and a learned one that reads the frozen generator's intermediate features to estimate each token's remaining gap to its full-step output. Across short-video, long-video, and world generation, Speculative Forcing preserves the quality of full-step sampling while substantially reducing computation. On LongLive, it matches the four-step generator with ~1.7 denoising steps per token, running over 1.5x faster at 41.7 and 37.8 fps. On Lingbot-World 2.0, where camera motion continually changes the visible content, it maintains quality with ~2.5 denoising steps per token and runs 1.35x faster at 24.5 fps.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Speculative Forcing for Efficient Autoregressive Video Generation",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Speculative Forcing for Efficient Autoregressive Video Generation。",
+        "方法：摘要线索包括 Few-step、Lingbot-World、LongLive；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "c4080b1267cc6ca8",
+      "title": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
+      "url": "https://arxiv.org/abs/2610.22336v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "We develop a robust reinforcement learning (RL) framework for learning adaptive treatment policies that generalize across patients and remain reliable under errors in the measured biomarker and shifts in the disease dynamics. By modeling the patient as a hidden context, we address generalization and robustness in a unified manner through robust contextual Markov decision processes. Applying our framework to adaptive therapy for metastatic prostate cancer in a simulator calibrated to clinical data, we obtain generalizable and robust policies that substantially outperform the existing adaptive therapy method. In particular, we attain robustness with almost no loss of performance when the biomarker is accurate and the disease evolves as anticipated, and find that the resulting policy Pareto-dominates the existing method across a diverse array of scenarios. Our findings suggest that robust RL holds great promise as a principled methodology for learning reliable adaptive treatment policies.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI for Health",
+        "RL"
+      ],
+      "title_zh": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI for Health、RL，核心对象是 Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty。",
+        "方法：摘要线索包括 Pareto-dominates、RL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。"
+      ],
+      "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "8980255bde743af4",
+      "title": "Backward Compatibility in Zero-Bit Neural Audio Watermarking",
+      "url": "https://arxiv.org/abs/2610.22296v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Neural watermarking systems are typically trained as tightly coupled embedder-detector pairs and implicitly assume static deployment. In real-world deployments, embedders and detectors are frequently updated and selectively decoupled for security and versioning purposes, which can break detection in previously embedded content and, more critically, increase false-positive rates on embedders that a given detector is intentionally not intended to recognize. In this paper the concept of backward compatibility in zero-bit audio watermarking is formalized. A training framework is proposed that pairs a new detector with a sequence of frozen legacy embedders (its legacy chain), using a performance-weighted sampling strategy so that the detector retains accuracy across all earlier versions. This coupling, while necessary for backward compatibility, is shown to induce an embedder-collapse effect that catastrophically degrades the true negative rate (TNR) against out-of-chain embedders. To counteract this, a Angular Diversity Loss (ADL) is introduced that explicitly forces each new embedder to occupy a distinct region of the output space. The combined approach restores near-perfect TNR with no measurable cost to detection accuracy or perceptual audio quality.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision",
+        "RL"
+      ],
+      "title_zh": "Backward Compatibility in Zero-Bit Neural Audio Watermarking",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision、RL，核心对象是 Backward Compatibility in Zero-Bit Neural Audio Watermarking。",
+        "方法：摘要线索包括 Zero-Bit、TNR、ADL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "e46eb96a86d610ff",
+      "title": "Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2610.22287v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "We study rational synthesis for stochastic multi-agent systems with unknown dynamics, where each agent is equipped with its own probabilistic temporal objective specified using Probabilistic Linear Temporal Logic on Finite Traces ($\\mathsf{PLTL}_f}$). We impose solution concepts (e.g., Nash equilibrium, subgame-perfect equilibrium) as constraints on the joint strategy profile, using payoffs derived from each agent's probability of satisfying its temporal objective. In particular, we formulate per-agent rational synthesis as finding a strategy profile -- if one exists -- such that (i) the designated agent's probabilistic temporal constraint is satisfied, and (ii) the profile represents a stable solution under a chosen solution concept. We give conditional convergence guarantees for tabular Nash-Q learning, certify satisfaction with simultaneous finite-sample confidence bounds, and assess strategic stability with approximate best-response checking. Our approach operates in a stochastic \\emph{Multi-Agent Reinforcement Learning} (MARL) environment, where model-free learning algorithms attempt to attain extremal satisfaction probabilities for temporal objectives automatically compiled into reward automata. Our approach is empirically validated using 8 general-sum concurrent stochastic games.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent",
+        "RL"
+      ],
+      "title_zh": "Learning Rational Strategies for Temporal Objectives in Multi-智能体 Systems",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent、RL，核心对象是 Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems。",
+        "方法：摘要线索包括 Multi-Agent、Nash-Q、PLTL、MARL；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "64d1ab741c646c9b",
+      "title": "Baselines and Score Centering in Policy Gradient Estimation",
+      "url": "https://arxiv.org/abs/2610.22263v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Reinforcement learning has become a widely used approach to post-training large language models. In a typical implementation, learning is off-policy: The policy generating the responses differs from the policy being trained because of training-inference mismatch or policy staleness in asynchronous training. This discrepancy is commonly addressed by importance sampling, whose ratio is usually regularized in practice through truncation, masking, or clipping. Under regularized importance sampling, the importance-weighted policy gradient is no longer invariant to constant shifts in the reward. This invariance is recovered by using the covariance between the reward and the importance-weighted score as the estimand, which coincides with the policy gradient when the ratio is not regularized. This note develops this covariance perspective for both sequence-level and token-level importance sampling. The covariance perspective reveals the roles of the group-mean baseline and score centering in policy gradient estimation. Both perform centering in covariance estimation, but they differ in the mean being subtracted: The group-mean baseline uses a sample mean, whereas score centering uses a population mean. The two lead to distinct unbiased covariance estimators with different variances. Whether both forms of centering should be used simultaneously depends on whether importance sampling is applied at the sequence level or at the token level. With sequence-level importance sampling, score centering adds no benefit once the group-mean baseline is used; with token-level importance sampling, using the group-mean baseline without score centering generally introduces bias when the importance ratio is regularized.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "RL"
+      ],
+      "title_zh": "Baselines and Score Centering in Policy Gradient Estimation",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、RL，核心对象是 Baselines and Score Centering in Policy Gradient Estimation。",
+        "方法：摘要线索包括 Baselines and Score Centering in Policy Gradient Estimation；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "8afacc4fd959a73e",
+      "title": "BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks",
+      "url": "https://arxiv.org/abs/2610.22256v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Reducing memory use in large language model (LLM) training is an ongoing challenge. Activation checkpointing saves memory by recomputation, while lossy compression changes the stored activations. The reemergence of sparse $\\relu$ and $\\relu^2$ activations creates a third opportunity: losslessly compressing the activation cache itself. We present BitSparse, a GPU-resident lossless compression format for sparse activations. Compression and reconstruction run in custom Triton kernels fused into an autograd function, shrinking the activation cache while recovering it exactly for the backward pass. Bfloat16 (BF16) and FP8 activations are supported. Optional sign-bit packing further increases compression up to close to the theoretical limit. We analyze its compression ratio and compare it to the theoretical optimum. BitSparse lowers per-token VRAM by 31\\% and 30\\% Modded-NanoGPT and Nemotron-H respectively, with overheads of no more than 1\\% at practical sequence lengths. Additionally, a new preallocated buffer system avoids host synchronization during training when variable size tensors are allocated.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "LLM",
+        "Self-Supervised Learning"
+      ],
+      "title_zh": "BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks",
+      "summary_zh": [
+        "问题：这条内容聚焦 LLM、Self-Supervised Learning，核心对象是 BitSparse: Compact Activation Storage for ReLU Feed-Forward Networks。",
+        "方法：摘要线索包括 Feed-Forward、GPU-resident、Modded-NanoGPT、Nemotron-H、LLM、BF16；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。"
+      ],
+      "why_it_matters": "它涉及预训练和表示学习，适合判断是否能迁移到低标注或医学场景。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.4673
+    },
+    {
+      "id": "a1e250cd7b29b735",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-10-15",
+      "abstract": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：The Download: reviving frozen pig kidneys and boosting nuclear power。",
+        "内容要点：This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and st...",
+        "建议点开原文确认具体时间、机构、证据和上下文。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
+    },
+    {
+      "id": "14b40137d17c6b26",
+      "title": "How much more can nuclear power plants give?",
+      "url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "source": "MIT Technology Review AI",
+      "source_tier": 2,
+      "category": "学术新闻",
+      "source_kind": "rss",
+      "topics": [
+        "RL"
+      ],
+      "published": "2026-10-15",
+      "abstract": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans to add nearly a…",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "How much more can nuclear power plants give?",
+      "summary_zh": [
+        "MIT Technology Review AI 的这条更新聚焦：How much more can nuclear power plants give?。",
+        "内容要点：In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that.",
+        "关键词：US。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.4607
     },
     {
       "id": "956d209a079a2b15",
@@ -17091,7 +17091,7 @@
       ],
       "why_it_matters": "它和医学 AI 的数据、验证或临床落地相关，值得检查数据集和验证强度。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4833
+      "score": 0.4473
     },
     {
       "id": "e5fa80233071b121",
@@ -17121,7 +17121,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "c81152beae32af7e",
@@ -17151,7 +17151,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "aeeab878a33270eb",
@@ -17181,7 +17181,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "3788276aef5c1422",
@@ -17211,7 +17211,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "dd5cdc9dc6ab15d2",
@@ -17241,7 +17241,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
+      "score": 0.3807
     },
     {
       "id": "5dedc5d44d6a9813",
@@ -17271,157 +17271,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.4167
-    },
-    {
-      "id": "fd35e9af75d30fa9",
-      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
-      "url": "https://arxiv.org/abs/2610.22353v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The former increases expressiveness by enabling more expert combinations at a fixed activation ratio, and the latter introduces experts that are active for every token. We identify an exploration dilemma between these designs: shared experts can make routing less exploratory by reducing the variability of token representations. This conflicts with the greater need for exploration induced by fine-grained expert segmentation due to the combinatorially enlarged routing space. Consequently, the additional expressiveness offered by fine-grained segmentation may not be fully realized in practice. MirrorMoE is proposed to reconcile this exploration dilemma by shrinking the exploration space through token-adaptive suppression of unnecessary experts. MirrorMoE consistently improves performance across model scales.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 Rethinking Routing Exploration in Modern Mixture-of-Experts。",
-        "方法：摘要线索包括 Mixture-of-Experts、Mixture-of-experts；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "f11374c875ee4cd2",
-      "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
-      "url": "https://arxiv.org/abs/2610.22322v1",
-      "source": "arXiv cs.AI",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating the learning of individual capabilities from the organization of collective behavior. We introduce market-based post-training (MPT), a framework for jointly learning action policies and self-orchestration in decentralized agent swarms. Agents express their willingness to participate through bids, which determine who acts and how collective outcomes provide local training credit. Learning both action and bidding behavior allows individual capabilities and patterns of participation to adapt together without a central coordinating agent. We evaluate MPT on embodied crafting, robot navigation, and deep research. Results show gains over monolithic post-training and confirm that agent participation indeed evolves with learning. With the same post-trained action policies, learned self-orchestration outperforms alternative coordination strategies. Ablations show that both action and bidding benefit from learning, and that learned bids provide more effective action-training signals. Beyond the original training objectives, trained swarms adapt faster to related tasks and achieve better performance with larger populations at inference time. Larger populations also suffer smaller performance losses under agent dropout, demonstrating that learned self-orchestration supports reuse, scaling, and robustness in decentralized agent swarms. Code and trained models are available at https://github.com/Embodied-Minds-Lab/MPT.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "AI Agent"
-      ],
-      "title_zh": "Learning Self-Orchestration in Decentralized 智能体 Swarms",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI Agent，核心对象是 Learning Self-Orchestration in Decentralized Agent Swarms。",
-        "方法：摘要线索包括 Self-Orchestration、Embodied-Minds-Lab、MPT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
-      ],
-      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "9d3d0ee5c8896878",
-      "title": "Dense4D: Pixel-Level 4D Human Correspondence",
-      "url": "https://arxiv.org/abs/2610.22325v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Reconstructing human motion in 4D requires identifying the same surface points through articulation, deformation and changes in visibility. We introduce Dense4D, to our knowledge the first feed-forward model dedicated to dense 4D correspondence across the body, clothing and hair from a set of monocular RGB images, without a body template. Trained specifically for human geometry, Dense4D jointly processes person-centred crops with known image-to-crop transforms to predict Human Point Maps (HPMs) and depth for each image. An HPM assigns each person pixel the 3D position of its observed surface point at a common reference time. These maps support amodal correspondence: points hidden in the reference image can be localised from observations in other frames. Matching HPM coordinates across crops establishes correspondence without predicting camera poses or large scene displacements; per-image depth then lifts the matches into 3D tracks. Experiments on real people demonstrate substantially higher tracking accuracy and closer agreement with scanned surfaces than the evaluated baselines. Points from different frames assemble into coherent human geometry in the reference pose, providing visible evidence of consistent dense correspondence through articulation and clothing deformation. Additional qualitative results, videos, and an interactive viewer are available at https://alpguler.com/dense4d.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "Dense4D: Pixel-Level 4D Human Correspondence",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 Dense4D: Pixel-Level 4D Human Correspondence。",
-        "方法：摘要线索包括 Pixel-Level、RGB、HPMs、HPM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "e75f0aa60350fa96",
-      "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
-      "url": "https://arxiv.org/abs/2610.22306v1",
-      "source": "arXiv cs.CV",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Robust, Compensated SORT), a tracking-by-detection tracker that trains nothing and runs in real time. Its design rule: the tracker measures its own uncertainty, and that measurement decides how it acts. An Interacting Multiple Model (IMM) Kalman filter gives every track a predictive covariance, and we turn it into a per-track search region: the less reliable the motion prediction, the larger the region in which a detection may match (uncertainty-adaptive Expansion IoU, EIoU). On identical inputs, this continuous coupling is what matters: the same covariance used as a hard Mahalanobis gate hurts at every threshold we swept, and richer covariance summaries add nothing measurable. When two tracks cross, the assignment cost itself reports whether the decision was close. ARC-SORT keeps such pairs under review and applies at most one corrective identity swap once post-crossing appearance evidence shows the first decision was wrong; this adds +1.0 HOTA (higher order tracking accuracy) on both the SportsMOT and DanceTrack test sets at under a millisecond per frame. For players who leave the frame for seconds, motion extrapolation carries no information, so our offline re-identification drops the usual motion gate and links tracklets by appearance alone. ARC-SORT reaches 81.82 HOTA on the SportsMOT test set with the fewest identity switches of the 69 leaderboard entries as of August 2026 and tied-third multi-object tracking accuracy (MOTA, 97.09), and 62.1 HOTA on DanceTrack test with the same association settings. On Deep-EIoU's public detections and embeddings it reaches 80.31 HOTA, +3.1 over Deep-EIoU. It runs at about 50 frames per second on a laptop RTX 3060 GPU. Code will be released.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "Computer Vision"
-      ],
-      "title_zh": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
-      "summary_zh": [
-        "问题：这条内容聚焦 Computer Vision，核心对象是 ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models。",
-        "方法：摘要线索包括 ARC-SORT、Multi-Object、Multi-object、Deep-EIoU、SORT、IMM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
-    },
-    {
-      "id": "9afe814942e419e3",
-      "title": "Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards",
-      "url": "https://arxiv.org/abs/2610.22285v1",
-      "source": "arXiv cs.LG",
-      "source_tier": 1,
-      "category": "学术论文",
-      "source_kind": "arxiv",
-      "published": "2026-10-15",
-      "abstract": "Reward learning typically assumes the human's input covers everything that matters for the task. In practice, humans can only attend to so much at once, so their teaching naturally captures some features---or aspects of the task---better than others. Prior work has shown how the robot can identify which features were poorly supervised directly from its teaching data. But the current solution is to ask the human to try again, putting the burden on someone who already struggled to convey those features. We propose shifting this burden to the robot. Our key insight is that the same information that tells the robot what it doesn't know can help it ask better questions. Preference queries offer a low-effort channel for resolving this uncertainty, but only if the robot knows where to direct them and the human knows what to attend to when answering. We act on this insight in two ways: we build an informed prior that targets preference queries at the features that need resolving, and we accompany each query with an explanation that focuses the human's attention on exactly those features. In simulation, the informed prior beats the standard active preference learning baseline by up to $30.8\\%$ in the low-query regime, where reducing human effort matters most. In a user study, the informed prior and explanations each significantly improve reward recovery and amplify each other.",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "topics": [
-        "RL"
-      ],
-      "title_zh": "Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards",
-      "summary_zh": [
-        "问题：这条内容聚焦 RL，核心对象是 Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards。",
-        "方法：摘要线索包括 Asking Smarter Questions: Targeted Active Preference Learning for Underspecified；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.3867
+      "score": 0.3807
     },
     {
       "id": "5b6fd6cfc1c43557",
@@ -17508,6 +17358,184 @@
       "score": 0.38
     },
     {
+      "id": "0667364e2fdcf309",
+      "title": "Trending Papers - Hugging Face",
+      "url": "https://paperswithcode.com/",
+      "source": "Papers with Code",
+      "source_tier": 2,
+      "category": "学术论文",
+      "source_kind": "web",
+      "topics": [],
+      "published": "2026-10-18",
+      "abstract": "Your daily dose of AI research from AK",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "title_zh": "Trending Papers - Hugging Face",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
+        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "快速扫读，必要时收藏",
+      "score": 0.38
+    },
+    {
+      "id": "fd35e9af75d30fa9",
+      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2610.22353v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. The former increases expressiveness by enabling more expert combinations at a fixed activation ratio, and the latter introduces experts that are active for every token. We identify an exploration dilemma between these designs: shared experts can make routing less exploratory by reducing the variability of token representations. This conflicts with the greater need for exploration induced by fine-grained expert segmentation due to the combinatorially enlarged routing space. Consequently, the additional expressiveness offered by fine-grained segmentation may not be fully realized in practice. MirrorMoE is proposed to reconcile this exploration dilemma by shrinking the exploration space through token-adaptive suppression of unnecessary experts. MirrorMoE consistently improves performance across model scales.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 Rethinking Routing Exploration in Modern Mixture-of-Experts。",
+        "方法：摘要线索包括 Mixture-of-Experts、Mixture-of-experts；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "f11374c875ee4cd2",
+      "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+      "url": "https://arxiv.org/abs/2610.22322v1",
+      "source": "arXiv cs.AI",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating the learning of individual capabilities from the organization of collective behavior. We introduce market-based post-training (MPT), a framework for jointly learning action policies and self-orchestration in decentralized agent swarms. Agents express their willingness to participate through bids, which determine who acts and how collective outcomes provide local training credit. Learning both action and bidding behavior allows individual capabilities and patterns of participation to adapt together without a central coordinating agent. We evaluate MPT on embodied crafting, robot navigation, and deep research. Results show gains over monolithic post-training and confirm that agent participation indeed evolves with learning. With the same post-trained action policies, learned self-orchestration outperforms alternative coordination strategies. Ablations show that both action and bidding benefit from learning, and that learned bids provide more effective action-training signals. Beyond the original training objectives, trained swarms adapt faster to related tasks and achieve better performance with larger populations at inference time. Larger populations also suffer smaller performance losses under agent dropout, demonstrating that learned self-orchestration supports reuse, scaling, and robustness in decentralized agent swarms. Code and trained models are available at https://github.com/Embodied-Minds-Lab/MPT.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "AI Agent"
+      ],
+      "title_zh": "Learning Self-Orchestration in Decentralized 智能体 Swarms",
+      "summary_zh": [
+        "问题：这条内容聚焦 AI Agent，核心对象是 Learning Self-Orchestration in Decentralized Agent Swarms。",
+        "方法：摘要线索包括 Self-Orchestration、Embodied-Minds-Lab、MPT；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。"
+      ],
+      "why_it_matters": "它关系到 agent 架构、工具调用或多步推理，是当前系统型 AI 的关键方向。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "9d3d0ee5c8896878",
+      "title": "Dense4D: Pixel-Level 4D Human Correspondence",
+      "url": "https://arxiv.org/abs/2610.22325v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Reconstructing human motion in 4D requires identifying the same surface points through articulation, deformation and changes in visibility. We introduce Dense4D, to our knowledge the first feed-forward model dedicated to dense 4D correspondence across the body, clothing and hair from a set of monocular RGB images, without a body template. Trained specifically for human geometry, Dense4D jointly processes person-centred crops with known image-to-crop transforms to predict Human Point Maps (HPMs) and depth for each image. An HPM assigns each person pixel the 3D position of its observed surface point at a common reference time. These maps support amodal correspondence: points hidden in the reference image can be localised from observations in other frames. Matching HPM coordinates across crops establishes correspondence without predicting camera poses or large scene displacements; per-image depth then lifts the matches into 3D tracks. Experiments on real people demonstrate substantially higher tracking accuracy and closer agreement with scanned surfaces than the evaluated baselines. Points from different frames assemble into coherent human geometry in the reference pose, providing visible evidence of consistent dense correspondence through articulation and clothing deformation. Additional qualitative results, videos, and an interactive viewer are available at https://alpguler.com/dense4d.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "Dense4D: Pixel-Level 4D Human Correspondence",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 Dense4D: Pixel-Level 4D Human Correspondence。",
+        "方法：摘要线索包括 Pixel-Level、RGB、HPMs、HPM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "e75f0aa60350fa96",
+      "title": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
+      "url": "https://arxiv.org/abs/2610.22306v1",
+      "source": "arXiv cs.CV",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Multi-object tracking in sports broadcasts is hard for two reasons: athletes move fast and change direction abruptly, and the camera pans and zooms at the same time. We present ARC-SORT (Adaptive, Robust, Compensated SORT), a tracking-by-detection tracker that trains nothing and runs in real time. Its design rule: the tracker measures its own uncertainty, and that measurement decides how it acts. An Interacting Multiple Model (IMM) Kalman filter gives every track a predictive covariance, and we turn it into a per-track search region: the less reliable the motion prediction, the larger the region in which a detection may match (uncertainty-adaptive Expansion IoU, EIoU). On identical inputs, this continuous coupling is what matters: the same covariance used as a hard Mahalanobis gate hurts at every threshold we swept, and richer covariance summaries add nothing measurable. When two tracks cross, the assignment cost itself reports whether the decision was close. ARC-SORT keeps such pairs under review and applies at most one corrective identity swap once post-crossing appearance evidence shows the first decision was wrong; this adds +1.0 HOTA (higher order tracking accuracy) on both the SportsMOT and DanceTrack test sets at under a millisecond per frame. For players who leave the frame for seconds, motion extrapolation carries no information, so our offline re-identification drops the usual motion gate and links tracklets by appearance alone. ARC-SORT reaches 81.82 HOTA on the SportsMOT test set with the fewest identity switches of the 69 leaderboard entries as of August 2026 and tied-third multi-object tracking accuracy (MOTA, 97.09), and 62.1 HOTA on DanceTrack test with the same association settings. On Deep-EIoU's public detections and embeddings it reaches 80.31 HOTA, +3.1 over Deep-EIoU. It runs at about 50 frames per second on a laptop RTX 3060 GPU. Code will be released.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "Computer Vision"
+      ],
+      "title_zh": "ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models",
+      "summary_zh": [
+        "问题：这条内容聚焦 Computer Vision，核心对象是 ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models。",
+        "方法：摘要线索包括 ARC-SORT、Multi-Object、Multi-object、Deep-EIoU、SORT、IMM；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
+      "id": "9afe814942e419e3",
+      "title": "Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards",
+      "url": "https://arxiv.org/abs/2610.22285v1",
+      "source": "arXiv cs.LG",
+      "source_tier": 1,
+      "category": "学术论文",
+      "source_kind": "arxiv",
+      "published": "2026-10-15",
+      "abstract": "Reward learning typically assumes the human's input covers everything that matters for the task. In practice, humans can only attend to so much at once, so their teaching naturally captures some features---or aspects of the task---better than others. Prior work has shown how the robot can identify which features were poorly supervised directly from its teaching data. But the current solution is to ask the human to try again, putting the burden on someone who already struggled to convey those features. We propose shifting this burden to the robot. Our key insight is that the same information that tells the robot what it doesn't know can help it ask better questions. Preference queries offer a low-effort channel for resolving this uncertainty, but only if the robot knows where to direct them and the human knows what to attend to when answering. We act on this insight in two ways: we build an informed prior that targets preference queries at the features that need resolving, and we accompany each query with an explanation that focuses the human's attention on exactly those features. In simulation, the informed prior beats the standard active preference learning baseline by up to $30.8\\%$ in the low-query regime, where reducing human effort matters most. In a user study, the informed prior and explanations each significantly improve reward recovery and amplify each other.",
+      "citations": {
+        "semantic_scholar": null,
+        "openalex": null
+      },
+      "signals": {
+        "hotness": 0.0
+      },
+      "topics": [
+        "RL"
+      ],
+      "title_zh": "Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards",
+      "summary_zh": [
+        "问题：这条内容聚焦 RL，核心对象是 Asking Smarter Questions: Targeted Active Preference Learning for Underspecified Rewards。",
+        "方法：摘要线索包括 Asking Smarter Questions: Targeted Active Preference Learning for Underspecified；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
+        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
+      ],
+      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
+      "action": "收藏周末精读，重点看方法、实验和局限",
+      "score": 0.3507
+    },
+    {
       "id": "186f8940d41845e0",
       "title": "Six wild ideas for perpetuating your mind",
       "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
@@ -17533,7 +17561,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "9698ee76fa6c615d",
@@ -17561,35 +17589,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "快速扫读，必要时收藏",
-      "score": 0.38
-    },
-    {
-      "id": "0667364e2fdcf309",
-      "title": "Trending Papers - Hugging Face",
-      "url": "https://paperswithcode.com/",
-      "source": "Papers with Code",
-      "source_tier": 2,
-      "category": "学术论文",
-      "source_kind": "web",
-      "topics": [],
-      "published": "2026-10-17",
-      "abstract": "Your daily dose of AI research from AK",
-      "citations": {
-        "semantic_scholar": null,
-        "openalex": null
-      },
-      "signals": {
-        "hotness": 0.0
-      },
-      "title_zh": "Trending Papers - Hugging Face",
-      "summary_zh": [
-        "问题：这条内容聚焦 AI，核心对象是 Trending Papers - Hugging Face。",
-        "方法：摘要线索包括 AI、AK；阅读时重点核对具体方法、数据集、benchmark 和实验设置。",
-        "影响：它来自高优先级来源，且与当前 AI 前沿主题匹配。"
-      ],
-      "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
-      "action": "快速扫读，必要时收藏",
-      "score": 0.38
+      "score": 0.344
     },
     {
       "id": "93de8ca559c3c540",
@@ -17617,7 +17617,7 @@
       ],
       "why_it_matters": "它来自高优先级来源，且与当前 AI 前沿主题匹配。",
       "action": "收藏周末精读，重点看方法、实验和局限",
-      "score": 0.33
+      "score": 0.294
     }
   ]
 }
